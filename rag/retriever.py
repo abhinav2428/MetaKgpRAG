@@ -88,6 +88,30 @@ class GraphRAGRetriever:
         # In a full pipeline, we would fetch the text for these expanded_urls and feed them to the LLM.
         print(f"\n[Summary] Retrieved {len(primary_urls)} primary chunks and {len(expanded_urls)} related pages via Graph.")
 
+    def search_for_agent(self, query: str, top_k: int = 3) -> str:
+        """Helper function for the LangChain agent. Returns formatted context."""
+        query_embedding = self.model.encode(query).tolist()
+        results = self.collection.query(
+            query_embeddings=[query_embedding],
+            n_results=top_k,
+            include=['metadatas', 'documents', 'distances']
+        )
+        
+        if not results['ids'][0]:
+            return "No results found."
+
+        context = []
+        for i in range(len(results['ids'][0])):
+            metadata = results['metadatas'][0][i]
+            document = results['documents'][0][i]
+            title = metadata.get('title', 'Unknown')
+            url = metadata.get('url', 'Unknown')
+            
+            chunk_text = f"Source: {title} ({url})\nContent: {document}\n"
+            context.append(chunk_text)
+            
+        return "\n---\n".join(context)
+
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='GraphRAG Retriever for MetaKGP.')
