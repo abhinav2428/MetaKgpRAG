@@ -1,0 +1,74 @@
+# Web Frontend & Deployment Implementation Plan
+
+We will convert our existing CLI-based GraphRAG agent into a full-stack web application. We will build a modern Next.js frontend interface, a FastAPI backend to serve our agent, and set up a deployment pipeline.
+
+## Goal
+To build a stunning, premium Next.js frontend for our conversational AI and deploy both the backend and frontend to the web so it is publicly accessible.
+
+## User Review Required
+
+> [!WARNING]
+> **Data Persistence:** The current RAG system relies on a local ChromaDB (`data/chroma_db`) and a local graph pickle file (`data/metakgp_graph.gpickle`). When we deploy, the easiest method is to include this `data/` directory directly in our backend deployment as read-only data. This means the knowledge base is static until re-deployed. If we want it to be dynamically updated in the cloud, we'd need a managed vector DB (like Pinecone) and a managed graph database (like Neo4j Aura). For this plan, I propose we stick to the **read-only bundled data** approach for simplicity.
+
+## Open Questions
+
+> [!IMPORTANT]
+> 1. **Next.js + Python Separation:** While Next.js supports Python API routes, libraries like `chromadb` (which has native C++ bindings for `hnswlib`) and `networkx` often exceed serverless function limits and cause build issues on Vercel. Therefore, I propose keeping the Next.js app purely as the frontend on **Vercel**, and hosting the Python backend separately on **Render**. Does this sound good to you?
+> 2. **Styling Approach:** Our guidelines recommend Vanilla CSS for complete flexibility and a highly custom aesthetic, but since we are using Next.js, Tailwind CSS is the default and can be very fast to iterate with. Should I proceed with purely custom Vanilla CSS, or use Tailwind CSS to ensure a very premium, tailored look?
+
+## Proposed Changes
+
+---
+
+### Backend API (FastAPI)
+
+We will use FastAPI to wrap our current `agent.py` logic.
+
+#### [NEW] [api/main.py](file:///c:/Projects/graphmind/api/main.py)
+We will create a FastAPI app containing:
+- **CORS Middleware:** To allow our Next.js frontend to communicate with it.
+- **`/api/chat` endpoint:** Accepts a user query and an optional conversation history, passes it to the `agent.py` logic, runs the MoE verification, and returns the verified response.
+
+#### [MODIFY] [requirements.txt](file:///c:/Projects/graphmind/requirements.txt)
+- Add `fastapi` and `uvicorn` to run the backend server.
+- Add `pydantic` for defining our API request/response models.
+
+---
+
+### Frontend Web App (Next.js)
+
+We will create a new Next.js application for the frontend.
+
+#### [NEW] [frontend/](file:///c:/Projects/graphmind/frontend)
+We will initialize a new Next.js application using `npx create-next-app@latest`.
+- **UI Design:** We will implement a rich dark-mode aesthetic with glassmorphism, dynamic gradients, and smooth micro-animations for message bubbles and loading states.
+- **State Management:** Keep track of the chat history and loading state while waiting for the MoE verifier.
+- **Components:**
+  - `ChatWindow`: The main conversation view.
+  - `MessageBubble`: Distinct styling for User and AI, including markdown rendering for AI responses.
+  - `VerificationBadge`: A UI element to visually indicate that a response has passed the MoE (Mixture of Experts) verification.
+
+#### [NEW] [frontend/app/globals.css](file:///c:/Projects/graphmind/frontend/app/globals.css)
+- Implement a robust design system with modern styling (flexbox/grid layouts, smooth transitions) and custom Google Fonts.
+
+---
+
+### Deployment Configuration
+
+#### [NEW] [render.yaml](file:///c:/Projects/graphmind/render.yaml)
+- A Blueprint file for Render to automatically build and deploy our Python FastAPI backend.
+- It will specify the start command: `uvicorn api.main:app --host 0.0.0.0 --port 10000`.
+
+## Verification Plan
+
+### Automated/Local Tests
+- Start the local FastAPI server using `uvicorn api.main:app --reload`.
+- Start the local Next.js server using `npm run dev` in the frontend directory.
+- Send messages through the frontend UI and verify that they reach the backend, are processed by the LLM and MoE verifiers, and render correctly back in the UI.
+
+### Manual Verification
+1. Push the code to GitHub.
+2. Connect the repository to Render (for backend) and Vercel (for Next.js frontend).
+3. Set the `GOOGLE_API_KEY` in the Render environment variables.
+4. Set the `NEXT_PUBLIC_API_URL` in the Vercel environment variables pointing to the live Render backend.
+5. Verify the live web application works end-to-end.
