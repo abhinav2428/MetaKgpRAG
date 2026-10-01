@@ -73,3 +73,11 @@ desktop.ini
 htmlcov/
 .mypy_cache/
 .ruff_cache/
+
+# =============================================================================
+# Agent Scratch & Temp Files
+# =============================================================================
+implementation_plan.md
+list_models.py
+test_gemini.py
+temp_error.txt
