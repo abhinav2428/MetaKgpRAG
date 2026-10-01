@@ -1,0 +1,33 @@
+{
+  "title": "CE41003: Structural Dynamics And Earthquake Engg.",
+  "url": "https://wiki.metakgp.org/wiki/CE41003:_Structural_Dynamics_And_Earthquake_Engg.",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nSingle-degree-freedom systems: undamped and damped free vibration; Response to\nharmonic and periodic excitations; Response to non-periodic excitations;\nNumerical evaluation of dynamic response; Generalized single-degree-freedom\nsystems.Elements of analytical dynamics: The principle of virtual work;\nPrinciple of D Alembert; Hamiltons principle; Lagrange s equation.Multi-degreefreedom systems: Equation of motion; undamped free vibration; Intepretation of\nmodal orthogonality; Decomposition of response in terms of modal co-ordinates;\nModal analysis; Response to external excitations; Rayleigh s quotient and its\nproperties; Systems with proportional damping; Systems with arbitrary viscous\ndamping.Distributed parameter systems: axial and bending vibration of beams;\northogonality of modes; Response to external excitations; Rayleigh s quotient;\nApproximate methods.Earthquake response of linear systems: Earthquake\nexcitations; Equations of motion; Response spectrum concept; Response spectrum\ncharacteristics; Design response spectrum; Modal analysis; Displacement\nresponse; Element forces; Modal response contribution; Response history\nanalysis; Response spectrum analysis.Introduction to Random Vibration;\nStationary and non-stationery random processes; Ergodic random processes;\nNarrow band and wide band random processes; Properties of Autocorrelation and\nPower spectral density functions; Response to arbitrary excitation by Fourier\ntransform method; Response of SDOF and MDOF systems to random excitations\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Civil_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Civil_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CE41003: Structural Dynamics And Earthquake Engg.\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CE41003: Structural Dynamics And Earthquake Engg.\n\nSingle-degree-freedom systems: undamped and damped free vibration; Response to\nharmonic and periodic excitations; Response to non-periodic excitations;\nNumerical evaluation of dynamic response; Generalized single-degree-freedom\nsystems.Elements of analytical dynamics: The principle of virtual work;\nPrinciple of D Alembert; Hamiltons principle; Lagrange s equation.Multi-degreefreedom systems: Equation of motion; undamped free vibration; Intepretation of\nmodal orthogonality; Decomposition of response in terms of modal co-ordinates;\nModal analysis; Response to external excitations; Rayleigh s quotient and its\nproperties; Systems with proportional damping; Systems with arbitrary viscous\ndamping.Distributed parameter systems: axial and bending vibration of beams;\northogonality of modes; Response to external excitations; Rayleigh s quotient;\nApproximate methods.Earthquake response of linear systems: Earthquake\nexcitations; Equations of motion; Response spectrum concept; Response spectrum\ncharacteristics; Design response spectrum; Modal analysis; Displacement\nresponse; Element forces; Modal response contribution; Response history\nanalysis; Response spectrum analysis.Introduction to Random Vibration;\nStationary and non-stationery random processes; Ergodic random processes;\nNarrow band and wide band random processes; Properties of Autocorrelation and\nPower spectral density functions; Response to arbitrary excitation by Fourier\ntransfo"
+    },
+    {
+      "index": 2,
+      "text": "CE41003: Structural Dynamics And Earthquake Engg.\n\nprocesses; Ergodic random processes;\nNarrow band and wide band random processes; Properties of Autocorrelation and\nPower spectral density functions; Response to arbitrary excitation by Fourier\ntransform method; Response of SDOF and MDOF systems to random excitations"
+    },
+    {
+      "index": 3,
+      "text": "CE41003: Structural Dynamics And Earthquake Engg.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 4
+}

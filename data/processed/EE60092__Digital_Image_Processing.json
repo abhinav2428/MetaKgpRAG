@@ -1,0 +1,25 @@
+{
+  "title": "EE60092: Digital Image Processing",
+  "url": "https://wiki.metakgp.org/wiki/EE60092:_Digital_Image_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\npre requisite: EE40013Introduction: Digital image, steps of digital image\nprocessing systems, elements of visual perception, connectivity and relations\nbetween pixels. Simple operations - arithmetic, logical, geometric operations.\nMathematical preliminaries- 2D LTI systems, 2D convolution, correlation, 2D\nrandom sequence, 2D spectrum. Image Transforms: 2D orthogonal and unitary\ntransforms- properties and examples. 2D DFT, FFT, DCT, Hadamard transform, Haar\nTransform, Slant transform, KL Transform- properties and examples. Image\nEnhancement: point processing, spatial filtering-in space and frequency,\nNonlinear filtering, Color image processing fundamentals. Image Restoration:\nImage observation and degradation model, circulant and block circulant matrices\nand its application in degradation model, Algebraic approach to restoration,\nInverse by Wiener filtering, Generalized inverse- SVD and iterative methods,\nblind deconvolution, image reconstruction from projections. Image compression:\nredundancy and compression models ; loss less and lossy. Loss less- variablelength, Huffman, Arithmetic coding, bit-plane coding, Loss less predictive\ncoding, lossy Transform (DCT) based coding, JPEG standard, sub band coding.\nImage segmentation: Edge detection, line detection, curve detection, Edge\nlinking and boundary extraction, boundary representation, region representation\nand segmentation, morphology-dilation, erosion, opening and closing. Image\nunderstanding and recognition: Matching by templates, classifiers-models,\nstatistical, neural network based, matching shapes by contour and texture.\nApplications: Automatic visual system in part inspection, forensic and security\nsystem, entertainment- multimedia, scientific and medical investigation\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60092: Digital Image Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\npre requisite: EE40013Introduction: Digital image, steps of digital image\nprocessing systems, elements of visual perception, connectivity and relations\nbetween pixels.\n\nSimple operations - arithmetic, logical, geometric operations.\n\nMathematical preliminaries- 2D LTI systems, 2D convolution, correlation, 2D\nrandom sequence, 2D spectrum.\n\nImage Transforms: 2D orthogonal and unitary\ntransforms- properties and examples.\n\n2D DFT, FFT, DCT, Hadamard transform, Haar\nTransform, Slant transform, KL Transform- properties and examples.\n\nImage\nEnhancement: point processing, spatial filtering-in space and frequency,\nNonlinear filtering, Color image processing fundamentals.\n\nImage Restoration:\nImage observation and degradation model, circulant and block circulant matrices\nand its application in degradation model, Algebraic approach to restoration,\nInverse by Wiener filtering, Generalized inverse- SVD and iterative methods,\nblind deconvolution, image reconstruction from projections.\n\nImage compression:\nredundancy and compression models ; loss less and lossy.\n\nLoss less- variablelength, Huffman, Arithmetic coding, bit-plane coding, Loss less predictive\ncoding, lossy Transform (DCT) based coding, JPEG standard, sub band coding."
+    },
+    {
+      "index": 1,
+      "text": "EE60092: Digital Image Processing\n\n; loss less and lossy.\n\nLoss less- variablelength, Huffman, Arithmetic coding, bit-plane coding, Loss less predictive\ncoding, lossy Transform (DCT) based coding, JPEG standard, sub band coding.\n\nImage segmentation: Edge detection, line detection, curve detection, Edge\nlinking and boundary extraction, boundary representation, region representation\nand segmentation, morphology-dilation, erosion, opening and closing.\n\nImage\nunderstanding and recognition: Matching by templates, classifiers-models,\nstatistical, neural network based, matching shapes by contour and texture.\n\nApplications: Automatic visual system in part inspection, forensic and security\nsystem, entertainment- multimedia, scientific and medical investigation\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

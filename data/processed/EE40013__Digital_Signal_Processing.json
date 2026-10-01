@@ -1,0 +1,21 @@
+{
+  "title": "EE40013: Digital Signal Processing",
+  "url": "https://wiki.metakgp.org/wiki/EE40013:_Digital_Signal_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nReview - Discrete time systems, linear time invariant (LTI) systems and\nimportant properties. Fourier Transform and Laplace transform. Z-transform.\nSignal flow graphs and digital system representation;Discrete Fourier transform\n(DFT) and its properties. Fast Unitary transforms. Introduction to\ntransformation matrices in a general form. Computer exercises;Digital filtersFIR and IIR. FIR filters -structure, designs. IIR filters -analog filter\ndesign, discretization of analog filter Computer exercises; Multi-rate signal\nprocessing - Interpolation and decimation, FIR filter banks;Introduction to\nleast square optimization, signal modeling (AR, MA, ARMA). Normal equation and\nsolution strategy. Applications. Computer exercises;Digital signal processing\nhardware -discussion of either TMS320CXX based or ADSPXXX based system;Analysis\nof practical system implementation issues -effect of finite word length.\nCoefficient quantization in FIR filters. Limit cycles in IIR filters. Round off\neffects in FFT computation;Digital processing of continuous time signalssampling, anti-aliasing filter, sample and hold process, reconstruction\nfilter, Computer exercises;\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE40013: Digital Signal Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\nReview - Discrete time systems, linear time invariant (LTI) systems and\nimportant properties. Fourier Transform and Laplace transform. Z-transform.\nSignal flow graphs and digital system representation;Discrete Fourier transform\n(DFT) and its properties. Fast Unitary transforms. Introduction to\ntransformation matrices in a general form. Computer exercises;Digital filtersFIR and IIR. FIR filters -structure, designs. IIR filters -analog filter\ndesign, discretization of analog filter Computer exercises; Multi-rate signal\nprocessing - Interpolation and decimation, FIR filter banks;Introduction to\nleast square optimization, signal modeling (AR, MA, ARMA). Normal equation and\nsolution strategy. Applications. Computer exercises;Digital signal processing\nhardware -discussion of either TMS320CXX based or ADSPXXX based system;Analysis\nof practical system implementation issues -effect of finite word length.\nCoefficient quantization in FIR filters. Limit cycles in IIR filters. Round off\neffects in FFT computation;Digital processing of continuous time signalssampling, anti-aliasing filter, sample and hold process, reconstruction\nfilter, Computer exercises;\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

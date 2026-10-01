@@ -1,0 +1,25 @@
+{
+  "title": "PH41008: Mathematical Methods -Ii",
+  "url": "https://wiki.metakgp.org/wiki/PH41008:_Mathematical_Methods_-Ii",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPartial differential equations (PDE) in Physics: preliminaries; classification\nof second-order quasilinear equations; elliptic, hyperbolic and parabolic type;\ncharacteristics; boundary conditions and types of equations; one-dimensional\nwave equation; one-dimensional diffusion equation; the two dimensional Laplace\nequation; Green’s function for PDE; singular part of the Green’s function for\nPDE with constant coefficients; Possion’s equation; the diffusion equation; the\nwave equation; Dirichlet and Neumann problems; the initial value problem for\nthe wave equation; the method of images; the method of separation of variables;\n3D Laplace equation in spherical polar coordinates; associated Legendre\nfunctions and spherical harmonics.\nGroup Theory: definitions and nomenclature; examples; rearrangement theorem;\ncyclic groups; subgroups and cosets; Cayleys theorem and Lagranges theorem;\nconjugate elements and class structure; factor groups; isomorphy and\nhomomorphy; direct product groups; symmetric groups. Representation of finite\ngroups; definition ; unitary representation; Schurs Lemma; orthogonality\ntheorem; reducible and irreducible representations; characters; regular\nrepresentation; product representation; character table; examples of S_3 and\nC_4v; introduction to Lie groups and Lie algebra; Clebsch-Gordon coefficients.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Physics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Physics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "PH41008: Mathematical Methods -Ii\n\nSyllabus\nSyllabus mentioned in ERP\n\nPartial differential equations (PDE) in Physics: preliminaries; classification\nof second-order quasilinear equations; elliptic, hyperbolic and parabolic type;\ncharacteristics; boundary conditions and types of equations; one-dimensional\nwave equation; one-dimensional diffusion equation; the two dimensional Laplace\nequation; Green’s function for PDE; singular part of the Green’s function for\nPDE with constant coefficients; Possion’s equation; the diffusion equation; the\nwave equation; Dirichlet and Neumann problems; the initial value problem for\nthe wave equation; the method of images; the method of separation of variables;\n3D Laplace equation in spherical polar coordinates; associated Legendre\nfunctions and spherical harmonics.\nGroup Theory: definitions and nomenclature; examples; rearrangement theorem;\ncyclic groups; subgroups and cosets; Cayleys theorem and Lagranges theorem;\nconjugate elements and class structure; factor groups; isomorphy and\nhomomorphy; direct product groups; symmetric groups. Representation of finite\ngroups; definition ; unitary representation; Schurs Lemma; orthogonality\ntheorem; reducible and irreducible representations; characters; regular\nrepresentation; product representation; character table; examples of S_3 and\nC_4v; introduction to Lie groups and Lie algebra; Clebsch-Gordon coefficients.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources"
+    },
+    {
+      "index": 1,
+      "text": "PH41008: Mathematical Methods -Ii\n\ntable; examples of S_3 and\nC_4v; introduction to Lie groups and Lie algebra; Clebsch-Gordon coefficients.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

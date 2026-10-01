@@ -1,0 +1,21 @@
+{
+  "title": "CH62004: Flow Of Complex Mixtures",
+  "url": "https://wiki.metakgp.org/wiki/CH62004:_Flow_Of_Complex_Mixtures",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite - CH20001 or equivalentMultiphase flows and their types - flow\npattern and flow regime map with and without phase change. One-dimensional\nmodels for continuity, momentum and energy transfer for different models:\nMulti-dimensional and flow regime specific models. Liquid-solid mixture\ntransport in pipe: flow pattern, accelerating length, velocity profile and\npressure drop for turbulent slurry flow.Gas-solid mixture transport in\nhorizontal and vertical pipe.Gas-solid fluidization; Phase equilibria and\nanalogy with distillation/ stage-wise separation. Circulating fluidized bed.\nElutriation; Analogy with chemical reaction kinetics.Introduction to boiling,\ncondensation and critical two-phase flowsComputational methods for modeling\nmultiphase systems.Text Book:1.One dimensional Two Phase Flow by G. B.\nWallis2.Measurement of Two Phase Flow Parameters by Hewitt3.Flow of Complex\nMixtures by Govier and Aziz4.Two Phase Flow by Butterworth and HewittReference\nBook:1.Handbook of Multiphase systems by Detsroni\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH62004: Flow Of Complex Mixtures\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite - CH20001 or equivalentMultiphase flows and their types - flow\npattern and flow regime map with and without phase change. One-dimensional\nmodels for continuity, momentum and energy transfer for different models:\nMulti-dimensional and flow regime specific models. Liquid-solid mixture\ntransport in pipe: flow pattern, accelerating length, velocity profile and\npressure drop for turbulent slurry flow.Gas-solid mixture transport in\nhorizontal and vertical pipe.Gas-solid fluidization; Phase equilibria and\nanalogy with distillation/ stage-wise separation. Circulating fluidized bed.\nElutriation; Analogy with chemical reaction kinetics.Introduction to boiling,\ncondensation and critical two-phase flowsComputational methods for modeling\nmultiphase systems.Text Book:1.One dimensional Two Phase Flow by G. B.\nWallis2.Measurement of Two Phase Flow Parameters by Hewitt3.Flow of Complex\nMixtures by Govier and Aziz4.Two Phase Flow by Butterworth and HewittReference\nBook:1.Handbook of Multiphase systems by Detsroni\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

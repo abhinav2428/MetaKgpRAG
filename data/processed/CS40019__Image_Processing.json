@@ -1,0 +1,33 @@
+{
+  "title": "CS40019: Image Processing",
+  "url": "https://wiki.metakgp.org/wiki/CS40019:_Image_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDigital Image Fundamentals: A simple image model, Sampling and Quantization,\nImaging Geometry, Digital Geometry, Image Acquisition Systems, Different types\nof digital images.Bilevel Image Processing: Basic concepts of digital\ndistances, distance transform, medial axis transform, component labeling,\nthinning, morpho-logical processing, extension to grey scale\nmorphology.Binarization and Segmentation of Grey level images: Histogram of\ngrey level images, Optimal thresholding using Bayesian classification,\nmultilevel thresholding, Segmentation of grey level images, Water shade\nalgorithm for segmenting grey level image.Detection of edges and lines in 2D\nimages: First order and second order edge operators, multi-scale edge\ndetection, Cannys edge detection algorithm, Hough transform for detecting lines\nand curves, edge linking.Images Enhancement: Point processing, Spatial\nFiltering, Frequency domain filtering, multi-spectral image enhancement, image\nrestoration.Color Image Processing: Color Representation, Laws of color\nmatching, chromaticity diagram, color enhancement, color image segmentation,\ncolor edge detection, color demosaicing.Image Registration and depth\nestimation: Registration Algorithms, Setreo Imaging, Computation of disparity\nmap.Image compression: Lossy and lossless com-pression schemes, prediction\nbased compression schemes, vector quantization, sub-band encoding schemes, JPEG\ncompression standard, Fractal compression scheme, Wavelet compression\nscheme.References1.Gonzalez and Woods, Digital Image Processing, Prentice-Hall.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40019: Image Processing\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS40019: Image Processing\n\nDigital Image Fundamentals: A simple image model, Sampling and Quantization,\nImaging Geometry, Digital Geometry, Image Acquisition Systems, Different types\nof digital images.Bilevel Image Processing: Basic concepts of digital\ndistances, distance transform, medial axis transform, component labeling,\nthinning, morpho-logical processing, extension to grey scale\nmorphology.Binarization and Segmentation of Grey level images: Histogram of\ngrey level images, Optimal thresholding using Bayesian classification,\nmultilevel thresholding, Segmentation of grey level images, Water shade\nalgorithm for segmenting grey level image.Detection of edges and lines in 2D\nimages: First order and second order edge operators, multi-scale edge\ndetection, Cannys edge detection algorithm, Hough transform for detecting lines\nand curves, edge linking.Images Enhancement: Point processing, Spatial\nFiltering, Frequency domain filtering, multi-spectral image enhancement, image\nrestoration.Color Image Processing: Color Representation, Laws of color\nmatching, chromaticity diagram, color enhancement, color image segmentation,\ncolor edge detection, color demosaicing.Image Registration and depth\nestimation: Registration Algorithms, Setreo Imaging, Computation of disparity\nmap.Image compression: Lossy and lossless com-pression schemes, prediction\nbased compression schemes, vector quantization, sub-band encoding schemes, JPEG\ncompression standard, Fractal compression scheme, Wavelet compres"
+    },
+    {
+      "index": 2,
+      "text": "CS40019: Image Processing\n\nn: Lossy and lossless com-pression schemes, prediction\nbased compression schemes, vector quantization, sub-band encoding schemes, JPEG\ncompression standard, Fractal compression scheme, Wavelet compression\nscheme.References1.Gonzalez and Woods, Digital Image Processing, Prentice-Hall."
+    },
+    {
+      "index": 3,
+      "text": "CS40019: Image Processing\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 4
+}

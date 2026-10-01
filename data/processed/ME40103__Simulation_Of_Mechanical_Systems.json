@@ -1,0 +1,21 @@
+{
+  "title": "ME40103: Simulation Of Mechanical Systems",
+  "url": "https://wiki.metakgp.org/wiki/ME40103:_Simulation_Of_Mechanical_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite ;Design of Machine ElementsEnergy Methods and variational\nprinciples. Euler-Lagranges equation for discrete and continuous systems.\nHamiltons principle. Analysis of constraints - non-holonomic systems.\nIntegration of system equations. Modelling in multi-energy domain through bond\ngraphs. Modelling of a system of rigid bodies, structural systems, Hydraulic\nsystems, Thermal systems, electronic and mechatronic systems. Modelling systems\nfor control strategies and design of control strategies in physical domain.\nNumerical prototyping as modelling for design and synthesis using computational\ntools like SYMBOLS, MATLAB, ADAMs, etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME40103: Simulation Of Mechanical Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite ;Design of Machine ElementsEnergy Methods and variational\nprinciples. Euler-Lagranges equation for discrete and continuous systems.\nHamiltons principle. Analysis of constraints - non-holonomic systems.\nIntegration of system equations. Modelling in multi-energy domain through bond\ngraphs. Modelling of a system of rigid bodies, structural systems, Hydraulic\nsystems, Thermal systems, electronic and mechatronic systems. Modelling systems\nfor control strategies and design of control strategies in physical domain.\nNumerical prototyping as modelling for design and synthesis using computational\ntools like SYMBOLS, MATLAB, ADAMs, etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

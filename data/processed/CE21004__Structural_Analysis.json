@@ -1,0 +1,17 @@
+{
+  "title": "CE21004: Structural Analysis",
+  "url": "https://wiki.metakgp.org/wiki/CE21004:_Structural_Analysis",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nEnergy Method (Ritz) and Error Orthogonalization (Galerkin) for indeterminate\nbeams, curved beams, arches and rings; Matrix Force and Displacement Method for\nFrames and Trusses- Analysis for temperature stress, lack of fit and settlement\nof supports; Plastic analysis; Variational Approach – Introduction to Finite\nelement Method for frames, trusses and plane stress analysis; Geometric\nStiffness Matrix; Compound Structures; Suspension and guyed Bridges; Influence\nlines.\n\nConcepts taught in class\n\nBending moment of determinant and indeterminant structures.\n\nStudent Opinion\n\n{|class=\"wikitable\"\n\n||The real calculations behind constructing a structure is taught here. The different kind of beam designs are taught. From this subject you will be able to know how beams and columns are designed with calculating the load. Take the course very seriously because it will be the fundamentals of designing a structure.\n\nHow to Crack the Paper\n\n{|class=\"wikitable\"\n\n||Attend the classes seriously. Solve the tutorials by yourself. Get hold of a book by consulting the prof and practice the problems given in it. \n\nClassroom resources\n\nDo the tutorials by yourself and solve additional problems from the books given by the prof. Raise any doubt you have because no doubt is silly.\n\nAdditional Resources\n\nConsult your senior",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Civil_Engineering"
+  ],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CE21004: Structural Analysis\n\nSyllabus\nSyllabus mentioned in ERP\n\nEnergy Method (Ritz) and Error Orthogonalization (Galerkin) for indeterminate\nbeams, curved beams, arches and rings; Matrix Force and Displacement Method for\nFrames and Trusses- Analysis for temperature stress, lack of fit and settlement\nof supports; Plastic analysis; Variational Approach – Introduction to Finite\nelement Method for frames, trusses and plane stress analysis; Geometric\nStiffness Matrix; Compound Structures; Suspension and guyed Bridges; Influence\nlines.\n\nConcepts taught in class\n\nBending moment of determinant and indeterminant structures.\n\nStudent Opinion\n\n{|class=\"wikitable\"\n\n||The real calculations behind constructing a structure is taught here. The different kind of beam designs are taught. From this subject you will be able to know how beams and columns are designed with calculating the load. Take the course very seriously because it will be the fundamentals of designing a structure.\n\nHow to Crack the Paper\n\n{|class=\"wikitable\"\n\n||Attend the classes seriously. Solve the tutorials by yourself. Get hold of a book by consulting the prof and practice the problems given in it. \n\nClassroom resources\n\nDo the tutorials by yourself and solve additional problems from the books given by the prof. Raise any doubt you have because no doubt is silly.\n\nAdditional Resources\n\nConsult your senior"
+    }
+  ],
+  "chunk_count": 1
+}

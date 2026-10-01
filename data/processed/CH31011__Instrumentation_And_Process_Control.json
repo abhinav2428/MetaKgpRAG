@@ -1,0 +1,21 @@
+{
+  "title": "CH31011: Instrumentation And Process Control",
+  "url": "https://wiki.metakgp.org/wiki/CH31011:_Instrumentation_And_Process_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nInstrumentation : Static and dynamic characteristic of instruments.\nMeasurement of temperature, pressure, vacuum, fluid flow rate and level.\nProcess Control : Modeling considerations for control purposes. State Space\nand Transfer function models. Dynamic behavior of first and higher order\nsystems. Concept and dynamic behavior of feedback control. Frequency response\nanalysis. Stability analysis of feedback systems. Design of feedback\ncontrollers. Feed forward, Ratio, Adaptive and inferential control. Control\nsystems with multiple loops.Text/Reference Books:1.Process dynamics and control\nby D. E. Seborg, T. F. Edgar and D. A. Mellichamp.2.Process systems analysis\nand control by D. R. Coughanowr and L. B. Koppel.3.Principles of industrial\ninstrumentation by D. Patranabis.4.Chemical process control: An introduction to\ntheory and practice by G. Stephanopoulos.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH31011: Instrumentation And Process Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nInstrumentation : Static and dynamic characteristic of instruments.\nMeasurement of temperature, pressure, vacuum, fluid flow rate and level.\nProcess Control : Modeling considerations for control purposes. State Space\nand Transfer function models. Dynamic behavior of first and higher order\nsystems. Concept and dynamic behavior of feedback control. Frequency response\nanalysis. Stability analysis of feedback systems. Design of feedback\ncontrollers. Feed forward, Ratio, Adaptive and inferential control. Control\nsystems with multiple loops.Text/Reference Books:1.Process dynamics and control\nby D. E. Seborg, T. F. Edgar and D. A. Mellichamp.2.Process systems analysis\nand control by D. R. Coughanowr and L. B. Koppel.3.Principles of industrial\ninstrumentation by D. Patranabis.4.Chemical process control: An introduction to\ntheory and practice by G. Stephanopoulos.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

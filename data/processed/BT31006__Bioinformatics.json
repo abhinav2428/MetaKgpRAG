@@ -1,0 +1,23 @@
+{
+  "title": "BT31006: Bioinformatics",
+  "url": "https://wiki.metakgp.org/wiki/BT31006:_Bioinformatics",
+  "text": "Bioinformatics is an undergraduate course offered by Department of Biotechnology typically in spring semester of third year (6th semester). The course is taken by Dr. Ranjit Prasad Bahadur, the head of computational and structural biology lab of the department.\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Bioinformatics; Data banks: Protein and Nucleic acid; Data Banks for different organisms; Sequence analysis; Analysis Tools for Sequence Data Bank; Pairwise and Multiple sequence alignment; Secondary Structure predictions, Fold recognition; Data analysis.\nConcepts taught in class\n\nStudent Opinion\n* Requires a beginner level exposure to programming. The first year course should be sufficient for implementing programs and concepts taught in class.\n* Requires intermediate exposure to basic biology - protein structures, DNA sequence and analysis.\n* Slow to moderate pace.\n\nHow to Crack the Paper\n* Solve previous year question paper. The questions are almost similar in nature.\n* Practice basics of dynamic programming, how to create an alignment matrix\n* PDB file format, interpretation of different columns\n* Basic concepts about protein structure, folds, motifs etc.\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Biotechnology",
+    "https://wiki.metakgp.org/wiki/Department_of_Biotechnology",
+    "https://wiki.metakgp.org/wiki/Ranjit_Prasad_Bahadur"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Biotechnology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "BT31006: Bioinformatics\n\nBioinformatics is an undergraduate course offered by Department of Biotechnology typically in spring semester of third year (6th semester). The course is taken by Dr. Ranjit Prasad Bahadur, the head of computational and structural biology lab of the department.\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Bioinformatics; Data banks: Protein and Nucleic acid; Data Banks for different organisms; Sequence analysis; Analysis Tools for Sequence Data Bank; Pairwise and Multiple sequence alignment; Secondary Structure predictions, Fold recognition; Data analysis.\nConcepts taught in class\n\nStudent Opinion\n* Requires a beginner level exposure to programming. The first year course should be sufficient for implementing programs and concepts taught in class.\n* Requires intermediate exposure to basic biology - protein structures, DNA sequence and analysis.\n* Slow to moderate pace.\n\nHow to Crack the Paper\n* Solve previous year question paper. The questions are almost similar in nature.\n* Practice basics of dynamic programming, how to create an alignment matrix\n* PDB file format, interpretation of different columns\n* Basic concepts about protein structure, folds, motifs etc.\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

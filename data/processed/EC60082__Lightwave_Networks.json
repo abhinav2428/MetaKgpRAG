@@ -1,0 +1,21 @@
+{
+  "title": "EC60082: Lightwave Networks",
+  "url": "https://wiki.metakgp.org/wiki/EC60082:_Lightwave_Networks",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC61103Evolution of optical networking: long-haul point-topoint terrestrial and transoceanic links, LAN and broadband access segments;\nFibre optic LANs: Suitable topologies and MAC protocols, FDDI, DQDB, Gigabit\nEthernet; Fibre optic SANs: ESCON, Fibre channel, HIPPI; Review of SONET/SDH\nand concepts of networking using IP-over-ATM-over-SONET/SDH architecture; WDM\nnetworks: Elements of WDM networks Ã¢ÂÂ Optical line terminals, Optical line\namplifiers, Optical add/drop multiplexers (OADMs), Reconfigurable OADMs,\nOptical crossconnects; WDM backbone networks: Concepts of wavelength routing\nand lightpaths, Lightpath topology design, Routing and wavelength assignment,\nLP-based optimum design and heuristic algorithms, Wavelength conversion,\nTraffic grooming in wavelength-routed backbones; IP-over-WDM and GMPLS;\nSurvivable optical networks: Protection in SONET/SDH, Protection in WDM\nbackbone networks - dedicated and shared schemes; Optical access networks:\nHybrid fiber coax (HFC), Enhanced HFC, Fibre to the curb, Passive optical\nnetworks; Optical burst switching: Concepts of offset time and just-enough time\n(JET) switching, node architectures. Optical CDMA: Basic concept and\napplications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60082: Lightwave Networks\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC61103Evolution of optical networking: long-haul point-topoint terrestrial and transoceanic links, LAN and broadband access segments;\nFibre optic LANs: Suitable topologies and MAC protocols, FDDI, DQDB, Gigabit\nEthernet; Fibre optic SANs: ESCON, Fibre channel, HIPPI; Review of SONET/SDH\nand concepts of networking using IP-over-ATM-over-SONET/SDH architecture; WDM\nnetworks: Elements of WDM networks Ã¢ÂÂ Optical line terminals, Optical line\namplifiers, Optical add/drop multiplexers (OADMs), Reconfigurable OADMs,\nOptical crossconnects; WDM backbone networks: Concepts of wavelength routing\nand lightpaths, Lightpath topology design, Routing and wavelength assignment,\nLP-based optimum design and heuristic algorithms, Wavelength conversion,\nTraffic grooming in wavelength-routed backbones; IP-over-WDM and GMPLS;\nSurvivable optical networks: Protection in SONET/SDH, Protection in WDM\nbackbone networks - dedicated and shared schemes; Optical access networks:\nHybrid fiber coax (HFC), Enhanced HFC, Fibre to the curb, Passive optical\nnetworks; Optical burst switching: Concepts of offset time and just-enough time\n(JET) switching, node architectures. Optical CDMA: Basic concept and\napplications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

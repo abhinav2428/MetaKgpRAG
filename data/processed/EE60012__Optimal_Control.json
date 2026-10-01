@@ -1,0 +1,21 @@
+{
+  "title": "EE60012: Optimal Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60012:_Optimal_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nStatic optimization, Linear programming, Simplex methods. Dynamic\noptimization.Calculus of variations, Eulers equation, application to control\nproblems. Pontryagins maximum principle, control with constrains, time optimal\ncontrol. Optimal tracking control problem, Gain scheduling, Model reference and\nSelf-tuning control problem. Discrete optimal control, Bellmans dynamic\nprogramming method. Continuous Kalman Filter, Square root Kalman filter. Nonlinear system optimization, Gradient optimization techniques, steepest ascent\nand decent in parameter plane, Rosenbrocks conjugate gradient method,\nDavidâFletcher-Power method, etc. Evolutionary methods, Genetic algorithms\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60012: Optimal Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nStatic optimization, Linear programming, Simplex methods. Dynamic\noptimization.Calculus of variations, Eulers equation, application to control\nproblems. Pontryagins maximum principle, control with constrains, time optimal\ncontrol. Optimal tracking control problem, Gain scheduling, Model reference and\nSelf-tuning control problem. Discrete optimal control, Bellmans dynamic\nprogramming method. Continuous Kalman Filter, Square root Kalman filter. Nonlinear system optimization, Gradient optimization techniques, steepest ascent\nand decent in parameter plane, Rosenbrocks conjugate gradient method,\nDavidâFletcher-Power method, etc. Evolutionary methods, Genetic algorithms\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

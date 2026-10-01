@@ -1,0 +1,24 @@
+{
+  "title": "Kharagpur Linux Users Group",
+  "url": "https://wiki.metakgp.org/wiki/Kharagpur_Linux_Users_Group",
+  "text": "Kharagpur Linux Users Group is a informal discussion group for people who are enthusiastic about software development, technology and open source in general. KLUG meetings are traditionally held on Fridays at Insti Foyer or BC Roy Hall's canteen.\n History \n\nThe earliest known Linux Users Group at KGP was started back in 2004, though a thread on their Yahoo group suggests that there used be a LUG even before 2004. They held few informal meetings and a install fest. The group, however, died out by the end of academic year in 2007. Ramkumar Ramachandra mentioned about another Linux Users group which used to exist between 2006 and 2008. KGP: KGP Group of Programmers (a recursive acronym) which came up in 2009 was also an attempt to build a programmer's community in KGP that group too died out. The current form of KLUG was formed by Ramkumar Ramachandra (PH '12), Sanjoy Das (MA '13) and Anurag Priyam (ME '13) in 2011.\n\n Structure and Functioning \n\nThe discussion at KLUG typically do not have a fixed agenda. People start off by discussing different projects they have been working on but often conversations diverge to very diverse topics including anything from history, privacy and copyright laws, economics to philosophy. KLUG follows a flat hierarchy and an system of open membership. Open membership implies that anyone is free and welcomed to attend the discussion. New members are usually asked to introduce themselves to the group.\n\nImportant minutes of the meetings or meetup notices are posted to the KLUG's google group, which is open for anyone are join. KLUG has recently moved to slack channel for real time communication and hangout in place of IRC channel #klug-devel on freenode. A public log of all the communication on previous channel can be found here.\n\nPeople interested in joining KLUG's slack channel use the self invite link http://klug-slack.herokuapp.com/.\n\n References",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/B_C_Roy_Hall_of_Residence",
+    "https://wiki.metakgp.org/wiki/Insti_Foyer"
+  ],
+  "categories": [
+    "Societies_and_clubs"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Kharagpur Linux Users Group\n\nKharagpur Linux Users Group is a informal discussion group for people who are enthusiastic about software development, technology and open source in general. KLUG meetings are traditionally held on Fridays at Insti Foyer or BC Roy Hall's canteen.\n History\n\nThe earliest known Linux Users Group at KGP was started back in 2004, though a thread on their Yahoo group suggests that there used be a LUG even before 2004. They held few informal meetings and a install fest. The group, however, died out by the end of academic year in 2007. Ramkumar Ramachandra mentioned about another Linux Users group which used to exist between 2006 and 2008. KGP: KGP Group of Programmers (a recursive acronym) which came up in 2009 was also an attempt to build a programmer's community in KGP that group too died out. The current form of KLUG was formed by Ramkumar Ramachandra (PH '12), Sanjoy Das (MA '13) and Anurag Priyam (ME '13) in 2011.\n\nStructure and Functioning\n\nThe discussion at KLUG typically do not have a fixed agenda. People start off by discussing different projects they have been working on but often conversations diverge to very diverse topics including anything from history, privacy and copyright laws, economics to philosophy. KLUG follows a flat hierarchy and an system of open membership. Open membership implies that anyone is free and welcomed to attend the discussion. New members are usually asked to introduce themselves to the group."
+    },
+    {
+      "index": 1,
+      "text": "Kharagpur Linux Users Group\n\nflat hierarchy and an system of open membership. Open membership implies that anyone is free and welcomed to attend the discussion. New members are usually asked to introduce themselves to the group.\n\nImportant minutes of the meetings or meetup notices are posted to the KLUG's google group, which is open for anyone are join. KLUG has recently moved to slack channel for real time communication and hangout in place of IRC channel #klug-devel on freenode. A public log of all the communication on previous channel can be found here.\n\nPeople interested in joining KLUG's slack channel use the self invite link http://klug-slack.herokuapp.com/.\n\nReferences"
+    }
+  ],
+  "chunk_count": 2
+}

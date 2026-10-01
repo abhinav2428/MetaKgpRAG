@@ -1,0 +1,25 @@
+{
+  "title": "CH30016: Computer Aided Process Engineering",
+  "url": "https://wiki.metakgp.org/wiki/CH30016:_Computer_Aided_Process_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite-Mathematics III and IV, and CH30005Review of numerical methods convergence techniques, solution of linear and non-linear algebraic equations,\nsolution of coupled ordinary differential equations. Importance of VLE/ LLE\ncalculations for process simulation. Process modeling and simulation,\nInformation Flow diagram, modelling of different process equipment - heat\nexchangers, furnaces, flash drum, distillation, absorption, other staged /\ndifferential contacting processes, reactors etc. Process flowsheeting and\nsimulators - Simulator components and structures, Salient features of\nsimulators like ASPEN etc. Industrial Automation-Real time systems and\nProcess optimization, Concepts of process economics.Process Integration-Pinch\nTechnology, Heat exchangers network design, MER design, Energy trade off for\nreducing number of units, Stream splitting, optimization of mass exchangers\nnetwork and water system.Use of AI (Fuzzy logic, ANN, GA etc.) techniques in\nprocess diagnosis, control and optimsation.Text Book:1.User Guide on Process\nintegration for the efficient use of energy by B. Linnhoff et al.2.Fuzzy logic\nwith engineering applications by T. Ross3.Modeling and simulation in chemical\nengineering, Roger G. E. Franks4.Chemical process design and integration by\nRobin SmithReference Book:1.Computational methods for processes simulation by\nW F Ramirez2.Neurofuzzy with soft computing by J S R Jang, C. T. Sun, and E.\nMizutani3.Chemical process modeling and computer simulation by A. K.\nJana4.Neural network, fuzzy logic and genetic algorithms by S. Rajasekaran and\nG. A. V. Pai\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH30016: Computer Aided Process Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite-Mathematics III and IV, and CH30005Review of numerical methods convergence techniques, solution of linear and non-linear algebraic equations,\nsolution of coupled ordinary differential equations.\n\nImportance of VLE/ LLE\ncalculations for process simulation.\n\nProcess modeling and simulation,\nInformation Flow diagram, modelling of different process equipment - heat\nexchangers, furnaces, flash drum, distillation, absorption, other staged /\ndifferential contacting processes, reactors etc.\n\nProcess flowsheeting and\nsimulators - Simulator components and structures, Salient features of\nsimulators like ASPEN etc.\n\nIndustrial Automation-Real time systems and\nProcess optimization, Concepts of process economics.Process Integration-Pinch\nTechnology, Heat exchangers network design, MER design, Energy trade off for\nreducing number of units, Stream splitting, optimization of mass exchangers\nnetwork and water system.Use of AI (Fuzzy logic, ANN, GA etc.) techniques in\nprocess diagnosis, control and optimsation.Text Book:1.User Guide on Process\nintegration for the efficient use of energy by B.\n\nLinnhoff et al.2.Fuzzy logic\nwith engineering applications by T.\n\nRoss3.Modeling and simulation in chemical\nengineering, Roger G.\n\nE."
+    },
+    {
+      "index": 1,
+      "text": "CH30016: Computer Aided Process Engineering\n\non Process\nintegration for the efficient use of energy by B.\n\nLinnhoff et al.2.Fuzzy logic\nwith engineering applications by T.\n\nRoss3.Modeling and simulation in chemical\nengineering, Roger G.\n\nE.\n\nFranks4.Chemical process design and integration by\nRobin SmithReference Book:1.Computational methods for processes simulation by\nW F Ramirez2.Neurofuzzy with soft computing by J S R Jang, C.\n\nT.\n\nSun, and E.\n\nMizutani3.Chemical process modeling and computer simulation by A.\n\nK.\n\nJana4.Neural network, fuzzy logic and genetic algorithms by S.\n\nRajasekaran and\nG.\n\nA.\n\nV.\n\nPai\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

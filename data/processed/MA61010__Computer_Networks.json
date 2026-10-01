@@ -1,0 +1,21 @@
+{
+  "title": "MA61010: Computer Networks",
+  "url": "https://wiki.metakgp.org/wiki/MA61010:_Computer_Networks",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\nIntroduction, layered network architecture, circuit switching, packet\nswitching, data link protocols, stop and wait, sliding window, HDLC, queuing\nsystems and other Markov systems – delay analysis in data network, LAN\nprotocols, CSMA/CD, token ring, FDDI, network layer routing, repeaters,\nbridges, gateways, TCP/IP, internet protocols.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61010: Computer Networks\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\nIntroduction, layered network architecture, circuit switching, packet\nswitching, data link protocols, stop and wait, sliding window, HDLC, queuing\nsystems and other Markov systems – delay analysis in data network, LAN\nprotocols, CSMA/CD, token ring, FDDI, network layer routing, repeaters,\nbridges, gateways, TCP/IP, internet protocols.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

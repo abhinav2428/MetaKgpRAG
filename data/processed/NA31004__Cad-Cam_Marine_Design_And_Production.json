@@ -1,0 +1,21 @@
+{
+  "title": "NA31004: Cad-Cam Marine Design And Production",
+  "url": "https://wiki.metakgp.org/wiki/NA31004:_Cad-Cam_Marine_Design_And_Production",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction; Engineering CAD systems; Curve representation, analytical and\nparametric representation of curves; Differential geometry of curves;\nInterpolation techniques, control polygon techniques (Bezier, BSpline, NURBC);\nCurve generation; Ship curve design; Interrogation and fairing techniques for\ncurves; Surface representation, analytical and parametric representation of\nsurfaces; Differential geometry of surfaces; Surface interpolation techniques,\ncontrol polygon techniques (Bezier, BSpline, NURBS); Surface generation;\nInterrogation and fairing techniques for surfaces; Ship surface design, ruled\nsurface, developable surface, low curvature surfaces; Optimisation methods in\nship design; Multicriteria decision making methods in ship design/production;\nOptimisation methods in design, classical optimization, multi-variable\noptimization, non-linear optimisation methods, stochastic methods (Simulated\nannealing and Genetic algorithm).\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Ocean_Engineering_&_Naval_Architecture"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Ocean_Engineering_&_Naval_Architecture",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "NA31004: Cad-Cam Marine Design And Production\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction; Engineering CAD systems; Curve representation, analytical and\nparametric representation of curves; Differential geometry of curves;\nInterpolation techniques, control polygon techniques (Bezier, BSpline, NURBC);\nCurve generation; Ship curve design; Interrogation and fairing techniques for\ncurves; Surface representation, analytical and parametric representation of\nsurfaces; Differential geometry of surfaces; Surface interpolation techniques,\ncontrol polygon techniques (Bezier, BSpline, NURBS); Surface generation;\nInterrogation and fairing techniques for surfaces; Ship surface design, ruled\nsurface, developable surface, low curvature surfaces; Optimisation methods in\nship design; Multicriteria decision making methods in ship design/production;\nOptimisation methods in design, classical optimization, multi-variable\noptimization, non-linear optimisation methods, stochastic methods (Simulated\nannealing and Genetic algorithm).\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CS43303: Digital System Testing And Testable Design",
+  "url": "https://wiki.metakgp.org/wiki/CS43303:_Digital_System_Testing_And_Testable_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPhysical faults and their modeling. Fault equivalence and dominance; fault\ncollapsing. Fault simulation: parallel, deductive and concurrent techniques;\ncritical path tracing. Test generation for combinational circuits: Boolean\ndifference, D-algorithm, Podem, etc. Exhaustive, random and weighted test\npattern generation; aliasing and its effect on fault coverage. PLA testing:\ncross-point fault model, test generation, easily testable designs. Memory\ntesting: permanent, intermittent and pattern-sensitive faults; test generation.\nDelay faults and hazards; test generation techniques. Test pattern generation\nfor sequential circuits: time-frame expansion method, ad-hoc and structures\ntechniques, scan path and LSSD, boundary scan. Built-in self-test techniques.\nTesting issues in embedded core based systems.References1.N. K. Jha and S.\nGupta, Testing of Digital Systems, Cambridge University Press.2.M. L. Bushnell\nand V. D. Agrawal, Essentials of Electronic Testing, Kluwer Academic\nPublishers.3.M. Abramovici, M. A. Breuer and A. D. Friedman, Digital Systems\nTesting and Testable Design, Wiley-IEEE Press.4.P. H. Bardell, W. H. McAnney\nand J. Savir, Built-in Test for VLSI: Pseudorandom Techniques, Wiley\nInterscience.5.P. K. Lala, Fault Tolerant and Fault Testable Hardware Design,\nPrentice-Hall.6.A. Krstic and K-T Cheng, Delay Fault Testing for VLSI Circuits,\nKluwer Academic Publishers.7.A. Osseiran (Ed.), Analog and Mixed Signal\nBoundary Scan, Kluwer Academic Publishers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS43303: Digital System Testing And Testable Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nPhysical faults and their modeling.\n\nFault equivalence and dominance; fault\ncollapsing.\n\nFault simulation: parallel, deductive and concurrent techniques;\ncritical path tracing.\n\nTest generation for combinational circuits: Boolean\ndifference, D-algorithm, Podem, etc.\n\nExhaustive, random and weighted test\npattern generation; aliasing and its effect on fault coverage.\n\nPLA testing:\ncross-point fault model, test generation, easily testable designs.\n\nMemory\ntesting: permanent, intermittent and pattern-sensitive faults; test generation.\n\nDelay faults and hazards; test generation techniques.\n\nTest pattern generation\nfor sequential circuits: time-frame expansion method, ad-hoc and structures\ntechniques, scan path and LSSD, boundary scan.\n\nBuilt-in self-test techniques.\n\nTesting issues in embedded core based systems.References1.N.\n\nK.\n\nJha and S.\n\nGupta, Testing of Digital Systems, Cambridge University Press.2.M.\n\nL.\n\nBushnell\nand V.\n\nD.\n\nAgrawal, Essentials of Electronic Testing, Kluwer Academic\nPublishers.3.M.\n\nAbramovici, M.\n\nA.\n\nBreuer and A.\n\nD.\n\nFriedman, Digital Systems\nTesting and Testable Design, Wiley-IEEE Press.4.P.\n\nH.\n\nBardell, W.\n\nH.\n\nMcAnney\nand J.\n\nSavir, Built-in Test for VLSI: Pseudorandom Techniques, Wiley\nInterscience.5.P.\n\nK.\n\nLala, Fault Tolerant and Fault Testable Hardware Design,\nPrentice-Hall.6.A."
+    },
+    {
+      "index": 1,
+      "text": "CS43303: Digital System Testing And Testable Design\n\nW.\n\nH.\n\nMcAnney\nand J.\n\nSavir, Built-in Test for VLSI: Pseudorandom Techniques, Wiley\nInterscience.5.P.\n\nK.\n\nLala, Fault Tolerant and Fault Testable Hardware Design,\nPrentice-Hall.6.A.\n\nKrstic and K-T Cheng, Delay Fault Testing for VLSI Circuits,\nKluwer Academic Publishers.7.A.\n\nOsseiran (Ed.), Analog and Mixed Signal\nBoundary Scan, Kluwer Academic Publishers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "title": "EC60023: Optical Communication",
+  "url": "https://wiki.metakgp.org/wiki/EC60023:_Optical_Communication",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21002 and EC31002Introduction to optical communications\nsystems, Brief overview of optical fibres, sources and photodetectors; Optical\ntransmitters: LED driver circuits: saturated transistor and emitter-coupled\nconfigurations, Laser driver circuits Ã¢ÂÂ mean and peak power control\ncircuits, temperature control circuits; Optical receivers using direct\ndetection: PIN-based receivers, APD-based receivers, Receiver noise processes,\nReceiver circuits: preamplifiers - Transimpedance and high-input-impedance\namplifiers; Digital optical communication links: BER in quantum limit, BER\nanalysis for PIN-based and APD-basedreceivers in presence of shot and thermal\nnoise components, Link design Ã¢ÂÂ Power budget and rise-time budget, Line\ncoding schemes; SONET/SDH: Limitations of PDH multiplexing, SONET/SDH layers,\nSONET/SDH frame structure, SONET/SDH physical layer, Elements of SONET/SDH\ninfrastructure; Analog optical communication links: RIN, SNR analysis and\nlimiting conditions, Multichannel AM and FM, Subcarrier multiplexing; Elements\nof coherent optical communication systems: Fundamental concepts and\nrequirements for lasers, Frequency alignment and polarization control schemes,\nPSK, FSK, DPSK generation and demodulation techniques.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60023: Optical Communication\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21002 and EC31002Introduction to optical communications\nsystems, Brief overview of optical fibres, sources and photodetectors; Optical\ntransmitters: LED driver circuits: saturated transistor and emitter-coupled\nconfigurations, Laser driver circuits Ã¢ÂÂ mean and peak power control\ncircuits, temperature control circuits; Optical receivers using direct\ndetection: PIN-based receivers, APD-based receivers, Receiver noise processes,\nReceiver circuits: preamplifiers - Transimpedance and high-input-impedance\namplifiers; Digital optical communication links: BER in quantum limit, BER\nanalysis for PIN-based and APD-basedreceivers in presence of shot and thermal\nnoise components, Link design Ã¢ÂÂ Power budget and rise-time budget, Line\ncoding schemes; SONET/SDH: Limitations of PDH multiplexing, SONET/SDH layers,\nSONET/SDH frame structure, SONET/SDH physical layer, Elements of SONET/SDH\ninfrastructure; Analog optical communication links: RIN, SNR analysis and\nlimiting conditions, Multichannel AM and FM, Subcarrier multiplexing; Elements\nof coherent optical communication systems: Fundamental concepts and\nrequirements for lasers, Frequency alignment and polarization control schemes,\nPSK, FSK, DPSK generation and demodulation techniques.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "EC60023: Optical Communication\n\nFSK, DPSK generation and demodulation techniques.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Academic Calendar",
+  "url": "https://wiki.metakgp.org/wiki/Academic_Calendar",
+  "text": "{| class=\"wikitable\"\n\n!Year!!Calender Link\n\nFor the rest: http://iitkgp.ac.in/files/acad_cal2122_2.pdf",
+  "page_type": "general",
+  "links": [],
+  "categories": [
+    "Academics"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Academic Calendar\n\n{| class=\"wikitable\"\n\n!Year!!Calender Link\n\nFor the rest: http://iitkgp.ac.in/files/acad_cal2122_2.pdf"
+    }
+  ],
+  "chunk_count": 1
+}

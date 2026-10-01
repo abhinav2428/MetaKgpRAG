@@ -1,0 +1,15 @@
+{
+  "title": "GYFT",
+  "url": "https://wiki.metakgp.org/wiki/GYFT",
+  "text": "GYFT (Get Your Freakin' Timetable) is a CLI tool and a web app, which allows users to fetch their class schedule from ERP as an ICS file, and add it to their calendar applications.",
+  "page_type": "general",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "GYFT\n\nGYFT (Get Your Freakin' Timetable) is a CLI tool and a web app, which allows users to fetch their class schedule from ERP as an ICS file, and add it to their calendar applications."
+    }
+  ],
+  "chunk_count": 1
+}

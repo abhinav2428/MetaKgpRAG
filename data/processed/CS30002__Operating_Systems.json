@@ -1,0 +1,21 @@
+{
+  "title": "CS30002: Operating Systems",
+  "url": "https://wiki.metakgp.org/wiki/CS30002:_Operating_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nEvolution of Operating Systems, Structural overview, Concept of process and\nProcess synchronization, Process Management and Scheduling, Hardware\nrequirements: protection, context switching, privileged mode; Threads and their\nManagement; Tools and Constructs for Concurrency, Detection and Prevention of\ndeadlocks, Dynamic Resource Allocation, Design of IO systems, File Management,\nMemory Management: paging, virtual memory management, Distributed and\nMultiprocessor Systems, Case Studies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nMid-Sem",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS30002: Operating Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nEvolution of Operating Systems, Structural overview, Concept of process and\nProcess synchronization, Process Management and Scheduling, Hardware\nrequirements: protection, context switching, privileged mode; Threads and their\nManagement; Tools and Constructs for Concurrency, Detection and Prevention of\ndeadlocks, Dynamic Resource Allocation, Design of IO systems, File Management,\nMemory Management: paging, virtual memory management, Distributed and\nMultiprocessor Systems, Case Studies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nMid-Sem"
+    }
+  ],
+  "chunk_count": 1
+}

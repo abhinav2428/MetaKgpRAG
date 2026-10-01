@@ -1,0 +1,21 @@
+{
+  "title": "MA41010: Non Linear Programming",
+  "url": "https://wiki.metakgp.org/wiki/MA41010:_Non_Linear_Programming",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Operations Research\nConvex set, Convex function, Generalized convex functions. Fritz John and\nKarush- Kuhn – Tucker optimality condition, duality, Convex programming\nproblems, Quadratic programming, Fractional programming, Separable programming,\nNon linear integer programming. Constrained Optimization: One dimensional\nsearch methods, Multi-dimensional search methods. Unconstrained optimization:\nConjugate gradient method, Generalized reduced gradient methods, Method of\nfeasible direction.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA41010: Non Linear Programming\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Operations Research\nConvex set, Convex function, Generalized convex functions. Fritz John and\nKarush- Kuhn – Tucker optimality condition, duality, Convex programming\nproblems, Quadratic programming, Fractional programming, Separable programming,\nNon linear integer programming. Constrained Optimization: One dimensional\nsearch methods, Multi-dimensional search methods. Unconstrained optimization:\nConjugate gradient method, Generalized reduced gradient methods, Method of\nfeasible direction.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

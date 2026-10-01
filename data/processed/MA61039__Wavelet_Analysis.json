@@ -1,0 +1,20 @@
+{
+  "title": "MA61039: Wavelet Analysis",
+  "url": "https://wiki.metakgp.org/wiki/MA61039:_Wavelet_Analysis",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Linear Algebra, Functional AnalysisScalable structure of\ninformation, the new mathematical engineering, good approximations, wavelets a positional notation for functions, algebra and geometry of wavelets matrices, one-dimensional wavelet systems, examples of one-dimensional wavelet\nsystems, higher dimensional wavelet systems, wavelets on Z, Z_n, l^2(Z),\nFourier series, transform and convolution on l*2, Mallat algorithm, wavelet\napproximation, wavelet calculus and connection coefficients, multiscale\nrepresentation of geometry, Wavelet-Galerkin Solutions of partial differential\nequations, wavelet applications - wavelet data compression, modulation and\nchannel coding.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61039: Wavelet Analysis\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Linear Algebra, Functional AnalysisScalable structure of\ninformation, the new mathematical engineering, good approximations, wavelets a positional notation for functions, algebra and geometry of wavelets matrices, one-dimensional wavelet systems, examples of one-dimensional wavelet\nsystems, higher dimensional wavelet systems, wavelets on Z, Z_n, l^2(Z),\nFourier series, transform and convolution on l*2, Mallat algorithm, wavelet\napproximation, wavelet calculus and connection coefficients, multiscale\nrepresentation of geometry, Wavelet-Galerkin Solutions of partial differential\nequations, wavelet applications - wavelet data compression, modulation and\nchannel coding.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

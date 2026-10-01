@@ -1,0 +1,20 @@
+{
+  "title": "EE60104: Data Communication Systems",
+  "url": "https://wiki.metakgp.org/wiki/EE60104:_Data_Communication_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to communication systems. Significance and impact on distributed\nindustrial control and automation. Fundamentals of analog and digital\ncommunication -Modulation and demodulation (AM, FM,PSK,FSK, PCM), Transmitters\nand receivers, Noise and bandwidth factors, Synchronization, Communication\nmedia, Circuit realization\nand communication chips.\nDigital signal\nformats, error detection, correction and recovery, circuit, message and packet\nswitching.Overview of analog and digital telephone systems-Basic configuration\nand standards, Digital PBX for voice and data communicationOverview of\nwireless communication-Radio, Microwave and satellite communication.\nApplication in telemetry.Overview of power line carrier communicationsInterface equipment and communication standards.Local Area Computer Networks Introduction, Basic topologies, Layered architecture. Access techniques\n(CS/CD), Lan technology-Ethernet: media, interface equipment, controller\ncards, application, software issues - networking support in UNIX and DOS,\nClient Server computing.Advanced Topics; -Fibre distributed data interface\n(FDDI), Integration\nservice\ndigital networks\n(ISDN),\nManufacuring\nautomation protocol (MAP), Any other.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60104: Data Communication Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to communication systems. Significance and impact on distributed\nindustrial control and automation. Fundamentals of analog and digital\ncommunication -Modulation and demodulation (AM, FM,PSK,FSK, PCM), Transmitters\nand receivers, Noise and bandwidth factors, Synchronization, Communication\nmedia, Circuit realization\nand communication chips.\nDigital signal\nformats, error detection, correction and recovery, circuit, message and packet\nswitching.Overview of analog and digital telephone systems-Basic configuration\nand standards, Digital PBX for voice and data communicationOverview of\nwireless communication-Radio, Microwave and satellite communication.\nApplication in telemetry.Overview of power line carrier communicationsInterface equipment and communication standards.Local Area Computer Networks Introduction, Basic topologies, Layered architecture. Access techniques\n(CS/CD), Lan technology-Ethernet: media, interface equipment, controller\ncards, application, software issues - networking support in UNIX and DOS,\nClient Server computing.Advanced Topics; -Fibre distributed data interface\n(FDDI), Integration\nservice\ndigital networks\n(ISDN),\nManufacuring\nautomation protocol (MAP), Any other.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

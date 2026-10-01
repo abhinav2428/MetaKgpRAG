@@ -1,0 +1,21 @@
+{
+  "title": "IM60023: Statistical Process Control",
+  "url": "https://wiki.metakgp.org/wiki/IM60023:_Statistical_Process_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nProcess variations and causes, statistical basis for quality control, concept\nof rational sub-grouping, Quality characteristics – variables and attributes,\nPatterns on control charts, Control charts for mean and range mean and standard\ndeviation, individual units, cumulative sum, moving average, trend and\nacceptance, control charts for variables: O.C. curve control charts for\nfractions non-conforming (p-charts), number of non-conforming items (np-chart),\nnumber of non-conformities (c-charts), number of non-conformities per unit (uchart), demerits per unit (U-chart), Process capability analysis.\nBooks\n•Mitra, A.Fundamentals of Quality Control and Improvement, Prentice-Hall, 2nd\nEdn.(1998), ISBN 0-13-645086-5\n•Montgomery, D. C., Introduction to Statistical Quality Control, John Wiley,\n3rd ed. (1996)\n•Grant, E. L. and Leavenworth, R. S., Statistical Quality Control, McGraw Hill,\n5th ed.(1988)\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60023: Statistical Process Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nProcess variations and causes, statistical basis for quality control, concept\nof rational sub-grouping, Quality characteristics – variables and attributes,\nPatterns on control charts, Control charts for mean and range mean and standard\ndeviation, individual units, cumulative sum, moving average, trend and\nacceptance, control charts for variables: O.C. curve control charts for\nfractions non-conforming (p-charts), number of non-conforming items (np-chart),\nnumber of non-conformities (c-charts), number of non-conformities per unit (uchart), demerits per unit (U-chart), Process capability analysis.\nBooks\n•Mitra, A.Fundamentals of Quality Control and Improvement, Prentice-Hall, 2nd\nEdn.(1998), ISBN 0-13-645086-5\n•Montgomery, D. C., Introduction to Statistical Quality Control, John Wiley,\n3rd ed. (1996)\n•Grant, E. L. and Leavenworth, R. S., Statistical Quality Control, McGraw Hill,\n5th ed.(1988)\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

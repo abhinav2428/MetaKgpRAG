@@ -1,0 +1,20 @@
+{
+  "title": "MA60004: Operating Systems Design",
+  "url": "https://wiki.metakgp.org/wiki/MA60004:_Operating_Systems_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void CPU, Memory, file and I/O devices, Batch processing,\nResource scheduling problems, their solutions and analysis, storage management,\nsecondary storage, virtual memory, segmentation and paging. Concurrent\nprocesses and synchronization abstractions. Producer consumer problem, mutual\nexclusion and deadlock, properties of concurrent programs, critical section\nproblem, semaphores, test and set, Atomic operations, Security and recovery:\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA60004: Operating Systems Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void CPU, Memory, file and I/O devices, Batch processing,\nResource scheduling problems, their solutions and analysis, storage management,\nsecondary storage, virtual memory, segmentation and paging. Concurrent\nprocesses and synchronization abstractions. Producer consumer problem, mutual\nexclusion and deadlock, properties of concurrent programs, critical section\nproblem, semaphores, test and set, Atomic operations, Security and recovery:\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

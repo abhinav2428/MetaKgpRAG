@@ -1,0 +1,25 @@
+{
+  "title": "CS60064: Computational Geometry",
+  "url": "https://wiki.metakgp.org/wiki/CS60064:_Computational_Geometry",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: historical perspective, geometric preliminaries. Convex hulls\nalgorithms in 2d and 3d, lower bounds. Triangulations: polygon triang-ulations,\nrepresentations, point-set triangulations. Voronoi diagrams: algorithms,\nclosest pair problems. Delayney triangulations: algorithms (divide-and-conquer,\nflip, incremental), duality of Voronoi diagrams, properties (min-max angle).\nGeometric searching: point-location, 2d linear programming with prune and\nsearch. Visibility: algorithms for weak and strong visibility, visibility with\nreflections, art-gallery problems. Arrangements of lines: 2d arrangements, zone\ntheorem, many-faces complexity, algorithms. Sweep techniques: plane sweep for\nsegment intersections, Fortune s sweep for Voronoi diagrams, topological sweep\nfor line arrangements. Combinatorial geometry: Ham-sandwich cuts, Helly s\ntheorems, k-sets. Rectilinear geometry: intersection and union of rectangles,\nrectangle searching. Robust geometric computing. Applications of computational\ngeometry.References1.Mark de Berg, Otfried Schwarzkopf, Marc van Kreveld and\nMark Overmars, Computational Geometry: Algorithms and Applications,\nSpringer.2.F. P. Preparata and Michael I. Shamos, Computational Geometry: An\nIntroduction, Springer.3.Joseph O Rourke, Computational Geometry in C,\nCambridge University Press.4.Lecture Notes by David Mount.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60064: Computational Geometry\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: historical perspective, geometric preliminaries. Convex hulls\nalgorithms in 2d and 3d, lower bounds. Triangulations: polygon triang-ulations,\nrepresentations, point-set triangulations. Voronoi diagrams: algorithms,\nclosest pair problems. Delayney triangulations: algorithms (divide-and-conquer,\nflip, incremental), duality of Voronoi diagrams, properties (min-max angle).\nGeometric searching: point-location, 2d linear programming with prune and\nsearch. Visibility: algorithms for weak and strong visibility, visibility with\nreflections, art-gallery problems. Arrangements of lines: 2d arrangements, zone\ntheorem, many-faces complexity, algorithms. Sweep techniques: plane sweep for\nsegment intersections, Fortune s sweep for Voronoi diagrams, topological sweep\nfor line arrangements. Combinatorial geometry: Ham-sandwich cuts, Helly s\ntheorems, k-sets. Rectilinear geometry: intersection and union of rectangles,\nrectangle searching. Robust geometric computing. Applications of computational\ngeometry.References1.Mark de Berg, Otfried Schwarzkopf, Marc van Kreveld and\nMark Overmars, Computational Geometry: Algorithms and Applications,\nSpringer.2.F. P. Preparata and Michael I. Shamos, Computational Geometry: An\nIntroduction, Springer.3.Joseph O Rourke, Computational Geometry in C,\nCambridge University Press.4.Lecture Notes by David Mount.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper"
+    },
+    {
+      "index": 1,
+      "text": "CS60064: Computational Geometry\n\nAn\nIntroduction, Springer.3.Joseph O Rourke, Computational Geometry in C,\nCambridge University Press.4.Lecture Notes by David Mount.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

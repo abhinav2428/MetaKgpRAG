@@ -1,0 +1,21 @@
+{
+  "title": "EC60012: Advanced Operating System Design",
+  "url": "https://wiki.metakgp.org/wiki/EC60012:_Advanced_Operating_System_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: None Overview, Sequential Processes, Bankers Algorithms,\nConcurrency, Functional Systems, Mutual Exclusion, Processes Cooperation,\nProcess Communication, Semaphores, Conditional Critical Regions, Event Queues,\nDeadlock, Processor Management, Short term and Long term scheduling problems,\nScheduling algorithms, Queuing system model, Non pre-emptive Scheduling, Preemptive Scheduling, Virtual Memory, Storage Management, I/O Programming and\nInterrupt Structures, Device Management, Information Management, Security.\nDistributed Operating Systems Concept, File Systems, Mode of Computation, Load\nBalancing, Event Ordering, Synchronization, Distributed Mutual Exclusion,\nDrinking Philosophers Problem, Deadlocks in Distributed Systems, Feature of\nUNIX.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60012: Advanced Operating System Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: None Overview, Sequential Processes, Bankers Algorithms,\nConcurrency, Functional Systems, Mutual Exclusion, Processes Cooperation,\nProcess Communication, Semaphores, Conditional Critical Regions, Event Queues,\nDeadlock, Processor Management, Short term and Long term scheduling problems,\nScheduling algorithms, Queuing system model, Non pre-emptive Scheduling, Preemptive Scheduling, Virtual Memory, Storage Management, I/O Programming and\nInterrupt Structures, Device Management, Information Management, Security.\nDistributed Operating Systems Concept, File Systems, Mode of Computation, Load\nBalancing, Event Ordering, Synchronization, Distributed Mutual Exclusion,\nDrinking Philosophers Problem, Deadlocks in Distributed Systems, Feature of\nUNIX.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

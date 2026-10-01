@@ -1,0 +1,20 @@
+{
+  "title": "MT61321: Numerical Fluid Flow",
+  "url": "https://wiki.metakgp.org/wiki/MT61321:_Numerical_Fluid_Flow",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nMathematical formulation of problem based on heat, mass and momentum balance:\nsetting up governing equation, boundary conditions. Case studies : examplesmelting behavior of additions in steel melts, homogenization of liquid steel\nby gas purging, fluid flow, heat transfer and solidification characteristics\nduring welding, continuous casting of steel etc.Numerical Technique and\ncomputer applications : Solution of partial differential equations by Control\nVolume Technique: Discretization of differential equations, solution\nalgorithm, Staggered grids, Gauss Seidel, TDMA solver. Physical Simulation\nâ an empirical way to characterize fluid flow, heat and mass transfer:\nLaboratory experimental design through similarity criteria, Dimensional\nanalysis, Case studies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Metallurgical_&_Materials_Engineering"
+  ],
+  "categories": [
+    "Metallurgical_&_Materials_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MT61321: Numerical Fluid Flow\n\nSyllabus\nSyllabus mentioned in ERP\n\nMathematical formulation of problem based on heat, mass and momentum balance:\nsetting up governing equation, boundary conditions. Case studies : examplesmelting behavior of additions in steel melts, homogenization of liquid steel\nby gas purging, fluid flow, heat transfer and solidification characteristics\nduring welding, continuous casting of steel etc.Numerical Technique and\ncomputer applications : Solution of partial differential equations by Control\nVolume Technique: Discretization of differential equations, solution\nalgorithm, Staggered grids, Gauss Seidel, TDMA solver. Physical Simulation\nâ an empirical way to characterize fluid flow, heat and mass transfer:\nLaboratory experimental design through similarity criteria, Dimensional\nanalysis, Case studies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

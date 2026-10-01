@@ -1,0 +1,21 @@
+{
+  "title": "CH61014: Advanced Heat Transfer",
+  "url": "https://wiki.metakgp.org/wiki/CH61014:_Advanced_Heat_Transfer",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite - CH20002 or equivalentGeneral equation of change of energy.\nSteady and unsteady state conduction in one, two and three dimensional cases.\nFinite difference method for steady and unsteady conduction. Forced convention\nheat transfer. Analytical and semi- analytical solutions. Equations for\nvelocity and temperature in vertical and horizontal planes for cylinders and\nspheres. Radiation heat transfer concepts. Angle factor calculations.\nNetwork method of analysis for radiation exchange. Radiation calculation\nthrough gases and vapors. Design of compact heat exchangers. Boiling heat\ntransfer, liquid metal heat transfer. Selected advanced topics on heat\ntransfer.Text Book:1.Boundary Value Problems of Heat Conduction by M. N.\nOzisik2.Heat Transfer by P. S. Ghoshdastidar3.Fundamentals of Heat and Mass\nTransfer by F. P. Incropera and D. P. Dewitt4.Computational Fluid flow and heat\nTransfer by K. Muralidhar and T. Sundarrajan5.Radiative Heat Transfer by\nHowelReference Book:1.Transport Phenomena by W. M. Denn2.Transport Phenomena by\nR. B. Bird, W. E. Stewart and E. N. Lightfoot3.Boundary layer Theory by H.\nSchlichting\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH61014: Advanced Heat Transfer\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite - CH20002 or equivalentGeneral equation of change of energy.\nSteady and unsteady state conduction in one, two and three dimensional cases.\nFinite difference method for steady and unsteady conduction. Forced convention\nheat transfer. Analytical and semi- analytical solutions. Equations for\nvelocity and temperature in vertical and horizontal planes for cylinders and\nspheres. Radiation heat transfer concepts. Angle factor calculations.\nNetwork method of analysis for radiation exchange. Radiation calculation\nthrough gases and vapors. Design of compact heat exchangers. Boiling heat\ntransfer, liquid metal heat transfer. Selected advanced topics on heat\ntransfer.Text Book:1.Boundary Value Problems of Heat Conduction by M. N.\nOzisik2.Heat Transfer by P. S. Ghoshdastidar3.Fundamentals of Heat and Mass\nTransfer by F. P. Incropera and D. P. Dewitt4.Computational Fluid flow and heat\nTransfer by K. Muralidhar and T. Sundarrajan5.Radiative Heat Transfer by\nHowelReference Book:1.Transport Phenomena by W. M. Denn2.Transport Phenomena by\nR. B. Bird, W. E. Stewart and E. N. Lightfoot3.Boundary layer Theory by H.\nSchlichting\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

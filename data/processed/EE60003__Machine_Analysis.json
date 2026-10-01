@@ -1,0 +1,25 @@
+{
+  "title": "EE60003: Machine Analysis",
+  "url": "https://wiki.metakgp.org/wiki/EE60003:_Machine_Analysis",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nCourse Name: Machine AnalysisCourse No.: EE60003L-T-P : 3-1-0Prerequisite:\nNoneModule-1(8 lectures): Introduction and review of electrical machines;\nPrinciples of electromagnetic energy conversion: General expression of stored\nmagnetic energy, co-energy and force/torque, example using single and doubly\nexcited system. Module-2(8 lectures): Calculation of air gap mmf and per phase\nmachine inductance using physical machine data; Voltage and torque equation of\ndc machine, three phase symmetrical induction machine and salient pole\nsynchronous machines in phase variable form. Module-3(8 lectures):Introduction\nto reference frame theory: static and rotating reference frames, transformation\nrelationships, examples using static symmetrical three phase passive\ncircuits.Module-4(8 lectures):Generalized theory of rotating electrical machine\nand Krons primitive machine;\nModeling of D.C and 3-phase symmetrical\ninduction and synchronous machines; voltage and torque equations, derivation of\nsteady state phasor relationship from dynamic model. Module-5(5\nlectures):Analysis and dynamic modeling of two phase asymmetrical induction\nmachine and single phase induction machine.Module-6(5 lectures):Selected topics\non special machines (PMSM, Stepper, SRM and Linear machines).\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60003: Machine Analysis\n\nSyllabus\nSyllabus mentioned in ERP\n\nCourse Name: Machine AnalysisCourse No.: EE60003L-T-P : 3-1-0Prerequisite:\nNoneModule-1(8 lectures): Introduction and review of electrical machines;\nPrinciples of electromagnetic energy conversion: General expression of stored\nmagnetic energy, co-energy and force/torque, example using single and doubly\nexcited system. Module-2(8 lectures): Calculation of air gap mmf and per phase\nmachine inductance using physical machine data; Voltage and torque equation of\ndc machine, three phase symmetrical induction machine and salient pole\nsynchronous machines in phase variable form. Module-3(8 lectures):Introduction\nto reference frame theory: static and rotating reference frames, transformation\nrelationships, examples using static symmetrical three phase passive\ncircuits.Module-4(8 lectures):Generalized theory of rotating electrical machine\nand Krons primitive machine;\nModeling of D.C and 3-phase symmetrical\ninduction and synchronous machines; voltage and torque equations, derivation of\nsteady state phasor relationship from dynamic model. Module-5(5\nlectures):Analysis and dynamic modeling of two phase asymmetrical induction\nmachine and single phase induction machine.Module-6(5 lectures):Selected topics\non special machines (PMSM, Stepper, SRM and Linear machines).\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "EE60003: Machine Analysis\n\nmachines (PMSM, Stepper, SRM and Linear machines).\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

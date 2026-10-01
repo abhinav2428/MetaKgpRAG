@@ -1,0 +1,25 @@
+{
+  "title": "CS31003: Compilers",
+  "url": "https://wiki.metakgp.org/wiki/CS31003:_Compilers",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nThe aim is to learn how to design and implement a compiler and also to study\nthe underlying theories. The main emphasis is for the imperative\nlanguage.Introduction: Phases of compilation and overview.Lexical Analysis\n(scanner): Regular languages, finite automata, regular expressions, from\nregular expressions to finite automata, scanner generator (lex, flex).Syntax\nAnalysis (Parser): Context-free languages and grammars, push-down automata,\nLL(1) gram-mars and top-down parsing, operator grammars, LR(O), SLR(1), LR(1),\nLALR(1) grammars and bottom-up parsing, ambiguity and LR parsing, LALR(1)\nparser generator (yacc, bison)Semantic Analysis: Attribute grammars, syntax\ndirected definition, evaluation and flow of attribute in a syntax tree.Symbol\nTable: Its structure, symbol attributes and management.Run-time environment:\nProcedure activation, parameter passing, value return, memory allocation, and\nscope.Intermediate Code Generation: Translation of different language features,\ndifferent types of intermediate forms.Code Improvement (optimization):\nAnalysis: control-flow, data-flow dependence etc.; Code improvement local\noptimization, global optimization, loop optimization, peep-hole optimization\netc. Architecture dependent code improvement: instruction scheduling (for\npipeline), loop optimization (for cache memory) etc.Register allocation and\ntarget code generationAdvanced topics: Type systems, data abstraction,\ncompilation of Object Oriented features and non-imperative programming\nlanguages.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nClass Test-1\n\nMid Sem\n\nClass Test-2\n\nEnd Sem\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS31003: Compilers\n\nSyllabus\nSyllabus mentioned in ERP\n\nThe aim is to learn how to design and implement a compiler and also to study\nthe underlying theories.\n\nThe main emphasis is for the imperative\nlanguage.Introduction: Phases of compilation and overview.Lexical Analysis\n(scanner): Regular languages, finite automata, regular expressions, from\nregular expressions to finite automata, scanner generator (lex, flex).Syntax\nAnalysis (Parser): Context-free languages and grammars, push-down automata,\nLL(1) gram-mars and top-down parsing, operator grammars, LR(O), SLR(1), LR(1),\nLALR(1) grammars and bottom-up parsing, ambiguity and LR parsing, LALR(1)\nparser generator (yacc, bison)Semantic Analysis: Attribute grammars, syntax\ndirected definition, evaluation and flow of attribute in a syntax tree.Symbol\nTable: Its structure, symbol attributes and management.Run-time environment:\nProcedure activation, parameter passing, value return, memory allocation, and\nscope.Intermediate Code Generation: Translation of different language features,\ndifferent types of intermediate forms.Code Improvement (optimization):\nAnalysis: control-flow, data-flow dependence etc.; Code improvement local\noptimization, global optimization, loop optimization, peep-hole optimization\netc."
+    },
+    {
+      "index": 1,
+      "text": "CS31003: Compilers\n\nforms.Code Improvement (optimization):\nAnalysis: control-flow, data-flow dependence etc.; Code improvement local\noptimization, global optimization, loop optimization, peep-hole optimization\netc.\n\nArchitecture dependent code improvement: instruction scheduling (for\npipeline), loop optimization (for cache memory) etc.Register allocation and\ntarget code generationAdvanced topics: Type systems, data abstraction,\ncompilation of Object Oriented features and non-imperative programming\nlanguages.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nClass Test-1\n\nMid Sem\n\nClass Test-2\n\nEnd Sem\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

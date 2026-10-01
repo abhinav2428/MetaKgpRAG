@@ -1,0 +1,25 @@
+{
+  "title": "CH62047: Cfd Applications In Chemical Processing",
+  "url": "https://wiki.metakgp.org/wiki/CH62047:_Cfd_Applications_In_Chemical_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Computational Fluid Dynamics (CFD) and modeling of flow;\nSummary of governing equations; Conservation form of equations; Well-posed and\nill-posed problems.Discretization of the equations; Truncation and Round-off\nerror; Explicit and Implicit approaches; Concepts of numerical or artificial\nviscosity; Different boundary conditions.Application of Finite Difference\nmethods to wave equations, Laplace equations and Burgers equation; Stability\nconsiderations.Numerical methods for boundary layer type equations, NavierStokes equations; Outline of MAC and SIMPLE algorithms. Grid generation;\nConcepts of Finite volume methods.Solution of Flow with coupled heat transfer\n(forced and natural convection); Outline of Reactive flow (combustion) and\nmulti-phase flow.Introduction of a commercial CFD package\n(FLUENT).Text/Reference Books:1. Computational Fluid Mechanics and Heat\nTransfer by D. A. Anderson, J. C. Tannehill and R. H. Pletcher.2. Numerical\nHeat transfer and and Fluid Flow by S. V. Patankar3. Computational Fluid\nDynamics by P. J. Roache4. Computational Methods for Fluid Flow by R. Peyret\nand T. D. Taylor.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH62047: Cfd Applications In Chemical Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Computational Fluid Dynamics (CFD) and modeling of flow;\nSummary of governing equations; Conservation form of equations; Well-posed and\nill-posed problems.Discretization of the equations; Truncation and Round-off\nerror; Explicit and Implicit approaches; Concepts of numerical or artificial\nviscosity; Different boundary conditions.Application of Finite Difference\nmethods to wave equations, Laplace equations and Burgers equation; Stability\nconsiderations.Numerical methods for boundary layer type equations, NavierStokes equations; Outline of MAC and SIMPLE algorithms. Grid generation;\nConcepts of Finite volume methods.Solution of Flow with coupled heat transfer\n(forced and natural convection); Outline of Reactive flow (combustion) and\nmulti-phase flow.Introduction of a commercial CFD package\n(FLUENT).Text/Reference Books:1. Computational Fluid Mechanics and Heat\nTransfer by D. A. Anderson, J. C. Tannehill and R. H. Pletcher.2. Numerical\nHeat transfer and and Fluid Flow by S. V. Patankar3. Computational Fluid\nDynamics by P. J. Roache4. Computational Methods for Fluid Flow by R. Peyret\nand T. D. Taylor.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "CH62047: Cfd Applications In Chemical Processing\n\nMethods for Fluid Flow by R. Peyret\nand T. D. Taylor.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MA39011: Object Oriented Systems Design Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/MA39011:_Object_Oriented_Systems_Design_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Object Oriented Systems Design Implementation of : exercises on\nObjects, Classes, Static and dynamic modeling, JAVA, UML; client server and\ndistributed objects, client server implementation; CORBA, COM/DCOM.\n\nConcepts taught in class\n\nStudent Opinion\nAutumn 2016\nTaught by Dharmendra Kumar Gupta \nFirst thing, he would ask you to implement NQueens problem in object-oriented programing paradigm, then Intelligent Interactive Kitchen Helper after which a tourist portal for your city. In total, teaches you next to nothing but expects you to code everything (The theory classes are in C++ but you are expected to code in JAVA).\nEnd evaluation would be based on printed codes of the programs and would deduce marks on a malformed index. Would ask you to create diagrams of class structure (though this is actually a good thing to learn, maybe this is the only takeaway from the course). In the viva, would ask you random questions. No one got EX, two-three students got A. But the lab is peaceful, there is not much load. Nishnik (talk)\nHow to Crack the Paper\n\nClassroom resources\nSample repositories: abhinavjain241/IIKH\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Dharmendra_Kumar_Gupta",
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA39011: Object Oriented Systems Design Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Object Oriented Systems Design Implementation of : exercises on\nObjects, Classes, Static and dynamic modeling, JAVA, UML; client server and\ndistributed objects, client server implementation; CORBA, COM/DCOM.\n\nConcepts taught in class\n\nStudent Opinion\nAutumn 2016\nTaught by Dharmendra Kumar Gupta \nFirst thing, he would ask you to implement NQueens problem in object-oriented programing paradigm, then Intelligent Interactive Kitchen Helper after which a tourist portal for your city. In total, teaches you next to nothing but expects you to code everything (The theory classes are in C++ but you are expected to code in JAVA).\nEnd evaluation would be based on printed codes of the programs and would deduce marks on a malformed index. Would ask you to create diagrams of class structure (though this is actually a good thing to learn, maybe this is the only takeaway from the course). In the viva, would ask you random questions. No one got EX, two-three students got A. But the lab is peaceful, there is not much load. Nishnik (talk)\nHow to Crack the Paper\n\nClassroom resources\nSample repositories: abhinavjain241/IIKH\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

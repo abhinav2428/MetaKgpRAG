@@ -1,0 +1,24 @@
+{
+  "title": "EE69016: Embedded Systems Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/EE69016:_Embedded_Systems_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n1. Serial communication between 8-bit MCU and PC Write a program in PC to\ngenerate a sequence of ASCII character and display it on the DSO Write a\nprogram in MCU to generate an sequence of ASCII character and display it on the\nDSO Establish serial communication between MCU and PC 2. Embedded System\nProgramming (ANDROID) Programming using java, Programming and learning XML,\nDevelopment of ANDROID Applications for embedded system 3. Light Intensity\nControl using 8-bit microcontroller Interface light sensor with MCU and data\nacquisitions, Digitally control light intensity of a bulb Digitally control\nlight intensity of a room 4. Embedded system implementation on FPGA Details\nstudy about FPGA, Filter implementation using FPGA,Object detection using FPGA,\n5. OPALRT Basic experiments Model development, Simulation, Testing and\nparameter adjustment Real time Implementation, 6. Temperature control using 8bit MCU Interface temperature sensor with MCU and data acquisition, Interfacing\nRelay and DC motor with MCU,Control Temperature of a system 7. FIR Filter\nimplementation in ARM Platform Design FIR filter, Implementation of FIR filter\non hardware Testing and Parameter adjustment\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n|| || || || || || || Embedded Systems Lab|| Embedded Systems Lab|| Embedded Systems Lab|| Embedded Systems Lab\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE69016: Embedded Systems Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\n1. Serial communication between 8-bit MCU and PC Write a program in PC to\ngenerate a sequence of ASCII character and display it on the DSO Write a\nprogram in MCU to generate an sequence of ASCII character and display it on the\nDSO Establish serial communication between MCU and PC 2. Embedded System\nProgramming (ANDROID) Programming using java, Programming and learning XML,\nDevelopment of ANDROID Applications for embedded system 3. Light Intensity\nControl using 8-bit microcontroller Interface light sensor with MCU and data\nacquisitions, Digitally control light intensity of a bulb Digitally control\nlight intensity of a room 4. Embedded system implementation on FPGA Details\nstudy about FPGA, Filter implementation using FPGA,Object detection using FPGA,\n5. OPALRT Basic experiments Model development, Simulation, Testing and\nparameter adjustment Real time Implementation, 6. Temperature control using 8bit MCU Interface temperature sensor with MCU and data acquisition, Interfacing\nRelay and DC motor with MCU,Control Temperature of a system 7. FIR Filter\nimplementation in ARM Platform Design FIR filter, Implementation of FIR filter\non hardware Testing and Parameter adjustment\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "EE69016: Embedded Systems Laboratory\n\nFIR filter\non hardware Testing and Parameter adjustment\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n|| || || || || || || Embedded Systems Lab|| Embedded Systems Lab|| Embedded Systems Lab|| Embedded Systems Lab\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

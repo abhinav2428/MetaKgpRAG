@@ -1,0 +1,21 @@
+{
+  "title": "EE60050: Adaptive And Learning Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60050:_Adaptive_And_Learning_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nConcept of adaptive control, Least squares parameter estimation with\nexponential forgetting. Model reference adaptive system. MRAS design based on\ngradient method, design of stable adaptive controllers based on Kalman-MeyerYakubovich lemma, Lyapunov’s theory and hyperstability theory, error model.\nSelf tuning regulators, STR design based on pole-placement technique and LQG\ntheory. Gain scheduling. Stability of adaptive control algorithms. Adaptive\ncontrol of a nonlinear systems. Adaptive predictive control. Robustness of\nadaptive control systems. Instability phenomena in adaptive systems.\nConcept of learning control systems. Different types of learning control\nschemes. LTI learning control via parameter estimation schemes. Convergence of\nlearning control. Case Studies: Robotic manipulators, Aerodynamic curve\nidentification.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60050: Adaptive And Learning Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nConcept of adaptive control, Least squares parameter estimation with\nexponential forgetting. Model reference adaptive system. MRAS design based on\ngradient method, design of stable adaptive controllers based on Kalman-MeyerYakubovich lemma, Lyapunov’s theory and hyperstability theory, error model.\nSelf tuning regulators, STR design based on pole-placement technique and LQG\ntheory. Gain scheduling. Stability of adaptive control algorithms. Adaptive\ncontrol of a nonlinear systems. Adaptive predictive control. Robustness of\nadaptive control systems. Instability phenomena in adaptive systems.\nConcept of learning control systems. Different types of learning control\nschemes. LTI learning control via parameter estimation schemes. Convergence of\nlearning control. Case Studies: Robotic manipulators, Aerodynamic curve\nidentification.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

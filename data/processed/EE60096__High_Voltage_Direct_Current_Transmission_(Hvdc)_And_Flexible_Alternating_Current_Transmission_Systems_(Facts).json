@@ -1,0 +1,25 @@
+{
+  "title": "EE60096: High Voltage Direct Current Transmission (Hvdc) And Flexible Alternating Current Transmission Systems (Facts)",
+  "url": "https://wiki.metakgp.org/wiki/EE60096:_High_Voltage_Direct_Current_Transmission_(Hvdc)_And_Flexible_Alternating_Current_Transmission_Systems_(Facts)",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nA. HVDCâ¢Introduction to HVDC: Overview and advantages. â¢Basic power\nconversion principle, Rectifier and inverter operation, Commutation. â¢Control\nof HVDC for stable operation. â¢Harmonic Generation, analysis and elimination\non DC systems. â¢Protection of HVDC system with focus on commutation failure.\nâ¢Interaction with AC system. â¢New concepts: Voltage sourced converter based\nHVDC, Introduction to multilevel converters for high voltage power transmission\nsystem, Multi-terminal HVDC. B. FACTSâ¢Introduction to FACTS â Compensation of\ntransmission systems.â¢Series and Shunt FACTS controllers - variable impedance\ntype and switched converter type.â¢Unified Power Flow Controller and other\ntypes of FACTS devices.â¢Application of FACTS controllers in improvement of\npower system operation and stability.Suggested Reading/Text Books/Reference\nBooks:(a)J. Arrillaga, High Voltage Direct Current Transmission, The\nInstitution of Electrical Engineers, London, UK, 1998.(b)E. W. Kimbark, Direct\nCurrent Transmission, Wiley-Intersciece, 1971.(c)N. G. Hingorani, Understanding\nFACTS, IEEE Press, 2001.(d)E. Uhlmann, Power Transmission by Direct Current,\nSpringer-Verlag.(e)K. R. Padiyar, HVDC Power Transmission Systems: Technology\nand System Interactions, New Age International (P) Limited, and\nPublishers.(f)Enrique Acha, Power electronic control in electrical systems,\nNewnes, 2002 - Technology\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60096: High Voltage Direct Current Transmission (Hvdc) And Flexible Alternating Current Transmission Systems (Facts)\n\nSyllabus\nSyllabus mentioned in ERP\n\nA.\n\nHVDCâ¢Introduction to HVDC: Overview and advantages.\n\nâ¢Basic power\nconversion principle, Rectifier and inverter operation, Commutation.\n\nâ¢Control\nof HVDC for stable operation.\n\nâ¢Harmonic Generation, analysis and elimination\non DC systems.\n\nâ¢Protection of HVDC system with focus on commutation failure.\n\nâ¢Interaction with AC system.\n\nâ¢New concepts: Voltage sourced converter based\nHVDC, Introduction to multilevel converters for high voltage power transmission\nsystem, Multi-terminal HVDC.\n\nB.\n\nFACTSâ¢Introduction to FACTS â Compensation of\ntransmission systems.â¢Series and Shunt FACTS controllers - variable impedance\ntype and switched converter type.â¢Unified Power Flow Controller and other\ntypes of FACTS devices.â¢Application of FACTS controllers in improvement of\npower system operation and stability.Suggested Reading/Text Books/Reference\nBooks:(a)J.\n\nArrillaga, High Voltage Direct Current Transmission, The\nInstitution of Electrical Engineers, London, UK, 1998.(b)E.\n\nW.\n\nKimbark, Direct\nCurrent Transmission, Wiley-Intersciece, 1971.(c)N.\n\nG.\n\nHingorani, Understanding\nFACTS, IEEE Press, 2001.(d)E.\n\nUhlmann, Power Transmission by Direct Current,\nSpringer-Verlag.(e)K.\n\nR."
+    },
+    {
+      "index": 1,
+      "text": "EE60096: High Voltage Direct Current Transmission (Hvdc) And Flexible Alternating Current Transmission Systems (Facts)\n\nDirect\nCurrent Transmission, Wiley-Intersciece, 1971.(c)N.\n\nG.\n\nHingorani, Understanding\nFACTS, IEEE Press, 2001.(d)E.\n\nUhlmann, Power Transmission by Direct Current,\nSpringer-Verlag.(e)K.\n\nR.\n\nPadiyar, HVDC Power Transmission Systems: Technology\nand System Interactions, New Age International (P) Limited, and\nPublishers.(f)Enrique Acha, Power electronic control in electrical systems,\nNewnes, 2002 - Technology\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

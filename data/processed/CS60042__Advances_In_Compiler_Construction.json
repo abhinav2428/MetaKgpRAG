@@ -1,0 +1,21 @@
+{
+  "title": "CS60042: Advances In Compiler Construction",
+  "url": "https://wiki.metakgp.org/wiki/CS60042:_Advances_In_Compiler_Construction",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nReview of compiler fundamentals Ã¢ÂÂ lexical analysis, parsing, semantic\nanalysis, error recovery and intermediate code generation; Runtime storage\nmanagement; Code generation; Code improvement Ã¢ÂÂ peephole optimization,\ndependence analysis and redundancy elimination, loop optimization, procedural\nand inter-procedural optimization, instruction scheduling, optimization for\nmemory hierarchy; Compilation for high performance architecture; Portability\nand retargetability; Selected topics from compilers for imperative, objectoriented and mark-up languages, parallel and distributed programming and\nconcurrency.References1.Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman,\nCompilers: Principles, Techniques and Tools, Addison-Wesley.2.Michael L. Scott,\nProgramming Language Pragmatics, Elsevier.3.Andrew W. Appel, Modern Compiler\nImplementation in C/Java, Cambridge University Press.4.Keith D. Cooper and\nLinda Torczon, Engineering a Compiler, Elsevier.5.Allen I. Holob, Compiler\nDesign in C, Prentice-Hall.6.Steven S. Muchnik, Advanced Compiler Design and\nImplementation, Elsevier.7.Randy Allen and Ken Kennedy, Optimizing Compilers\nfor Modern Architectures, Elsevier.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60042: Advances In Compiler Construction\n\nSyllabus\nSyllabus mentioned in ERP\n\nReview of compiler fundamentals Ã¢ÂÂ lexical analysis, parsing, semantic\nanalysis, error recovery and intermediate code generation; Runtime storage\nmanagement; Code generation; Code improvement Ã¢ÂÂ peephole optimization,\ndependence analysis and redundancy elimination, loop optimization, procedural\nand inter-procedural optimization, instruction scheduling, optimization for\nmemory hierarchy; Compilation for high performance architecture; Portability\nand retargetability; Selected topics from compilers for imperative, objectoriented and mark-up languages, parallel and distributed programming and\nconcurrency.References1.Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman,\nCompilers: Principles, Techniques and Tools, Addison-Wesley.2.Michael L. Scott,\nProgramming Language Pragmatics, Elsevier.3.Andrew W. Appel, Modern Compiler\nImplementation in C/Java, Cambridge University Press.4.Keith D. Cooper and\nLinda Torczon, Engineering a Compiler, Elsevier.5.Allen I. Holob, Compiler\nDesign in C, Prentice-Hall.6.Steven S. Muchnik, Advanced Compiler Design and\nImplementation, Elsevier.7.Randy Allen and Ken Kennedy, Optimizing Compilers\nfor Modern Architectures, Elsevier.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

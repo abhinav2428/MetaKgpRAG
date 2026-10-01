@@ -1,0 +1,19 @@
+{
+  "title": "Link PDF files as links in metakgp wiki (using IPFS)",
+  "url": "https://wiki.metakgp.org/wiki/Link_PDF_files_as_links_in_metakgp_wiki_(using_IPFS)",
+  "text": "Introduction - Why IPFS \nSometimes, users might required to add PDF files in a wiki article. But files generally consume a lot of space on the server. Hence, a simpler solution would be to upload the PDF somewhere and put its reference link in the article. General solution might be to upload a PDF in one's cloud storage accounts like Google Drive or Dropbox. But there are chances that in future the link to the file may be broken due to reasons like user's account getting banned or user deleting the file accidentally. So, it is necessary to have a place, where the PDF is uploaded permanently, and link is valid forever. \n\nIPFS solves our problems here. IPFS is a peer to peer file storage system. A file uploaded in IPFS cannot be deleted. So, the link in the article will never be broken. This article follows a step by step guide on how to upload a file using IPFS and access it using a link, which can be put in the wiki article.\n\n Step by Step guide \n\n# Visit the site - https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/\n# Click on CHOOSE FILES button and upload the file\n# Click on the Upload at the bottom of the page, as shown here\n# On the Right hand side, in a grey background text area, you can see a JSON with key names - path, hash, size.\n# Copy the hash value to the clip board, as shown here.\n# The file can be viewed at the URL https://ipfs.io/ipfs/HASH_WHICH_YOU_JUST_COPIED , as show here\n# You can reference the above link in the wiki article.\n# Not Just PDF files, you can also upload images, videos too.\n\n Further Reading \n\n* Introductory video on IPFS\n* IPFS docs",
+  "page_type": "general",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Link PDF files as links in metakgp wiki (using IPFS)\n\nIntroduction - Why IPFS \nSometimes, users might required to add PDF files in a wiki article. But files generally consume a lot of space on the server. Hence, a simpler solution would be to upload the PDF somewhere and put its reference link in the article. General solution might be to upload a PDF in one's cloud storage accounts like Google Drive or Dropbox. But there are chances that in future the link to the file may be broken due to reasons like user's account getting banned or user deleting the file accidentally. So, it is necessary to have a place, where the PDF is uploaded permanently, and link is valid forever.\n\nIPFS solves our problems here. IPFS is a peer to peer file storage system. A file uploaded in IPFS cannot be deleted. So, the link in the article will never be broken. This article follows a step by step guide on how to upload a file using IPFS and access it using a link, which can be put in the wiki article.\n\nStep by Step guide"
+    },
+    {
+      "index": 1,
+      "text": "Link PDF files as links in metakgp wiki (using IPFS)\n\nin the article will never be broken. This article follows a step by step guide on how to upload a file using IPFS and access it using a link, which can be put in the wiki article.\n\nStep by Step guide\n\n# Visit the site - https://anarkrypto.github.io/upload-files-to-ipfs-from-browser-panel/public/\n# Click on CHOOSE FILES button and upload the file\n# Click on the Upload at the bottom of the page, as shown here\n# On the Right hand side, in a grey background text area, you can see a JSON with key names - path, hash, size.\n# Copy the hash value to the clip board, as shown here.\n# The file can be viewed at the URL https://ipfs.io/ipfs/HASH_WHICH_YOU_JUST_COPIED , as show here\n# You can reference the above link in the wiki article.\n# Not Just PDF files, you can also upload images, videos too.\n\nFurther Reading\n\n* Introductory video on IPFS\n* IPFS docs"
+    }
+  ],
+  "chunk_count": 2
+}

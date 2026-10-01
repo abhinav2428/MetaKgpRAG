@@ -1,0 +1,25 @@
+{
+  "title": "EC31001: Analog Communication",
+  "url": "https://wiki.metakgp.org/wiki/EC31001:_Analog_Communication",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21004 or EE (Signals and Networks) Representation of signals\nand systems in a communication system: Discrete and continuous spectra of\nsignals, concepts of modulation and frequency translation, lowpass and bandpass\nsignals and channels, concept of complex envelope, Hilbert transform and phase\nshifting; Continuous wave (CW) modulation: AM, DSB/SC, SSB, VSB, methods of\ngeneration; Demodulation techniques of CW modulation: coherent and noncoherent; Nonlinear modulation techniques: FM and PM, narrowband FM, wideband\nFM, methods of generation; FM spectrum; Demodulation techniques for FM;\nFrequency Division Multiplexing (FDM); Radio transmitters and receivers;\nSampling a signal by periodic pulse stream: spectra of ideally sampled signal,\nNyquist sampling theorem, flat-top sampling, sampling of bandpass signals,\nexamples of sampling circuits; PAM, PWM, PPM, PFM â spectra, generation and\ndemodulation schemes; Time-division multiplexing; Performance of analog\nmodulation schemes in AWGN : CNR, post-demodulation SNR and figure of merit for\nAM, DSB/SC, SSB, FM, threshold effect in FM, pre-emphasis and de-emphasis in\nFM, FMFB. Noise in receivers; Noise figures; Radio link design.\n\nConcepts taught in class.\n\nStudent Opinion\nA good course with a bad teacher I suppose.\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC31001: Analog Communication\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21004 or EE (Signals and Networks) Representation of signals\nand systems in a communication system: Discrete and continuous spectra of\nsignals, concepts of modulation and frequency translation, lowpass and bandpass\nsignals and channels, concept of complex envelope, Hilbert transform and phase\nshifting; Continuous wave (CW) modulation: AM, DSB/SC, SSB, VSB, methods of\ngeneration; Demodulation techniques of CW modulation: coherent and noncoherent; Nonlinear modulation techniques: FM and PM, narrowband FM, wideband\nFM, methods of generation; FM spectrum; Demodulation techniques for FM;\nFrequency Division Multiplexing (FDM); Radio transmitters and receivers;\nSampling a signal by periodic pulse stream: spectra of ideally sampled signal,\nNyquist sampling theorem, flat-top sampling, sampling of bandpass signals,\nexamples of sampling circuits; PAM, PWM, PPM, PFM â spectra, generation and\ndemodulation schemes; Time-division multiplexing; Performance of analog\nmodulation schemes in AWGN : CNR, post-demodulation SNR and figure of merit for\nAM, DSB/SC, SSB, FM, threshold effect in FM, pre-emphasis and de-emphasis in\nFM, FMFB. Noise in receivers; Noise figures; Radio link design.\n\nConcepts taught in class.\n\nStudent Opinion\nA good course with a bad teacher I suppose.\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \""
+    },
+    {
+      "index": 1,
+      "text": "EC31001: Analog Communication\n\ndesign.\n\nConcepts taught in class.\n\nStudent Opinion\nA good course with a bad teacher I suppose.\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

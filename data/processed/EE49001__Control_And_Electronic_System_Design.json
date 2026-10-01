@@ -1,0 +1,33 @@
+{
+  "title": "EE49001: Control And Electronic System Design",
+  "url": "https://wiki.metakgp.org/wiki/EE49001:_Control_And_Electronic_System_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\npre requisite: EC21001 and EE31001Design assignments to be provided by teacher\non broad areas listed below.A.Design of a practical control system including\naspects such as :a.Aspects of plant, actuator, sensor and disturbance\nmodelingb.Controller design from specifications and including typical factors,\nsuch as control limit and rate constraints.c.Design of the feedback subsystem\nincluding electronic signal conditioningd.Design of electrical actuation\nsystems such as ones based on Power Electronic Circuits.e.Simulation of such\nsystems on MATLABB.Design of signal processing systems including aspects such\nas : a.Development of Filter specifications from practical\nconsiderations,b.Design of Filter transfer function and analog circuit\nrealizationc.Realization of digital filter algorithms and associated circuit\ndesigns such as amplifiers, ADC, Sample and hold circuit, Anti-aliasing filter\netc.d.Development of the digital filter code on a suitable embedded hardware\nplatform such as microcontroller, DSP.C.Design of measurement systems including\naspects such as :a.Development of specifications from practical considerations\nof the measurement applicationb.Design of interface subsystem for achieving\nmeasurement accuracyi.Noise related issues, such as shielding, guarding,\ngroundingii.Compensation issues related to power supply and temperature\neffects, nonlinearityiii.Calibration, zero and sensitivity\nadjustmentc.Computing system measurement related specifications based on\ncomponent level specifications available in electronic data sheetsd.Data\nAcquisition system for PCsD.Microprocessor-based Industrial Automation\nincluding aspects of a.Industrial grade single-loop PID controller realization\nwith features to address integral wind-ups, auto-manual transfers, auto-tuning\netc.b.PLC based system design including RLL programmingSimple embedded\ncontrollers with features such as remote wireless command for applications such\nas home automation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE49001: Control And Electronic System Design\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "EE49001: Control And Electronic System Design\n\npre requisite: EC21001 and EE31001Design assignments to be provided by teacher\non broad areas listed below.A.Design of a practical control system including\naspects such as :a.Aspects of plant, actuator, sensor and disturbance\nmodelingb.Controller design from specifications and including typical factors,\nsuch as control limit and rate constraints.c.Design of the feedback subsystem\nincluding electronic signal conditioningd.Design of electrical actuation\nsystems such as ones based on Power Electronic Circuits.e.Simulation of such\nsystems on MATLABB.Design of signal processing systems including aspects such\nas : a.Development of Filter specifications from practical\nconsiderations,b.Design of Filter transfer function and analog circuit\nrealizationc.Realization of digital filter algorithms and associated circuit\ndesigns such as amplifiers, ADC, Sample and hold circuit, Anti-aliasing filter\netc.d.Development of the digital filter code on a suitable embedded hardware\nplatform such as microcontroller, DSP.C.Design of measurement systems including\naspects such as :a.Development of specifications from practical considerations\nof the measurement applicationb.Design of interface subsystem for achieving\nmeasurement accuracyi.Noise related issues, such as shielding, guarding,\ngroundingii.Compensation issues related to power supply and temperature\neffects, nonlinearityiii.Calibration, zero and sensitivity\nadjustmentc.Computing system measurement"
+    },
+    {
+      "index": 2,
+      "text": "EE49001: Control And Electronic System Design\n\nsuch as shielding, guarding,\ngroundingii.Compensation issues related to power supply and temperature\neffects, nonlinearityiii.Calibration, zero and sensitivity\nadjustmentc.Computing system measurement related specifications based on\ncomponent level specifications available in electronic data sheetsd.Data\nAcquisition system for PCsD.Microprocessor-based Industrial Automation\nincluding aspects of a.Industrial grade single-loop PID controller realization\nwith features to address integral wind-ups, auto-manual transfers, auto-tuning\netc.b.PLC based system design including RLL programmingSimple embedded\ncontrollers with features such as remote wireless command for applications such\nas home automation."
+    },
+    {
+      "index": 3,
+      "text": "EE49001: Control And Electronic System Design\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 4
+}

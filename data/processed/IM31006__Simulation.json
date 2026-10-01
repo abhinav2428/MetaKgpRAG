@@ -1,0 +1,21 @@
+{
+  "title": "IM31006: Simulation",
+  "url": "https://wiki.metakgp.org/wiki/IM31006:_Simulation",
+  "text": "Prerequisites\nIM21003\n\nSyllabus mentioned in ERP\nOperations Research-I Discrete system simulation, Generation of pseudo-random numbers, Generation of random deviates. Continuous system simulation, Numerical integration schemes such as, Euler and RungeKutta. Simulation languages such as EXTEND and STELLA. Design of simulation experiments, Variance prediction techniques, Statistical analysis of outputs, Optimization of parameters, Verification and validation aspects of simulation models. Simulators for training skill, Principles, Learning theory, Examples. Simulation games, Principles, Types, Studies on effectiveness.\n\nBooks J.Banks, J. S. Carson, B. L. Nelson and D. M. Nicol (2001), Discrete Event System Simulation, 3rd Ed., Pearson Education International Series. A. M. Law and\nW. D. Kelton (2000), Simulation Modeling and Analysis, 3rd Ed., McGraw Hill International - Industrial Engg. Series.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM31006: Simulation\n\nPrerequisites\nIM21003\n\nSyllabus mentioned in ERP\nOperations Research-I Discrete system simulation, Generation of pseudo-random numbers, Generation of random deviates. Continuous system simulation, Numerical integration schemes such as, Euler and RungeKutta. Simulation languages such as EXTEND and STELLA. Design of simulation experiments, Variance prediction techniques, Statistical analysis of outputs, Optimization of parameters, Verification and validation aspects of simulation models. Simulators for training skill, Principles, Learning theory, Examples. Simulation games, Principles, Types, Studies on effectiveness.\n\nBooks J.Banks, J. S. Carson, B. L. Nelson and D. M. Nicol (2001), Discrete Event System Simulation, 3rd Ed., Pearson Education International Series. A. M. Law and\nW. D. Kelton (2000), Simulation Modeling and Analysis, 3rd Ed., McGraw Hill International - Industrial Engg. Series.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

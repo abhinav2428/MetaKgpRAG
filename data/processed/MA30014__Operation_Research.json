@@ -1,0 +1,24 @@
+{
+  "title": "MA30014: Operation Research",
+  "url": "https://wiki.metakgp.org/wiki/MA30014:_Operation_Research",
+  "text": "Syllabus mentioned in ERP\n\nBaseline model, linear programming problem, convex sets, convex functions and their properties, basic feasible solution, optimal solution, related theorems. Graphical method for solving two and three variable problems, simplex method, Big M method, degenerate LP problem, product form of inverse of a matrix, revised simplex method, duality theorems, complementary slackness principle, primal-dual simplex algorithm, sensitivity analysis, parametric programming, linear integer programming problem, Gomory cutting plane method, branch and bound algorithm, 0-1 implicit enumeration, transportation problem, assignment problem with their solution methodologies. Theory of games, two-person zero-sum games with and without saddle-points, pure and mixed strategies, graphical method of solution of a 2ï´n game, solution of an mï´n game by simplex method.\n\nConcepts taught in class\nIntroduction\nOperation Research is a branch of mathematics that deals with obtaining the best (optimum) results for equations or expressions under certain restrictions. Most common applications are in minimizing effort or cost, and maximizing output. Optimization Techniques are divided into two different types, namely Linear Models and Non-Linear Models. The mathematical statement of a linear model is stated as follows:\n\nFind x_1, x_2, x_3,..., x_n so as to\n\nmax/min : Z = \\sum_{j=0}^{n} c_j x_j, j=1,2,3...n \n\nSubject to the conditions : \n\n\\sum_{j=0}^{n} a_{ij} x_j (\\le,=,\\ge) b_i, i=1,2,3...m \n\n x_j\\ge0, j=1,2,3,...,n\n\nGraphical Method\nBasic Feasible Solution Method\nSimplex Method\nBig-M Method\nTwo Phase Method\nDual Simplex Method\nTheorems\n\nClassroom resources\nSuggested reference books\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Department_of_Mathematics",
+    "https://wiki.metakgp.org/wiki/Mahendra_Prasad_Biswal"
+  ],
+  "categories": [
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA30014: Operation Research\n\nSyllabus mentioned in ERP\n\nBaseline model, linear programming problem, convex sets, convex functions and their properties, basic feasible solution, optimal solution, related theorems. Graphical method for solving two and three variable problems, simplex method, Big M method, degenerate LP problem, product form of inverse of a matrix, revised simplex method, duality theorems, complementary slackness principle, primal-dual simplex algorithm, sensitivity analysis, parametric programming, linear integer programming problem, Gomory cutting plane method, branch and bound algorithm, 0-1 implicit enumeration, transportation problem, assignment problem with their solution methodologies. Theory of games, two-person zero-sum games with and without saddle-points, pure and mixed strategies, graphical method of solution of a 2ï´n game, solution of an mï´n game by simplex method.\n\nConcepts taught in class\nIntroduction\nOperation Research is a branch of mathematics that deals with obtaining the best (optimum) results for equations or expressions under certain restrictions. Most common applications are in minimizing effort or cost, and maximizing output. Optimization Techniques are divided into two different types, namely Linear Models and Non-Linear Models. The mathematical statement of a linear model is stated as follows:\n\nFind x_1, x_2, x_3,..., x_n so as to\n\nmax/min : Z = \\sum_{j=0}^{n} c_j x_j, j=1,2,3...n\n\nSubject to the conditions :"
+    },
+    {
+      "index": 1,
+      "text": "MA30014: Operation Research\n\nModels. The mathematical statement of a linear model is stated as follows:\n\nFind x_1, x_2, x_3,..., x_n so as to\n\nmax/min : Z = \\sum_{j=0}^{n} c_j x_j, j=1,2,3...n\n\nSubject to the conditions :\n\n\\sum_{j=0}^{n} a_{ij} x_j (\\le,=,\\ge) b_i, i=1,2,3...m\n\nx_j\\ge0, j=1,2,3,...,n\n\nGraphical Method\nBasic Feasible Solution Method\nSimplex Method\nBig-M Method\nTwo Phase Method\nDual Simplex Method\nTheorems\n\nClassroom resources\nSuggested reference books\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

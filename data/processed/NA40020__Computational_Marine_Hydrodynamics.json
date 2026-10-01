@@ -1,0 +1,21 @@
+{
+  "title": "NA40020: Computational Marine Hydrodynamics",
+  "url": "https://wiki.metakgp.org/wiki/NA40020:_Computational_Marine_Hydrodynamics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic of integral equation methods: Greens theorem and distribution of\nsingularities. Panel methods. Various classes of free-surface flow marine\nhydrodynamic problems and their numerical solution. Green function based\nmethods. Rankine panel methods. Numerical solution of the 3D radiation\ndiffraction problem. Numerical solution of lifting surface problems and their\napplication for flow over marine propellers, hydrofoils etc. Numerical wave\ntank computations. Numerical solution of NS equations: RANS equations and its\napplications. Basics of turbulence: turbulence modeling. Finite difference\nmethod, definitions and properties. Essentials of finite volume methods. Grid\ngeneration. Frictional resistance of double body flows using N. S. equations.\nFlow simulation about marine bodies using available commercial codes (eg.\nFluent), exercises on practical computations.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Ocean_Engineering_&_Naval_Architecture"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Ocean_Engineering_&_Naval_Architecture",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "NA40020: Computational Marine Hydrodynamics\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic of integral equation methods: Greens theorem and distribution of\nsingularities. Panel methods. Various classes of free-surface flow marine\nhydrodynamic problems and their numerical solution. Green function based\nmethods. Rankine panel methods. Numerical solution of the 3D radiation\ndiffraction problem. Numerical solution of lifting surface problems and their\napplication for flow over marine propellers, hydrofoils etc. Numerical wave\ntank computations. Numerical solution of NS equations: RANS equations and its\napplications. Basics of turbulence: turbulence modeling. Finite difference\nmethod, definitions and properties. Essentials of finite volume methods. Grid\ngeneration. Frictional resistance of double body flows using N. S. equations.\nFlow simulation about marine bodies using available commercial codes (eg.\nFluent), exercises on practical computations.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

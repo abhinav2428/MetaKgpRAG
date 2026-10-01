@@ -1,0 +1,17 @@
+{
+  "title": "How to Learn Python",
+  "url": "https://wiki.metakgp.org/wiki/How_to_Learn_Python",
+  "text": "Since Python 2 will be deprecated in 2020, it is highly recommended to learn Python 3.\n\n Resources \n* MITs Introductory computer science course: The course uses Python as a language of instruction and also teaches lots of important computer science concepts along the way.\n* Python Problems on Hacker Rank: Good to get a hang of the language when you have read the basics.\n\n General Tips and Advice \n* Try learning by doing, if you just read then you'll forget.\n* Having a buddy to learn with is quite helpful.\n* Don't try to cram commands in first go. In case, you forget the syntax, then google it.\n\n Recommended Projects/Tasks \n* https://github.com/karan/Projects This is a list of practical projects you can implement on python.\n* https://github.com/kossiitkgp/Python-Classes ( Notebooks from open and free Workshops organised by Kharagpur Open Source Society during Early Autumn Sem and Kshitij Fest.) Run these https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html Jupyter Notebooks on MyBinder or Google Colab.",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Kharagpur_Open_Source_Society"
+  ],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "How to Learn Python\n\nSince Python 2 will be deprecated in 2020, it is highly recommended to learn Python 3.\n\n Resources \n* MITs Introductory computer science course: The course uses Python as a language of instruction and also teaches lots of important computer science concepts along the way.\n* Python Problems on Hacker Rank: Good to get a hang of the language when you have read the basics.\n\n General Tips and Advice \n* Try learning by doing, if you just read then you'll forget.\n* Having a buddy to learn with is quite helpful.\n* Don't try to cram commands in first go. In case, you forget the syntax, then google it.\n\n Recommended Projects/Tasks \n* https://github.com/karan/Projects This is a list of practical projects you can implement on python.\n* https://github.com/kossiitkgp/Python-Classes ( Notebooks from open and free Workshops organised by Kharagpur Open Source Society during Early Autumn Sem and Kshitij Fest.) Run these https://jupyter-notebook.readthedocs.io/en/stable/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.html Jupyter Notebooks on MyBinder or Google Colab."
+    }
+  ],
+  "chunk_count": 1
+}

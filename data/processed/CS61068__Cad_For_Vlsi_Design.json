@@ -1,0 +1,21 @@
+{
+  "title": "CS61068: Cad For Vlsi Design",
+  "url": "https://wiki.metakgp.org/wiki/CS61068:_Cad_For_Vlsi_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: VLSI design flow, challenges. Verilog/VHDL: introduction and use\nin synthesis, modeling combinational and sequential logic, writing test\nbenches. Logic synthesis: two-level and multilevel gate-level optimization\ntools, state assignment of finite state machines. Basic concepts of high-level\nsynthesis: partitioning, scheduling, allocation and binding. Technology\nmapping. Testability issues: fault modeling and simulation, test generation,\ndesign for testability, built-in self-test. Testing SoC s. Basic concepts of\nverification. Physical design automation. Review of MOS/CMOS fabrication\ntechnology. VLSI design styles: full-custom, standard-cell, gate-array and\nFPGA. Physical design automation algorithms: floor-planning, placement,\nrouting, compaction, design rule check, power and delay estimation, clock and\npower routing, etc. Special considerations for analog and mixed-signal designs.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS61068: Cad For Vlsi Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: VLSI design flow, challenges. Verilog/VHDL: introduction and use\nin synthesis, modeling combinational and sequential logic, writing test\nbenches. Logic synthesis: two-level and multilevel gate-level optimization\ntools, state assignment of finite state machines. Basic concepts of high-level\nsynthesis: partitioning, scheduling, allocation and binding. Technology\nmapping. Testability issues: fault modeling and simulation, test generation,\ndesign for testability, built-in self-test. Testing SoC s. Basic concepts of\nverification. Physical design automation. Review of MOS/CMOS fabrication\ntechnology. VLSI design styles: full-custom, standard-cell, gate-array and\nFPGA. Physical design automation algorithms: floor-planning, placement,\nrouting, compaction, design rule check, power and delay estimation, clock and\npower routing, etc. Special considerations for analog and mixed-signal designs.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

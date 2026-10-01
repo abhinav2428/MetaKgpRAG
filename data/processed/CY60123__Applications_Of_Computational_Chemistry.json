@@ -1,0 +1,20 @@
+{
+  "title": "CY60123: Applications Of Computational Chemistry",
+  "url": "https://wiki.metakgp.org/wiki/CY60123:_Applications_Of_Computational_Chemistry",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: CY41003, CY41002Use of random numbers to evaluate area under a\ncurve.Application of numerical methods to solve differential equations.Quantum\nchemical calculations for simple molecular systems.Code development to evaluate\npotential energy and force acting on complex molecules in a system.Development\nof a classical MD code for simple monatomic systems.Development of a classical\nMetropolis MC code for simple monatomic systems. Use of various commercially\navailable molecular modeling and simulation software.Books: Computer Simulation\nof Liquids, by M. P. Allen and D. J. Tildesley; Clarendon Press (Oxford).\nUnderstanding Molecular Simulations: From Algorithms to Applications, by D.\nFrenkel and B. Smit (Academic Press); Molecular modeling by A.R. Leach.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemistry"
+  ],
+  "categories": [
+    "Chemistry",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CY60123: Applications Of Computational Chemistry\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: CY41003, CY41002Use of random numbers to evaluate area under a\ncurve.Application of numerical methods to solve differential equations.Quantum\nchemical calculations for simple molecular systems.Code development to evaluate\npotential energy and force acting on complex molecules in a system.Development\nof a classical MD code for simple monatomic systems.Development of a classical\nMetropolis MC code for simple monatomic systems. Use of various commercially\navailable molecular modeling and simulation software.Books: Computer Simulation\nof Liquids, by M. P. Allen and D. J. Tildesley; Clarendon Press (Oxford).\nUnderstanding Molecular Simulations: From Algorithms to Applications, by D.\nFrenkel and B. Smit (Academic Press); Molecular modeling by A.R. Leach.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

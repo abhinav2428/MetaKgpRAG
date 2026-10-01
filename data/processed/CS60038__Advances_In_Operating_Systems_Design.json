@@ -1,0 +1,20 @@
+{
+  "title": "CS60038: Advances In Operating Systems Design",
+  "url": "https://wiki.metakgp.org/wiki/CS60038:_Advances_In_Operating_Systems_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nTheory and implementation aspects of distributed operating systems. Process\nsynchronization in multiprocessing/multiprogramming systems. Inter-process\ncommunication and co-ordination in large distributed systems. Distributed\nresource management. Fundamentals of real time operating systems. Case studies.\nInformation management in distributed systems: security, integrity and\nconcurrency problems. Fault tolerance issues. OS issues related to the\nInternet, intranets, pervasive computing, embedded systems, mobile systems and\nwireless networks. Case studies of contemporary operating systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\n- Class Slides\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60038: Advances In Operating Systems Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nTheory and implementation aspects of distributed operating systems. Process\nsynchronization in multiprocessing/multiprogramming systems. Inter-process\ncommunication and co-ordination in large distributed systems. Distributed\nresource management. Fundamentals of real time operating systems. Case studies.\nInformation management in distributed systems: security, integrity and\nconcurrency problems. Fault tolerance issues. OS issues related to the\nInternet, intranets, pervasive computing, embedded systems, mobile systems and\nwireless networks. Case studies of contemporary operating systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\n- Class Slides\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MA61018: File Organization And Database Systems",
+  "url": "https://wiki.metakgp.org/wiki/MA61018:_File_Organization_And_Database_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming Languages\nDatabase concepts, entity relationship model, relational network and\nhierarchical data models. Relational database design, functional and multivalued dependency. Normal form, data description languages, relational algebra\nand calculus, SQL, query facility and query optimization. Introduction to\ndistributed databases implementation issues. Storage media and storage\nstructure, file and index organization. Heap file, indexed file, B+ tree file,\ndenie index, file with variable length records, performance and evaluation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61018: File Organization And Database Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming Languages\nDatabase concepts, entity relationship model, relational network and\nhierarchical data models. Relational database design, functional and multivalued dependency. Normal form, data description languages, relational algebra\nand calculus, SQL, query facility and query optimization. Introduction to\ndistributed databases implementation issues. Storage media and storage\nstructure, file and index organization. Heap file, indexed file, B+ tree file,\ndenie index, file with variable length records, performance and evaluation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "title": "EC60502: Pattern Recognition And Image Understanding",
+  "url": "https://wiki.metakgp.org/wiki/EC60502:_Pattern_Recognition_And_Image_Understanding",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC61501Pattern Representation: features, feature vectors;\nSupervised classification: BayesÃ¢ÂÂ Rule, BayesÃ¢ÂÂ classifier, minimum risk\nclassifier, minimum distance classifier, PDF estimation from samples, lLnear\ndiscriminator, Perceptron criterion, MSE criterion, Multi class classification,\nKeslerÃ¢ÂÂs construction, Ho-Kashyap procedure; Unsupervided classification:\nNearest neighbor, KNN classifier, MSE clustering, k-means clustering, fuzzy kmeans clustering; Neural Pattern Recognition: Probabilistic neural network,\nmulti-layer perceptron; Image understanding: Review of segmentation, Image\ncomponent description Ã¢ÂÂ boundary representation, region representation;\nImage component representation: feature vector representation, graphical\nrepresentation; Image Interpretation: Pattern recognition techniques, graphical\ntechniques.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60502: Pattern Recognition And Image Understanding\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC61501Pattern Representation: features, feature vectors;\nSupervised classification: BayesÃ¢ÂÂ Rule, BayesÃ¢ÂÂ classifier, minimum risk\nclassifier, minimum distance classifier, PDF estimation from samples, lLnear\ndiscriminator, Perceptron criterion, MSE criterion, Multi class classification,\nKeslerÃ¢ÂÂs construction, Ho-Kashyap procedure; Unsupervided classification:\nNearest neighbor, KNN classifier, MSE clustering, k-means clustering, fuzzy kmeans clustering; Neural Pattern Recognition: Probabilistic neural network,\nmulti-layer perceptron; Image understanding: Review of segmentation, Image\ncomponent description Ã¢ÂÂ boundary representation, region representation;\nImage component representation: feature vector representation, graphical\nrepresentation; Image Interpretation: Pattern recognition techniques, graphical\ntechniques.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

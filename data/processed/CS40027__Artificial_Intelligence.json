@@ -1,0 +1,21 @@
+{
+  "title": "CS40027: Artificial Intelligence",
+  "url": "https://wiki.metakgp.org/wiki/CS40027:_Artificial_Intelligence",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nProblem solving by search: state space, problem reduction, game playing,\nconstraint satisfaction; Automated Reasoning: proposition and first order\nlogic, inference and deduction, resolution refutation, answer extraction,\nknowledge based systems, logic programming and constrained logic programming,\nnon-monotonic reasoning; Planning: state-space, plan space and partial order\nplanning, planning algorithms; Reasoning under uncertainty: probabilistic\nreasoning, belief networks; Learning: inductive learning, decision trees,\nlogical approaches, computational learning theory, neural networks,\nreinforcement learning; Intelligent agents; natural language understanding;\nApplications.References1.Stuart Russell and Peter Norvig, Artificial\nIntelligence: A Modern Approach, Prentice-Hall.2.Nils J. Nilsson, Artificial\nIntelligence: A New Sythesis, Morgan-Kaufmann.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40027: Artificial Intelligence\n\nSyllabus\nSyllabus mentioned in ERP\n\nProblem solving by search: state space, problem reduction, game playing,\nconstraint satisfaction; Automated Reasoning: proposition and first order\nlogic, inference and deduction, resolution refutation, answer extraction,\nknowledge based systems, logic programming and constrained logic programming,\nnon-monotonic reasoning; Planning: state-space, plan space and partial order\nplanning, planning algorithms; Reasoning under uncertainty: probabilistic\nreasoning, belief networks; Learning: inductive learning, decision trees,\nlogical approaches, computational learning theory, neural networks,\nreinforcement learning; Intelligent agents; natural language understanding;\nApplications.References1.Stuart Russell and Peter Norvig, Artificial\nIntelligence: A Modern Approach, Prentice-Hall.2.Nils J. Nilsson, Artificial\nIntelligence: A New Sythesis, Morgan-Kaufmann.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

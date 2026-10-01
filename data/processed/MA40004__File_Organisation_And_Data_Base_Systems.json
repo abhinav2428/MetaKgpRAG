@@ -1,0 +1,21 @@
+{
+  "title": "MA40004: File Organisation And Data Base Systems",
+  "url": "https://wiki.metakgp.org/wiki/MA40004:_File_Organisation_And_Data_Base_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming LanguagesDatabase concepts, entity relationship\nmodel, relational network and hierarchical data models. Relational database\ndesign, functional and multi-valued dependency. Normal form, data description\nlanguages, relational algebra and calculus, SQL, query facility and query\noptimization. Introduction to distributed databases implementation issues.\nStorage media and storage structure, file and index organization. Heap file,\nindexed file, B tree file, denie index, file with variable length records,\nperformance and evaluation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA40004: File Organisation And Data Base Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming LanguagesDatabase concepts, entity relationship\nmodel, relational network and hierarchical data models. Relational database\ndesign, functional and multi-valued dependency. Normal form, data description\nlanguages, relational algebra and calculus, SQL, query facility and query\noptimization. Introduction to distributed databases implementation issues.\nStorage media and storage structure, file and index organization. Heap file,\nindexed file, B tree file, denie index, file with variable length records,\nperformance and evaluation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

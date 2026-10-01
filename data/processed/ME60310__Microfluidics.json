@@ -1,0 +1,32 @@
+{
+  "title": "ME60310: Microfluidics",
+  "url": "https://wiki.metakgp.org/wiki/ME60310:_Microfluidics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Fundamentals of kinetic theory-molecular models, micro and\nmacroscopic properties, binary collisions, distribution functions, Boltzmann\nequation and Maxwellian distribution functions, continuum hypothesis and\ndeviations from the same, scaling laws for micro-domains, Microscale gas flows:\nWall slip effects and accommodation coefficients, flow and heat transfer\nanalysis of microscale Couette flows, Pressure driven gas micro-flows with wall\nslip effects, heat transfer in micro-Poiseuille flows, effects of\ncompressibility, introductory concepts on gas flows in transitional and free\nmolecular regimes, some representative applications of micro-scale gas flows in\naccelerometers, micro-propulsion and micro-nozzles, Microscale liquid flows:\nPressure driven liquid microflow, apparent slip effects, physics of near-wall\nmicroscale liquid flows, capillary flows, electro-kinetically driven liquid\nmicro-flows and electric double layer (EDL) effects, concepts of electroosmosis, electrophoresis and dielectro-phoresis, analysis of hydro-dynamically\nand thermally fully developed electro-osmotic flows, ac electro-osmosis, an\nintroduction to fluid dynamics over nano scales (nanofluidics), concepts of\nnano-fluids and their augmented transport characteristics, An introduction to\nbio-microfluidics and some illustrative applications (drug delivery, DNA\nhybridization, leuokocyte rolling etc.), An introduction to special\ncomputational modelling of micro-flows: MD and DSMC methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60310: Microfluidics\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "ME60310: Microfluidics\n\nIntroduction: Fundamentals of kinetic theory-molecular models, micro and\nmacroscopic properties, binary collisions, distribution functions, Boltzmann\nequation and Maxwellian distribution functions, continuum hypothesis and\ndeviations from the same, scaling laws for micro-domains, Microscale gas flows:\nWall slip effects and accommodation coefficients, flow and heat transfer\nanalysis of microscale Couette flows, Pressure driven gas micro-flows with wall\nslip effects, heat transfer in micro-Poiseuille flows, effects of\ncompressibility, introductory concepts on gas flows in transitional and free\nmolecular regimes, some representative applications of micro-scale gas flows in\naccelerometers, micro-propulsion and micro-nozzles, Microscale liquid flows:\nPressure driven liquid microflow, apparent slip effects, physics of near-wall\nmicroscale liquid flows, capillary flows, electro-kinetically driven liquid\nmicro-flows and electric double layer (EDL) effects, concepts of electroosmosis, electrophoresis and dielectro-phoresis, analysis of hydro-dynamically\nand thermally fully developed electro-osmotic flows, ac electro-osmosis, an\nintroduction to fluid dynamics over nano scales (nanofluidics), concepts of\nnano-fluids and their augmented transport characteristics, An introduction to\nbio-microfluidics and some illustrative applications (drug delivery, DNA\nhybridization, leuokocyte rolling etc.), An introduction to special\ncomputational modelling of micro-flows: MD a"
+    },
+    {
+      "index": 2,
+      "text": "ME60310: Microfluidics\n\nntroduction to\nbio-microfluidics and some illustrative applications (drug delivery, DNA\nhybridization, leuokocyte rolling etc.), An introduction to special\ncomputational modelling of micro-flows: MD and DSMC methods."
+    },
+    {
+      "index": 3,
+      "text": "ME60310: Microfluidics\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

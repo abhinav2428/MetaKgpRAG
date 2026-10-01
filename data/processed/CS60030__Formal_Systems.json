@@ -1,0 +1,21 @@
+{
+  "title": "CS60030: Formal Systems",
+  "url": "https://wiki.metakgp.org/wiki/CS60030:_Formal_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFormal languages and their related automata, Turing machines, type-0\nlanguages,linear bounded automata and CSLs. Time and tape bounded Turing\nmachines, timeand space bounds for recognizing CFLs. Turing Computability:\nnumber theoreticcomputations by Turing machines and indexing. Axiomatic\nsystems, their soundnessand completeness. Recursive function theory: primitive\nrecursive functions andprimitive recursive predicates. Ackermanns function,\nrecursive and general recursivefunctions. Computability and decidability:\ncomputable functions, computable sets,decision problems. Fixpoint theory of\nprograms, functions and functionals,verification methods, Lambda calculus and\napplications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60030: Formal Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nFormal languages and their related automata, Turing machines, type-0\nlanguages,linear bounded automata and CSLs. Time and tape bounded Turing\nmachines, timeand space bounds for recognizing CFLs. Turing Computability:\nnumber theoreticcomputations by Turing machines and indexing. Axiomatic\nsystems, their soundnessand completeness. Recursive function theory: primitive\nrecursive functions andprimitive recursive predicates. Ackermanns function,\nrecursive and general recursivefunctions. Computability and decidability:\ncomputable functions, computable sets,decision problems. Fixpoint theory of\nprograms, functions and functionals,verification methods, Lambda calculus and\napplications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

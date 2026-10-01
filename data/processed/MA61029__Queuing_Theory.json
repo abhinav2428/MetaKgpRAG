@@ -1,0 +1,20 @@
+{
+  "title": "MA61029: Queuing Theory",
+  "url": "https://wiki.metakgp.org/wiki/MA61029:_Queuing_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Prob. Theory/ Prob. And Stats.Probability and random variable,\ndiscrete and continuous univariate and multivariate distributions, moments, law\nof large numbers and central limit theorem (without proof), Poisson process,\nbirth and death process, infinite and finite queueing models M/M/1, M/M/C,\nM/G/1, M/M/1/N, M/Ek/1, Ek/M/1, M/G/1/N, GI/M/1, priority queueing models,\nnetwork of queues, finite processor sharing models, central server model of\nmultiprogramming, performance evaluation of systems using queueing models.\nConcepts of bottleneck and system saturation point. Introduction to discrete\ntime queues and its applications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61029: Queuing Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Prob. Theory/ Prob. And Stats.Probability and random variable,\ndiscrete and continuous univariate and multivariate distributions, moments, law\nof large numbers and central limit theorem (without proof), Poisson process,\nbirth and death process, infinite and finite queueing models M/M/1, M/M/C,\nM/G/1, M/M/1/N, M/Ek/1, Ek/M/1, M/G/1/N, GI/M/1, priority queueing models,\nnetwork of queues, finite processor sharing models, central server model of\nmultiprogramming, performance evaluation of systems using queueing models.\nConcepts of bottleneck and system saturation point. Introduction to discrete\ntime queues and its applications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

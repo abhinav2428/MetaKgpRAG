@@ -1,0 +1,24 @@
+{
+  "title": "IT60116: Advanced Topics In Speech Processing",
+  "url": "https://wiki.metakgp.org/wiki/IT60116:_Advanced_Topics_In_Speech_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: NoneSpeech production and perception mechanisms, Speech Signal\nProcessing Methods; Knowledge sources in speech: Time domain and frequency\ndomain, Spectrograms, Knowledge sources at segmental, sub-segmental and suprasegmental (prosodic) levels, excitation source, vocal tract system and higher\nlevel knowledge sources and linguistic and semantic knowledge. Modeling\ntechniques for developing speech systems: Vector quantization, Hidden Markov\nmodels, Gaussian mixture models, Support vector machines and Neural networks;\nSpeech Coding: Coding of speech signals, Waveform coding, Speech-specific\ncoders; Speech Recognition: Issues in speech recognition, Isolated word\nrecognition, Connected word recognition, Continuous speech recognition, Large\nvocabulary continuous speech recognition; Speech Synthesis: Issues in speech\nsynthesis, Models for speech synthesis, Different speech synthesis systems,\nProsodic aspects in speech synthesis, Development of speech synthesis system.\nEvaluation methodologies for speech synthesis systems; Speaker Recognition:\nIssues in speaker recognition, Speaker verification vs identification, Textdependent vs text-independent speaker recognition, Development of speaker\nrecognition systems; Speech Enhancement: Enhancement of noisy speech,\nEnhancement of reverberant speech, Enhancement of multi-speaker speech.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Information_Technology"
+  ],
+  "categories": [
+    "Information_Technology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IT60116: Advanced Topics In Speech Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: NoneSpeech production and perception mechanisms, Speech Signal\nProcessing Methods; Knowledge sources in speech: Time domain and frequency\ndomain, Spectrograms, Knowledge sources at segmental, sub-segmental and suprasegmental (prosodic) levels, excitation source, vocal tract system and higher\nlevel knowledge sources and linguistic and semantic knowledge. Modeling\ntechniques for developing speech systems: Vector quantization, Hidden Markov\nmodels, Gaussian mixture models, Support vector machines and Neural networks;\nSpeech Coding: Coding of speech signals, Waveform coding, Speech-specific\ncoders; Speech Recognition: Issues in speech recognition, Isolated word\nrecognition, Connected word recognition, Continuous speech recognition, Large\nvocabulary continuous speech recognition; Speech Synthesis: Issues in speech\nsynthesis, Models for speech synthesis, Different speech synthesis systems,\nProsodic aspects in speech synthesis, Development of speech synthesis system.\nEvaluation methodologies for speech synthesis systems; Speaker Recognition:\nIssues in speaker recognition, Speaker verification vs identification, Textdependent vs text-independent speaker recognition, Development of speaker\nrecognition systems; Speech Enhancement: Enhancement of noisy speech,\nEnhancement of reverberant speech, Enhancement of multi-speaker speech.\n\nConcepts taught in class\n\nStudent Opinion"
+    },
+    {
+      "index": 1,
+      "text": "IT60116: Advanced Topics In Speech Processing\n\nof speaker\nrecognition systems; Speech Enhancement: Enhancement of noisy speech,\nEnhancement of reverberant speech, Enhancement of multi-speaker speech.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

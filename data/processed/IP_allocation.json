@@ -1,0 +1,15 @@
+{
+  "title": "IP allocation",
+  "url": "https://wiki.metakgp.org/wiki/IP_allocation",
+  "text": "IIT Kharagpur campus provides facility of both LAN and WiFi for internet connectivity. There is no official document availed by the administration with the information of IP allocation for different Halls and Academic complexes. The information below is collected from personally enquiring boarders of different halls.\n\n{| class=\"wikitable sortable\"\n! IP || Hall / Institution || Block/Wing\n\nIP addresses in the range of 10.133.*.* and 10.150.*.* are reserved for WiFi connections.",
+  "page_type": "general",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IP allocation\n\nIIT Kharagpur campus provides facility of both LAN and WiFi for internet connectivity. There is no official document availed by the administration with the information of IP allocation for different Halls and Academic complexes. The information below is collected from personally enquiring boarders of different halls.\n\n{| class=\"wikitable sortable\"\n! IP || Hall / Institution || Block/Wing\n\nIP addresses in the range of 10.133.*.* and 10.150.*.* are reserved for WiFi connections."
+    }
+  ],
+  "chunk_count": 1
+}

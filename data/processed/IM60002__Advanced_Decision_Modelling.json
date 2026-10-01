@@ -1,0 +1,21 @@
+{
+  "title": "IM60002: Advanced Decision Modelling",
+  "url": "https://wiki.metakgp.org/wiki/IM60002:_Advanced_Decision_Modelling",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nNon-Linear Programming: Classical Optimization Methods, Properties of\nfunctions. Univariate and Multi-variate search techniques, Kuhn Tucker\nconditions, Quadratic and Separable Programming methods, Stochastic and Fuzzy\nOptimisation.Dynamic Programming: Principle of Optimality, Concepts of state\nand stage, Solution of Discrete Problems through Backward Dynamic Programming,\nContinuous and Multi-stage Dynamic programming problems, Stochastic Dynamic\nProgramming Problems.Stochastic Processes: Description of state, Transition\nprobability matrix, Ergodic Properties, First passage time, etc., Markov\nDecision Process, Markov Decision Problems, Policy Improvement Scheme.Queueing\nTheory: Definitions and Classification, Birth and Death Process, Markovian and\nSemi-Markovian Single- and Multiple-Server Queues, Queuing Networks.Discreteevent Simulation: Time-flow mechanisms, Random Number and Random Deviate\ngeneration, Simulation of Queuing and Inventory Systems, Validation of\nSimulation Models, Sampling of Simulation outputs and Statistical Inferences,\nVariance Reduction Techniques.Books1.Operation Research- Principles and\nPractice, Ravindran, Phillip, Solberg, Wiley 2.Operation Research- An\nIntroduction, Taha, PHI 3.Operation Research, Hillier and Lieberman\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60002: Advanced Decision Modelling\n\nSyllabus\nSyllabus mentioned in ERP\n\nNon-Linear Programming: Classical Optimization Methods, Properties of\nfunctions. Univariate and Multi-variate search techniques, Kuhn Tucker\nconditions, Quadratic and Separable Programming methods, Stochastic and Fuzzy\nOptimisation.Dynamic Programming: Principle of Optimality, Concepts of state\nand stage, Solution of Discrete Problems through Backward Dynamic Programming,\nContinuous and Multi-stage Dynamic programming problems, Stochastic Dynamic\nProgramming Problems.Stochastic Processes: Description of state, Transition\nprobability matrix, Ergodic Properties, First passage time, etc., Markov\nDecision Process, Markov Decision Problems, Policy Improvement Scheme.Queueing\nTheory: Definitions and Classification, Birth and Death Process, Markovian and\nSemi-Markovian Single- and Multiple-Server Queues, Queuing Networks.Discreteevent Simulation: Time-flow mechanisms, Random Number and Random Deviate\ngeneration, Simulation of Queuing and Inventory Systems, Validation of\nSimulation Models, Sampling of Simulation outputs and Statistical Inferences,\nVariance Reduction Techniques.Books1.Operation Research- Principles and\nPractice, Ravindran, Phillip, Solberg, Wiley 2.Operation Research- An\nIntroduction, Taha, PHI 3.Operation Research, Hillier and Lieberman\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

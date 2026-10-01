@@ -1,0 +1,20 @@
+{
+  "title": "CY40014: Introduction To Computational Chemistry",
+  "url": "https://wiki.metakgp.org/wiki/CY40014:_Introduction_To_Computational_Chemistry",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Nil\nIntroduction to programming languages; basic numerical analysis: solution of\nnonlinear equations using Newton-Raphson method, solution of linear systems\nusing Gaussian elimination and pivoting, interpolation and polynomial\napproximation, numerical solution of differential equations: ODE and PDE:\nanalysis of convergence, stability and consistency; numerical integration; code\ndevelopment and use of commercially available software to perform simple\nquantum chemical calculations.\nBook: Computational Chemistry Using the PC, D.W. Rogers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemistry"
+  ],
+  "categories": [
+    "Chemistry",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CY40014: Introduction To Computational Chemistry\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Nil\nIntroduction to programming languages; basic numerical analysis: solution of\nnonlinear equations using Newton-Raphson method, solution of linear systems\nusing Gaussian elimination and pivoting, interpolation and polynomial\napproximation, numerical solution of differential equations: ODE and PDE:\nanalysis of convergence, stability and consistency; numerical integration; code\ndevelopment and use of commercially available software to perform simple\nquantum chemical calculations.\nBook: Computational Chemistry Using the PC, D.W. Rogers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

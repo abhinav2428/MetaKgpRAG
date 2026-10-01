@@ -1,0 +1,15 @@
+{
+  "title": "How to install MATLAB using KGP email ID (2022)",
+  "url": "https://wiki.metakgp.org/wiki/How_to_install_MATLAB_using_KGP_email_ID_(2022)",
+  "text": "#Visit this website\n#Enter `IIT Kharagpur` as University name and enter your institute email ID.\n#You will receive a mail soon(within 5 minutes) from MATLAB with a link. Go to the link\n#Click on `Get Software`.\n#Click on `Sign in to get started`\n#Login using your institute email ID. Create an account using institute email ID if you haven't created yet .\n#Download the installer and click on the downloaded file to launch it\n\nMiscellaneous\n\n#While installing select the minimum extra tool boxes so that installation becomes quick. Toolboxes can be added later on as per requirement. \n#To install a new \"Add on\" \n##Click on \"Home\" on the top bar\n##Click on \"Add-Ons\"\n##Sign in with institute ID when asked.\n##Type required Add On name, and click install. \n#You are permitted to install MATLAB Student and Home on up to two computers and you may transfer a MATLAB Student or Home license up to two times per year. (Source)",
+  "page_type": "general",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "How to install MATLAB using KGP email ID (2022)\n\n#Visit this website\n#Enter `IIT Kharagpur` as University name and enter your institute email ID.\n#You will receive a mail soon(within 5 minutes) from MATLAB with a link. Go to the link\n#Click on `Get Software`.\n#Click on `Sign in to get started`\n#Login using your institute email ID. Create an account using institute email ID if you haven't created yet .\n#Download the installer and click on the downloaded file to launch it\n\nMiscellaneous\n\n#While installing select the minimum extra tool boxes so that installation becomes quick. Toolboxes can be added later on as per requirement. \n#To install a new \"Add on\" \n##Click on \"Home\" on the top bar\n##Click on \"Add-Ons\"\n##Sign in with institute ID when asked.\n##Type required Add On name, and click install. \n#You are permitted to install MATLAB Student and Home on up to two computers and you may transfer a MATLAB Student or Home license up to two times per year. (Source)"
+    }
+  ],
+  "chunk_count": 1
+}

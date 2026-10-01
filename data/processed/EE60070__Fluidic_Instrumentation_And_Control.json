@@ -1,0 +1,20 @@
+{
+  "title": "EE60070: Fluidic Instrumentation And Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60070:_Fluidic_Instrumentation_And_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nMechanical Compensators: Circuit analogy, Gears, Gyroscopes. Fluid Power\nSystem: Fluid flow equation. Laminar, turbulent flow. Resistance, capacitance,\ninertance. Electrical analogy. Liquid level systems. Pneumatic systems\ndynamics. Fluid power components: Pumps, Motors, Valves. Nonlinearities in\nvalves. Dynamic analysis. Fluid logic systems using valves. Amplifiers.\nHydraulic servo motor. Standard symbols. Fluid\ncontrol systems: Valve\npositions. Servo.\nHydraulic, Electrical feedback. Valve-motor position\nservo.\nTachometer feedback.\nLag\nlead\nnetworks\nusing\nmechanicalhydraulic components. Pneumatic nozzle flapper system. Pneumatic relay.\nPneumatic controllers. Fluidics: Coanda effect. Jet interaction fludic\ndevices. Vortex valves. Impact. Modulator. Turbulance amplifier. Fludic\nlogic systems.Industrial fluid circuits: Safety circuits. Circuit design. case\nstudies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60070: Fluidic Instrumentation And Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nMechanical Compensators: Circuit analogy, Gears, Gyroscopes. Fluid Power\nSystem: Fluid flow equation. Laminar, turbulent flow. Resistance, capacitance,\ninertance. Electrical analogy. Liquid level systems. Pneumatic systems\ndynamics. Fluid power components: Pumps, Motors, Valves. Nonlinearities in\nvalves. Dynamic analysis. Fluid logic systems using valves. Amplifiers.\nHydraulic servo motor. Standard symbols. Fluid\ncontrol systems: Valve\npositions. Servo.\nHydraulic, Electrical feedback. Valve-motor position\nservo.\nTachometer feedback.\nLag\nlead\nnetworks\nusing\nmechanicalhydraulic components. Pneumatic nozzle flapper system. Pneumatic relay.\nPneumatic controllers. Fluidics: Coanda effect. Jet interaction fludic\ndevices. Vortex valves. Impact. Modulator. Turbulance amplifier. Fludic\nlogic systems.Industrial fluid circuits: Safety circuits. Circuit design. case\nstudies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

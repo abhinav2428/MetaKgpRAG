@@ -1,0 +1,20 @@
+{
+  "title": "MA61026: Constraint Satisfaction Problems",
+  "url": "https://wiki.metakgp.org/wiki/MA61026:_Constraint_Satisfaction_Problems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: voidRepresentation of knowledge, inference and the process of\nproving theorems. Combinatorial Optimization Problems. Constraints, finite\ndomain Constraint Satisfaction Problems (CSPs) and Boolean Satisfiability\nProblems (SAT). Search techniques including backtracking and its various\nimprovements such as Backjuping, Backmarking. Intelligent backtracking.\nPropogation techniques including node, arc and k-consistencies. Global\nconsistency. Forward checking. Hybrid algorithms. Repair based algorithms. Nogoods and clause learning during search algorithms. Partial Constraint\nSatisfaction Problems (PCSPs). Applications of CSPs.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61026: Constraint Satisfaction Problems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: voidRepresentation of knowledge, inference and the process of\nproving theorems. Combinatorial Optimization Problems. Constraints, finite\ndomain Constraint Satisfaction Problems (CSPs) and Boolean Satisfiability\nProblems (SAT). Search techniques including backtracking and its various\nimprovements such as Backjuping, Backmarking. Intelligent backtracking.\nPropogation techniques including node, arc and k-consistencies. Global\nconsistency. Forward checking. Hybrid algorithms. Repair based algorithms. Nogoods and clause learning during search algorithms. Partial Constraint\nSatisfaction Problems (PCSPs). Applications of CSPs.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

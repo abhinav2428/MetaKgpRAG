@@ -1,0 +1,29 @@
+{
+  "title": "CS40032: Principles Of Programming Languages",
+  "url": "https://wiki.metakgp.org/wiki/CS40032:_Principles_Of_Programming_Languages",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nTheory: The aim is to study and appreciate different types of languages and the\nunderlying mathematical theories. This may help design and appreciate new\nlanguage features.Introduction: Overview of different programming paradigms\ne.g. imperative, object oriented, functional, logic and concurrent\nprogramming.Syntax and semantics of programming langu-ages: A quick overview of\nsyntax specification and semiformal semantic specification using attribute\ngrammar.Imperative and OO Languages: Names, their scope, life and binding.\nControl-flow, control abstraction; in subprogram and exception handling.\nPrimitive and constructed data types, data abstraction, inheritance, type\nchecking and polymorphism.Functional Languages: Typed-calculus, higher order\nfunctions and types, evaluation strategies, type checking, implementation, case\nstudy.Logic Programming Languages: Computing with relation, first-order logic,\nSLD-resolution, unification, sequencing of control, negation, implementation,\ncase study.Concurrency: Communication and synchronization, shared memory and\nmessage passing, safety and liveness properties, multithreaded programs.Formal\nSemantics: Operational, denotational and axiomatic semantics of toy languages,\nlanguages with higher order constructs and types, recursive type, subtype,\nsemantics of nondeterminism and concurrency.References1.Glynn Winskel, A Formal\nSemantics of Programming Languages: An Introduction, MIT Press.2.John C.\nMitchell, Foundations for Programming Languages, MIT Press.3.Benjamin C.\nPierce, Types and Programming Languages, MIT Press.4.Daniel P. Friedman,\nMitchell Wand and Christopher T. Haynes, Essentials of Programming Languages,\nPrentice Hall of India.5.Ravi Sethi, Programming Languages: Concepts and\nConstructs, Addison-Wesley.6.H. P. Barendregt, The Lambda Calculus: Its Syntax\nand Semantics, North-Holland.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40032: Principles Of Programming Languages\n\nSyllabus\nSyllabus mentioned in ERP\n\nTheory: The aim is to study and appreciate different types of languages and the\nunderlying mathematical theories.\n\nThis may help design and appreciate new\nlanguage features.Introduction: Overview of different programming paradigms\ne.g.\n\nimperative, object oriented, functional, logic and concurrent\nprogramming.Syntax and semantics of programming langu-ages: A quick overview of\nsyntax specification and semiformal semantic specification using attribute\ngrammar.Imperative and OO Languages: Names, their scope, life and binding.\n\nControl-flow, control abstraction; in subprogram and exception handling."
+    },
+    {
+      "index": 1,
+      "text": "CS40032: Principles Of Programming Languages\n\nsemiformal semantic specification using attribute\ngrammar.Imperative and OO Languages: Names, their scope, life and binding.\n\nControl-flow, control abstraction; in subprogram and exception handling.\n\nPrimitive and constructed data types, data abstraction, inheritance, type\nchecking and polymorphism.Functional Languages: Typed-calculus, higher order\nfunctions and types, evaluation strategies, type checking, implementation, case\nstudy.Logic Programming Languages: Computing with relation, first-order logic,\nSLD-resolution, unification, sequencing of control, negation, implementation,\ncase study.Concurrency: Communication and synchronization, shared memory and\nmessage passing, safety and liveness properties, multithreaded programs.Formal\nSemantics: Operational, denotational and axiomatic semantics of toy languages,\nlanguages with higher order constructs and types, recursive type, subtype,\nsemantics of nondeterminism and concurrency.References1.Glynn Winskel, A Formal\nSemantics of Programming Languages: An Introduction, MIT Press.2.John C.\n\nMitchell, Foundations for Programming Languages, MIT Press.3.Benjamin C.\n\nPierce, Types and Programming Languages, MIT Press.4.Daniel P.\n\nFriedman,\nMitchell Wand and Christopher T.\n\nHaynes, Essentials of Programming Languages,\nPrentice Hall of India.5.Ravi Sethi, Programming Languages: Concepts and\nConstructs, Addison-Wesley.6.H.\n\nP."
+    },
+    {
+      "index": 2,
+      "text": "CS40032: Principles Of Programming Languages\n\nWand and Christopher T.\n\nHaynes, Essentials of Programming Languages,\nPrentice Hall of India.5.Ravi Sethi, Programming Languages: Concepts and\nConstructs, Addison-Wesley.6.H.\n\nP.\n\nBarendregt, The Lambda Calculus: Its Syntax\nand Semantics, North-Holland.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

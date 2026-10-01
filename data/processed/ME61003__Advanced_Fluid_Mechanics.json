@@ -1,0 +1,25 @@
+{
+  "title": "ME61003: Advanced Fluid Mechanics",
+  "url": "https://wiki.metakgp.org/wiki/ME61003:_Advanced_Fluid_Mechanics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nConcept of continuum and definition of a fluid. Body and surface forces, stress\ntensor. Scalar and vector fields, Eulerian and Lagrangian description of flow.\nMotion of fluid element ; translation, rotation and vorticity; strain rate\ntensor, continuity equation, stream function and velocity potential.\nConstitutive equations, derivation of Navier;Stokes equations. Exact solutions\nof Navier;Stokes equations: plane Poiseuille flow and Couette flow,\nHagen;Poiseuille flow, flow between two concertic rotating cylinders, Stokes\nfirst and second problem, Hiemenz flow, flow near a rotating disk, flow in\nconvergent-divergent channels. Slow viscous flow: Stokes and Oseen s\napproximation, theory of hydrodynamic lubrication. Thin-film equations.\nBoundary layer: derivation, exact solutions, Blasius, Falkner Skan, series\nsolution and numerical solutions. Approximate methods. Momentum integral\nmethod. Two dimensional and axisymmetric jets. Introduction to Hydrodynamic\nstability: linear stability of plane Poiseuille flow, Orr;Sommerfeld equation.\nDescription of turbulent flow, velocity correlations, Reynolds stresses,\nPrandtl s Mixing Length Theory, Karman s velocity defect law, universal\nvelocity distribution. Concepts of closure model, eddy viscosity models of\nturbulence- zero equation, one equation and two-equation models.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME61003: Advanced Fluid Mechanics\n\nSyllabus\nSyllabus mentioned in ERP\n\nConcept of continuum and definition of a fluid. Body and surface forces, stress\ntensor. Scalar and vector fields, Eulerian and Lagrangian description of flow.\nMotion of fluid element ; translation, rotation and vorticity; strain rate\ntensor, continuity equation, stream function and velocity potential.\nConstitutive equations, derivation of Navier;Stokes equations. Exact solutions\nof Navier;Stokes equations: plane Poiseuille flow and Couette flow,\nHagen;Poiseuille flow, flow between two concertic rotating cylinders, Stokes\nfirst and second problem, Hiemenz flow, flow near a rotating disk, flow in\nconvergent-divergent channels. Slow viscous flow: Stokes and Oseen s\napproximation, theory of hydrodynamic lubrication. Thin-film equations.\nBoundary layer: derivation, exact solutions, Blasius, Falkner Skan, series\nsolution and numerical solutions. Approximate methods. Momentum integral\nmethod. Two dimensional and axisymmetric jets. Introduction to Hydrodynamic\nstability: linear stability of plane Poiseuille flow, Orr;Sommerfeld equation.\nDescription of turbulent flow, velocity correlations, Reynolds stresses,\nPrandtl s Mixing Length Theory, Karman s velocity defect law, universal\nvelocity distribution. Concepts of closure model, eddy viscosity models of\nturbulence- zero equation, one equation and two-equation models.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources"
+    },
+    {
+      "index": 1,
+      "text": "ME61003: Advanced Fluid Mechanics\n\nof closure model, eddy viscosity models of\nturbulence- zero equation, one equation and two-equation models.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,21 @@
+{
+  "title": "CS60058: Fault Tolerant Systems",
+  "url": "https://wiki.metakgp.org/wiki/CS60058:_Fault_Tolerant_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFundamental concepts in the theory of reliable computer systems design.\nIntroduction to redundancy theory, limit theorems; decision theory in redundant\nsystems. Hardware fault tolerance, redundancy techniques, detection of faults,\nreplication and compression techniques, self-repairing techniques, concentrated\nand distributed voters, models of fault tolerant computing systems. Case\nstudies. Software fault tolerance: fault tolerance versus fault intolerance,\nerrors and their management strategies. Implementation techniques: software\ndefense, protective redundancy, architectural support. Fault recovery\ntechniques. Coding theory: application to fault tolerant system design. Faulttolerance and reliability of multicomputer networks (direct and indirect)\nincluding fault-tolerant routing and sparing techniques. Yield and reliability\nenhancement techniques for VLSI/WSI array processors.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60058: Fault Tolerant Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nFundamental concepts in the theory of reliable computer systems design.\nIntroduction to redundancy theory, limit theorems; decision theory in redundant\nsystems. Hardware fault tolerance, redundancy techniques, detection of faults,\nreplication and compression techniques, self-repairing techniques, concentrated\nand distributed voters, models of fault tolerant computing systems. Case\nstudies. Software fault tolerance: fault tolerance versus fault intolerance,\nerrors and their management strategies. Implementation techniques: software\ndefense, protective redundancy, architectural support. Fault recovery\ntechniques. Coding theory: application to fault tolerant system design. Faulttolerance and reliability of multicomputer networks (direct and indirect)\nincluding fault-tolerant routing and sparing techniques. Yield and reliability\nenhancement techniques for VLSI/WSI array processors.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

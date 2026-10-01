@@ -1,0 +1,21 @@
+{
+  "title": "EC31002: Digital Communication",
+  "url": "https://wiki.metakgp.org/wiki/EC31002:_Digital_Communication",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC31001Digital signals and their spectra; Concepts of\ninformation and entropy; Source coding: Coding theorem, fixed length codes;\nvariable length codes; Quantization of signals; Waveform coding techniques:\nPCM, DPCM, ADPCM, DM, ADM; Baseband transmission: intersymbol interference,\nnoise, eye pattern, BER analysis, Optimum filtering, equalization techniques;\nClock recovery; Line coding techniques: Binary and multilevel line codes;\nDigital modulation schemes: Binary modulation schemes- ASK, PSK, FSK, DPSK; Mary modulation schemes: QPSK, ÃÂ/4 QPSK, MSK; QAM: generation and demodulation\nschemes, carrier recovery techniques, BER analysis of digital modulation\nsystems; ShannonÃ¢ÂÂs capacity theorem and spectral efficiency of digital\nmodulation schemes.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC31002: Digital Communication\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC31001Digital signals and their spectra; Concepts of\ninformation and entropy; Source coding: Coding theorem, fixed length codes;\nvariable length codes; Quantization of signals; Waveform coding techniques:\nPCM, DPCM, ADPCM, DM, ADM; Baseband transmission: intersymbol interference,\nnoise, eye pattern, BER analysis, Optimum filtering, equalization techniques;\nClock recovery; Line coding techniques: Binary and multilevel line codes;\nDigital modulation schemes: Binary modulation schemes- ASK, PSK, FSK, DPSK; Mary modulation schemes: QPSK, ÃÂ/4 QPSK, MSK; QAM: generation and demodulation\nschemes, carrier recovery techniques, BER analysis of digital modulation\nsystems; ShannonÃ¢ÂÂs capacity theorem and spectral efficiency of digital\nmodulation schemes.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,33 @@
+{
+  "title": "ME60088: Compressible Flow",
+  "url": "https://wiki.metakgp.org/wiki/ME60088:_Compressible_Flow",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFundamental Aspects of Compressible Flow : Introduction, Isentropic flow ina\nstreamtube, speed of sound, Mach waves; One dimensional Isentropic Flow :\nGoverning equations, stagnation conditions, critical conditions, maximum\ndischarge velocity, isentropic relations; Normal Shock Waves : Shock waves,\nstationary normal shock waves, normal shock wave relations in terms of Mach\nnumber; Oblique Shock Waves : Oblique shock wave relations, reflection of\noblique shock waves, interaction of oblique shock waves, conical shock waves;\nExpansion Waves : Prandtl-Meyer flow, reflection and interaction of expansion\nwaves, flow over bodies involving shock and expansion waves; Variable Area\nFlow : Equations for variable area flow, operating characteristics of nozzles,\nconvergent-divergent supersonic diffusers; Adaiabatic Flow in a Duct with\nFriction : Flow in a constant area duct, friction factor variations, the Fano\nline; Flow with Heat addition or removal : One-dimensional flow in a constant\narea duct neglecting viscosity, variable area flow with heat addition, onedimensional constant area flow with both heat exchanger and friction;\nGeneralized Quasi-One-Dimensional Flow : Governing equations and influence\ncoefficients, solution procedure for generalized flow with and without sonic\npoint; Two-Dimensional Compressible Flow : Governing equations, vorticity\nconsiderations, the velocity potential, linearized solutions, linearized\nsubsonic flow, linearized supersonic flow, method of characteristics.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60088: Compressible Flow\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "ME60088: Compressible Flow\n\nFundamental Aspects of Compressible Flow : Introduction, Isentropic flow ina\nstreamtube, speed of sound, Mach waves; One dimensional Isentropic Flow :\nGoverning equations, stagnation conditions, critical conditions, maximum\ndischarge velocity, isentropic relations; Normal Shock Waves : Shock waves,\nstationary normal shock waves, normal shock wave relations in terms of Mach\nnumber; Oblique Shock Waves : Oblique shock wave relations, reflection of\noblique shock waves, interaction of oblique shock waves, conical shock waves;\nExpansion Waves : Prandtl-Meyer flow, reflection and interaction of expansion\nwaves, flow over bodies involving shock and expansion waves; Variable Area\nFlow : Equations for variable area flow, operating characteristics of nozzles,\nconvergent-divergent supersonic diffusers; Adaiabatic Flow in a Duct with\nFriction : Flow in a constant area duct, friction factor variations, the Fano\nline; Flow with Heat addition or removal : One-dimensional flow in a constant\narea duct neglecting viscosity, variable area flow with heat addition, onedimensional constant area flow with both heat exchanger and friction;\nGeneralized Quasi-One-Dimensional Flow : Governing equations and influence\ncoefficients, solution procedure for generalized flow with and without sonic\npoint; Two-Dimensional Compressible Flow : Governing equations, vorticity\nconsiderations, the velocity potential, linearized solutions, linearized\nsubsonic flow, linearized supersonic fl"
+    },
+    {
+      "index": 2,
+      "text": "ME60088: Compressible Flow\n\nwithout sonic\npoint; Two-Dimensional Compressible Flow : Governing equations, vorticity\nconsiderations, the velocity potential, linearized solutions, linearized\nsubsonic flow, linearized supersonic flow, method of characteristics."
+    },
+    {
+      "index": 3,
+      "text": "ME60088: Compressible Flow\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

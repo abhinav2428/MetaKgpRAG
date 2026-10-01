@@ -1,0 +1,20 @@
+{
+  "title": "CS39002: Operating Systems Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/CS39002:_Operating_Systems_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFamiliarization with UNIX system calls for process management and inter-process\ncommunication; Experiments on process scheduling and other operating system\ntasks through simulation/ implementation under a simulated environment (like\nNachos).References1.Avi Silberschatz, Peter Galvin, Greg Gagne, Operating\nSystem Concepts, Wiley Asia Student Edition.2.William Stallings, Operating\nSystems: Internals and Design Principles, Prentice Hall of India.3.D. M.\nDhamdhere, Operating Systems: A Concept-Based Approach, Tata McGrawHill.4.Charles Crowley, Operating System: A Design-oriented Approach, Irwin\nPublishing.5.Gary J. Nutt, Operating Systems: A Modern Perspective, AddisonWesley.6.Maurice Bach, Design of the Unix Operating Systems, Prentice-Hall of\nIndia.7.Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel, O Reilly\nand Associates.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS39002: Operating Systems Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nFamiliarization with UNIX system calls for process management and inter-process\ncommunication; Experiments on process scheduling and other operating system\ntasks through simulation/ implementation under a simulated environment (like\nNachos).References1.Avi Silberschatz, Peter Galvin, Greg Gagne, Operating\nSystem Concepts, Wiley Asia Student Edition.2.William Stallings, Operating\nSystems: Internals and Design Principles, Prentice Hall of India.3.D. M.\nDhamdhere, Operating Systems: A Concept-Based Approach, Tata McGrawHill.4.Charles Crowley, Operating System: A Design-oriented Approach, Irwin\nPublishing.5.Gary J. Nutt, Operating Systems: A Modern Perspective, AddisonWesley.6.Maurice Bach, Design of the Unix Operating Systems, Prentice-Hall of\nIndia.7.Daniel P. Bovet, Marco Cesati, Understanding the Linux Kernel, O Reilly\nand Associates.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

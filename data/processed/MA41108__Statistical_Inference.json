@@ -1,0 +1,21 @@
+{
+  "title": "MA41108: Statistical Inference",
+  "url": "https://wiki.metakgp.org/wiki/MA41108:_Statistical_Inference",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nParametric point estimation, unbiasedness, consistency, efficiency, invariance,\nmethod of moments and maximum likelihood, lower bounds for the variance of an\nestimator, Frechet-Rao-Cramer, Bhattacharya, Chapman-Robbins-Kiefer\ninequalities. Sufficiency, minimal sufficiency, Factorization Theorem, RaoBlackwell Theorem, completeness, Lehmann-Scheffe Theorem, Basu s Theorem.Tests\nof hypotheses, simple and composite hypotheses, types of error, Neyman-Pearson\nLemma, families with monotone likelihood ratio, UMP, UMP unbiased and UMP\ninvariant tests. Likelihood ratio tests-applications to one sample and two\nsample problems, Chi-square tests. Sequential probability ratio test.Interval\nestimation- methods for finding confidence intervals, shortest length\nconfidence intervals.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA41108: Statistical Inference\n\nSyllabus\nSyllabus mentioned in ERP\n\nParametric point estimation, unbiasedness, consistency, efficiency, invariance,\nmethod of moments and maximum likelihood, lower bounds for the variance of an\nestimator, Frechet-Rao-Cramer, Bhattacharya, Chapman-Robbins-Kiefer\ninequalities. Sufficiency, minimal sufficiency, Factorization Theorem, RaoBlackwell Theorem, completeness, Lehmann-Scheffe Theorem, Basu s Theorem.Tests\nof hypotheses, simple and composite hypotheses, types of error, Neyman-Pearson\nLemma, families with monotone likelihood ratio, UMP, UMP unbiased and UMP\ninvariant tests. Likelihood ratio tests-applications to one sample and two\nsample problems, Chi-square tests. Sequential probability ratio test.Interval\nestimation- methods for finding confidence intervals, shortest length\nconfidence intervals.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

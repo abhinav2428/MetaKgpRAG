@@ -1,0 +1,21 @@
+{
+  "title": "EE60054: Discrete-Event Systems",
+  "url": "https://wiki.metakgp.org/wiki/EE60054:_Discrete-Event_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nState Transition Systems: Finite state machines (FSM) and its variants,\nModelling practical systems as FSMS, Properties of FSM and analysis methods.\nInfinite state machines, Higher level descriptions of state transition\nsystems e.g. Petri Nets, State charts etc.\nControl in Finite State Machines: Language control and state control problems.\nAlgorithms for supervisory control. The observation problem. Control with\npartial observation.\nPerformance Modelling and Analysis of Discrete Event Systems (DES).\nFundamentals of Queueing Theory. Queueing models for DES, Stochastic\nPetrinets. Performance Analysis methods. Application Examples for\nManufacturing Process Scheduling, Computer Networks etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60054: Discrete-Event Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nState Transition Systems: Finite state machines (FSM) and its variants,\nModelling practical systems as FSMS, Properties of FSM and analysis methods.\nInfinite state machines, Higher level descriptions of state transition\nsystems e.g. Petri Nets, State charts etc.\nControl in Finite State Machines: Language control and state control problems.\nAlgorithms for supervisory control. The observation problem. Control with\npartial observation.\nPerformance Modelling and Analysis of Discrete Event Systems (DES).\nFundamentals of Queueing Theory. Queueing models for DES, Stochastic\nPetrinets. Performance Analysis methods. Application Examples for\nManufacturing Process Scheduling, Computer Networks etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

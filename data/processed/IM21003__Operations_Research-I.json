@@ -1,0 +1,21 @@
+{
+  "title": "IM21003: Operations Research-I",
+  "url": "https://wiki.metakgp.org/wiki/IM21003:_Operations_Research-I",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: None\nBehavioral versus quantitative decision making, Role of models, Linear algebra.\nLinear programming: Formulation of LP models, Graphical procedure of solution\nand Simplex method, Sensitivity analysis, Karmarkar’s algorithm.\nTransportation and assignment problems, Network flow.\nRevised Simplex, Duality Theory and its application,\nInteger Programming, Cutting plane algorithm and Branch and bound algorithm.\nBooks\n•Ravindran, A., Philips, D.T., and Solberg, J.J., Operations research, John\nWiley and Sons.\n•Taha H.A., Operation Research- An Introduction, PHI\n•Hillier F.S. and Lieberman G.J., Introduction to Operation Research, McGraw\nHill.\n•Hadley G., Linear Programming, Addison-Wesley.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM21003: Operations Research-I\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: None\nBehavioral versus quantitative decision making, Role of models, Linear algebra.\nLinear programming: Formulation of LP models, Graphical procedure of solution\nand Simplex method, Sensitivity analysis, Karmarkar’s algorithm.\nTransportation and assignment problems, Network flow.\nRevised Simplex, Duality Theory and its application,\nInteger Programming, Cutting plane algorithm and Branch and bound algorithm.\nBooks\n•Ravindran, A., Philips, D.T., and Solberg, J.J., Operations research, John\nWiley and Sons.\n•Taha H.A., Operation Research- An Introduction, PHI\n•Hillier F.S. and Lieberman G.J., Introduction to Operation Research, McGraw\nHill.\n•Hadley G., Linear Programming, Addison-Wesley.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

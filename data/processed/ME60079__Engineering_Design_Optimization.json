@@ -1,0 +1,20 @@
+{
+  "title": "ME60079: Engineering Design Optimization",
+  "url": "https://wiki.metakgp.org/wiki/ME60079:_Engineering_Design_Optimization",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic concepts: Unconstrained and constrained problems. The Kuln-Tucker\nconditions; Function of one variable; Polynomial approximations, Golden section\nmethod. Finding the bounds on the solution, a general strategy for minimizing\nfunctions of one variable; Unconstrained functions of n variables : Zero-order,\nfirst-order and second-order methods, convergence criteria; constrained\nfunctions of n variables: linear programming, Sequential unconstrained\nminimization techniques, Direct methods; Approximation techniques; Duality;\nGeneral design applications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60079: Engineering Design Optimization\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic concepts: Unconstrained and constrained problems. The Kuln-Tucker\nconditions; Function of one variable; Polynomial approximations, Golden section\nmethod. Finding the bounds on the solution, a general strategy for minimizing\nfunctions of one variable; Unconstrained functions of n variables : Zero-order,\nfirst-order and second-order methods, convergence criteria; constrained\nfunctions of n variables: linear programming, Sequential unconstrained\nminimization techniques, Direct methods; Approximation techniques; Duality;\nGeneral design applications.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

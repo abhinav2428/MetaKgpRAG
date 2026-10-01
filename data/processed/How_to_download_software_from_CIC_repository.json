@@ -1,0 +1,19 @@
+{
+  "title": "How to download software from CIC repository",
+  "url": "https://wiki.metakgp.org/wiki/How_to_download_software_from_CIC_repository",
+  "text": "The Computer Informatics Centre maintains a software repository containing various educational and support software like Matlab, SolidWorks, and Windows. The copies are made available through institute licensing and are genuine to use.\n\nThe software repository is hosted at: 10.3.100.212\n\nUsage\n\nConnect to the server depending on your operating system of use. For example, in Windows, one can click Run and type \\\\10.3.100.212 to connect to the server. In Linux, an option to Connect to server is available on the left side in file browser. The network uses following authentication details:\n\n*Login Id: guest\n*Password: guest\n\n===Mac=== \n\n*First go to Finder, then form the top menu bar select \"Go\" and then select \"Connect to Server\".\n\n578x578px \n\n*Now you will be presented with a screen similar to the below screenshot. In the server address type smb://144.16.192.212 and hit connect.\n\n424x424px427x427px\n\n*Now, select the registered user and use the credentials (mentioned before) to login. Click Connect and then click OK to mount the volume.\n\n417x417px417x417px\n\nNow, you can simply save/copy the files from the network to your personal space.\n\nActivation\n\nActivation and usage details for certain softwares are available on the CIC website.",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Informatics_Centre"
+  ],
+  "categories": [
+    "How_to"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "How to download software from CIC repository\n\nThe Computer Informatics Centre maintains a software repository containing various educational and support software like Matlab, SolidWorks, and Windows. The copies are made available through institute licensing and are genuine to use.\n\nThe software repository is hosted at: 10.3.100.212\n\nUsage\n\nConnect to the server depending on your operating system of use. For example, in Windows, one can click Run and type \\\\10.3.100.212 to connect to the server. In Linux, an option to Connect to server is available on the left side in file browser. The network uses following authentication details:\n\n*Login Id: guest\n*Password: guest\n\n===Mac=== \n\n*First go to Finder, then form the top menu bar select \"Go\" and then select \"Connect to Server\".\n\n578x578px \n\n*Now you will be presented with a screen similar to the below screenshot. In the server address type smb://144.16.192.212 and hit connect.\n\n424x424px427x427px\n\n*Now, select the registered user and use the credentials (mentioned before) to login. Click Connect and then click OK to mount the volume.\n\n417x417px417x417px\n\nNow, you can simply save/copy the files from the network to your personal space.\n\nActivation\n\nActivation and usage details for certain softwares are available on the CIC website."
+    }
+  ],
+  "chunk_count": 1
+}

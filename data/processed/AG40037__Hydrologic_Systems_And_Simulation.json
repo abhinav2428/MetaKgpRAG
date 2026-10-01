@@ -1,0 +1,25 @@
+{
+  "title": "AG40037: Hydrologic Systems And Simulation",
+  "url": "https://wiki.metakgp.org/wiki/AG40037:_Hydrologic_Systems_And_Simulation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPreliminaries: Hydrologic investigation; Systems approach; Problems and models\nin hydrology.Runoff Modeling: Response time characteristics; Linear black box\nmodels for continuous time systems - Time area methods, Unit hydrograph method;\nLinear black box models for discrete time systems - UH derivation from multi\nstorm events; Non linear black box models; Linear conceptual models for\ncontinuous time systems - Nash model, Clark model, Dooge model; Linear\nconceptual models for discrete time systems - Discrete time linear reservoir,\nDiscrete time Nash model; Models for ungauged watersheds - Linear and nonlinear conceptual models.Hydrologic Abstractions: Interception - Empirical\nmodels; Depression storage; Evaporation and evapotranspiration; Infiltration Empirical models, conceptual models, comparison and evaluation of infiltration\nmodels.Hydrologic Inputs: Mean areal rainfall - Comparison of methods, accuracy\nestimation; Geomorphology - Channel system, drainage basin system.Watershed\nYield: Water yield - monthly and yearly volumetric rainfall-runoff models;\nSediment yield - Process, empirical and conceptual models, routing\nmodels.Watershed Models: Event based simulation models - Data needs, building\nof simulation models; Continuous simulation models - Elements, building of\ncontinuous simulation models.Application of Hydrologic Models: HEC-HMS, HECRAS, MIKE SHE, MIKE11, MIKEFLOOD, ArcSWAT.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Agricultural_&_Food_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Agricultural_&_Food_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AG40037: Hydrologic Systems And Simulation\n\nSyllabus\nSyllabus mentioned in ERP\n\nPreliminaries: Hydrologic investigation; Systems approach; Problems and models\nin hydrology.Runoff Modeling: Response time characteristics; Linear black box\nmodels for continuous time systems - Time area methods, Unit hydrograph method;\nLinear black box models for discrete time systems - UH derivation from multi\nstorm events; Non linear black box models; Linear conceptual models for\ncontinuous time systems - Nash model, Clark model, Dooge model; Linear\nconceptual models for discrete time systems - Discrete time linear reservoir,\nDiscrete time Nash model; Models for ungauged watersheds - Linear and nonlinear conceptual models.Hydrologic Abstractions: Interception - Empirical\nmodels; Depression storage; Evaporation and evapotranspiration; Infiltration Empirical models, conceptual models, comparison and evaluation of infiltration\nmodels.Hydrologic Inputs: Mean areal rainfall - Comparison of methods, accuracy\nestimation; Geomorphology - Channel system, drainage basin system.Watershed\nYield: Water yield - monthly and yearly volumetric rainfall-runoff models;\nSediment yield - Process, empirical and conceptual models, routing\nmodels.Watershed Models: Event based simulation models - Data needs, building\nof simulation models; Continuous simulation models - Elements, building of\ncontinuous simulation models.Application of Hydrologic Models: HEC-HMS, HECRAS, MIKE SHE, MIKE11, MIKEFLOOD, ArcSWAT."
+    },
+    {
+      "index": 1,
+      "text": "AG40037: Hydrologic Systems And Simulation\n\nsimulation models; Continuous simulation models - Elements, building of\ncontinuous simulation models.Application of Hydrologic Models: HEC-HMS, HECRAS, MIKE SHE, MIKE11, MIKEFLOOD, ArcSWAT.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

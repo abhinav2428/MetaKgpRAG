@@ -1,0 +1,21 @@
+{
+  "title": "CE31202: Advanced Structural Analysis",
+  "url": "https://wiki.metakgp.org/wiki/CE31202:_Advanced_Structural_Analysis",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction â Background - Concepts of Finite Element â discretisation\ntechniques â Concepts on Weighted Residual and Direct continuum approach.\nDevelopment of Element Library for 1-D Analysis â Concept of Shape function Use of 1-D Elements for Analysis â Local co-ordinate system. Development of\nElement Library for 2-D Analysis â Quadrilateral, Triangular Elements â Local\nCo-ordinate, Jacobian, Isoparametric Elements - Numerical Integration\nTechnique; Application of 2-D Elements for Plane Stress and Plane Strain\nProblems â Stress evaluation â difficulties. Analysis of Axisymmetric Problems;\nPlate bending Problem â Application of different types of Problems; Shell\nElement â Application of Finite Element to Shell Problems, Application Problems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Civil_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Civil_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CE31202: Advanced Structural Analysis\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction â Background - Concepts of Finite Element â discretisation\ntechniques â Concepts on Weighted Residual and Direct continuum approach.\nDevelopment of Element Library for 1-D Analysis â Concept of Shape function Use of 1-D Elements for Analysis â Local co-ordinate system. Development of\nElement Library for 2-D Analysis â Quadrilateral, Triangular Elements â Local\nCo-ordinate, Jacobian, Isoparametric Elements - Numerical Integration\nTechnique; Application of 2-D Elements for Plane Stress and Plane Strain\nProblems â Stress evaluation â difficulties. Analysis of Axisymmetric Problems;\nPlate bending Problem â Application of different types of Problems; Shell\nElement â Application of Finite Element to Shell Problems, Application Problems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "title": "New Programmer's Guide",
+  "url": "https://wiki.metakgp.org/wiki/New_Programmer's_Guide",
+  "text": "Which Language? \n\nWe don't have any definitive answer for this question, but if you want to :\n{| class=\"wikitable\"\n\n! I want to learn how to\n! Consider using\n\n Python \n\nFor beginners I recommend the book Think Python by Allen Downey, Python.org has list of couple of other resources including interactive and video tutorials.\n\n-- Hargup (talk) 22:56, 1 August 2016 (IST)\n\nCodecademy - Python - Interactive tutorials where you proceed by writing code.\n\n How to get help? \n* StackOverflow\n* StackOverflow Documentation\n* Learn Python - Reddit\n Local Support Groups \n* KLUG (Kharagpur Linux Users Group)\n* KGPLogical \n* Dev and Hacker Slack Channel\n\n How to find interesting things to work on? \n* GIthub Trending - Some cool open-source projects.\n\n List of Interesting Blogs \n* List of online resources\n Which tools \n\n Git \n\nGit is a version control software which is used by most of the open source projects.\n\nOfficial Git website/ (The most important one)\n\nGithub's resources for learning Git\n\nHow to fork, branch and send a PR\n\nGit Magic - Stanford\n\nGit Concepts simplified\n\nGet git working under proxy\n\nUnderstanding Git Conceptually\n\nUnderstanding Git's core\n\nRy's Git Tutorial\n\nFor the video lecture course:\n\nhttps://www.udacity.com/course/how-to-use-git-and-github--ud775\n\n See Also \n\n* CS11001 : Programming And Data Structure\n* New Competitive Programmer's Guide",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/CS11001_:_Programming_And_Data_Structure",
+    "https://wiki.metakgp.org/wiki/New_Competitive_Programmer's_Guide"
+  ],
+  "categories": [
+    "Pages_actively_undergoing_construction",
+    "Academics"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "New Programmer's Guide\n\nWhich Language? \n\nWe don't have any definitive answer for this question, but if you want to :\n{| class=\"wikitable\"\n\n! I want to learn how to\n! Consider using\n\n Python \n\nFor beginners I recommend the book Think Python by Allen Downey, Python.org has list of couple of other resources including interactive and video tutorials.\n\n-- Hargup (talk) 22:56, 1 August 2016 (IST)\n\nCodecademy - Python - Interactive tutorials where you proceed by writing code.\n\n How to get help? \n* StackOverflow\n* StackOverflow Documentation\n* Learn Python - Reddit\n Local Support Groups \n* KLUG (Kharagpur Linux Users Group)\n* KGPLogical \n* Dev and Hacker Slack Channel\n\n How to find interesting things to work on? \n* GIthub Trending - Some cool open-source projects.\n\n List of Interesting Blogs \n* List of online resources\n Which tools \n\n Git \n\nGit is a version control software which is used by most of the open source projects.\n\nOfficial Git website/ (The most important one)\n\nGithub's resources for learning Git\n\nHow to fork, branch and send a PR\n\nGit Magic - Stanford\n\nGit Concepts simplified\n\nGet git working under proxy\n\nUnderstanding Git Conceptually\n\nUnderstanding Git's core\n\nRy's Git Tutorial\n\nFor the video lecture course:\n\nhttps://www.udacity.com/course/how-to-use-git-and-github--ud775\n\n See Also \n\n* CS11001 : Programming And Data Structure\n* New Competitive Programmer's Guide"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,24 @@
+{
+  "title": "MA51115: Cryptography And Network Security",
+  "url": "https://wiki.metakgp.org/wiki/MA51115:_Cryptography_And_Network_Security",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Modern AlgebraIntroduction: Basic objectives of cryptography,\nsecret-key and public-key cryptography, one-way and trapdoor one-way functions,\ncryptanalysis, attack models, classical cryptography. Block ciphers: Modes of\noperation, DES and its variants, RCS, IDEA, SAFER, FEAL, BlowFish, AES, linear\nand differential cryptanalysis. Stream ciphers: Stream ciphers based on linear\nfeedback shift registers, SEAL, unconditional security. Message digest:\nProperties of hash functions, MD2, MD5 and SHA-1, keyed hash functions, attacks\non hash functions. Public-key parameters: Modular arithmetic, gcd, primality\ntesting, Chinese remainder theorem, modular square roots, finite fields.\nIntractable problems: Integer factorization problem, RSA problem, modular\nsquare root problem, discrete logarithm problem, Diffie-Hellman problem, known\nalgorithms for solving the intractable problems. Public-key encryption: RSA,\nRabin and EIGamal schemes, side channel attacks. Key exchange: Diffie-Hellman\nand MQV algorithms. Digital signatures: RSA, DAS and NR signature schemes,\nblind and undeniable signatures. Entity authentication: Passwords, challengeresponse algorithms, zero-knowledge protocols. Standards: IEEE, RSA and ISO\nstandards. Network issues: Certification, public-key infrastructure (PKI),\nsecured socket layer (SSL), Kerberos. Advanced topics: Elliptic and hyperelliptic curve cryptography, number field sieve, lattices and their\napplications in cryptography, hidden monomial cryptosystems, cryptographically\nsecure random number generators.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA51115: Cryptography And Network Security\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Modern AlgebraIntroduction: Basic objectives of cryptography,\nsecret-key and public-key cryptography, one-way and trapdoor one-way functions,\ncryptanalysis, attack models, classical cryptography.\n\nBlock ciphers: Modes of\noperation, DES and its variants, RCS, IDEA, SAFER, FEAL, BlowFish, AES, linear\nand differential cryptanalysis.\n\nStream ciphers: Stream ciphers based on linear\nfeedback shift registers, SEAL, unconditional security.\n\nMessage digest:\nProperties of hash functions, MD2, MD5 and SHA-1, keyed hash functions, attacks\non hash functions.\n\nPublic-key parameters: Modular arithmetic, gcd, primality\ntesting, Chinese remainder theorem, modular square roots, finite fields.\n\nIntractable problems: Integer factorization problem, RSA problem, modular\nsquare root problem, discrete logarithm problem, Diffie-Hellman problem, known\nalgorithms for solving the intractable problems.\n\nPublic-key encryption: RSA,\nRabin and EIGamal schemes, side channel attacks.\n\nKey exchange: Diffie-Hellman\nand MQV algorithms.\n\nDigital signatures: RSA, DAS and NR signature schemes,\nblind and undeniable signatures.\n\nEntity authentication: Passwords, challengeresponse algorithms, zero-knowledge protocols.\n\nStandards: IEEE, RSA and ISO\nstandards.\n\nNetwork issues: Certification, public-key infrastructure (PKI),\nsecured socket layer (SSL), Kerberos."
+    },
+    {
+      "index": 1,
+      "text": "MA51115: Cryptography And Network Security\n\nchallengeresponse algorithms, zero-knowledge protocols.\n\nStandards: IEEE, RSA and ISO\nstandards.\n\nNetwork issues: Certification, public-key infrastructure (PKI),\nsecured socket layer (SSL), Kerberos.\n\nAdvanced topics: Elliptic and hyperelliptic curve cryptography, number field sieve, lattices and their\napplications in cryptography, hidden monomial cryptosystems, cryptographically\nsecure random number generators.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MA41011: Theory Of Operating Systems",
+  "url": "https://wiki.metakgp.org/wiki/MA41011:_Theory_Of_Operating_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming and Data StructuresCPU, memory, file and I/O devices,\nbatch processing, resource scheduling problems - their solutions and analysis,\nstorage management, secondary storage, virtual memory, segmentation and paging.\nConcurrent processes and their synchronization abstractions. Producer consumer\nproblem, mutual exclusion and deadlock, properties of concurrent programmes,\ncritical section problem, semaphors, test and set, atomic operations, security\nand recovery.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA41011: Theory Of Operating Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming and Data StructuresCPU, memory, file and I/O devices,\nbatch processing, resource scheduling problems - their solutions and analysis,\nstorage management, secondary storage, virtual memory, segmentation and paging.\nConcurrent processes and their synchronization abstractions. Producer consumer\nproblem, mutual exclusion and deadlock, properties of concurrent programmes,\ncritical section problem, semaphors, test and set, atomic operations, security\nand recovery.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,24 @@
+{
+  "title": "MA61036: Probability Theory",
+  "url": "https://wiki.metakgp.org/wiki/MA61036:_Probability_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidClassical, relative frequency and axiomatic definitions of\nprobability, addition rule and conditional probability, multiplication rule,\ntotal probability, Bayes Theorem and independence. Discrete, continuous and\nmixed random variables, probability mass, probability density and cumulative\ndistribution functions, mathematical expectation, moments, moment generating\nfunction, Special distributions- discrete uniform, binomial, geometric,\nnegative binomial, hypergeometric, Poisson, continuous uniform, exponential,\ngamma, Weibull, Pareto, beta, normal, lognormal, inverse gaussian, Cauchy,\ndouble exponential distributions. Functions of a random variable. Joint\ndistributions, product moments, independence of random variables, bivariate\nnormal distribution, transformations of random variables. Sampling\nDistributions - distributions of the sample mean and the sample variance for a\nnormal population, Chi-Square, t and F distributions, distributions of order\nstatistics. Moment inequalities - Chebychev, Markov, Liapunov, Holder, Cr,\nBasic, Minkowski, Cauchy-Schwartz, Kolmogorov, Jensen. Convergence of random\nvariables â convergence in probability, convergence almost surely, convergence\nin rth mean, convergence in distribution â their interrelationships.\nCharacterstic functions, inversion and continuity theorems. Zero-One Laws, Weak\nand strong laws of large numbers and their properties. Central Limit Theorems â\nLindberg-Levy, Liapunov and Lindberg-Feller.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61036: Probability Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidClassical, relative frequency and axiomatic definitions of\nprobability, addition rule and conditional probability, multiplication rule,\ntotal probability, Bayes Theorem and independence.\n\nDiscrete, continuous and\nmixed random variables, probability mass, probability density and cumulative\ndistribution functions, mathematical expectation, moments, moment generating\nfunction, Special distributions- discrete uniform, binomial, geometric,\nnegative binomial, hypergeometric, Poisson, continuous uniform, exponential,\ngamma, Weibull, Pareto, beta, normal, lognormal, inverse gaussian, Cauchy,\ndouble exponential distributions.\n\nFunctions of a random variable.\n\nJoint\ndistributions, product moments, independence of random variables, bivariate\nnormal distribution, transformations of random variables.\n\nSampling\nDistributions - distributions of the sample mean and the sample variance for a\nnormal population, Chi-Square, t and F distributions, distributions of order\nstatistics.\n\nMoment inequalities - Chebychev, Markov, Liapunov, Holder, Cr,\nBasic, Minkowski, Cauchy-Schwartz, Kolmogorov, Jensen.\n\nConvergence of random\nvariables â convergence in probability, convergence almost surely, convergence\nin rth mean, convergence in distribution â their interrelationships.\n\nCharacterstic functions, inversion and continuity theorems.\n\nZero-One Laws, Weak\nand strong laws of large numbers and their properties."
+    },
+    {
+      "index": 1,
+      "text": "MA61036: Probability Theory\n\nmean, convergence in distribution â their interrelationships.\n\nCharacterstic functions, inversion and continuity theorems.\n\nZero-One Laws, Weak\nand strong laws of large numbers and their properties.\n\nCentral Limit Theorems â\nLindberg-Levy, Liapunov and Lindberg-Feller.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

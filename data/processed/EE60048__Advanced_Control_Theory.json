@@ -1,0 +1,21 @@
+{
+  "title": "EE60048: Advanced Control Theory",
+  "url": "https://wiki.metakgp.org/wiki/EE60048:_Advanced_Control_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDecoupling of multivariable systems, diagonal dominance. Introduction to rings\nand polynomials. Matrix fraction description of transfer function matrices.\nTest for irreducibility. Realization of MIMO transfer matrices. Pole placement\nin transfer function (TF) domain using output feedback. Controller design using\nthe fractorization approach. Model matching problem.\nSmall perturbation analysis, robust control, sensitivity functions, structured\nand unstructured uncertainties, define H2 and H-infinity control problem, the\nperformance bound, concept of basic loop-shaping, weights to specify\nperformance, mixed sensitivity problem, robust pole assignment problem.\nController Parametrization, Strong and Simultaneous Stabilization problem. QParameter design, Youla parameterization, Internal model control (IMC), IMC\nperformances\nInterval arithmetic, interval polynomial, Kharitonov’s theorem and its\napplication. A class of stabilizing P, PI, PD and PID controllers using\nHermite-Biehler theorem for continuous time system.\nPeriodically varying systems, methods of stability analysis (continuous and\ndiscrete time systems), Zero placement and improvement in gain margin.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60048: Advanced Control Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nDecoupling of multivariable systems, diagonal dominance. Introduction to rings\nand polynomials. Matrix fraction description of transfer function matrices.\nTest for irreducibility. Realization of MIMO transfer matrices. Pole placement\nin transfer function (TF) domain using output feedback. Controller design using\nthe fractorization approach. Model matching problem.\nSmall perturbation analysis, robust control, sensitivity functions, structured\nand unstructured uncertainties, define H2 and H-infinity control problem, the\nperformance bound, concept of basic loop-shaping, weights to specify\nperformance, mixed sensitivity problem, robust pole assignment problem.\nController Parametrization, Strong and Simultaneous Stabilization problem. QParameter design, Youla parameterization, Internal model control (IMC), IMC\nperformances\nInterval arithmetic, interval polynomial, Kharitonov’s theorem and its\napplication. A class of stabilizing P, PI, PD and PID controllers using\nHermite-Biehler theorem for continuous time system.\nPeriodically varying systems, methods of stability analysis (continuous and\ndiscrete time systems), Zero placement and improvement in gain margin.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

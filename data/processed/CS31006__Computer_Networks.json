@@ -1,0 +1,21 @@
+{
+  "title": "CS31006: Computer Networks",
+  "url": "https://wiki.metakgp.org/wiki/CS31006:_Computer_Networks",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to networks and layered architecture. Data communication concepts,\ntransmission media and topology, multiplexing. circuit switching and packet\nswitching, data link layer, layer 2 switches and ATM switches, SONET/SDH.\nMedium access control. CSMA CD, TDMA, FDMA, CDMA. Network layer and addressing,\nIP version 4 and 6. Routing algorithms. Transmission layer, TCP and UDP.\nCongestion control techniques. WAN, ATM. Internetworking. Wireless\ncommunications. Network management and security.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\nRTFM\n\nAdditional Resources\nClass Test-1\n\nMid-Sem",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS31006: Computer Networks\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to networks and layered architecture. Data communication concepts,\ntransmission media and topology, multiplexing. circuit switching and packet\nswitching, data link layer, layer 2 switches and ATM switches, SONET/SDH.\nMedium access control. CSMA CD, TDMA, FDMA, CDMA. Network layer and addressing,\nIP version 4 and 6. Routing algorithms. Transmission layer, TCP and UDP.\nCongestion control techniques. WAN, ATM. Internetworking. Wireless\ncommunications. Network management and security.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\nRTFM\n\nAdditional Resources\nClass Test-1\n\nMid-Sem"
+    }
+  ],
+  "chunk_count": 1
+}

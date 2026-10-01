@@ -1,0 +1,21 @@
+{
+  "title": "EC60090: Emi And Emc Techniques",
+  "url": "https://wiki.metakgp.org/wiki/EC60090:_Emi_And_Emc_Techniques",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: NoneAspects of EMC with examples , Common EMC units, EMC\nrequirements for electronic systems , Radiated emissions, Conducted emissions,\nESD. Application of EMC design , Wires, PCB lands, Component leads, resistors,\ncapacitors, inductors, ferrites. Electromechanical devices ,Digital circuit\ndevices . Mechanical switches ( as suppression) , Simple emission models for\nwires and PCB lands, Lice impedance stabilisation network (LISN) , Power supply\nfilters. Power supplies including SMPS . Three conductor lines and crosstalk,\nShielded wires , Twisted wires, Multiconductor lines and effects of incident\nfields, Shielding, Origin effects , prevention of ESD event, its harware and\nimmunity. System design for EMC , Grounding, System configuration, PCB design.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60090: Emi And Emc Techniques\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: NoneAspects of EMC with examples , Common EMC units, EMC\nrequirements for electronic systems , Radiated emissions, Conducted emissions,\nESD. Application of EMC design , Wires, PCB lands, Component leads, resistors,\ncapacitors, inductors, ferrites. Electromechanical devices ,Digital circuit\ndevices . Mechanical switches ( as suppression) , Simple emission models for\nwires and PCB lands, Lice impedance stabilisation network (LISN) , Power supply\nfilters. Power supplies including SMPS . Three conductor lines and crosstalk,\nShielded wires , Twisted wires, Multiconductor lines and effects of incident\nfields, Shielding, Origin effects , prevention of ESD event, its harware and\nimmunity. System design for EMC , Grounding, System configuration, PCB design.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

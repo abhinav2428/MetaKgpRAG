@@ -1,0 +1,20 @@
+{
+  "title": "EE60051: Emc And Emi Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60051:_Emc_And_Emi_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nEMI - Interference Problem Terminology. Typical noise path Application of\nnetwork theory - Methods of elimination.\nNoise sources , Passive components, Capacities,\nInductors, Resistors,\nTransformers active devices, Transistors, FETS, ICs - Intrinsic noise sources.\nNoise Elimination - Shielding - E.S. shielding, EM shielding, Calculations\nShielded conductors.\nGrounding and Bonding - Safety ground - Signal ground - Single point\ngrounding - Multipoint grounding - Hardware grounding - Grounding of\nshields.\nAdditional Noise Reduction Techniques - Balancing - Power supply decoupling Isolation - Filters.\nShielding Effectiveness - Absorption - Reflection - Seams - Holes Gaskets.\nContact Protection - Inductive Loads - Resistive Loads.\nPrinciples of Electromagnetic Compatibility.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60051: Emc And Emi Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nEMI - Interference Problem Terminology. Typical noise path Application of\nnetwork theory - Methods of elimination.\nNoise sources , Passive components, Capacities,\nInductors, Resistors,\nTransformers active devices, Transistors, FETS, ICs - Intrinsic noise sources.\nNoise Elimination - Shielding - E.S. shielding, EM shielding, Calculations\nShielded conductors.\nGrounding and Bonding - Safety ground - Signal ground - Single point\ngrounding - Multipoint grounding - Hardware grounding - Grounding of\nshields.\nAdditional Noise Reduction Techniques - Balancing - Power supply decoupling Isolation - Filters.\nShielding Effectiveness - Absorption - Reflection - Seams - Holes Gaskets.\nContact Protection - Inductive Loads - Resistive Loads.\nPrinciples of Electromagnetic Compatibility.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

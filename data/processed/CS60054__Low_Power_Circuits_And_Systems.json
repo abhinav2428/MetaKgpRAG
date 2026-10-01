@@ -1,0 +1,25 @@
+{
+  "title": "CS60054: Low Power Circuits And Systems",
+  "url": "https://wiki.metakgp.org/wiki/CS60054:_Low_Power_Circuits_And_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasics of MOS circuits: MOS transistor structure and device modeling, MOS\ninverters, MOS combinational circuits Ã¢ÂÂ different logic families.Sources of\npower dissipation in CMOS circuits: static power dissipation Ã¢ÂÂ diode leakage\npower, subthreshold leakage power, gate and other tunnel currents; dynamic\npower dissipation Ã¢ÂÂ short circuit power, switching power, gliching power;\ndegrees of freedom.Supply voltage scaling approaches: technology Level Ã¢ÂÂ\nfeature size scaling, threshold voltage scaling; logic level Ã¢ÂÂ gate sizing\nfor voltage scaling; architecture level Ã¢ÂÂ parallelism and pipelining;\nalgorithm level Ã¢ÂÂ transformations to exploit concurrency; dynamic voltage\nscaling.Switched capacitance minimization appro-aches: system level Ã¢ÂÂ power\ndown, system partitioning; algorithm level Ã¢ÂÂ concurrency, locality,\nregularity, data representation; architecture level Ã¢ÂÂ concurrency, signal\ncorrelation; logic level Ã¢ÂÂ gate sizing, logic styles; layout level Ã¢ÂÂ\nlayout optimization; technology level Ã¢ÂÂ advanced packaging, SOI.Leakage\npower control techniques: threshold voltage scaling: MTCMOS, VTCMOS and\nMultiple-Vt CMOS circuits; gate sizing.Special Topics: adiabatic switching,\nbattery aware synthesis.References1.Sung-Mo Kang, Yusuf Leblebici, CMOS Digital\nIntegrated Circuits, Tata McGraw-Hill .2.Neil H. E. Weste and K. Eshraghian,\nPrinciples of CMOS VLSI Design, Addison-Wesley (Indian reprint).3.A. Bellamour,\nand M. I. Elmasri, Low Power VLSI CMOS Circuit Design, Kluwer Academic\nPress.4.Anantha P. Chandrakasan and Robert W. Brodersen, Low Power Digital CMOS\nDesign, Kluwer Academic Publishers.5.Kaushik Roy and Sharat C. Prasad, LowPower CMOS VLSI Design, Wiley-Interscience.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60054: Low Power Circuits And Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasics of MOS circuits: MOS transistor structure and device modeling, MOS\ninverters, MOS combinational circuits Ã¢ÂÂ different logic families.Sources of\npower dissipation in CMOS circuits: static power dissipation Ã¢ÂÂ diode leakage\npower, subthreshold leakage power, gate and other tunnel currents; dynamic\npower dissipation Ã¢ÂÂ short circuit power, switching power, gliching power;\ndegrees of freedom.Supply voltage scaling approaches: technology Level Ã¢ÂÂ\nfeature size scaling, threshold voltage scaling; logic level Ã¢ÂÂ gate sizing\nfor voltage scaling; architecture level Ã¢ÂÂ parallelism and pipelining;\nalgorithm level Ã¢ÂÂ transformations to exploit concurrency; dynamic voltage\nscaling.Switched capacitance minimization appro-aches: system level Ã¢ÂÂ power\ndown, system partitioning; algorithm level Ã¢ÂÂ concurrency, locality,\nregularity, data representation; architecture level Ã¢ÂÂ concurrency, signal\ncorrelation; logic level Ã¢ÂÂ gate sizing, logic styles; layout level Ã¢ÂÂ\nlayout optimization; technology level Ã¢ÂÂ advanced packaging, SOI.Leakage\npower control techniques: threshold voltage scaling: MTCMOS, VTCMOS and\nMultiple-Vt CMOS circuits; gate sizing.Special Topics: adiabatic switching,\nbattery aware synthesis.References1.Sung-Mo Kang, Yusuf Leblebici, CMOS Digital\nIntegrated Circuits, Tata McGraw-Hill .2.Neil H.\n\nE.\n\nWeste and K."
+    },
+    {
+      "index": 1,
+      "text": "CS60054: Low Power Circuits And Systems\n\ngate sizing.Special Topics: adiabatic switching,\nbattery aware synthesis.References1.Sung-Mo Kang, Yusuf Leblebici, CMOS Digital\nIntegrated Circuits, Tata McGraw-Hill .2.Neil H.\n\nE.\n\nWeste and K.\n\nEshraghian,\nPrinciples of CMOS VLSI Design, Addison-Wesley (Indian reprint).3.A.\n\nBellamour,\nand M.\n\nI.\n\nElmasri, Low Power VLSI CMOS Circuit Design, Kluwer Academic\nPress.4.Anantha P.\n\nChandrakasan and Robert W.\n\nBrodersen, Low Power Digital CMOS\nDesign, Kluwer Academic Publishers.5.Kaushik Roy and Sharat C.\n\nPrasad, LowPower CMOS VLSI Design, Wiley-Interscience.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

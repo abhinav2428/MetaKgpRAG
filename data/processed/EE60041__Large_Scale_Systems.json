@@ -1,0 +1,20 @@
+{
+  "title": "EE60041: Large Scale Systems",
+  "url": "https://wiki.metakgp.org/wiki/EE60041:_Large_Scale_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Time and frequency-domain modelling and representation of large\nscale system (LSS). Hierarchical control of LSS. Decentralised control of LSS.\nNear-optimum design. Case studies. Stabilization of LSS using Linear Matrix\nInequality (LMI) approach.\nModel reduction problem. Aggregation method, Perturbation methods (weakly\ncoupled models, strongly coupled models). Balanced realisation-based model\norder reduction. Hankel based methods. Frequency domain methods for model order\nreduction-Pade\nRouth, continued-fraction expansion and mixed methods for SISO\nand MIMO systems. Low order controller design methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60041: Large Scale Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: Time and frequency-domain modelling and representation of large\nscale system (LSS). Hierarchical control of LSS. Decentralised control of LSS.\nNear-optimum design. Case studies. Stabilization of LSS using Linear Matrix\nInequality (LMI) approach.\nModel reduction problem. Aggregation method, Perturbation methods (weakly\ncoupled models, strongly coupled models). Balanced realisation-based model\norder reduction. Hankel based methods. Frequency domain methods for model order\nreduction-Pade\nRouth, continued-fraction expansion and mixed methods for SISO\nand MIMO systems. Low order controller design methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

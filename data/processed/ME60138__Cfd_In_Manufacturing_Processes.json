@@ -1,0 +1,21 @@
+{
+  "title": "ME60138: Cfd In Manufacturing Processes",
+  "url": "https://wiki.metakgp.org/wiki/ME60138:_Cfd_In_Manufacturing_Processes",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nA brief overview of the basic conservation equations in heat transfer and fluid\nflow, classification of partial differential equations and physical behaviour,\nrole of initial and boundary conditions. Common methods of discretisation: an\noverview of finite difference, finite elememt and finite volume methods and\ntheir relative merits and demerits in solving heat transfer and fluid flow\nproblems. The Finite Volume Method for diffusion, convection-diffusion, and\nfluid flow problems. Examples with single phase flows in manufacturing\nprocesses. Phase Change problems in materials processing and their CFD\nmodeling. Enthalpy-porosity approach for melting-solidification. Phase-field\nmodel. Introduction to turbulence modeling and its application in materials\nprocessing (such as continuous casting). CFD for laser aided materials\nprocessing.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60138: Cfd In Manufacturing Processes\n\nSyllabus\nSyllabus mentioned in ERP\n\nA brief overview of the basic conservation equations in heat transfer and fluid\nflow, classification of partial differential equations and physical behaviour,\nrole of initial and boundary conditions. Common methods of discretisation: an\noverview of finite difference, finite elememt and finite volume methods and\ntheir relative merits and demerits in solving heat transfer and fluid flow\nproblems. The Finite Volume Method for diffusion, convection-diffusion, and\nfluid flow problems. Examples with single phase flows in manufacturing\nprocesses. Phase Change problems in materials processing and their CFD\nmodeling. Enthalpy-porosity approach for melting-solidification. Phase-field\nmodel. Introduction to turbulence modeling and its application in materials\nprocessing (such as continuous casting). CFD for laser aided materials\nprocessing.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

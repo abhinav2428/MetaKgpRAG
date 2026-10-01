@@ -1,0 +1,21 @@
+{
+  "title": "IM21006: Operations Research-Ii",
+  "url": "https://wiki.metakgp.org/wiki/IM21006:_Operations_Research-Ii",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: IM21003 Operations Research-1\nNon-linear Programming: Kuhn-Tucker conditions, constrained and unconstrained\noptimisation, search techniques. Use of NPL computer software packages.\nDynamic Programming: Principle of optimality, stage coach problems, recursive\nrelationship. Application to assignment problem, Knapsack problem, productioninventory problems.\nProbabilistic OR models: Markov chains, Introduction to queuing theory, Single\nand multiple server models, Poisson and non-Poisson queues, Priority discipline\nmodels, Finite population models, Queuing costs and applications, Computer\npackages for solving queuing problems.\nBooks\n•Operation Research- Principles and Practice, Ravindran, Phillip, Solberg,\nWiley\n•Operation Research- An Introduction, Taha, PHI\n•Operation Research, Hillier and Lieberman\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM21006: Operations Research-Ii\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: IM21003 Operations Research-1\nNon-linear Programming: Kuhn-Tucker conditions, constrained and unconstrained\noptimisation, search techniques. Use of NPL computer software packages.\nDynamic Programming: Principle of optimality, stage coach problems, recursive\nrelationship. Application to assignment problem, Knapsack problem, productioninventory problems.\nProbabilistic OR models: Markov chains, Introduction to queuing theory, Single\nand multiple server models, Poisson and non-Poisson queues, Priority discipline\nmodels, Finite population models, Queuing costs and applications, Computer\npackages for solving queuing problems.\nBooks\n•Operation Research- Principles and Practice, Ravindran, Phillip, Solberg,\nWiley\n•Operation Research- An Introduction, Taha, PHI\n•Operation Research, Hillier and Lieberman\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

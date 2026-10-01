@@ -1,0 +1,33 @@
+{
+  "title": "EE60001: Power Electronic Converters And Machine Drives",
+  "url": "https://wiki.metakgp.org/wiki/EE60001:_Power_Electronic_Converters_And_Machine_Drives",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPower Electronic Devices: Diodes, Transistors, Thyristors, MOSFET and IGBT operating principle, Static, dynamic and thermal characteristics, Data sheet\nratings, gate drive circuits; Single phase half controlled and fully controlled\nAC/DC bridge converter with R, R-L, R-L-E (motor) loads: operation (both\nrectifier and inverter modes) , waveforms ,harmonics (output voltage/current\nand input current) assuming continuous conduction, input current (ac)\ndisplacement, distortion and power factor, effect of input line inductance\nassuming constant current dc load, closed form expression of output dc current\nwith general R-L-E load, discontinuous conduction mode of operation, Torquespeed characteristics of converter controlled separately excited dc motor in\ncontinuous and discontinuous mode of conduction; Three phase half controlled\nand fully controlled AC/DC bridge converter assuming constant dc current load :\noperation in rectifier and inverter modes, waveforms, output voltage and input\ncurrent harmonics, input power factor and effect of input line inductance,\nseries and parallel operation of converters, power factor improvement, 12\npulse/18 pulse operation, transformer connection, dual converters; DC-DC\nchoppers: basic voltage commutated thyristor chopper analysis , Separately\nexcited DC motor drive using DC-DC choppers made of gate controlled devices,\nfour quadrant operation, dynamic and regenerative braking of series DC motor\nusing choppers; Basic DC-DC converters: buck, boost buck-boost and Cuk\nconverter, operation, waveforms and design; DC-AC inverters using gate\ncontrolled devices: single phase and three phase square wave inverters,\noperation waveforms and harmonics in pole voltage, load phase voltage and line\nvoltage, output voltage control in single phase square wave inverter using\nchopper control and phase shift, harmonic analysis, operating principles of\nsingle phase and three phase PWM inverters, modulation techniques, SPWM,\nSelective Harmonic Elimination PWM and delta modulation, harmonic spectrum and\ncomparison among different PWM techniques; Variable frequency operation of\nthree phase induction motors: Steady state analysis, Torque-speed , currentspeed and slip frequency -speed characteristics and operating limits with\nconstant volts/Hz and constant air gap flux operation, implementation using PWM\nVSI.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60001: Power Electronic Converters And Machine Drives\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "EE60001: Power Electronic Converters And Machine Drives\n\nPower Electronic Devices: Diodes, Transistors, Thyristors, MOSFET and IGBT operating principle, Static, dynamic and thermal characteristics, Data sheet\nratings, gate drive circuits; Single phase half controlled and fully controlled\nAC/DC bridge converter with R, R-L, R-L-E (motor) loads: operation (both\nrectifier and inverter modes) , waveforms ,harmonics (output voltage/current\nand input current) assuming continuous conduction, input current (ac)\ndisplacement, distortion and power factor, effect of input line inductance\nassuming constant current dc load, closed form expression of output dc current\nwith general R-L-E load, discontinuous conduction mode of operation, Torquespeed characteristics of converter controlled separately excited dc motor in\ncontinuous and discontinuous mode of conduction; Three phase half controlled\nand fully controlled AC/DC bridge converter assuming constant dc current load :\noperation in rectifier and inverter modes, waveforms, output voltage and input\ncurrent harmonics, input power factor and effect of input line inductance,\nseries and parallel operation of converters, power factor improvement, 12\npulse/18 pulse operation, transformer connection, dual converters; DC-DC\nchoppers: basic voltage commutated thyristor chopper analysis , Separately\nexcited DC motor drive using DC-DC choppers made of gate controlled devices,\nfour quadrant operation, dynamic and regenerative braking of series DC moto"
+    },
+    {
+      "index": 2,
+      "text": "EE60001: Power Electronic Converters And Machine Drives\n\nmutated thyristor chopper analysis , Separately\nexcited DC motor drive using DC-DC choppers made of gate controlled devices,\nfour quadrant operation, dynamic and regenerative braking of series DC motor\nusing choppers; Basic DC-DC converters: buck, boost buck-boost and Cuk\nconverter, operation, waveforms and design; DC-AC inverters using gate\ncontrolled devices: single phase and three phase square wave inverters,\noperation waveforms and harmonics in pole voltage, load phase voltage and line\nvoltage, output voltage control in single phase square wave inverter using\nchopper control and phase shift, harmonic analysis, operating principles of\nsingle phase and three phase PWM inverters, modulation techniques, SPWM,\nSelective Harmonic Elimination PWM and delta modulation, harmonic spectrum and\ncomparison among different PWM techniques; Variable frequency operation of\nthree phase induction motors: Steady state analysis, Torque-speed , currentspeed and slip frequency -speed characteristics and operating limits with\nconstant volts/Hz and constant air gap flux operation, implementation using PWM\nVSI."
+    },
+    {
+      "index": 3,
+      "text": "EE60001: Power Electronic Converters And Machine Drives\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

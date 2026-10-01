@@ -1,0 +1,25 @@
+{
+  "title": "CS40023: Advanced Computer Architecture",
+  "url": "https://wiki.metakgp.org/wiki/CS40023:_Advanced_Computer_Architecture",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nOverview of von Neumann architecture: Instruction set architecture; The\nArithmetic and Logic Unit, The Control Unit, Memory and I/O devices and their\ninterfacing to the CPU; Measuring and reporting performance; CISC and RISC\nprocessors.Pipelining: Basic concepts of pipelining, data hazards, control\nhazards, and structural hazards; Techniques for overcoming or reducing the\neffects of various hazards.Hierarchical Memory Technology: Inclusion, Coherence\nand locality properties; Cache memory organizations, Techniques for reducing\ncache misses; Virtual memory organization, mapping and management techniques,\nmemory replacement policies.Instruction-level parallelism: Concepts of\ninstruction-level parallelism (ILP), Techniques for increasing ILP;\nSuperscalar, super-pipelined and VLIW processor architectures; Vector and\nsymbolic processors; Case studies of contemporary microprocessorsMultiprocessor\nArchitecture: Taxonomy of parallel architectures; Centralized shared-memory\narchitecture, synchronization, memory consistency, interconnection networks;\nDistributed shared-memory architecture, Cluster computers.Non von Neumann\nArchitectures: Data flow Computers, Reduction computer architectures, Systolic\nArchitectures.References1.John L. Hennessy and David A. Patterson, Computer\nArchitecture: A Quantitative Approach, Morgan Kaufmann.2.John Paul Shen and\nMikko H. Lipasti, Modern Processor Design: Fundamentals of Superscalar\nProcessors, Tata McGraw-Hill.3.M. J. Flynn, Computer Architecture: Pipelined\nand Parallel Processor Design, Narosa Publishing House.4.Kai Hwang, Advanced\nComputer Architecture: Parallelism, Scalability, Programmability, McGraw-Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40023: Advanced Computer Architecture\n\nSyllabus\nSyllabus mentioned in ERP\n\nOverview of von Neumann architecture: Instruction set architecture; The\nArithmetic and Logic Unit, The Control Unit, Memory and I/O devices and their\ninterfacing to the CPU; Measuring and reporting performance; CISC and RISC\nprocessors.Pipelining: Basic concepts of pipelining, data hazards, control\nhazards, and structural hazards; Techniques for overcoming or reducing the\neffects of various hazards.Hierarchical Memory Technology: Inclusion, Coherence\nand locality properties; Cache memory organizations, Techniques for reducing\ncache misses; Virtual memory organization, mapping and management techniques,\nmemory replacement policies.Instruction-level parallelism: Concepts of\ninstruction-level parallelism (ILP), Techniques for increasing ILP;\nSuperscalar, super-pipelined and VLIW processor architectures; Vector and\nsymbolic processors; Case studies of contemporary microprocessorsMultiprocessor\nArchitecture: Taxonomy of parallel architectures; Centralized shared-memory\narchitecture, synchronization, memory consistency, interconnection networks;\nDistributed shared-memory architecture, Cluster computers.Non von Neumann\nArchitectures: Data flow Computers, Reduction computer architectures, Systolic\nArchitectures.References1.John L.\n\nHennessy and David A.\n\nPatterson, Computer\nArchitecture: A Quantitative Approach, Morgan Kaufmann.2.John Paul Shen and\nMikko H."
+    },
+    {
+      "index": 1,
+      "text": "CS40023: Advanced Computer Architecture\n\ncomputer architectures, Systolic\nArchitectures.References1.John L.\n\nHennessy and David A.\n\nPatterson, Computer\nArchitecture: A Quantitative Approach, Morgan Kaufmann.2.John Paul Shen and\nMikko H.\n\nLipasti, Modern Processor Design: Fundamentals of Superscalar\nProcessors, Tata McGraw-Hill.3.M.\n\nJ.\n\nFlynn, Computer Architecture: Pipelined\nand Parallel Processor Design, Narosa Publishing House.4.Kai Hwang, Advanced\nComputer Architecture: Parallelism, Scalability, Programmability, McGraw-Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

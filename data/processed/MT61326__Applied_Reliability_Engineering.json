@@ -1,0 +1,20 @@
+{
+  "title": "MT61326: Applied Reliability Engineering",
+  "url": "https://wiki.metakgp.org/wiki/MT61326:_Applied_Reliability_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction and overview Review of basic probability: combinatorial\nprobability, conditional probability, independence, Bayes theorem Review:\nrandom variables, probability laws, common probability distributions â origins\nand interrelations Random number generation â Monte Carlo simulation Functions\nof random variables; Joint probability distribution: dependence, conditional\ndistributions, covariance; Joint Normal distribution Reliability â historical\ndevelopment, applications, different measures of reliability Component\nreliability - time to failure, hazard functions, failure, limit states,\ncomputation of failure probability Reliability-based maintenance System\nreliability - representation of failure, series and parallel systems,\nredundancy, fault trees Probability-based design and reliability-based design\ncodes Probability-based acceptance criteria, consequence of failure Concepts\nof risk, utility Target reliability\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Metallurgical_&_Materials_Engineering"
+  ],
+  "categories": [
+    "Metallurgical_&_Materials_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MT61326: Applied Reliability Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction and overview Review of basic probability: combinatorial\nprobability, conditional probability, independence, Bayes theorem Review:\nrandom variables, probability laws, common probability distributions â origins\nand interrelations Random number generation â Monte Carlo simulation Functions\nof random variables; Joint probability distribution: dependence, conditional\ndistributions, covariance; Joint Normal distribution Reliability â historical\ndevelopment, applications, different measures of reliability Component\nreliability - time to failure, hazard functions, failure, limit states,\ncomputation of failure probability Reliability-based maintenance System\nreliability - representation of failure, series and parallel systems,\nredundancy, fault trees Probability-based design and reliability-based design\ncodes Probability-based acceptance criteria, consequence of failure Concepts\nof risk, utility Target reliability\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "title": "CS60036: Intelligent Systems",
+  "url": "https://wiki.metakgp.org/wiki/CS60036:_Intelligent_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nData, information and knowledge. Model of an intelligent system. Models of\nknowledge representations: Representation and reasoning in logic. Semantic\nrepresentations: semantic networks, frames; Frame/script systems; Conceptual\ndependency and conceptual graphs. Ontologies. Knowledge based systems: Software\narchitecture of a knowledge-based system, Rule-based program-ming and\nproduction systems, Rule chaining and inference control, Inference: reasoning\nabout knowledge, Temporal reasoning, Inference under uncertainty: Bayesian\ntechniques, Fuzzy reasoning, Case-based reasoning. Intelligent agents, The\nagent metaphor and attributes of agent-hood, Agent theory and languages, Interagent communication, Ontological issues. Alternatives to the symbolic approach:\nFoundations of connectionist networks; their history. Applications of AI:\nExample application domains, e.g. Configuration, Diagnosis, Planning,\nintelligent interfaces, user modeling, practical implications of choosing and\napplying AI solutions. Knowledge representation and the Web, Semantic Web.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60036: Intelligent Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nData, information and knowledge. Model of an intelligent system. Models of\nknowledge representations: Representation and reasoning in logic. Semantic\nrepresentations: semantic networks, frames; Frame/script systems; Conceptual\ndependency and conceptual graphs. Ontologies. Knowledge based systems: Software\narchitecture of a knowledge-based system, Rule-based program-ming and\nproduction systems, Rule chaining and inference control, Inference: reasoning\nabout knowledge, Temporal reasoning, Inference under uncertainty: Bayesian\ntechniques, Fuzzy reasoning, Case-based reasoning. Intelligent agents, The\nagent metaphor and attributes of agent-hood, Agent theory and languages, Interagent communication, Ontological issues. Alternatives to the symbolic approach:\nFoundations of connectionist networks; their history. Applications of AI:\nExample application domains, e.g. Configuration, Diagnosis, Planning,\nintelligent interfaces, user modeling, practical implications of choosing and\napplying AI solutions. Knowledge representation and the Web, Semantic Web.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

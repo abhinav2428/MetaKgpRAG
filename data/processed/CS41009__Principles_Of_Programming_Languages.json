@@ -1,0 +1,25 @@
+{
+  "title": "CS41009: Principles Of Programming Languages",
+  "url": "https://wiki.metakgp.org/wiki/CS41009:_Principles_Of_Programming_Languages",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nThe aim is to study and appreciate different types of languages and the\nunderlying mathematical theories. This may help to design and also to\nappreciate new language features. Introduction : Overview of different\nprogramming paradigms e.g. imperative, object oriented, functional , logic and\nconcurrent programming. Syntax and semantics of programming languages : A quick\noverview of syntax specification and semiformal semantic specification using\nattribute grammar. Imperative and OO Languages : Names, their scope, life and\nbinding. Control-flow, control abstraction; in subprogram and exception\nhandling. Primitive and constructed data types, data abstraction, inheritence,\ntype checking and polymorphism. Functional Languages : Typed -calculus, higher\norder functions and types, evaluation strategies, type checking,\nimplementation, case study. Logic Programming Languages : Computing with\nrelation, first-order logic, SLD-resolution, unification, sequencing of\ncontrol, negation, implementation, case study. Concurrency : Communication and\nsynchronization, shared memory and message passing, safety and liveness\nproperties, multithreaded program. Formal Semantics : Operational, denotational\nand axiomatic semantics of toy languages, languages with higher order\nconsstructs and types, recursive type, subtype,semantics of nondeterminism and\nconcurrency.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS41009: Principles Of Programming Languages\n\nSyllabus\nSyllabus mentioned in ERP\n\nThe aim is to study and appreciate different types of languages and the\nunderlying mathematical theories. This may help to design and also to\nappreciate new language features. Introduction : Overview of different\nprogramming paradigms e.g. imperative, object oriented, functional , logic and\nconcurrent programming. Syntax and semantics of programming languages : A quick\noverview of syntax specification and semiformal semantic specification using\nattribute grammar. Imperative and OO Languages : Names, their scope, life and\nbinding. Control-flow, control abstraction; in subprogram and exception\nhandling. Primitive and constructed data types, data abstraction, inheritence,\ntype checking and polymorphism. Functional Languages : Typed -calculus, higher\norder functions and types, evaluation strategies, type checking,\nimplementation, case study. Logic Programming Languages : Computing with\nrelation, first-order logic, SLD-resolution, unification, sequencing of\ncontrol, negation, implementation, case study. Concurrency : Communication and\nsynchronization, shared memory and message passing, safety and liveness\nproperties, multithreaded program. Formal Semantics : Operational, denotational\nand axiomatic semantics of toy languages, languages with higher order\nconsstructs and types, recursive type, subtype,semantics of nondeterminism and\nconcurrency.\n\nConcepts taught in class\n\nStudent Opinion"
+    },
+    {
+      "index": 1,
+      "text": "CS41009: Principles Of Programming Languages\n\nsemantics of toy languages, languages with higher order\nconsstructs and types, recursive type, subtype,semantics of nondeterminism and\nconcurrency.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

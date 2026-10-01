@@ -1,0 +1,25 @@
+{
+  "title": "ME60012: Computational Fluid Dynamics",
+  "url": "https://wiki.metakgp.org/wiki/ME60012:_Computational_Fluid_Dynamics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nA brief overview of the basic conservation equations for fluid flow and heat\ntransfer, classification of partial differential equations and pertinent\nphysical behaviour, parabolic, elliptic and hyperbolic equations, role of\ncharacteristics. Common methods of discretization: an overview of finite\ndifference, finite element and finite volume methods. Numerical solution of\nparabolic partial differential equations using finite-difference and finitevolume methods: explicit and implicit schemes, consistency, stability and\nconvergence. Numerical solution of systems of linear algebraic equations:\ngeneral concepts of elimination and iterative methods, Gaussian elimination, LU\ndecomposition, tridiagonal matrix algorithm, Jacobi and Gauss-Seidel\niterations, necessary and sufficient conditions for convergence of iterative\nschemes, gradient search methods, steepest descent and conjugate gradient\nmethods.The finite volume method of discretization for diffusion problems: onedimensional steady diffusion problems, specification of interface diffusivity,\nsource-term linearization. Discretization of transient one-dimensional\ndiffusion problems. Discretization for multi-dimensional diffusion problems.\nSolution of discretized equations using point and line iterations, strongly\nimplicit methods and pre-conditioned conjugate gradient methods.Convectiondiffusion problems: Central difference, upwind, exponential, hybrid and powerlaw schemes, concept of false diffusion, QUICK scheme.Numerical solution of the\nNavier-Stokes system for incompressible flows: stream-function vorticity and\nartificial compressibility methods, requirement of a staggered grid. MAC,\nSIMPLE, SIMPLEC and SIMPLER algorithms.An introduction to unstructured grid\nfinite volume methods. Special topics: Turbulence and its modeling, phasechange problems, interface/free-surface tracking methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60012: Computational Fluid Dynamics\n\nSyllabus\nSyllabus mentioned in ERP\n\nA brief overview of the basic conservation equations for fluid flow and heat\ntransfer, classification of partial differential equations and pertinent\nphysical behaviour, parabolic, elliptic and hyperbolic equations, role of\ncharacteristics.\n\nCommon methods of discretization: an overview of finite\ndifference, finite element and finite volume methods.\n\nNumerical solution of\nparabolic partial differential equations using finite-difference and finitevolume methods: explicit and implicit schemes, consistency, stability and\nconvergence.\n\nNumerical solution of systems of linear algebraic equations:\ngeneral concepts of elimination and iterative methods, Gaussian elimination, LU\ndecomposition, tridiagonal matrix algorithm, Jacobi and Gauss-Seidel\niterations, necessary and sufficient conditions for convergence of iterative\nschemes, gradient search methods, steepest descent and conjugate gradient\nmethods.The finite volume method of discretization for diffusion problems: onedimensional steady diffusion problems, specification of interface diffusivity,\nsource-term linearization.\n\nDiscretization of transient one-dimensional\ndiffusion problems.\n\nDiscretization for multi-dimensional diffusion problems."
+    },
+    {
+      "index": 1,
+      "text": "ME60012: Computational Fluid Dynamics\n\nproblems, specification of interface diffusivity,\nsource-term linearization.\n\nDiscretization of transient one-dimensional\ndiffusion problems.\n\nDiscretization for multi-dimensional diffusion problems.\n\nSolution of discretized equations using point and line iterations, strongly\nimplicit methods and pre-conditioned conjugate gradient methods.Convectiondiffusion problems: Central difference, upwind, exponential, hybrid and powerlaw schemes, concept of false diffusion, QUICK scheme.Numerical solution of the\nNavier-Stokes system for incompressible flows: stream-function vorticity and\nartificial compressibility methods, requirement of a staggered grid.\n\nMAC,\nSIMPLE, SIMPLEC and SIMPLER algorithms.An introduction to unstructured grid\nfinite volume methods.\n\nSpecial topics: Turbulence and its modeling, phasechange problems, interface/free-surface tracking methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CS31007: Computer Organization And Architecture",
+  "url": "https://wiki.metakgp.org/wiki/CS31007:_Computer_Organization_And_Architecture",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic functional blocks of a computer: CPU, memory, input-output subsystems,\ncontrol unit. Instruction set architecture of a CPU - registers, instruction\nexecution cycle, RTL interpretation of instructions, addressing modes,\ninstruction set. Case study - instruction sets of some common CPUs.Data\nrepresentation: signed number repre-sentation, fixed and floating point\nrepresentations, character representation. Computer arithmetic - integer\naddition and subtraction, ripple carry adder, carry look-ahead adder, etc.\nmultiplication - shift-and-add, Booth multiplier, carry save multiplier, etc.\nDivision - restoring and non-restoring techniques, floating point\narithmetic.CPU control unit design: hardwired and micro-programmed design\napproaches, Case study - design of a simple hypothetical CPU.Memory system\ndesign: semiconductor memory technologies, memory organization.Peripheral\ndevices and their characteristics: Input-output subsystems, I/O transfers program controlled, interrupt driven and DMA, privileged and non-privileged\ninstructions, software interrupts and exceptions. Programs and processes - role\nof interrupts in process state transitions.Performance enhancement\ntechniques:Pipelining: Basic concepts of pipelining, throughput and speedup,\npipeline hazards.Memory organization: Memory interleaving, concept of\nhierarchical memory organization, cache memory, cache size vs. block size,\nmapping functions, replacement algorithms, write policies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nClass Test-1\n\nMid sem\n\nEnd Sem\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS31007: Computer Organization And Architecture\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic functional blocks of a computer: CPU, memory, input-output subsystems,\ncontrol unit.\n\nInstruction set architecture of a CPU - registers, instruction\nexecution cycle, RTL interpretation of instructions, addressing modes,\ninstruction set.\n\nCase study - instruction sets of some common CPUs.Data\nrepresentation: signed number repre-sentation, fixed and floating point\nrepresentations, character representation.\n\nComputer arithmetic - integer\naddition and subtraction, ripple carry adder, carry look-ahead adder, etc.\n\nmultiplication - shift-and-add, Booth multiplier, carry save multiplier, etc.\n\nDivision - restoring and non-restoring techniques, floating point\narithmetic.CPU control unit design: hardwired and micro-programmed design\napproaches, Case study - design of a simple hypothetical CPU.Memory system\ndesign: semiconductor memory technologies, memory organization.Peripheral\ndevices and their characteristics: Input-output subsystems, I/O transfers program controlled, interrupt driven and DMA, privileged and non-privileged\ninstructions, software interrupts and exceptions.\n\nPrograms and processes - role\nof interrupts in process state transitions.Performance enhancement\ntechniques:Pipelining: Basic concepts of pipelining, throughput and speedup,\npipeline hazards.Memory organization: Memory interleaving, concept of\nhierarchical memory organization, cache memory, cache size vs."
+    },
+    {
+      "index": 1,
+      "text": "CS31007: Computer Organization And Architecture\n\nBasic concepts of pipelining, throughput and speedup,\npipeline hazards.Memory organization: Memory interleaving, concept of\nhierarchical memory organization, cache memory, cache size vs.\n\nblock size,\nmapping functions, replacement algorithms, write policies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nClass Test-1\n\nMid sem\n\nEnd Sem\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

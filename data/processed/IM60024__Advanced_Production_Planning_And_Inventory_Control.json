@@ -1,0 +1,21 @@
+{
+  "title": "IM60024: Advanced Production Planning And Inventory Control",
+  "url": "https://wiki.metakgp.org/wiki/IM60024:_Advanced_Production_Planning_And_Inventory_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: IM31007 Production Planning and ControlHierarchical Production\nPlanning: Concept and algorithms, Disaggregation and hierarchical co\nordination, Lot size scheduling in single and multi stage production systems.\nDistribution requirement planning: concepts and methods. Sequencing of jobs\nthrough single machines: Basics, General purpose and special purpose methods,\nFlow shop and Job shop scheduling, Simulation of dynamic job shop, FMS\nscheduling issues and methods, Special algorithms for shift scheduling, Vehicle\nrouting, computer operations and health care delivery.Books1.S.L. Narasimhan,\nD.W. Mc Leavy, and P.J. Billington, Production Planning and Inventory Control,\nPHI, 2nd Edition.2.R.Peterson, and E.A. Silver, Decision Systems for Inventory\nManagement and Production Planing, John Wiley and Sons.3.C.C. Holt, F.\nModigliani, J.F. Muth, and H.A. Simon, Planning Production, Inventories, and\nWorkforce, Prentice Hall, NJ.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60024: Advanced Production Planning And Inventory Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: IM31007 Production Planning and ControlHierarchical Production\nPlanning: Concept and algorithms, Disaggregation and hierarchical co\nordination, Lot size scheduling in single and multi stage production systems.\nDistribution requirement planning: concepts and methods. Sequencing of jobs\nthrough single machines: Basics, General purpose and special purpose methods,\nFlow shop and Job shop scheduling, Simulation of dynamic job shop, FMS\nscheduling issues and methods, Special algorithms for shift scheduling, Vehicle\nrouting, computer operations and health care delivery.Books1.S.L. Narasimhan,\nD.W. Mc Leavy, and P.J. Billington, Production Planning and Inventory Control,\nPHI, 2nd Edition.2.R.Peterson, and E.A. Silver, Decision Systems for Inventory\nManagement and Production Planing, John Wiley and Sons.3.C.C. Holt, F.\nModigliani, J.F. Muth, and H.A. Simon, Planning Production, Inventories, and\nWorkforce, Prentice Hall, NJ.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

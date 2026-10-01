@@ -1,0 +1,21 @@
+{
+  "title": "EE60034: Industrial Automation And Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60034:_Industrial_Automation_And_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBenefits and Impact of Automation on Manufacturing and Process Industries;\nArchitecture of Industrial Automation Systems; Process Control: P-I-D Control,\nController Tuning, Special Control Structures: Feedforward and Ratio Control,\nPredictive Control, Control of Systems with Inverse Response, Cascade Control,\nAdvanced Control Schemes. Process and Instrumentation Diagrams; Sequence\nControl: PLCs and Relay Ladder Logic, Scan Cycle, RLL Syntax, Structured Design\nApproach, Advanced RLL Programming, Hardware environment; Control of Machine\ntools: Introduction to CNC Machines, Analysis of a control loop ; Flow Control\nValves ; Hydraulic Actuator Systems : Components, Proportional and Servo\nValves; Pneumatic Control Systems : System Components, Controllers ; Electric\nDrives : Energy Saving with adjustable Speed Drives, AC and DC Adjustable Speed\nDrives, Step motor Drives, Servo Drives ; Communication and Networking of\nSensors, Actuators and Controllers; Supervisory Production Control and\nManagement Systems ; Integration with Management and Enterprise Systems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60034: Industrial Automation And Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nBenefits and Impact of Automation on Manufacturing and Process Industries;\nArchitecture of Industrial Automation Systems; Process Control: P-I-D Control,\nController Tuning, Special Control Structures: Feedforward and Ratio Control,\nPredictive Control, Control of Systems with Inverse Response, Cascade Control,\nAdvanced Control Schemes. Process and Instrumentation Diagrams; Sequence\nControl: PLCs and Relay Ladder Logic, Scan Cycle, RLL Syntax, Structured Design\nApproach, Advanced RLL Programming, Hardware environment; Control of Machine\ntools: Introduction to CNC Machines, Analysis of a control loop ; Flow Control\nValves ; Hydraulic Actuator Systems : Components, Proportional and Servo\nValves; Pneumatic Control Systems : System Components, Controllers ; Electric\nDrives : Energy Saving with adjustable Speed Drives, AC and DC Adjustable Speed\nDrives, Step motor Drives, Servo Drives ; Communication and Networking of\nSensors, Actuators and Controllers; Supervisory Production Control and\nManagement Systems ; Integration with Management and Enterprise Systems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

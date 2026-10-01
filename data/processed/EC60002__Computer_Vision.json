@@ -1,0 +1,24 @@
+{
+  "title": "EC60002: Computer Vision",
+  "url": "https://wiki.metakgp.org/wiki/EC60002:_Computer_Vision",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nConcepts taught in class\nColor - \n\nColor Photography, Color Representation, Color Matching and Reproduction, Color Coordinate Systems, Color Differences, Color Vision, Color Filter Array, Demosaicing & Deinterlacing, Color Balancing and Gamma, Color Constancy and Retinex\n\nFeatures -\n\nLocal Descriptors: Corner, SIFT, LBP, Steerable Filters\n\nEdge Detection and Linking: LoG, Canny \n\nImage Features: Shape & Texture, DL based Perceptual Features\n\nMotion: Optical Flow, Block Matching, Global Motion, Flownet\n\nDepth: Depth from Structure, DL based Depth, Structure & Depth from Egomotion\n\nFull-reference Quality: SSIM, FSIM, MOVIE index\n\nProcessing -\n\nGeneric Filters: LMMSE Filter, Order-statistic Filter, Bilateral Filter, Nonlinear Means, Non-local Means\n\nVideo Filters: Spatio-temporal Filtering, Blur Reduction\n\nSuper-resolution (SR): Splines, Single Image SR, CNN SR, GAN SR\n\nDeconvolution: Unsharp masking, LMMSE & Bayes based Deconvolution, CNN based Deconvolution\n\nLow-light Image Enhancement: Retinex based Contrast Enhancement, Illumination Enhancement, DL based Enhancement\n\nDehazing: Single Image Dehazing, Prior-based Image Dehazing, DL based Image and Video Dehazing\n\nDecision-making -\n\nSaliency Computation: Image and Video Saliency, DL based Image and Video Saliency\n\nRetargeting and Inpainting: Seam Carving for Image and Video Retargeting, Image Inpainting, DL based Inpainting\n\nSegmentation: Segmentation using Graph Cuts, Mean Shift and Mode Seeking Segmentation, CNN based Semantic Image and Video Segmentation\n\nObject Detection and Recognition: Contrast based Salient Object Detection (SOD), DL based SOD, Video SOD, You Only Look Once (YOLO), Region based CNN (R-CNN) Variants\n\nCategorization and Captioning: Bag of words, EfficientNet on ImageNet, Image Captioning\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60002: Computer Vision\n\nSyllabus\nSyllabus mentioned in ERP\n\nConcepts taught in class\nColor -\n\nColor Photography, Color Representation, Color Matching and Reproduction, Color Coordinate Systems, Color Differences, Color Vision, Color Filter Array, Demosaicing & Deinterlacing, Color Balancing and Gamma, Color Constancy and Retinex\n\nFeatures -\n\nLocal Descriptors: Corner, SIFT, LBP, Steerable Filters\n\nEdge Detection and Linking: LoG, Canny\n\nImage Features: Shape & Texture, DL based Perceptual Features\n\nMotion: Optical Flow, Block Matching, Global Motion, Flownet\n\nDepth: Depth from Structure, DL based Depth, Structure & Depth from Egomotion\n\nFull-reference Quality: SSIM, FSIM, MOVIE index\n\nProcessing -\n\nGeneric Filters: LMMSE Filter, Order-statistic Filter, Bilateral Filter, Nonlinear Means, Non-local Means\n\nVideo Filters: Spatio-temporal Filtering, Blur Reduction\n\nSuper-resolution (SR): Splines, Single Image SR, CNN SR, GAN SR\n\nDeconvolution: Unsharp masking, LMMSE & Bayes based Deconvolution, CNN based Deconvolution\n\nLow-light Image Enhancement: Retinex based Contrast Enhancement, Illumination Enhancement, DL based Enhancement\n\nDehazing: Single Image Dehazing, Prior-based Image Dehazing, DL based Image and Video Dehazing\n\nDecision-making -\n\nSaliency Computation: Image and Video Saliency, DL based Image and Video Saliency\n\nRetargeting and Inpainting: Seam Carving for Image and Video Retargeting, Image Inpainting, DL based Inpainting"
+    },
+    {
+      "index": 1,
+      "text": "EC60002: Computer Vision\n\n-\n\nSaliency Computation: Image and Video Saliency, DL based Image and Video Saliency\n\nRetargeting and Inpainting: Seam Carving for Image and Video Retargeting, Image Inpainting, DL based Inpainting\n\nSegmentation: Segmentation using Graph Cuts, Mean Shift and Mode Seeking Segmentation, CNN based Semantic Image and Video Segmentation\n\nObject Detection and Recognition: Contrast based Salient Object Detection (SOD), DL based SOD, Video SOD, You Only Look Once (YOLO), Region based CNN (R-CNN) Variants\n\nCategorization and Captioning: Bag of words, EfficientNet on ImageNet, Image Captioning\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

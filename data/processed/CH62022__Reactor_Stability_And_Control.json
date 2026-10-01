@@ -1,0 +1,21 @@
+{
+  "title": "CH62022: Reactor Stability And Control",
+  "url": "https://wiki.metakgp.org/wiki/CH62022:_Reactor_Stability_And_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite -CH30009 or equivalentConcept of stability as applied to chemical\nreactor systems. Transient behaviour of a jacketed stirred tank reactor.\nFundamental linearisation theorem., Liapunov theorem of stability. Unsteady\nstate analysis of a plug flow tubular reactor with axial and/or radial mixing.\nStudy of packed abed catalytic reactor as a multiphase model with the\ncharacteristics of steady state multiplicity. Routh criteria and test for\nstability. Control of steady state of a CSTR system with a feed-back control.\nMultiple steady states and limit cycles. Distributed parameter systems.\nParametric sensitivity for PFR and batch reactor. Hot spot equation. Stability\ncriteria for a packed bed reactor. Text Book: 1.Chemical reaction and reactor\nengineering by J. J. Carbury and A. Verma2.Chemical reactor analysis and design\nby G. F. Froment and K. B. Bischoff 3.Process modeling, simulation and control\nfor chemical engineers by W. L. Luyben\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH62022: Reactor Stability And Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite -CH30009 or equivalentConcept of stability as applied to chemical\nreactor systems. Transient behaviour of a jacketed stirred tank reactor.\nFundamental linearisation theorem., Liapunov theorem of stability. Unsteady\nstate analysis of a plug flow tubular reactor with axial and/or radial mixing.\nStudy of packed abed catalytic reactor as a multiphase model with the\ncharacteristics of steady state multiplicity. Routh criteria and test for\nstability. Control of steady state of a CSTR system with a feed-back control.\nMultiple steady states and limit cycles. Distributed parameter systems.\nParametric sensitivity for PFR and batch reactor. Hot spot equation. Stability\ncriteria for a packed bed reactor. Text Book: 1.Chemical reaction and reactor\nengineering by J. J. Carbury and A. Verma2.Chemical reactor analysis and design\nby G. F. Froment and K. B. Bischoff 3.Process modeling, simulation and control\nfor chemical engineers by W. L. Luyben\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

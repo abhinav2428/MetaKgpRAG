@@ -1,0 +1,21 @@
+{
+  "title": "MFS Canteen",
+  "url": "https://wiki.metakgp.org/wiki/MFS_Canteen",
+  "text": "MFS Canteen is a food restaurant located in the ground floor of Nalanda Complex, next to nescafe shop and subway.",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Subway",
+    "https://wiki.metakgp.org/wiki/Nalanda_Complex",
+    "https://wiki.metakgp.org/wiki/Nescafe"
+  ],
+  "categories": [
+    "Food_and_Beverages"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MFS Canteen\n\nMFS Canteen is a food restaurant located in the ground floor of Nalanda Complex, next to nescafe shop and subway."
+    }
+  ],
+  "chunk_count": 1
+}

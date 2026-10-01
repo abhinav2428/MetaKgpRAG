@@ -1,0 +1,25 @@
+{
+  "title": "EC60203: Analog Vlsi Circuits",
+  "url": "https://wiki.metakgp.org/wiki/EC60203:_Analog_Vlsi_Circuits",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21002 and EC30004Introduction: Analog circuits in VLSI,\nOverview of circuit performance comparison in Bipolar, BiCMOS and CMOS\ntechnologies; Recapitulation: Large signal and small signal models of MOS\ntransistors, Feedback configurations and Stability theory; Amplifiers: Basic\namplifier topologies and their characteristics, Cascode amplifiers,\nDifferential amplifier with active load; Two-stage differential amplifier:\nAnalysis for different performance parameters, Pole-zero compensation and\nDesign;Biasing circuits: Simple and cascode current mirrors, Current reference,\nVoltage reference; Folded cascode amplifier; Operational amplifier; Comparator:\nSimple comparator, Switch-based comparator, Latch-based comparator; Oscillator:\nRing oscillator, L-C oscillator, Voltage control oscillator; Phase locked loop:\nBuilding blocks in PLL, Locking characteristic of PLL and Design of PLL;Data\nconverters: Characterization of ADC and DAC, Block diagram of SAR ADC, Design\nof SAR ADC, Introduction to other ADC architectures, Introduction to DAC\narchitecture; Active Filters: Design of switched-capacitor filter, Design of\nGm-C filter.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60203: Analog Vlsi Circuits\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21002 and EC30004Introduction: Analog circuits in VLSI,\nOverview of circuit performance comparison in Bipolar, BiCMOS and CMOS\ntechnologies; Recapitulation: Large signal and small signal models of MOS\ntransistors, Feedback configurations and Stability theory; Amplifiers: Basic\namplifier topologies and their characteristics, Cascode amplifiers,\nDifferential amplifier with active load; Two-stage differential amplifier:\nAnalysis for different performance parameters, Pole-zero compensation and\nDesign;Biasing circuits: Simple and cascode current mirrors, Current reference,\nVoltage reference; Folded cascode amplifier; Operational amplifier; Comparator:\nSimple comparator, Switch-based comparator, Latch-based comparator; Oscillator:\nRing oscillator, L-C oscillator, Voltage control oscillator; Phase locked loop:\nBuilding blocks in PLL, Locking characteristic of PLL and Design of PLL;Data\nconverters: Characterization of ADC and DAC, Block diagram of SAR ADC, Design\nof SAR ADC, Introduction to other ADC architectures, Introduction to DAC\narchitecture; Active Filters: Design of switched-capacitor filter, Design of\nGm-C filter.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "EC60203: Analog Vlsi Circuits\n\nof switched-capacitor filter, Design of\nGm-C filter.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

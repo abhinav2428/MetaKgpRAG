@@ -1,0 +1,25 @@
+{
+  "title": "AE49003: Aircraft Design And Optimisation",
+  "url": "https://wiki.metakgp.org/wiki/AE49003:_Aircraft_Design_And_Optimisation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: AE21002, AE21004, AE21006, AE31001, AE31003, AE31005, AE310070 0 -3: 2 CreditsDefinition of aircraft application and its performance\nrequirements on a priority basis; Optimization techniques: classical methods\nand genetic algorithms; Aerodynamic design: basic configuration development,\nselection of wing planform, fuselage shape, preliminary weight and CG\nestimation, sizing of fuselage, wings, horizontal tail/canard, fin, control\nsurfaces and power plant, power plant selection and aerodynamic integration\nwith the airframe, preliminary design optimization with aerodynamic parameters\nonly; Structural design: V-n diagram, estimation of design loads under\ndifferent flight conditions, structural layout: wing, tail, control surfaces,\nfuselage, landing gear, design of spars, ribs and bulkheads, power plant\nselection and structural integration with airframe, preliminary design\noptimization with structural parameters only; Design optimization with\naerodynamics, structures, power plant and control parameters.Books:E L Houghton\nand A E Brock, Aerodynamics for engineering students, Edward ArnoldT H G\nMegson, Aircraft structures for engineering students, 3rd Ed., Edward Arnold R\nL Fox, Optimization methods for engineering design, Addison-WesleyD E Goldberg,\nGenetic algorithms in search, optimization, and machine learning,\nAddisonâWesley\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n|| || || || || || || 2nd Year Class Room|| 2nd Year Class Room|| 2nd Year Class Room|| 2nd Year Class Room\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Aerospace_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Aerospace_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AE49003: Aircraft Design And Optimisation\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: AE21002, AE21004, AE21006, AE31001, AE31003, AE31005, AE310070 0 -3: 2 CreditsDefinition of aircraft application and its performance\nrequirements on a priority basis; Optimization techniques: classical methods\nand genetic algorithms; Aerodynamic design: basic configuration development,\nselection of wing planform, fuselage shape, preliminary weight and CG\nestimation, sizing of fuselage, wings, horizontal tail/canard, fin, control\nsurfaces and power plant, power plant selection and aerodynamic integration\nwith the airframe, preliminary design optimization with aerodynamic parameters\nonly; Structural design: V-n diagram, estimation of design loads under\ndifferent flight conditions, structural layout: wing, tail, control surfaces,\nfuselage, landing gear, design of spars, ribs and bulkheads, power plant\nselection and structural integration with airframe, preliminary design\noptimization with structural parameters only; Design optimization with\naerodynamics, structures, power plant and control parameters.Books:E L Houghton\nand A E Brock, Aerodynamics for engineering students, Edward ArnoldT H G\nMegson, Aircraft structures for engineering students, 3rd Ed., Edward Arnold R\nL Fox, Optimization methods for engineering design, Addison-WesleyD E Goldberg,\nGenetic algorithms in search, optimization, and machine learning,\nAddisonâWesley\n\nConcepts taught in class\n\nStudent Opinion"
+    },
+    {
+      "index": 1,
+      "text": "AE49003: Aircraft Design And Optimisation\n\nOptimization methods for engineering design, Addison-WesleyD E Goldberg,\nGenetic algorithms in search, optimization, and machine learning,\nAddisonâWesley\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n|| || || || || || || 2nd Year Class Room|| 2nd Year Class Room|| 2nd Year Class Room|| 2nd Year Class Room\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

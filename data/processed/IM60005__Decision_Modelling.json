@@ -1,0 +1,24 @@
+{
+  "title": "IM60005: Decision Modelling",
+  "url": "https://wiki.metakgp.org/wiki/IM60005:_Decision_Modelling",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nLinear programming: Formulation of LP models, Graphical procedure of solution\nand Simplex method, Duality Concept and its applications, Dual Simplex Methods\nLinear Algebra, Revised Simplex Method, Sensitivity Analysis\nTransportation and Assignment problems, Network flow\nLinear programming approach to goal programming and gaming situations\nInteger Programming, Cutting plane algorithm and Branch and bound algorithm\nProbability and statistical methods: probability and conditional probability,\nrandom variables, density and distribution functions, Important statistical\ndistributions and their properties, sampling and sampling distributions, point\nand internal estimation, tests of hypothesis, regression and correlation\nanalysis, and analysis of variance\nModels and Modelling: model verification and validation, decision modelling for\ndeterministic, uncertainty, risk and competitive situations.\nBooks\n•Ravindran, A., Philips, D.T., and Solberg, J.J., Operations research, John\nWiley and Sons.\n•Taha H.A., Operation Research- An Introduction, PHI\n•Hillier F.S. and Lieberman G.J., Introduction to Operation Research, McGraw\nHill.\n•Hadley G., Linear Programming, Addison-Wesley.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60005: Decision Modelling\n\nSyllabus\nSyllabus mentioned in ERP\n\nLinear programming: Formulation of LP models, Graphical procedure of solution\nand Simplex method, Duality Concept and its applications, Dual Simplex Methods\nLinear Algebra, Revised Simplex Method, Sensitivity Analysis\nTransportation and Assignment problems, Network flow\nLinear programming approach to goal programming and gaming situations\nInteger Programming, Cutting plane algorithm and Branch and bound algorithm\nProbability and statistical methods: probability and conditional probability,\nrandom variables, density and distribution functions, Important statistical\ndistributions and their properties, sampling and sampling distributions, point\nand internal estimation, tests of hypothesis, regression and correlation\nanalysis, and analysis of variance\nModels and Modelling: model verification and validation, decision modelling for\ndeterministic, uncertainty, risk and competitive situations.\nBooks\n•Ravindran, A., Philips, D.T., and Solberg, J.J., Operations research, John\nWiley and Sons.\n•Taha H.A., Operation Research- An Introduction, PHI\n•Hillier F.S. and Lieberman G.J., Introduction to Operation Research, McGraw\nHill.\n•Hadley G., Linear Programming, Addison-Wesley.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "IM60005: Decision Modelling\n\nG., Linear Programming, Addison-Wesley.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

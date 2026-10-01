@@ -1,0 +1,20 @@
+{
+  "title": "MA61013: Foundations Of Computer Science",
+  "url": "https://wiki.metakgp.org/wiki/MA61013:_Foundations_Of_Computer_Science",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidGraph theory and algorithms, Search techniques, Dynamic\nprogramming, Backtracking. Propositional logic, Predicate logic, Automated\ntheorem proving, Functional and logic programming, Proof of program\ncorrectness. Finite state automata, Regular expression, Grammar, Turing\nmachine, Recursively enumerable sets, Computibility. Relational data base,\nSQL, Relational calculus, Functional dependency, Normal forms, File\norganization, Index sequential file. Computer networks: Interconnection\nschemes, Digital signal encoding, Addressing schemes, Transmission media.\nOperating systems: Process scheduling, Disk scheduling, Deadlocks, File\nstructure on UNIX, inode, Concurrent programming, Critical section problem.\nArtificial Intelligence: Natural language processing , Knowledge\nrepresentation, expert systems, Default reasoning, Production systems. Compiler\ndesign: Syntax directed translation, Lexical analysis, Code generation, DAG\nrepresentation, Loop optimization, Data flow analysis.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61013: Foundations Of Computer Science\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidGraph theory and algorithms, Search techniques, Dynamic\nprogramming, Backtracking. Propositional logic, Predicate logic, Automated\ntheorem proving, Functional and logic programming, Proof of program\ncorrectness. Finite state automata, Regular expression, Grammar, Turing\nmachine, Recursively enumerable sets, Computibility. Relational data base,\nSQL, Relational calculus, Functional dependency, Normal forms, File\norganization, Index sequential file. Computer networks: Interconnection\nschemes, Digital signal encoding, Addressing schemes, Transmission media.\nOperating systems: Process scheduling, Disk scheduling, Deadlocks, File\nstructure on UNIX, inode, Concurrent programming, Critical section problem.\nArtificial Intelligence: Natural language processing , Knowledge\nrepresentation, expert systems, Default reasoning, Production systems. Compiler\ndesign: Syntax directed translation, Lexical analysis, Code generation, DAG\nrepresentation, Loop optimization, Data flow analysis.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

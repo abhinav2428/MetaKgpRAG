@@ -1,0 +1,21 @@
+{
+  "title": "IM61013: Financial Engineering",
+  "url": "https://wiki.metakgp.org/wiki/IM61013:_Financial_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nThe Black-Scholes Equation – Background, Definitions, Hedging strategies,\nBrownian Motion, Geometric Brownian motion with drift, Itos Lemma, The BlackScholes Analysis, Hedging in Continuous Time, The option price.\nMonte Carlo Methods - Monte Carlo Error Estimators, The Box-Muller Algorithm,\nLow Discrepancy Sequences, Correlated Random Numbers, The Brownian Bridge\nThe Binomial Model, No-arbitrage Lattice\nDerivative Contracts on non-traded Assets and Real Options - Derivative\nContracts, A Forward Contract, Convenience Yield.\nDiscrete Hedging - Delta Hedging, Gamma Hedging, Vega Hedging\nJump Diffusion - The Poisson Process, The Jump Diffusion Pricing Equation\nMean Variance Portfolio Optimization - The Portfolio Allocation Problem, Adding\na Risk-free asset, Individual Securities.\nText\n\n•Options, Futures, and Other Derivatives, J C Hull, Prentice Hall of India,Sixth Edition, 2007.\n\n•Principles of Financial Engineering, S N Neftci, Academic Press, Elsevier,2004.\n\n•An Introduction to Computational Finance without Agonizing Pain, Peter Forsyth\n2005, www.scicom.uwaterloo.ca/paforsyt\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM61013: Financial Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nThe Black-Scholes Equation – Background, Definitions, Hedging strategies,\nBrownian Motion, Geometric Brownian motion with drift, Itos Lemma, The BlackScholes Analysis, Hedging in Continuous Time, The option price.\nMonte Carlo Methods - Monte Carlo Error Estimators, The Box-Muller Algorithm,\nLow Discrepancy Sequences, Correlated Random Numbers, The Brownian Bridge\nThe Binomial Model, No-arbitrage Lattice\nDerivative Contracts on non-traded Assets and Real Options - Derivative\nContracts, A Forward Contract, Convenience Yield.\nDiscrete Hedging - Delta Hedging, Gamma Hedging, Vega Hedging\nJump Diffusion - The Poisson Process, The Jump Diffusion Pricing Equation\nMean Variance Portfolio Optimization - The Portfolio Allocation Problem, Adding\na Risk-free asset, Individual Securities.\nText\n\n•Options, Futures, and Other Derivatives, J C Hull, Prentice Hall of India,Sixth Edition, 2007.\n\n•Principles of Financial Engineering, S N Neftci, Academic Press, Elsevier,2004.\n\n•An Introduction to Computational Finance without Agonizing Pain, Peter Forsyth\n2005, www.scicom.uwaterloo.ca/paforsyt\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

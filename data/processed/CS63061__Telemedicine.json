@@ -1,0 +1,29 @@
+{
+  "title": "CS63061: Telemedicine",
+  "url": "https://wiki.metakgp.org/wiki/CS63061:_Telemedicine",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: What is Telemedicine? A historical perspective, Convergence of\ndifferent technologies and services.\nMedical Information and Data: Representation, Acquisition, Presentation and\nCommunication, Transducer, Analog Signal, Band-width of a signal, Digital\nSignal, Analog to Digital conversion, Quantization and Sampling, Encoding and\nDecoding, ECG, EEG, EMG and Phono-cardiogram, Digital Images and Video, DICOM\nstandard, Image and Video compression: A brief introduction, Graphics Terminal\nand display.\nFundamentals of Telecommunication: Signal, Channel, Channel Band-width,\nCarrier modulation and demodulation, Amplitude, Frequency and Phase modulation,\nModulation of digital data: QAM, PSK, QPSK etc., Telephone line and modem,\nCommunication media: Co-axial, UTP and STP cables, Fiber Optics Cable, wireless\nmedia, Satellite link, Mobile communication, Computer\nNetwork: OSI\narchitecture, LAN and WAN. Protocols: Telnet, FTP, HTTP, TCP/IP, UDP/IP,\nEthernet, Network security: Firewall, private and public IP, Encryption of\ndigital data, public and private key encryption, digital\nsignature.\nHealth Care Management: Health care informatics: different components,\nTelemedical Information system, Organizational Management of Telemedicine,\nImplementation Barriers, HL7 standards, Security and Confidentiality.\nTelemedicine case studies.\nEvaluation and cost-benefit analysis of a telemedicine system.\nMedico-legal aspects of national and international telemedicine.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS63061: Telemedicine\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS63061: Telemedicine\n\nmentioned in ERP\n\nIntroduction: What is Telemedicine? A historical perspective, Convergence of\ndifferent technologies and services.\nMedical Information and Data: Representation, Acquisition, Presentation and\nCommunication, Transducer, Analog Signal, Band-width of a signal, Digital\nSignal, Analog to Digital conversion, Quantization and Sampling, Encoding and\nDecoding, ECG, EEG, EMG and Phono-cardiogram, Digital Images and Video, DICOM\nstandard, Image and Video compression: A brief introduction, Graphics Terminal\nand display.\nFundamentals of Telecommunication: Signal, Channel, Channel Band-width,\nCarrier modulation and demodulation, Amplitude, Frequency and Phase modulation,\nModulation of digital data: QAM, PSK, QPSK etc., Telephone line and modem,\nCommunication media: Co-axial, UTP and STP cables, Fiber Optics Cable, wireless\nmedia, Satellite link, Mobile communication, Computer\nNetwork: OSI\narchitecture, LAN and WAN. Protocols: Telnet, FTP, HTTP, TCP/IP, UDP/IP,\nEthernet, Network security: Firewall, private and public IP, Encryption of\ndigital data, public and private key encryption, digital\nsignature.\nHealth Care Management: Health care informatics: different components,\nTelemedical Information system, Organizational Management of Telemedicine,\nImplementation Barriers, HL7 standards, Security and Confidentiality.\nTelemedicine case studies.\nEvaluation and cost-benefit analysis of a telemedicine system.\nMedico-legal aspects of national and international telemedicine."
+    },
+    {
+      "index": 2,
+      "text": "CS63061: Telemedicine\n\nHL7 standards, Security and Confidentiality.\nTelemedicine case studies.\nEvaluation and cost-benefit analysis of a telemedicine system.\nMedico-legal aspects of national and international telemedicine.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

@@ -1,0 +1,21 @@
+{
+  "title": "PH41012: Computational Methods",
+  "url": "https://wiki.metakgp.org/wiki/PH41012:_Computational_Methods",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nNumerical considerations and numerical approach to solving differential\nequations for physical problems. Numerical solution of linear and nonlinear\ndifferential equation in one and higher dimensions. Its application to various\nphysical systems. Shooting methods to solve time-independent Schrodinger wave\nequation for a particle in a box. Quantum mechanical scattering problems. Time\ndependent Schrodinger wave equations - direct solution. Solution of heat\nconduction equation using explicit, implicit and Crank Nicholson methods.\nSolution of wave equation- method of characteristics, CFL condition, explicit\nand implicit schemes. Solution of Laplace and Poisson equations, Relaxation\nmethods. Stability of quasi linear system of equations- Fourier method of\nstability analysis. Spectral methods and finite element methods (elementary\nintroduction). Random walks.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Physics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Physics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "PH41012: Computational Methods\n\nSyllabus\nSyllabus mentioned in ERP\n\nNumerical considerations and numerical approach to solving differential\nequations for physical problems. Numerical solution of linear and nonlinear\ndifferential equation in one and higher dimensions. Its application to various\nphysical systems. Shooting methods to solve time-independent Schrodinger wave\nequation for a particle in a box. Quantum mechanical scattering problems. Time\ndependent Schrodinger wave equations - direct solution. Solution of heat\nconduction equation using explicit, implicit and Crank Nicholson methods.\nSolution of wave equation- method of characteristics, CFL condition, explicit\nand implicit schemes. Solution of Laplace and Poisson equations, Relaxation\nmethods. Stability of quasi linear system of equations- Fourier method of\nstability analysis. Spectral methods and finite element methods (elementary\nintroduction). Random walks.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

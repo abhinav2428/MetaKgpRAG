@@ -1,0 +1,20 @@
+{
+  "title": "EE60047: Modeling And Simulation",
+  "url": "https://wiki.metakgp.org/wiki/EE60047:_Modeling_And_Simulation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nConcept and role of modeling in engineering, various methods of modeling.\nSignal flow graph and block diagram representation. State variable formulation.\nModeling of electrical, mechanical, chemical and network systems. Modeling of\ntime-delay systems. Analog simulation. Digital simulation. Simulation of nonlinear, hybrid and distributed parameter dynamical systems. Simulation\nlanguages. Matlab / Simulink, Mathematica. Symbolic Computations.\nOverview of methods for model simplifications, approximation and order\nreduction of dynamic systems. Different techniques of model order reduction:\nBalanced realizations, Singular perturbation, Aggregation technique, Continued\nFraction Approximation, Moment matching methods, Pade approximation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60047: Modeling And Simulation\n\nSyllabus\nSyllabus mentioned in ERP\n\nConcept and role of modeling in engineering, various methods of modeling.\nSignal flow graph and block diagram representation. State variable formulation.\nModeling of electrical, mechanical, chemical and network systems. Modeling of\ntime-delay systems. Analog simulation. Digital simulation. Simulation of nonlinear, hybrid and distributed parameter dynamical systems. Simulation\nlanguages. Matlab / Simulink, Mathematica. Symbolic Computations.\nOverview of methods for model simplifications, approximation and order\nreduction of dynamic systems. Different techniques of model order reduction:\nBalanced realizations, Singular perturbation, Aggregation technique, Continued\nFraction Approximation, Moment matching methods, Pade approximation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

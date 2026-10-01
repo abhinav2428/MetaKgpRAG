@@ -1,0 +1,21 @@
+{
+  "title": "MA30006: Switching And Finite Automata",
+  "url": "https://wiki.metakgp.org/wiki/MA30006:_Switching_And_Finite_Automata",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidCodes, switching algebra, minimization and decomposition of\nswitching functions, Karnaugh map, digital circuits, logical gates - AND, OR,\nNAND, NOR etc., combinatorial logic, threshold logic, fault diagnosis,\nsequential machines - synchronous and asynchronous circuits, basic flip-flops SR flip-flop, T flip-flop, JK flip-flop,\nflip-flop, clocked and masterslave flip-flop, decoder, multiplexer circuits, counters - synchronous and\nasynchronous, sequence detector, parity-bit generator, registers, shift\nregisters, minimization and transformation of sequential machines, turing\nmachines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA30006: Switching And Finite Automata\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidCodes, switching algebra, minimization and decomposition of\nswitching functions, Karnaugh map, digital circuits, logical gates - AND, OR,\nNAND, NOR etc., combinatorial logic, threshold logic, fault diagnosis,\nsequential machines - synchronous and asynchronous circuits, basic flip-flops SR flip-flop, T flip-flop, JK flip-flop,\nflip-flop, clocked and masterslave flip-flop, decoder, multiplexer circuits, counters - synchronous and\nasynchronous, sequence detector, parity-bit generator, registers, shift\nregisters, minimization and transformation of sequential machines, turing\nmachines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

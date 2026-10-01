@@ -1,0 +1,33 @@
+{
+  "title": "ME41616: Micro-Scale Fluid Flow And Heat Transfer",
+  "url": "https://wiki.metakgp.org/wiki/ME41616:_Micro-Scale_Fluid_Flow_And_Heat_Transfer",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite ; Heat TransferIntroduction: Fundamentals of kinetic theorymolecular models, micro and macroscopic properties, binary collisions,\ndistribution functions, Boltzmann equation and Maxwellian distribution\nfunctions, continuum hypothesis and deviations from the same, scaling laws for\nmicro-domains, Microscale gas flows: Wall slip effects and accommodation\ncoefficients, flow and heat transfer analysis of microscale Couette flows,\nPressure driven gas micro-flows with wall slip effects, heat transfer in microPoiseuille flows, effects of compressibility, introductory concepts on gas\nflows in transitional and free molecular regimes, some representative\napplications of micro-scale gas flows in accelerometers, micro-propulsion and\nmicro-nozzles, Microscale liquid flows: Pressure driven liquid microflow,\napparent slip effects, physics of near-wall microscale liquid flows, capillary\nflows, electro-kinetically driven liquid micro-flows and electric double layer\n(EDL) effects, concepts of electro-osmosis, electrophoresis and dielectrophoresis, analysis of hydro-dynamically and thermally fully developed electroosmotic flows, ac electro-osmosis, an introduction to fluid dynamics over nano\nscales (nanofluidics), concepts of nano-fluids and their augmented transport\ncharacteristics, An introduction to bio-microfluidics and some illustrative\napplications (drug delivery, DNA hybridization, leuokocyte rolling etc.), An\nintroduction to special computational modelling of micro-flows: MD and DSMC\nmethods\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME41616: Micro-Scale Fluid Flow And Heat Transfer\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "ME41616: Micro-Scale Fluid Flow And Heat Transfer\n\nPrerequisite ; Heat TransferIntroduction: Fundamentals of kinetic theorymolecular models, micro and macroscopic properties, binary collisions,\ndistribution functions, Boltzmann equation and Maxwellian distribution\nfunctions, continuum hypothesis and deviations from the same, scaling laws for\nmicro-domains, Microscale gas flows: Wall slip effects and accommodation\ncoefficients, flow and heat transfer analysis of microscale Couette flows,\nPressure driven gas micro-flows with wall slip effects, heat transfer in microPoiseuille flows, effects of compressibility, introductory concepts on gas\nflows in transitional and free molecular regimes, some representative\napplications of micro-scale gas flows in accelerometers, micro-propulsion and\nmicro-nozzles, Microscale liquid flows: Pressure driven liquid microflow,\napparent slip effects, physics of near-wall microscale liquid flows, capillary\nflows, electro-kinetically driven liquid micro-flows and electric double layer\n(EDL) effects, concepts of electro-osmosis, electrophoresis and dielectrophoresis, analysis of hydro-dynamically and thermally fully developed electroosmotic flows, ac electro-osmosis, an introduction to fluid dynamics over nano\nscales (nanofluidics), concepts of nano-fluids and their augmented transport\ncharacteristics, An introduction to bio-microfluidics and some illustrative\napplications (drug delivery, DNA hybridization, leuokocyte rolling etc.), An\nintroduction to"
+    },
+    {
+      "index": 2,
+      "text": "ME41616: Micro-Scale Fluid Flow And Heat Transfer\n\n and their augmented transport\ncharacteristics, An introduction to bio-microfluidics and some illustrative\napplications (drug delivery, DNA hybridization, leuokocyte rolling etc.), An\nintroduction to special computational modelling of micro-flows: MD and DSMC\nmethods"
+    },
+    {
+      "index": 3,
+      "text": "ME41616: Micro-Scale Fluid Flow And Heat Transfer\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MT41039: Computational Transport Phenomena",
+  "url": "https://wiki.metakgp.org/wiki/MT41039:_Computational_Transport_Phenomena",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite - MT21010 Mathematical model formulation with governing equations,\nboundary conditions; case studies of some important metallurgical system:\npacked and fluidized bed, moving boundary problems with melting,\nsolidifications and reactions, interaction of gas bubbles and jets with liquid,\ngas stirred ladle, filling ladle, fusion welding, cored wire injection, soaking\npits, continuous casting, leaching reactors etc.. Numerical methods for solving\npartial differential equations: Control Volume Technique, Finite Element Method\netc.\nNumerical solutions of some cases mentioned above. Text Books:1.S.V.\nPatankar: Numerical Heat Transfer and Fluid Flow, Hemisphere Publishing\nCorporation, USA, 1980.2.R.I.L Guthrie: Engineering in Process Metallurgy,\nOxford Science Publications, 1989.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Metallurgical_&_Materials_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Metallurgical_&_Materials_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MT41039: Computational Transport Phenomena\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite - MT21010 Mathematical model formulation with governing equations,\nboundary conditions; case studies of some important metallurgical system:\npacked and fluidized bed, moving boundary problems with melting,\nsolidifications and reactions, interaction of gas bubbles and jets with liquid,\ngas stirred ladle, filling ladle, fusion welding, cored wire injection, soaking\npits, continuous casting, leaching reactors etc.. Numerical methods for solving\npartial differential equations: Control Volume Technique, Finite Element Method\netc.\nNumerical solutions of some cases mentioned above. Text Books:1.S.V.\nPatankar: Numerical Heat Transfer and Fluid Flow, Hemisphere Publishing\nCorporation, USA, 1980.2.R.I.L Guthrie: Engineering in Process Metallurgy,\nOxford Science Publications, 1989.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

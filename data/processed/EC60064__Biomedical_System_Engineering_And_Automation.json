@@ -1,0 +1,21 @@
+{
+  "title": "EC60064: Biomedical System Engineering And Automation",
+  "url": "https://wiki.metakgp.org/wiki/EC60064:_Biomedical_System_Engineering_And_Automation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: None\n\nBiomedical signals : origins and dynamic characteristics,\nmathematical preliminaries for statistical signal processing, Biomedical signal\nacquisition and processing for artifact removal, event detection, wave-shape\nand complexity analysis, frequency domain characterization, parametric modeling\n(viz. AR, MA and ARMA models)of biomedical systems with examples, analysis of\nnon-stationary signals, pattern recognition, Compression of biomedical signals.\nAnalysis of biomedical signal using advanced techniques (e.g. neural networks,\northogonal transformations including singular value decomposition) and wavelet\ntransformation,). Nonlinear dynamical analysis of biomedical signals.\nPhysiological modeling, identification and simulation. Control of physiological\nprocesses and computer controlled drug infusion medical signaling., Artificial\nintelligence methods for medical decision making.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60064: Biomedical System Engineering And Automation\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: None\n\nBiomedical signals : origins and dynamic characteristics,\nmathematical preliminaries for statistical signal processing, Biomedical signal\nacquisition and processing for artifact removal, event detection, wave-shape\nand complexity analysis, frequency domain characterization, parametric modeling\n(viz. AR, MA and ARMA models)of biomedical systems with examples, analysis of\nnon-stationary signals, pattern recognition, Compression of biomedical signals.\nAnalysis of biomedical signal using advanced techniques (e.g. neural networks,\northogonal transformations including singular value decomposition) and wavelet\ntransformation,). Nonlinear dynamical analysis of biomedical signals.\nPhysiological modeling, identification and simulation. Control of physiological\nprocesses and computer controlled drug infusion medical signaling., Artificial\nintelligence methods for medical decision making.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

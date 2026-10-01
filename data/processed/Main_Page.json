@@ -1,0 +1,21 @@
+{
+  "title": "Main Page",
+  "url": "https://wiki.metakgp.org/wiki/Main_Page",
+  "text": "<!-- BANNER ACROSS TOP OF PAGE -->\n{| id=\"mp-topbanner\" style=\"width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;\"\n\nThe community wiki for IIT Kharagpur that anyone can edit.\nGrowing with articles.\n\n* Yellow Pages\n\n* Societies and Clubs\n\n* Contribute\n\n* Academics\n\n* Courses\n\n* About Us\n\n* Institute Amenities\n\n* How-to Guides\n\n* Projects\n\n__NOTOC__\n\nThis week's featured Demo Day project</h1>\n\nDemo Days are an initiative by Metakgp to encourage developers to demo their projects, big and small, to a wider audience in an effort to acquire more users and contributors.\n\nFeatured (Want to get an article featured?)</h1>",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Ambar",
+    "https://wiki.metakgp.org/wiki/Constitution_of_the_Technology_Students'_Gymkhana",
+    "https://wiki.metakgp.org/wiki/Encore",
+    "https://wiki.metakgp.org/wiki/List_of_how-tos",
+    "https://wiki.metakgp.org/wiki/Yellow_Pages"
+  ],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Main Page\n\n<!-- BANNER ACROSS TOP OF PAGE -->\n{| id=\"mp-topbanner\" style=\"width:100%; background:#f9f9f9; margin:1.2em 0 6px 0; border:1px solid #ddd;\"\n\nThe community wiki for IIT Kharagpur that anyone can edit.\nGrowing with articles.\n\n* Yellow Pages\n\n* Societies and Clubs\n\n* Contribute\n\n* Academics\n\n* Courses\n\n* About Us\n\n* Institute Amenities\n\n* How-to Guides\n\n* Projects\n\n__NOTOC__\n\nThis week's featured Demo Day project</h1>\n\nDemo Days are an initiative by Metakgp to encourage developers to demo their projects, big and small, to a wider audience in an effort to acquire more users and contributors.\n\nFeatured (Want to get an article featured?)</h1>"
+    }
+  ],
+  "chunk_count": 1
+}

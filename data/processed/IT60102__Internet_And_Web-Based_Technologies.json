@@ -1,0 +1,21 @@
+{
+  "title": "IT60102: Internet And Web-Based Technologies",
+  "url": "https://wiki.metakgp.org/wiki/IT60102:_Internet_And_Web-Based_Technologies",
+  "text": "Syllabus mentioned in ERP\n\nName services and configuration: DNS, DHCP, X500 directory services, LDAP.\nInternet security ? basics of authentication and encryption, SSL, Digital\nSignature, Kerberos. Network management: SNMP. CGI scripts, Scripting Languages\n? Perl, PHP, Javascript, VBScript. Web Services ? XML, SOAP, UDDI, WSDL,\nPlatforms for Web Services Development - .NET, J2EE, E-Commerce - Secure\nElectronic Transactions over the web.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Information_Technology"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Information_Technology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IT60102: Internet And Web-Based Technologies\n\nSyllabus mentioned in ERP\n\nName services and configuration: DNS, DHCP, X500 directory services, LDAP.\nInternet security ? basics of authentication and encryption, SSL, Digital\nSignature, Kerberos. Network management: SNMP. CGI scripts, Scripting Languages\n? Perl, PHP, Javascript, VBScript. Web Services ? XML, SOAP, UDDI, WSDL,\nPlatforms for Web Services Development - .NET, J2EE, E-Commerce - Secure\nElectronic Transactions over the web.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

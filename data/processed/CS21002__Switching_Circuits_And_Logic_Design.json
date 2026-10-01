@@ -1,0 +1,21 @@
+{
+  "title": "CS21002: Switching Circuits And Logic Design",
+  "url": "https://wiki.metakgp.org/wiki/CS21002:_Switching_Circuits_And_Logic_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nSwitching Circuits: Logic families: TTL, nMOS, CMOS, dynamic CMOS and pass\ntransistor logic (PTL) circuits, inverters and other logic gates, area, power\nand delay characteristics, concepts of fan-in, fan-out and noise margin.\nSwitching theory: Boolean algebra, logic gates, and switching functions, truth\ntables and switching expressions, minimization of completely and incompletely\nspecified switching functions, Karnaugh map and Quine-McCluskey method,\nmultiple output minimization, representation and manipulation of functions\nusing BDDs, two-level and multi-level logic circuit synthesis.\nCombinational logic circuits: Realization of Boolean functions using NAND/NOR\ngates, Decoders, multiplexers. logic design using ROMs, PLAs and FPGAs. Case\nstudies.\nSequential circuits: Clocks, flip-flops, latches, counters and shift registers,\nfinite-state machine model, synthesis of synchronous sequential circuits,\nminimization and state assignment, asynchronous sequential circuit synthesis.\nASM charts: Representation of sequential circuits using ASM charts, synthesis\nof output and next state functions, data path control path partition-based\ndesign.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nGoogle Drive Materials",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS21002: Switching Circuits And Logic Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nSwitching Circuits: Logic families: TTL, nMOS, CMOS, dynamic CMOS and pass\ntransistor logic (PTL) circuits, inverters and other logic gates, area, power\nand delay characteristics, concepts of fan-in, fan-out and noise margin.\nSwitching theory: Boolean algebra, logic gates, and switching functions, truth\ntables and switching expressions, minimization of completely and incompletely\nspecified switching functions, Karnaugh map and Quine-McCluskey method,\nmultiple output minimization, representation and manipulation of functions\nusing BDDs, two-level and multi-level logic circuit synthesis.\nCombinational logic circuits: Realization of Boolean functions using NAND/NOR\ngates, Decoders, multiplexers. logic design using ROMs, PLAs and FPGAs. Case\nstudies.\nSequential circuits: Clocks, flip-flops, latches, counters and shift registers,\nfinite-state machine model, synthesis of synchronous sequential circuits,\nminimization and state assignment, asynchronous sequential circuit synthesis.\nASM charts: Representation of sequential circuits using ASM charts, synthesis\nof output and next state functions, data path control path partition-based\ndesign.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nGoogle Drive Materials"
+    }
+  ],
+  "chunk_count": 1
+}

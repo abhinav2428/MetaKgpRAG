@@ -1,0 +1,21 @@
+{
+  "title": "CS31702: Computer Architecture And Operating System",
+  "url": "https://wiki.metakgp.org/wiki/CS31702:_Computer_Architecture_And_Operating_System",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nArchitecture: Basic organization, fetch-decode-execute cycle, data path and\ncontrol path, instruction set architecture, I/O subsystems, interrupts, memory\nhierarchy, overview of pipelined architectureOperating systems: An overview,\nprocess management, user and supervisor modes, process synchronization,\nsemaphores, memory management, virtual memory, file systems, I/O systems.Issues\nin multiprocessing environments.References1.David A. Patterson and John L.\nHennessy, Computer Organization and Design: The Hardware/Software Interface,\nElsevier.2.Carl Hamachar, Zvonco Vranesic and Safwat Zaky, Computer\nOrganization, McGraw-Hill.3.John P. Hayes, Computer Architecture and\nOrganization, McGraw-Hill.4.Avi Silberschatz, Peter Galvin, Greg Gagne,\nOperating System Concepts, Wiley Asia Student Edition.5.William Stallings,\nOperating Systems: Internals and Design Principles, Prentice Hall of India.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS31702: Computer Architecture And Operating System\n\nSyllabus\nSyllabus mentioned in ERP\n\nArchitecture: Basic organization, fetch-decode-execute cycle, data path and\ncontrol path, instruction set architecture, I/O subsystems, interrupts, memory\nhierarchy, overview of pipelined architectureOperating systems: An overview,\nprocess management, user and supervisor modes, process synchronization,\nsemaphores, memory management, virtual memory, file systems, I/O systems.Issues\nin multiprocessing environments.References1.David A. Patterson and John L.\nHennessy, Computer Organization and Design: The Hardware/Software Interface,\nElsevier.2.Carl Hamachar, Zvonco Vranesic and Safwat Zaky, Computer\nOrganization, McGraw-Hill.3.John P. Hayes, Computer Architecture and\nOrganization, McGraw-Hill.4.Avi Silberschatz, Peter Galvin, Greg Gagne,\nOperating System Concepts, Wiley Asia Student Edition.5.William Stallings,\nOperating Systems: Internals and Design Principles, Prentice Hall of India.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

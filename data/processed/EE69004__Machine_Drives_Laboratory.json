@@ -1,0 +1,28 @@
+{
+  "title": "EE69004: Machine Drives Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/EE69004:_Machine_Drives_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDrive Concept: different machine and load characteristics, equilibrium and\nsteady state stability, four quadrant operation, referred inertia and load\ntorque for different coupling mechanism, thermal selection of machines;\nSeparately excited dc motor drive: operating limits using armature voltage\ncontrol and field control techniques, dynamic model(armature voltage control\nonly) of machine and converters (continuous conduction only), open-loop dynamic\nperformance, starting and reversal time, energy consumption, closed loop\ncontrol using single (speed) and two loops (speed, current), implementation\nusing circulating current type three phase dual converter and four quadrant\ntransistorized chopper. State feedback control and sliding mode control of\nseparately excited dc machine, modeling and control of separately excited\ndc machine in field weakening region and discontinuous converter conduction\nmode, control of dc series machine; Review of variable frequency operation of\nthree phase symmetrical induction machine: scalar control methods (constant\nvolts/Hz and airgapflux control), vector control of induction machine, methods\nof flux sensing/estimation, implementation of IRFO scheme using current\ncontrolled PWM VSI, implementation of DSFO scheme using GTO CSI, effect of\nmachine parameter variation on the performance of vector controlled induction\nmotor drive, speed sensorless control, flux observation, Direct Torque Control;\nSpeed control of wound rotor induction motors: static rotor resistance control,\nstatic scherbius drive using line commutated converter cascade, harmonics and\npower factor, vector control of wound rotor induction machine using self\ncommutated converter cascade and improvement in power factor, introduction to\nvariable speed constant frequency (VSCF) generation; Control of wound field\nsynchronous machine: constant volts/Hz control, scalar self control (commutator\nless motor), vector control; Control of permanent magnet synchronous machine:\nBrushless dc machine, surface permanent magnet machine and interior permanent\nmagnet machine control; Introduction to speed control of Switched Reluctance\nmachine.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE69004: Machine Drives Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nDrive Concept: different machine and load characteristics, equilibrium and\nsteady state stability, four quadrant operation, referred inertia and load\ntorque for different coupling mechanism, thermal selection of machines;\nSeparately excited dc motor drive: operating limits using armature voltage\ncontrol and field control techniques, dynamic model(armature voltage control\nonly) of machine and converters (continuous conduction only), open-loop dynamic\nperformance, starting and reversal time, energy consumption, closed loop\ncontrol using single (speed) and two loops (speed, current), implementation\nusing circulating current type three phase dual converter and four quadrant\ntransistorized chopper."
+    },
+    {
+      "index": 1,
+      "text": "EE69004: Machine Drives Laboratory\n\nclosed loop\ncontrol using single (speed) and two loops (speed, current), implementation\nusing circulating current type three phase dual converter and four quadrant\ntransistorized chopper.\n\nState feedback control and sliding mode control of\nseparately excited dc machine, modeling and control of separately excited\ndc machine in field weakening region and discontinuous converter conduction\nmode, control of dc series machine; Review of variable frequency operation of\nthree phase symmetrical induction machine: scalar control methods (constant\nvolts/Hz and airgapflux control), vector control of induction machine, methods\nof flux sensing/estimation, implementation of IRFO scheme using current\ncontrolled PWM VSI, implementation of DSFO scheme using GTO CSI, effect of\nmachine parameter variation on the performance of vector controlled induction\nmotor drive, speed sensorless control, flux observation, Direct Torque Control;\nSpeed control of wound rotor induction motors: static rotor resistance control,\nstatic scherbius drive using line commutated converter cascade, harmonics and\npower factor, vector control of wound rotor induction machine using self\ncommutated converter cascade and improvement in power factor, introduction to\nvariable speed constant frequency (VSCF) generation; Control of wound field\nsynchronous machine: constant volts/Hz control, scalar self control (commutator\nless motor), vector control; Control of permanent magnet synchronous machine:\nBrushless dc machine, surface permanent magnet machine and interior permanent\nmagnet machine control; Introduction to speed control of Switched Reluctance\nmachine."
+    },
+    {
+      "index": 2,
+      "text": "EE69004: Machine Drives Laboratory\n\nmagnet synchronous machine:\nBrushless dc machine, surface permanent magnet machine and interior permanent\nmagnet machine control; Introduction to speed control of Switched Reluctance\nmachine.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

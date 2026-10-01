@@ -1,0 +1,15 @@
+{
+  "title": "CS19003: PDS Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/CS19003:_PDS_Laboratory",
+  "text": "Syllabus \n\n# Familiarization with C Programming Environment\n# Data types, constants, variables, assignment statements and input-output\n# Conditional and branch statements\n# Loops and iteration statements\n# 1-d and 2-d static arrays\n# Functions and recursion\n# Structures\n# Pointers and dynamic memory allocation\n# Linked lists\n# Stacks and queues",
+  "page_type": "course",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS19003: PDS Laboratory\n\nSyllabus \n\n# Familiarization with C Programming Environment\n# Data types, constants, variables, assignment statements and input-output\n# Conditional and branch statements\n# Loops and iteration statements\n# 1-d and 2-d static arrays\n# Functions and recursion\n# Structures\n# Pointers and dynamic memory allocation\n# Linked lists\n# Stacks and queues"
+    }
+  ],
+  "chunk_count": 1
+}

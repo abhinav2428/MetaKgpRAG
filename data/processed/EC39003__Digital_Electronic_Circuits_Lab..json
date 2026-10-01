@@ -1,0 +1,24 @@
+{
+  "title": "EC39003: Digital Electronic Circuits Lab.",
+  "url": "https://wiki.metakgp.org/wiki/EC39003:_Digital_Electronic_Circuits_Lab.",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n1. Familiarization with 7-segment (common-anode) light-emitting diode (LED)\ndisplay and IC 7447 (BCD-to-7-segment decoder/driver).\n\n2. Familiarization with\n7493 (mod-16 counter) and 7490 (mod-10 counter).\n\n3. Familiarization with IC\n74181 (4-bit ALU).\n\n4. To verify the truth table of the 4-bit adder IC 7483, and\nusing quad 2-to-1 Multiplexer IC 74157, display each of the 4-bit inputs and\nthe output, one at a time by a 7-segment LED display.\n\n5. Use IC 74173 (quad DFF)\nand IC 74374 (octal DFF) to build a calculator.\n\n6. Implementation of a (4 X 4)\nÃ¢ÂÂbit multiplier using registers and a down-counter.\n\n7. BCD addition (add two\nBCD numbers to produce a valid BCD result) Apparatus: IC 7483, IC 7432, IC\n7408, IC 7447, digital development kit, connecting wires.\n\n8. Implementing an\nexcess 3 to BCD code converter and display the output on 7-segment display.\n\n9.\nImplement binary to BCD conversion.\n\n10. Repetitive display of a studentÃ¢ÂÂs\nroll number on 7-segment display.\n\n11. Measure and plot TTL inverter (IC 7404)\ntransfer characteristic. Also, measure the propagation delay of a TTL gate by a\nring oscillator arrangement.\n\n12. Simulate a serial communication link. Assume\nRS-232 data format consisting of a low start bit, 4 data bits, a parity bit and\n2 high stop bits. Apparatus: 8-bit PISO register (IC 74165), a JK Flip-Flop, 8bit SIPO register (IC 74164), 4-bit PIPO register, hex keypad, gates, IC 7447\nchip, one 7-segment LED display, breadboard, connecting wires\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC39003: Digital Electronic Circuits Lab.\n\nSyllabus\nSyllabus mentioned in ERP\n\n1. Familiarization with 7-segment (common-anode) light-emitting diode (LED)\ndisplay and IC 7447 (BCD-to-7-segment decoder/driver).\n\n2. Familiarization with\n7493 (mod-16 counter) and 7490 (mod-10 counter).\n\n3. Familiarization with IC\n74181 (4-bit ALU).\n\n4. To verify the truth table of the 4-bit adder IC 7483, and\nusing quad 2-to-1 Multiplexer IC 74157, display each of the 4-bit inputs and\nthe output, one at a time by a 7-segment LED display.\n\n5. Use IC 74173 (quad DFF)\nand IC 74374 (octal DFF) to build a calculator.\n\n6. Implementation of a (4 X 4)\nÃ¢ÂÂbit multiplier using registers and a down-counter.\n\n7. BCD addition (add two\nBCD numbers to produce a valid BCD result) Apparatus: IC 7483, IC 7432, IC\n7408, IC 7447, digital development kit, connecting wires.\n\n8. Implementing an\nexcess 3 to BCD code converter and display the output on 7-segment display.\n\n9.\nImplement binary to BCD conversion.\n\n10. Repetitive display of a studentÃ¢ÂÂs\nroll number on 7-segment display.\n\n11. Measure and plot TTL inverter (IC 7404)\ntransfer characteristic. Also, measure the propagation delay of a TTL gate by a\nring oscillator arrangement."
+    },
+    {
+      "index": 1,
+      "text": "EC39003: Digital Electronic Circuits Lab.\n\nnumber on 7-segment display.\n\n11. Measure and plot TTL inverter (IC 7404)\ntransfer characteristic. Also, measure the propagation delay of a TTL gate by a\nring oscillator arrangement.\n\n12. Simulate a serial communication link. Assume\nRS-232 data format consisting of a low start bit, 4 data bits, a parity bit and\n2 high stop bits. Apparatus: 8-bit PISO register (IC 74165), a JK Flip-Flop, 8bit SIPO register (IC 74164), 4-bit PIPO register, hex keypad, gates, IC 7447\nchip, one 7-segment LED display, breadboard, connecting wires\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

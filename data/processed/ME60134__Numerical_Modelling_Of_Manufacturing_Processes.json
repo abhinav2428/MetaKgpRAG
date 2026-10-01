@@ -1,0 +1,25 @@
+{
+  "title": "ME60134: Numerical Modelling Of Manufacturing Processes",
+  "url": "https://wiki.metakgp.org/wiki/ME60134:_Numerical_Modelling_Of_Manufacturing_Processes",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic concepts of the standard discrete system. Finite difference (FDM), finite\nelement (FEM) and boundary element methods (BEM) for modeling and analysis of\nmanufacturing processes. Generalization of FE concepts Ã¢ÂÂ weighted residual\nand variational approaches. Element types Ã¢ÂÂ plane triangular, quadrilateral,\ncurved isoparametric elements, 3-dimensional elements, axisymmetric, plate and\nshell elements. Automatic mesh generation and data visualization schemes.\nMixed and hybrid finite element analysis: thermal modeling of manufacturing\nprocesses like induction hardening, arc welding, cooling of castings, forgings,\ncutting tools and consequent deduction of cooling rate and metallurgical\ntransformations. Thermo-plastic modeling of forming processes like forging,\nextrusion and rolling. FE modeling of dynamic and non-linear problems.\n\nConcepts taught in class\nBasic concepts about how to proceed with modelling,\n\nStress and Strain concepts \n\nIf taught by VR, Mostly focussed on Hands on Sessions - On Abaqus- Tractrix Die forming, 3 roller beam bending problem, On Ansys - Flow Over a Sphere.\n\nStudent Opinion\nIf taught by VR, a lot of focus will be on simulation part. You can expect an couple of tests on simulation.(During online there was one test and other assignment on simulation). \n\nHow to Crack the Paper\nLearn Ansys and Abaqus well. Learn to Debug, such things are discussed in class. Notes would suffice for theory part.\n\nClassroom resources\n- Prof Notes and tutorial videos on Prof's YT channel\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60134: Numerical Modelling Of Manufacturing Processes\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic concepts of the standard discrete system. Finite difference (FDM), finite\nelement (FEM) and boundary element methods (BEM) for modeling and analysis of\nmanufacturing processes. Generalization of FE concepts Ã¢ÂÂ weighted residual\nand variational approaches. Element types Ã¢ÂÂ plane triangular, quadrilateral,\ncurved isoparametric elements, 3-dimensional elements, axisymmetric, plate and\nshell elements. Automatic mesh generation and data visualization schemes.\nMixed and hybrid finite element analysis: thermal modeling of manufacturing\nprocesses like induction hardening, arc welding, cooling of castings, forgings,\ncutting tools and consequent deduction of cooling rate and metallurgical\ntransformations. Thermo-plastic modeling of forming processes like forging,\nextrusion and rolling. FE modeling of dynamic and non-linear problems.\n\nConcepts taught in class\nBasic concepts about how to proceed with modelling,\n\nStress and Strain concepts\n\nIf taught by VR, Mostly focussed on Hands on Sessions - On Abaqus- Tractrix Die forming, 3 roller beam bending problem, On Ansys - Flow Over a Sphere.\n\nStudent Opinion\nIf taught by VR, a lot of focus will be on simulation part. You can expect an couple of tests on simulation.(During online there was one test and other assignment on simulation)."
+    },
+    {
+      "index": 1,
+      "text": "ME60134: Numerical Modelling Of Manufacturing Processes\n\nOpinion\nIf taught by VR, a lot of focus will be on simulation part. You can expect an couple of tests on simulation.(During online there was one test and other assignment on simulation).\n\nHow to Crack the Paper\nLearn Ansys and Abaqus well. Learn to Debug, such things are discussed in class. Notes would suffice for theory part.\n\nClassroom resources\n- Prof Notes and tutorial videos on Prof's YT channel\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

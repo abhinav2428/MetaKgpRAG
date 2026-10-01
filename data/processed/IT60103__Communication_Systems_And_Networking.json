@@ -1,0 +1,21 @@
+{
+  "title": "IT60103: Communication Systems And Networking",
+  "url": "https://wiki.metakgp.org/wiki/IT60103:_Communication_Systems_And_Networking",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nCommunication media, coding, modulation and demodulation, modem standards.\nTransmission modes: serial/parallel, synchronous/asynchronous, simplex/halfduplex/full-duplex. Multiplexing, error detection and correction. Interfaces\nfor data communication: RS-232, RS-449 etc. Basic networking concepts.\nTopology, circuit switching and packet switching, layering, review of LAN and\nWAN technologies, bridges, switches, gateways, routers, firewall, proxy,\nmulticasting. Client-server programming. Internetworking: TCP/IP, ICMP, Routing\nprotocols, IPv6. Basic Internet protocols: Telnet, FTP, SMTP, HTTP.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Information_Technology"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Information_Technology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IT60103: Communication Systems And Networking\n\nSyllabus\nSyllabus mentioned in ERP\n\nCommunication media, coding, modulation and demodulation, modem standards.\nTransmission modes: serial/parallel, synchronous/asynchronous, simplex/halfduplex/full-duplex. Multiplexing, error detection and correction. Interfaces\nfor data communication: RS-232, RS-449 etc. Basic networking concepts.\nTopology, circuit switching and packet switching, layering, review of LAN and\nWAN technologies, bridges, switches, gateways, routers, firewall, proxy,\nmulticasting. Client-server programming. Internetworking: TCP/IP, ICMP, Routing\nprotocols, IPv6. Basic Internet protocols: Telnet, FTP, SMTP, HTTP.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

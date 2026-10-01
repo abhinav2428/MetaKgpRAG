@@ -1,0 +1,33 @@
+{
+  "title": "EC31004: Vlsi Engg.",
+  "url": "https://wiki.metakgp.org/wiki/EC31004:_Vlsi_Engg.",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21007, EC21002 and EC31003Introduction: Design hierarchy,\nlayers of abstraction, integration density and MooreÃ¢ÂÂs law, VLSI design\nstyles, packaging styles, design automation principles; Fabrication Technology:\nBasic steps of fabrication, bipolar, CMOS and Bi-CMOS fabrication processes,\nlayout design rules; MOS and Bi-CMOS characteristics and circuits: MOS\ntransistor characteristics, MOS switch and inverter, Bi-CMOS inverter, latch-up\nin CMOS inverter, super-buffers, propagation delay models, switching delay in\nlogic circuits, CMOS analog amplifier; Logic Design: switch logic, gate\nrestoring logic, various logic families and logic gates, PLA; Dynamic Circuits:\nBasic concept, noise considerations, charge sharing, cascading dynamic gates,\ndomino logic, np-CMOS logic, clocking schemes; Sequential Circuits: Basic\nregenerative circuits, bistable circuit elements, CMOS SR latch, clocked latch\nand flip-flops; Low-power Circuits: low-power designthrough voltage scaling,\nestimation and optimization of switching activity, reduction of switched\ncapacitance, adiabatic logic circuits; Subsystem Design: design of arithmetic\nbuilding blocks like adders, multipliers, shifters, area-speed-power tradeoff;\nSemiconductor Memories: SRAM, DRAM, non-volatile memories; Bipolar ECL\nInverter: Features of ECL gate, robustness and noise immunity, logic design in\nECL, single-ended and differential ECL gates; Testability of VLSI: Fault\nmodels, scan-based techniques, BIST, test vector generation; Physical Design:\nBrief ideas on partitioning, placement, routing and compaction.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC31004: Vlsi Engg.\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "EC31004: Vlsi Engg.\n\nPre-requisites: EC21007, EC21002 and EC31003Introduction: Design hierarchy,\nlayers of abstraction, integration density and MooreÃ¢ÂÂs law, VLSI design\nstyles, packaging styles, design automation principles; Fabrication Technology:\nBasic steps of fabrication, bipolar, CMOS and Bi-CMOS fabrication processes,\nlayout design rules; MOS and Bi-CMOS characteristics and circuits: MOS\ntransistor characteristics, MOS switch and inverter, Bi-CMOS inverter, latch-up\nin CMOS inverter, super-buffers, propagation delay models, switching delay in\nlogic circuits, CMOS analog amplifier; Logic Design: switch logic, gate\nrestoring logic, various logic families and logic gates, PLA; Dynamic Circuits:\nBasic concept, noise considerations, charge sharing, cascading dynamic gates,\ndomino logic, np-CMOS logic, clocking schemes; Sequential Circuits: Basic\nregenerative circuits, bistable circuit elements, CMOS SR latch, clocked latch\nand flip-flops; Low-power Circuits: low-power designthrough voltage scaling,\nestimation and optimization of switching activity, reduction of switched\ncapacitance, adiabatic logic circuits; Subsystem Design: design of arithmetic\nbuilding blocks like adders, multipliers, shifters, area-speed-power tradeoff;\nSemiconductor Memories: SRAM, DRAM, non-volatile memories; Bipolar ECL\nInverter: Features of ECL gate, robustness and noise immunity, logic design in\nECL, single-ended and differential ECL gates; Testability of VLSI: Fault\nmodels, scan-based techniques"
+    },
+    {
+      "index": 2,
+      "text": "EC31004: Vlsi Engg.\n\nories; Bipolar ECL\nInverter: Features of ECL gate, robustness and noise immunity, logic design in\nECL, single-ended and differential ECL gates; Testability of VLSI: Fault\nmodels, scan-based techniques, BIST, test vector generation; Physical Design:\nBrief ideas on partitioning, placement, routing and compaction."
+    },
+    {
+      "index": 3,
+      "text": "EC31004: Vlsi Engg.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

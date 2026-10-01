@@ -1,0 +1,20 @@
+{
+  "title": "MA61011: Theory Of Compiler Design",
+  "url": "https://wiki.metakgp.org/wiki/MA61011:_Theory_Of_Compiler_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\nCompiler structure, lexical and syntax analysis, data structures organization,\nsymbol table management, intermediate code forms, static and dynamic memory\nallocation, code generation for arithmetic expressions and control\nstructures, subroutine calls and parameter transmission, code optimization.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61011: Theory Of Compiler Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\nCompiler structure, lexical and syntax analysis, data structures organization,\nsymbol table management, intermediate code forms, static and dynamic memory\nallocation, code generation for arithmetic expressions and control\nstructures, subroutine calls and parameter transmission, code optimization.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

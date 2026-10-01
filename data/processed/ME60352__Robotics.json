@@ -1,0 +1,21 @@
+{
+  "title": "ME60352: Robotics",
+  "url": "https://wiki.metakgp.org/wiki/ME60352:_Robotics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nRobotics\nIntroduction to Robotics: Definitions, motivation, historical development,\nbasic structure, classification, workspace, grippers, specifications\nRobot Arm Kinematics and Dynamics: Frame transformation, D-H parameters,\nForward kinematics, Inverse kinematics, Lagrange formulation\nTrajectory Generation: Cartesian scheme, Joint space scheme\nTeaching Methods: Manual teaching, Lead-through teaching, VAL programming\nSensing: Range sensing, proximity sensing, touch sensors, force and torque\nsensing\nRobot Vision: Low-level vision, Higher-level vision\nControl Schemes: Position control, force control, hybrid position and force\ncontrol\nMotion Planning: Traditional and non-traditional techniques\n\nConcepts taught in class\n\nStudent Opinion\nAs a student, I have found that studying Robotics through NPTEL is far more beneficial than in a traditional classroom setting. The NPTEL platform provides access to high-quality video lectures by experienced professors from the top engineering institutions in India. These video lectures are incredibly detailed and provide a strong foundation for understanding the theoretical aspects of Robotics. \n\nHow to Crack the Paper\n\nClassroom resources\nCompletely available on NPTEL - https://www.youtube.com/watch?v=rYWJdZ5qg6M&list=PLbRMhDVUMngcdUbBySzyzcPiFTYWr4rV_\n\n Additional Resources \nFundamentals of Robotics by DK Pratihar\n\nRobotics by Fu, Gonzalez and Lee\n\nIntroduction to Robotics by Craig",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60352: Robotics\n\nSyllabus\nSyllabus mentioned in ERP\n\nRobotics\nIntroduction to Robotics: Definitions, motivation, historical development,\nbasic structure, classification, workspace, grippers, specifications\nRobot Arm Kinematics and Dynamics: Frame transformation, D-H parameters,\nForward kinematics, Inverse kinematics, Lagrange formulation\nTrajectory Generation: Cartesian scheme, Joint space scheme\nTeaching Methods: Manual teaching, Lead-through teaching, VAL programming\nSensing: Range sensing, proximity sensing, touch sensors, force and torque\nsensing\nRobot Vision: Low-level vision, Higher-level vision\nControl Schemes: Position control, force control, hybrid position and force\ncontrol\nMotion Planning: Traditional and non-traditional techniques\n\nConcepts taught in class\n\nStudent Opinion\nAs a student, I have found that studying Robotics through NPTEL is far more beneficial than in a traditional classroom setting. The NPTEL platform provides access to high-quality video lectures by experienced professors from the top engineering institutions in India. These video lectures are incredibly detailed and provide a strong foundation for understanding the theoretical aspects of Robotics. \n\nHow to Crack the Paper\n\nClassroom resources\nCompletely available on NPTEL - https://www.youtube.com/watch?v=rYWJdZ5qg6M&list=PLbRMhDVUMngcdUbBySzyzcPiFTYWr4rV_\n\n Additional Resources \nFundamentals of Robotics by DK Pratihar\n\nRobotics by Fu, Gonzalez and Lee\n\nIntroduction to Robotics by Craig"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "title": "MA61051: Modern Theory Of Partial Differential Equation",
+  "url": "https://wiki.metakgp.org/wiki/MA61051:_Modern_Theory_Of_Partial_Differential_Equation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: PDE, Functional AnalysisTheory of distributions: supports, test\nfunctions, regular and singular distributions, generalised derivatives. Sobolev\nSpaces: definition and basic properties, approximation by smooth functions,\ndual spaces, trace and imbedding results (without proof).Elliptic Boundary\nValue Problems: abstract variational problems, Lax-Milgram Lemma, weak\nsolutions and wellposedness with examples, regularity result, maximum\nprinciples, eigenvalue problems.Semigroup Theory and Applications: exponential\nmap, C0-semigroups, Hille-Yosida and Lummer-Phillips theorems, applications to\nheat and wave equations.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61051: Modern Theory Of Partial Differential Equation\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: PDE, Functional AnalysisTheory of distributions: supports, test\nfunctions, regular and singular distributions, generalised derivatives. Sobolev\nSpaces: definition and basic properties, approximation by smooth functions,\ndual spaces, trace and imbedding results (without proof).Elliptic Boundary\nValue Problems: abstract variational problems, Lax-Milgram Lemma, weak\nsolutions and wellposedness with examples, regularity result, maximum\nprinciples, eigenvalue problems.Semigroup Theory and Applications: exponential\nmap, C0-semigroups, Hille-Yosida and Lummer-Phillips theorems, applications to\nheat and wave equations.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CS11001: Programming And Data Structure",
+  "url": "https://wiki.metakgp.org/wiki/CS11001:_Programming_And_Data_Structure",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to digital computers; introduction to programming â variables,\nassignments; expressions; input/output; conditionals and branching; iteration;\nfunctions; recursion; arrays; introduction to pointers; character strings; time\nand space requirements; searching and sorting; structures; introduction to\ndata-procedure encapsulation; dynamic allocation; linked structures;\nintroduction to data structures â stacks and queues.\n(A programming language like C/C++ may be used as a basis language. The same\nlanguage must be used for the laboratory).\n\nConcepts taught in class\n\nIt is basically equivalent to the C++ course taught in CBSE Class 11-12 with the implication that concepts related to Classes and Objects are not in C programming with some extra topics of Algorithm Analysis basics and Number Systems.\n\nRelative Grading \n\nWorksheet type papers\n\n2 class tests for TA marks\n\nStudent Opinion\n\nIf you have studied any programming language like Java in ICSE and ISC, C++(Highest adavantage), Python and NetBeans in CBSE or anything else, then the basic concepts of programming like loops, conditionals, pointers, structures will remain the same. Only the syntactical part will change. \n\nIf you haven't, it is high time that you learn C programming in your vacations (Winter and Summer). The following channels may help you: https://www.youtube.com/watch?v=AWliApDc61w&list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE , https://www.youtube.com/playlist?list=PLS8ACsmFCpmSZQv44y56AviLUbvyriVYh .\n\nThe course is high paced because it's quite natural that a 2 year course is compressed into a 40 hour lecture series.\n\nHowever , the question paper is not that easy (even for experienced students because of certain nitty-gritties involved). So practise as much as you can. And there is a PDS Doubt Session orgainised by SWG IIT Kharagpur. Do attend them.\n\nHow to Crack the Paper\n\nClassroom resources\nThe following link will lead you to past and current year slides and other resources, exam-dates, grades etc.\n\nhttp://cse.iitkgp.ac.in/pds/\n\nAdditional Resources\nInstiinfo Repository",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS11001: Programming And Data Structure\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to digital computers; introduction to programming â variables,\nassignments; expressions; input/output; conditionals and branching; iteration;\nfunctions; recursion; arrays; introduction to pointers; character strings; time\nand space requirements; searching and sorting; structures; introduction to\ndata-procedure encapsulation; dynamic allocation; linked structures;\nintroduction to data structures â stacks and queues.\n(A programming language like C/C++ may be used as a basis language. The same\nlanguage must be used for the laboratory).\n\nConcepts taught in class\n\nIt is basically equivalent to the C++ course taught in CBSE Class 11-12 with the implication that concepts related to Classes and Objects are not in C programming with some extra topics of Algorithm Analysis basics and Number Systems.\n\nRelative Grading\n\nWorksheet type papers\n\n2 class tests for TA marks\n\nStudent Opinion\n\nIf you have studied any programming language like Java in ICSE and ISC, C++(Highest adavantage), Python and NetBeans in CBSE or anything else, then the basic concepts of programming like loops, conditionals, pointers, structures will remain the same. Only the syntactical part will change."
+    },
+    {
+      "index": 1,
+      "text": "CS11001: Programming And Data Structure\n\nPython and NetBeans in CBSE or anything else, then the basic concepts of programming like loops, conditionals, pointers, structures will remain the same. Only the syntactical part will change.\n\nIf you haven't, it is high time that you learn C programming in your vacations (Winter and Summer). The following channels may help you: https://www.youtube.com/watch?v=AWliApDc61w&list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE , https://www.youtube.com/playlist?list=PLS8ACsmFCpmSZQv44y56AviLUbvyriVYh .\n\nThe course is high paced because it's quite natural that a 2 year course is compressed into a 40 hour lecture series.\n\nHowever , the question paper is not that easy (even for experienced students because of certain nitty-gritties involved). So practise as much as you can. And there is a PDS Doubt Session orgainised by SWG IIT Kharagpur. Do attend them.\n\nHow to Crack the Paper\n\nClassroom resources\nThe following link will lead you to past and current year slides and other resources, exam-dates, grades etc.\n\nhttp://cse.iitkgp.ac.in/pds/\n\nAdditional Resources\nInstiinfo Repository"
+    }
+  ],
+  "chunk_count": 2
+}

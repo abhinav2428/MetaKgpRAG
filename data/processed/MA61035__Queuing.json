@@ -1,0 +1,20 @@
+{
+  "title": "MA61035: Queuing",
+  "url": "https://wiki.metakgp.org/wiki/MA61035:_Queuing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Probability and StatisticsMarkov chains, Poisson\nprocess, birth-death Process, Simple Markovian queuing\nmodels - M/M/1,\nM/M/1/N, M/M/C, transient behaviour of M/M/1 and M/M/1/N queue. Models with\ngeneral arrival or service - M/G/1, GI/M/1. Concept bulk queues, network of\nMarkovian queues. General concept of discrete time queues, system reliability,\nMarkovian models in reliability theory. Life testing using the exponential and\nWeibull models. Elementary inventory models, deterministic and stochastic\nmodels, inventory models with price breaks, concept of just-in-time\ninventory.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61035: Queuing\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Probability and StatisticsMarkov chains, Poisson\nprocess, birth-death Process, Simple Markovian queuing\nmodels - M/M/1,\nM/M/1/N, M/M/C, transient behaviour of M/M/1 and M/M/1/N queue. Models with\ngeneral arrival or service - M/G/1, GI/M/1. Concept bulk queues, network of\nMarkovian queues. General concept of discrete time queues, system reliability,\nMarkovian models in reliability theory. Life testing using the exponential and\nWeibull models. Elementary inventory models, deterministic and stochastic\nmodels, inventory models with price breaks, concept of just-in-time\ninventory.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

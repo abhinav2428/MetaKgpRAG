@@ -1,0 +1,25 @@
+{
+  "title": "IM31012: Optimisation And Heuristic Methods",
+  "url": "https://wiki.metakgp.org/wiki/IM31012:_Optimisation_And_Heuristic_Methods",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: IM21003 Operations Research-IGenetic Algorithm: Mechanism,\nAppraisal of GA performance, Data structure, Procedures, Operations and\ntechniques in genetic search, Computer implementation, Applications.Neural\nNetworks: Introduction, multi-layer networks, recurrent networks, learning\nparadigms.Data Envelopment Analysis (DEA): Definitions, Relative efficiency\nmeasurement, Solutions to the DEA Model, Dual DEA Model, DEA issues. Fuzzy\noptimization: Soft constraints, Approximate reasoning, Multi-criteria soft\ndecision modelling, Interactive approach, Developing expert systems using fuzzy\nlogic.Simulated Annealing: Metropolis algorithm, Heat Bath Algorithm, Fast\nsimulated annealing, Very fast simulated annealing, Mean field annealing.Chaos:\ncomplexity and simplicity, evolution of possibilities, simple models of chaos,\nstrange attractors, deterministic chaos, self-organization,\nsynergistics.Evolutionary computing: hybrid intelligent system, evolutionary\ndynamics, evolutionary engineering and its application.Booksâ¢Goldberg D.E.,\nGenetic Algorithms in Search Optimization and Machine Learning, Addison Wesley,\nReading, MA, USA, 1989.â¢Stamatios V. Kartalopoulos, Understanding Neural\nNetworks and Fuzzy Logic â Basic Concepts and Applications, Prentice Hall of\nIndia, New Delhi, 2002â¢Deb K., Multi-Objective Optimization Using Evolutionary\nAlgorithms, Chichester, 2002. â¢Rajasekaran S. and G.A. Vijayalakshmi Pai,\nNeural Networks, Fuzzy Logic, and Genetic Algorithm â Synthesis and\nApplications, Prentice Hall of India, New Delhi, 2003â¢Ramanathan R. (2003), An\nIntroduction to Data envelopment Analysis â A Tool for Performance Measurement,\nSage Publications, New Delhi.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM31012: Optimisation And Heuristic Methods\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: IM21003 Operations Research-IGenetic Algorithm: Mechanism,\nAppraisal of GA performance, Data structure, Procedures, Operations and\ntechniques in genetic search, Computer implementation, Applications.Neural\nNetworks: Introduction, multi-layer networks, recurrent networks, learning\nparadigms.Data Envelopment Analysis (DEA): Definitions, Relative efficiency\nmeasurement, Solutions to the DEA Model, Dual DEA Model, DEA issues.\n\nFuzzy\noptimization: Soft constraints, Approximate reasoning, Multi-criteria soft\ndecision modelling, Interactive approach, Developing expert systems using fuzzy\nlogic.Simulated Annealing: Metropolis algorithm, Heat Bath Algorithm, Fast\nsimulated annealing, Very fast simulated annealing, Mean field annealing.Chaos:\ncomplexity and simplicity, evolution of possibilities, simple models of chaos,\nstrange attractors, deterministic chaos, self-organization,\nsynergistics.Evolutionary computing: hybrid intelligent system, evolutionary\ndynamics, evolutionary engineering and its application.Booksâ¢Goldberg D.E.,\nGenetic Algorithms in Search Optimization and Machine Learning, Addison Wesley,\nReading, MA, USA, 1989.â¢Stamatios V.\n\nKartalopoulos, Understanding Neural\nNetworks and Fuzzy Logic â Basic Concepts and Applications, Prentice Hall of\nIndia, New Delhi, 2002â¢Deb K., Multi-Objective Optimization Using Evolutionary\nAlgorithms, Chichester, 2002.\n\nâ¢Rajasekaran S."
+    },
+    {
+      "index": 1,
+      "text": "IM31012: Optimisation And Heuristic Methods\n\nand Fuzzy Logic â Basic Concepts and Applications, Prentice Hall of\nIndia, New Delhi, 2002â¢Deb K., Multi-Objective Optimization Using Evolutionary\nAlgorithms, Chichester, 2002.\n\nâ¢Rajasekaran S.\n\nand G.A.\n\nVijayalakshmi Pai,\nNeural Networks, Fuzzy Logic, and Genetic Algorithm â Synthesis and\nApplications, Prentice Hall of India, New Delhi, 2003â¢Ramanathan R.\n\n(2003), An\nIntroduction to Data envelopment Analysis â A Tool for Performance Measurement,\nSage Publications, New Delhi.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

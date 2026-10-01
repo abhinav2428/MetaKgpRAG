@@ -1,0 +1,21 @@
+{
+  "title": "MA61021: Mathematical Logic",
+  "url": "https://wiki.metakgp.org/wiki/MA61021:_Mathematical_Logic",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidProgramming Prolog - facts, simple queries, complex queries,\nrules, arithmetic operators, recursion, unification, lists, cut. Propositional\nlogic - syntax, semantics, laws of deduction, normal forms, resolution, theorem\nproving, validity, soundness and completeness. First order logic - conversion\nof commonsense sentences into the language of first order logic, universal and\nexistential quantifiers, syntax, terms of predicate, model theoretic semantics,\nHarbrand universe, normal form, unification, proof theory, mechanical theorem\nproving, incompleteness.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61021: Mathematical Logic\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidProgramming Prolog - facts, simple queries, complex queries,\nrules, arithmetic operators, recursion, unification, lists, cut. Propositional\nlogic - syntax, semantics, laws of deduction, normal forms, resolution, theorem\nproving, validity, soundness and completeness. First order logic - conversion\nof commonsense sentences into the language of first order logic, universal and\nexistential quantifiers, syntax, terms of predicate, model theoretic semantics,\nHarbrand universe, normal form, unification, proof theory, mechanical theorem\nproving, incompleteness.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

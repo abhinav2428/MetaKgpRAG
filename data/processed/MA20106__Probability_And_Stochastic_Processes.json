@@ -1,0 +1,25 @@
+{
+  "title": "MA20106: Probability And Stochastic Processes",
+  "url": "https://wiki.metakgp.org/wiki/MA20106:_Probability_And_Stochastic_Processes",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\n\nProbability: Classical, relative frequency and axiomatic\ndefinitions of probability, addition rule and conditional probability,\nmultiplication rule, total probability, Bayes Theorem and independence.Random\nVariables: Discrete, continuous and mixed random variables, probability mass,\nprobability density and cumulative distribution functions, mathematical\nexpectation, moments, moment generating function, Chebyshev s inequality.\nSpecial Distributions: Discrete uniform, Binomial, Geometric, Poisson,\nExponential, Gamma, Normal distributions. Functions of a Random Variable. Joint\nDistributions: Joint, marginal and conditional distributions, product moments,\ncorrelation, independence of random variables, bivariate normal\ndistribution.Stochastic Processes: Definition and classification of stochastic\nprocesses, Poisson process, birth and death process, applications to queues,\ndiscrete time Markov chains.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\nRead corresponding theory and solve previous year papers to get an idea of pattern.\n\nAttendance is included in TA.\n\nClassroom resources\nVandit Sharma Notes (https://drive.google.com/drive/folders/1-JCRVzWMWxk5es3zfI6MSYFbs29c2Oam) \n\nAdditional Resources\nhttps://drive.google.com/drive/folders/1uqSedr3kXnsKrMJiPOenVIvxJxt-3CkH\n\nhttps://www.youtube.com/playlist?list=PL0iUxoCEznfgGfbHDf0-nshPIo5Whlnd7\n\nhttps://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6\n\nhttps://kupdf.net/download/probability-and-statistics-in-engineering-by-william-w-hines-douglas-c-montgomery-david-m-goldsman-connie-m-borror_58b1f63a6454a7b310b1e994_pdf (Hines and Montogomery)\n\nYou can find the other books in the 1st google drive link",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA20106: Probability And Stochastic Processes\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\n\nProbability: Classical, relative frequency and axiomatic\ndefinitions of probability, addition rule and conditional probability,\nmultiplication rule, total probability, Bayes Theorem and independence.Random\nVariables: Discrete, continuous and mixed random variables, probability mass,\nprobability density and cumulative distribution functions, mathematical\nexpectation, moments, moment generating function, Chebyshev s inequality.\nSpecial Distributions: Discrete uniform, Binomial, Geometric, Poisson,\nExponential, Gamma, Normal distributions. Functions of a Random Variable. Joint\nDistributions: Joint, marginal and conditional distributions, product moments,\ncorrelation, independence of random variables, bivariate normal\ndistribution.Stochastic Processes: Definition and classification of stochastic\nprocesses, Poisson process, birth and death process, applications to queues,\ndiscrete time Markov chains.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\nRead corresponding theory and solve previous year papers to get an idea of pattern.\n\nAttendance is included in TA.\n\nClassroom resources\nVandit Sharma Notes (https://drive.google.com/drive/folders/1-JCRVzWMWxk5es3zfI6MSYFbs29c2Oam)\n\nAdditional Resources\nhttps://drive.google.com/drive/folders/1uqSedr3kXnsKrMJiPOenVIvxJxt-3CkH\n\nhttps://www.youtube.com/playlist?list=PL0iUxoCEznfgGfbHDf0-nshPIo5Whlnd7"
+    },
+    {
+      "index": 1,
+      "text": "MA20106: Probability And Stochastic Processes\n\nResources\nhttps://drive.google.com/drive/folders/1uqSedr3kXnsKrMJiPOenVIvxJxt-3CkH\n\nhttps://www.youtube.com/playlist?list=PL0iUxoCEznfgGfbHDf0-nshPIo5Whlnd7\n\nhttps://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6\n\nhttps://kupdf.net/download/probability-and-statistics-in-engineering-by-william-w-hines-douglas-c-montgomery-david-m-goldsman-connie-m-borror_58b1f63a6454a7b310b1e994_pdf (Hines and Montogomery)\n\nYou can find the other books in the 1st google drive link"
+    }
+  ],
+  "chunk_count": 2
+}

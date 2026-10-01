@@ -1,0 +1,29 @@
+{
+  "title": "CS41105: Symbolic Logic And Automated Reasoning",
+  "url": "https://wiki.metakgp.org/wiki/CS41105:_Symbolic_Logic_And_Automated_Reasoning",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction and motivation: Role of logic in Computer Science, problem\nrepresentation.Basic notions: language, models, interpretations, validity,\nproof, decision problems in logic. decidability.Propositional logic: Syntax,\nsemantics, proof systems, Validity, satisfiability and unsatisfiability,\nsoundness and completeness.Machinasation: truth tables, normal forms, semantic\ntableaux, resolution, proof by contradiction, example.First order predicate\nlogic theory: Quantifiers, first order models, validity and satisfiability,\nsemantic tableaux.Normal forms, skolemization: elimination of quantifiers,\nunification, resolution and various resolution strategies, equality axioms and\nparamodulation. Horn formulas and programs. Prolog as a restricted resolutionbased theorem prover. Undecidability and incompleteness in logic, compactness\nTheorem.Other topics: Introduction to Modal Logic, Temporal Logic and other\nlogics for concurrency. Some exposure to theorem proving systems such as\nProlog, PVS, SPIN, etc.References1.Michael Huth and Mark Ryan, Logic in\nComputer Science: Modelling and Reasoning about Systems, Cambridge University\nPress.2.Arindama Singh, Logics for Computer Science, Prentice Hall of\nIndia.3.C. L. Chang and R. C. T. Lee, Symbolic Logic and Mechanical Theorem\nProving, Academic Press.4.M. Ben-Ari, Mathematical Logic for Computer Science,\nSpringer.5.E. Mendelson, Introduction to Mathematical Logic, Chapman and Hall.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS41105: Symbolic Logic And Automated Reasoning\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS41105: Symbolic Logic And Automated Reasoning\n\nmentioned in ERP\n\nIntroduction and motivation: Role of logic in Computer Science, problem\nrepresentation.Basic notions: language, models, interpretations, validity,\nproof, decision problems in logic. decidability.Propositional logic: Syntax,\nsemantics, proof systems, Validity, satisfiability and unsatisfiability,\nsoundness and completeness.Machinasation: truth tables, normal forms, semantic\ntableaux, resolution, proof by contradiction, example.First order predicate\nlogic theory: Quantifiers, first order models, validity and satisfiability,\nsemantic tableaux.Normal forms, skolemization: elimination of quantifiers,\nunification, resolution and various resolution strategies, equality axioms and\nparamodulation. Horn formulas and programs. Prolog as a restricted resolutionbased theorem prover. Undecidability and incompleteness in logic, compactness\nTheorem.Other topics: Introduction to Modal Logic, Temporal Logic and other\nlogics for concurrency. Some exposure to theorem proving systems such as\nProlog, PVS, SPIN, etc.References1.Michael Huth and Mark Ryan, Logic in\nComputer Science: Modelling and Reasoning about Systems, Cambridge University\nPress.2.Arindama Singh, Logics for Computer Science, Prentice Hall of\nIndia.3.C. L. Chang and R. C. T. Lee, Symbolic Logic and Mechanical Theorem\nProving, Academic Press.4.M. Ben-Ari, Mathematical Logic for Computer Science,\nSpringer.5.E. Mendelson, Introduction to Mathematical Logic, Chapman and Hall."
+    },
+    {
+      "index": 2,
+      "text": "CS41105: Symbolic Logic And Automated Reasoning\n\nSymbolic Logic and Mechanical Theorem\nProving, Academic Press.4.M. Ben-Ari, Mathematical Logic for Computer Science,\nSpringer.5.E. Mendelson, Introduction to Mathematical Logic, Chapman and Hall.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

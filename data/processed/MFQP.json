@@ -1,0 +1,17 @@
+{
+  "title": "MFQP",
+  "url": "https://wiki.metakgp.org/wiki/MFQP",
+  "text": "MFQP was a previous year question papers search tool. It has since been replaced by IQPS. \n\nCurrent status\n\n*This semester we are trying to crowdsource collecting question papers, as the library database of question papers is missing many papers. This is mostly because there is no centralised process for collecting question papers and uploading them.\n*We are also talking to the professors in charge of conducting exams, to figure out if it is possible to obtain question papers directly, but decided not to wait, as it seems easier to just do it ourselves. If we get a large number of uploads, this expanded database should be quite useful for students.\n\nHow it works\n\n*When people send us question papers to email id metakgp-qp@googlegroups.com, we verify that it's legible and correct, convert it to PDF, and host it online.\n*For the question papers available on the library, we crawl the library website to get a list of urls.\n*We build a database of urls to question papers, and tag them with year, subject code, semester, subject name. Most of this process is automated.\n*When a user visits the MFQP search page, they download the entire index of question papers (a few kb gzipped). We use a fast string matching library along with a custom ranking formula to provide instant results.\n*Source code: https://github.com/metakgp/mfqp/ and https://github.com/mfqp-source/",
+  "page_type": "general",
+  "links": [],
+  "categories": [
+    "Projects"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MFQP\n\nMFQP was a previous year question papers search tool. It has since been replaced by IQPS. \n\nCurrent status\n\n*This semester we are trying to crowdsource collecting question papers, as the library database of question papers is missing many papers. This is mostly because there is no centralised process for collecting question papers and uploading them.\n*We are also talking to the professors in charge of conducting exams, to figure out if it is possible to obtain question papers directly, but decided not to wait, as it seems easier to just do it ourselves. If we get a large number of uploads, this expanded database should be quite useful for students.\n\nHow it works\n\n*When people send us question papers to email id metakgp-qp@googlegroups.com, we verify that it's legible and correct, convert it to PDF, and host it online.\n*For the question papers available on the library, we crawl the library website to get a list of urls.\n*We build a database of urls to question papers, and tag them with year, subject code, semester, subject name. Most of this process is automated.\n*When a user visits the MFQP search page, they download the entire index of question papers (a few kb gzipped). We use a fast string matching library along with a custom ranking formula to provide instant results.\n*Source code: https://github.com/metakgp/mfqp/ and https://github.com/mfqp-source/"
+    }
+  ],
+  "chunk_count": 1
+}

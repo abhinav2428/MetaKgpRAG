@@ -1,0 +1,25 @@
+{
+  "title": "EE60032: Analog Signal Processing",
+  "url": "https://wiki.metakgp.org/wiki/EE60032:_Analog_Signal_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBipolar operational amplifiers. MOS diode, active resistor and current mirrors,\nCMOS amplifier and operational amplifier. Approximation functions: Butterworth,\nChebyshev and Bessel approximations, Frequency transformation. Continuous time\nfilter: Active filter; Second order filter: Single amplifier and multiple\namplifier structures and filter parameter sensitivities. Cascade filter.\nSampled data filter: Switched Capacitor filter; Switched capacitor integrator\nand filter. Filter transfer function in z-domain, Filter parameter\nsensitivities with respect to capacitor ratios. Mixed signal circuits:\nIntroduction to Switched current filter, current cell. Simple second order\nstructure. Analog multiplexer, Sample and Hold Circuits, aliasing error and\nanti-aliasing filter, Digital to analog converter (DAC), Analog to Digital\nConverter (ADC), flash, dual slope and multi slope ADC. Over sampling method\nfor A/D and D/A conversion. Delta-Sigma data converter. Noise and noise\nreductions. Interference signals and their reduction: Capacitive, inductive\ncoupling and ground loop interferences and its reduction. Logarithmic and\nexponential amplifiers, analog multipliers and divider, Voltage controlled\noscillator, Phase locked loop. Waveform generator and Oscillator.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60032: Analog Signal Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\nBipolar operational amplifiers. MOS diode, active resistor and current mirrors,\nCMOS amplifier and operational amplifier. Approximation functions: Butterworth,\nChebyshev and Bessel approximations, Frequency transformation. Continuous time\nfilter: Active filter; Second order filter: Single amplifier and multiple\namplifier structures and filter parameter sensitivities. Cascade filter.\nSampled data filter: Switched Capacitor filter; Switched capacitor integrator\nand filter. Filter transfer function in z-domain, Filter parameter\nsensitivities with respect to capacitor ratios. Mixed signal circuits:\nIntroduction to Switched current filter, current cell. Simple second order\nstructure. Analog multiplexer, Sample and Hold Circuits, aliasing error and\nanti-aliasing filter, Digital to analog converter (DAC), Analog to Digital\nConverter (ADC), flash, dual slope and multi slope ADC. Over sampling method\nfor A/D and D/A conversion. Delta-Sigma data converter. Noise and noise\nreductions. Interference signals and their reduction: Capacitive, inductive\ncoupling and ground loop interferences and its reduction. Logarithmic and\nexponential amplifiers, analog multipliers and divider, Voltage controlled\noscillator, Phase locked loop. Waveform generator and Oscillator.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "EE60032: Analog Signal Processing\n\nPhase locked loop. Waveform generator and Oscillator.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

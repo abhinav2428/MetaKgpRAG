@@ -1,0 +1,21 @@
+{
+  "title": "ME60414: Modern Control Theory",
+  "url": "https://wiki.metakgp.org/wiki/ME60414:_Modern_Control_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nReview of classical control concepts, State space and state variables, feedback\nand state variable equations, Controllability, Observability, Solutions in\nstate space, Sampled data and digital systems, Stability in continuous and\ndiscrete time systems, Optimal control concepts - maximum principle, various\nperformance indices, Regulators and filters, Introduction to structural control\n- various types of feed-backs, effects of collocation and non-collocation of\nactuator and sensors, etc., Design of controllers in state space\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60414: Modern Control Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nReview of classical control concepts, State space and state variables, feedback\nand state variable equations, Controllability, Observability, Solutions in\nstate space, Sampled data and digital systems, Stability in continuous and\ndiscrete time systems, Optimal control concepts - maximum principle, various\nperformance indices, Regulators and filters, Introduction to structural control\n- various types of feed-backs, effects of collocation and non-collocation of\nactuator and sensors, etc., Design of controllers in state space\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

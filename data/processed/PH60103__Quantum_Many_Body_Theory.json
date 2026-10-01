@@ -1,0 +1,21 @@
+{
+  "title": "PH60103: Quantum Many Body Theory",
+  "url": "https://wiki.metakgp.org/wiki/PH60103:_Quantum_Many_Body_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nExamples of many body systems, second quantization, electron-phonon\ninteraction, spin systems, photons. Green s function at zero temperature: Smatrix, Wick s theorem, Feynman diagram, Dyson s eqn., phonon and photon Green\ns function. Green s function at finite temperature: Imaginary time Green s\nfunction, Matsubara formalism, frequency summation, linked cluster expansion,\nanalytic continuation. Applications: electrons in the presence of impurities ,\nlinear response, Kubo formulae, correlation functions. Electron gas, KE, direct\nCoulomb , exchange, screening, Thomas-Fermi theory, RPA. Exactly solvable\nmodels, T-matrix, Friedel sum rule, phase shift. Electron-phonon interaction,\nsuperconductivity, liquid Helium.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Physics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Physics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "PH60103: Quantum Many Body Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nExamples of many body systems, second quantization, electron-phonon\ninteraction, spin systems, photons. Green s function at zero temperature: Smatrix, Wick s theorem, Feynman diagram, Dyson s eqn., phonon and photon Green\ns function. Green s function at finite temperature: Imaginary time Green s\nfunction, Matsubara formalism, frequency summation, linked cluster expansion,\nanalytic continuation. Applications: electrons in the presence of impurities ,\nlinear response, Kubo formulae, correlation functions. Electron gas, KE, direct\nCoulomb , exchange, screening, Thomas-Fermi theory, RPA. Exactly solvable\nmodels, T-matrix, Friedel sum rule, phase shift. Electron-phonon interaction,\nsuperconductivity, liquid Helium.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

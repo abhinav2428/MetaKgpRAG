@@ -1,0 +1,21 @@
+{
+  "title": "EC60128: Linear Algebra And Error Control Techniques",
+  "url": "https://wiki.metakgp.org/wiki/EC60128:_Linear_Algebra_And_Error_Control_Techniques",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: NoneGroups, Fields, Galois fields, basic properties,\ncomputational polynomials. Vector spaces, matrices, combinational sets,\nProjective geometry sets, Euclidian geometry sets. ARQ techniques and\nperformance. Block cyclic code theory, weight distribution, shortened cyclic\ncodes, Golay, RS codes, Error trapping and majority logic decoding of cyclic\ncodes. Finite geometry coding. Sequential decoding convolution codes. Burst\nerror correcting block and convolution codes. Product codes, Concatenated\ncodes. Coding and modulation, Comparison of different coding schemes.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60128: Linear Algebra And Error Control Techniques\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: NoneGroups, Fields, Galois fields, basic properties,\ncomputational polynomials. Vector spaces, matrices, combinational sets,\nProjective geometry sets, Euclidian geometry sets. ARQ techniques and\nperformance. Block cyclic code theory, weight distribution, shortened cyclic\ncodes, Golay, RS codes, Error trapping and majority logic decoding of cyclic\ncodes. Finite geometry coding. Sequential decoding convolution codes. Burst\nerror correcting block and convolution codes. Product codes, Concatenated\ncodes. Coding and modulation, Comparison of different coding schemes.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

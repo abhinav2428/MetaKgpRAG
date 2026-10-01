@@ -1,0 +1,21 @@
+{
+  "title": "MT31011: Genetic Alogrithms In Engg., Process Modeling",
+  "url": "https://wiki.metakgp.org/wiki/MT31011:_Genetic_Alogrithms_In_Engg.,_Process_Modeling",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n1. Evolutionary Computation and its historical perspective.2. The notion of\nNon-calculus optimization and itsflexibility and robustness.3. Binary encoded\nSimple Genetic Algorithms and its majoroperators.4. Genetic Algorithms for\nobtaining a sequence.5. Mathematical construction of Genetic Operators.6. Real\nEncoded Genetic Algorithms.7. Multi-modal problems through Genetic\nAlgorithms.8. Handling of Constraints in Genetic Algorithms.9. Multi-objective\nproblems and the concept of Paretooptimality.10. Some recent Multi-objective\nalgorithms.11. Cellular Automata from a genetic perspective.12. Ant Colony\nOptimization.13. Particle Swarm optimization.14. Evolutionary Data-driven\nmodeling.15. Some case studies of scientific and engineering interest.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Metallurgical_&_Materials_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Metallurgical_&_Materials_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MT31011: Genetic Alogrithms In Engg., Process Modeling\n\nSyllabus\nSyllabus mentioned in ERP\n\n1. Evolutionary Computation and its historical perspective.2. The notion of\nNon-calculus optimization and itsflexibility and robustness.3. Binary encoded\nSimple Genetic Algorithms and its majoroperators.4. Genetic Algorithms for\nobtaining a sequence.5. Mathematical construction of Genetic Operators.6. Real\nEncoded Genetic Algorithms.7. Multi-modal problems through Genetic\nAlgorithms.8. Handling of Constraints in Genetic Algorithms.9. Multi-objective\nproblems and the concept of Paretooptimality.10. Some recent Multi-objective\nalgorithms.11. Cellular Automata from a genetic perspective.12. Ant Colony\nOptimization.13. Particle Swarm optimization.14. Evolutionary Data-driven\nmodeling.15. Some case studies of scientific and engineering interest.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,37 @@
+{
+  "title": "EE60015: Computational Methods And Algorithms In Signal Processing",
+  "url": "https://wiki.metakgp.org/wiki/EE60015:_Computational_Methods_And_Algorithms_In_Signal_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nRandom variables, vectors and random processes, Discrete-time stochastic\nprocesses, Linear systems with stationary random inputsVECTOR SPACES AND LINEAR\nALGEBRA:Signal Spaces: Linear transformations: range and nullspace, Projections\nand orthogonal projections, Projection matrices, The projection theorem,\nOrthogonalization of vectors.Linear operators and matrix inverses: The LU\nfactorization, The Cholesky factorization, Unitary matrices and the QR\nfactorizationEigenvalues and Eigenvectors: Eigenvalues and linear systems,\nLinear dependence of eigenvectors, Diagonalization of a Matrix, The Gershgorin\ncircle theorem, Eigenfilters, Moving the eigenvalues around, Noiseless\nconstrained channel capacity, Computation of eigenvalues and eigenvectorsThe\nSingular Value Decomposition: Matrix structure from the SVD, Pseudo-inverses\nand the SVD, Numerically sensitive problems, Rank-reducing approximations:\neffective rankSome special matrices and their applications: Permutation\nmatrices, Toeplitz matrices and some applications, Vandermonde matrices,\nCirculant matrices, Triangular matrices, Properties preserved in matrix\nproductsLinear Signal Model:Synthesis of coloring filter and Analysis of\nwhitening filter, Rational power spectra (AR, MA, ARMA), Relationship between\nfilter parameters and autocorrelation sequences, Lattice-Ladder filter\nrealizationITERATIVE AND RECURSIVE METHODS IN SIGNAL PROCESSINGBasic concepts\nand methods of iterative algorithms: Newton's method, Steepest descent, LMS\nadaptive filtering, Blind source separationIterative algorithms: Iterative\nmethods for computing inverses of matrices, The Jacobi method, Gauss-Seidel\niteration, Successive over-relaxation (SOR), Algebraic reconstruction\ntechniques (ART), Conjugate direction methods, Conjugate gradient methodThe\nExpectation Maximization Algorithm: General Statement of the EM Algorithm,\nHidden Markov Models, The E and M steps, The forward and backward\nprobabilities, Discrete output densities, Gaussian output densities,\nNormalization, Algorithms for HMMs, Spread-Spectrum, Multi-User\nCommunicationMETHODS OF OPTIMIZATION:Shortest path algorithms and dynamic\nprogramming:The Viterbi algorithm, Code for the Viterbi algorithm, Related\nalgorithms: Maximum-likelihood sequence estimation, The Intersymbol\ninterference (ISI) channel, Code division multiple access (CDMA), Convolutional\ndecoding, HMM likelihood analysis and HMM training, Lielikhood, Evaluation,\nDecoding, problem, Dynamic warping.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60015: Computational Methods And Algorithms In Signal Processing\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "EE60015: Computational Methods And Algorithms In Signal Processing\n\nRandom variables, vectors and random processes, Discrete-time stochastic\nprocesses, Linear systems with stationary random inputsVECTOR SPACES AND LINEAR\nALGEBRA:Signal Spaces: Linear transformations: range and nullspace, Projections\nand orthogonal projections, Projection matrices, The projection theorem,\nOrthogonalization of vectors.Linear operators and matrix inverses: The LU\nfactorization, The Cholesky factorization, Unitary matrices and the QR\nfactorizationEigenvalues and Eigenvectors: Eigenvalues and linear systems,\nLinear dependence of eigenvectors, Diagonalization of a Matrix, The Gershgorin\ncircle theorem, Eigenfilters, Moving the eigenvalues around, Noiseless\nconstrained channel capacity, Computation of eigenvalues and eigenvectorsThe\nSingular Value Decomposition: Matrix structure from the SVD, Pseudo-inverses\nand the SVD, Numerically sensitive problems, Rank-reducing approximations:\neffective rankSome special matrices and their applications: Permutation\nmatrices, Toeplitz matrices and some applications, Vandermonde matrices,\nCirculant matrices, Triangular matrices, Properties preserved in matrix\nproductsLinear Signal Model:Synthesis of coloring filter and Analysis of\nwhitening filter, Rational power spectra (AR, MA, ARMA), Relationship between\nfilter parameters and autocorrelation sequences, Lattice-Ladder filter\nrealizationITERATIVE AND RECURSIVE METHODS IN SIGNAL PROCESSINGBasic concepts\nand method"
+    },
+    {
+      "index": 2,
+      "text": "EE60015: Computational Methods And Algorithms In Signal Processing\n\ntra (AR, MA, ARMA), Relationship between\nfilter parameters and autocorrelation sequences, Lattice-Ladder filter\nrealizationITERATIVE AND RECURSIVE METHODS IN SIGNAL PROCESSINGBasic concepts\nand methods of iterative algorithms: Newton's method, Steepest descent, LMS\nadaptive filtering, Blind source separationIterative algorithms: Iterative\nmethods for computing inverses of matrices, The Jacobi method, Gauss-Seidel\niteration, Successive over-relaxation (SOR), Algebraic reconstruction\ntechniques (ART), Conjugate direction methods, Conjugate gradient methodThe\nExpectation Maximization Algorithm: General Statement of the EM Algorithm,\nHidden Markov Models, The E and M steps, The forward and backward\nprobabilities, Discrete output densities, Gaussian output densities,\nNormalization, Algorithms for HMMs, Spread-Spectrum, Multi-User\nCommunicationMETHODS OF OPTIMIZATION:Shortest path algorithms and dynamic\nprogramming:The Viterbi algorithm, Code for the Viterbi algorithm, Related\nalgorithms: Maximum-likelihood sequence estimation, The Intersymbol\ninterference (ISI) channel, Code division multiple access (CDMA), Convolutional\ndecoding, HMM likelihood analysis and HMM training, Lielikhood, Evaluation,\nDecoding, problem, Dynamic warping."
+    },
+    {
+      "index": 3,
+      "text": "EE60015: Computational Methods And Algorithms In Signal Processing\n\namic warping."
+    },
+    {
+      "index": 4,
+      "text": "EE60015: Computational Methods And Algorithms In Signal Processing\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 5
+}

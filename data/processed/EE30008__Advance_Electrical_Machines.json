@@ -1,0 +1,25 @@
+{
+  "title": "EE30008: Advance Electrical Machines",
+  "url": "https://wiki.metakgp.org/wiki/EE30008:_Advance_Electrical_Machines",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\npre requisite: EE21002Transformer: Three winding transformer; Unbalanced\noperation of three phase transformer; Switching-in transients and mechanical\nforces.Electromechanical energy conversion: Field energy- energy and co-energy;\nTorque/force in a singly excited and multiple excited electromechanical systems\nand applications, AC windings.Circuit analysis of electrical machines:\nDevelopment of circuit models from dc machine and synchronous machine.\nImpedance matrix; instantaneous and phasor variables; real-coil and pseudostationary coil, expressions for torque and power, transformation of variables\nwith power invariance, examples; general two-axis machine. Extension of twoaxis models to different machines.D.C machines: Flux and mmf waves; Commutation\nand armature reaction; Dynamic equations, block diagrams and transfer\nfunctions.Induction machines: Deep-bar and double-cage construction; Machine\nequations in stationary reference frame (d-q axis model), dynamic and steady\nstate performance, behavior under asymmetrical supply voltages.Synchronous\nmachines: Winding inductances; Machine equations in rotor reference frame (d-q\naxis model); Sudden three phase short circuit and transient circuit model;\nSteady state operation; Synchronous machine dynamics.Reluctance Machines:\nSynchronous reluctance, stepping motors and switched reluctance machines,\nprinciples of operation and models for operating characteristics. Steady-state\nand dynamic performance.PM machines: Permanent magnet material, Basic analysis\nof magnetic circuit with permanent magnets, Steady-state and dynamic\nperformance of PM synchronous machines and Brushless DC machines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE30008: Advance Electrical Machines\n\nSyllabus\nSyllabus mentioned in ERP\n\npre requisite: EE21002Transformer: Three winding transformer; Unbalanced\noperation of three phase transformer; Switching-in transients and mechanical\nforces.Electromechanical energy conversion: Field energy- energy and co-energy;\nTorque/force in a singly excited and multiple excited electromechanical systems\nand applications, AC windings.Circuit analysis of electrical machines:\nDevelopment of circuit models from dc machine and synchronous machine.\n\nImpedance matrix; instantaneous and phasor variables; real-coil and pseudostationary coil, expressions for torque and power, transformation of variables\nwith power invariance, examples; general two-axis machine."
+    },
+    {
+      "index": 1,
+      "text": "EE30008: Advance Electrical Machines\n\ninstantaneous and phasor variables; real-coil and pseudostationary coil, expressions for torque and power, transformation of variables\nwith power invariance, examples; general two-axis machine.\n\nExtension of twoaxis models to different machines.D.C machines: Flux and mmf waves; Commutation\nand armature reaction; Dynamic equations, block diagrams and transfer\nfunctions.Induction machines: Deep-bar and double-cage construction; Machine\nequations in stationary reference frame (d-q axis model), dynamic and steady\nstate performance, behavior under asymmetrical supply voltages.Synchronous\nmachines: Winding inductances; Machine equations in rotor reference frame (d-q\naxis model); Sudden three phase short circuit and transient circuit model;\nSteady state operation; Synchronous machine dynamics.Reluctance Machines:\nSynchronous reluctance, stepping motors and switched reluctance machines,\nprinciples of operation and models for operating characteristics.\n\nSteady-state\nand dynamic performance.PM machines: Permanent magnet material, Basic analysis\nof magnetic circuit with permanent magnets, Steady-state and dynamic\nperformance of PM synchronous machines and Brushless DC machines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

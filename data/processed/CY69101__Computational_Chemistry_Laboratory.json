@@ -1,0 +1,20 @@
+{
+  "title": "CY69101: Computational Chemistry Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/CY69101:_Computational_Chemistry_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: CY41003, CY40102Use of random numbers to evaluate area under a\ncurve.Application of numerical methods to solve differential equations.Quantum\nchemical calculations for simple molecular systems.Code development to evaluate\npotential energy and force acting on complex molecules in a system.Development\nof a classical MD code for simple monatomic systems.Development of a classical\nMetropolis MC code for simple monatomic systems. Use of various commercially\navailable molecular modeling and simulation software.Books: Computer Simulation\nof Liquids, by M. P. Allen and D. J. Tildesley; Clarendon Press (Oxford).\nUnderstanding Molecular Simulations: From Algorithms to Applications, by D.\nFrenkel and B. Smit (Academic Press); Molecular modeling by A.R. Leach.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemistry"
+  ],
+  "categories": [
+    "Chemistry",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CY69101: Computational Chemistry Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: CY41003, CY40102Use of random numbers to evaluate area under a\ncurve.Application of numerical methods to solve differential equations.Quantum\nchemical calculations for simple molecular systems.Code development to evaluate\npotential energy and force acting on complex molecules in a system.Development\nof a classical MD code for simple monatomic systems.Development of a classical\nMetropolis MC code for simple monatomic systems. Use of various commercially\navailable molecular modeling and simulation software.Books: Computer Simulation\nof Liquids, by M. P. Allen and D. J. Tildesley; Clarendon Press (Oxford).\nUnderstanding Molecular Simulations: From Algorithms to Applications, by D.\nFrenkel and B. Smit (Academic Press); Molecular modeling by A.R. Leach.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}
