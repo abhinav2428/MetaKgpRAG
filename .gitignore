@@ -4,13 +4,16 @@
 .venv/
 venv/
 env/
+ENV/
 
 # =============================================================================
 # Environment & Secrets
 # =============================================================================
 .env
+.env.*
 *.env
 !.env.example
+!.env.sample
 
 # =============================================================================
 # Python
@@ -27,6 +30,7 @@ build/
 .eggs/
 pip-wheel-metadata/
 *.whl
+*.pyc
 
 # =============================================================================
 # Data & Vector Store (auto-generated, large files)
@@ -39,6 +43,9 @@ data/chroma_db/
 *.csv
 *.json
 !config/*.json
+!**/package.json
+!**/tsconfig*.json
+!**/.oxlintrc.json
 
 # =============================================================================
 # Jupyter Notebooks
@@ -53,14 +60,39 @@ logs/
 *.log
 *.tmp
 *.bak
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# =============================================================================
+# Node / Frontend
+# =============================================================================
+node_modules/
+frontend/dist/
+frontend/dist-ssr/
+*.local
+.cache/
+.parcel-cache/
+.turbo/
+.next/
+.nuxt/
+.output/
 
 # =============================================================================
 # IDE & OS
 # =============================================================================
 .vscode/
+!.vscode/extensions.json
 .idea/
 *.swp
 *.swo
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 Thumbs.db
 desktop.ini
 .DS_Store
@@ -73,11 +105,17 @@ desktop.ini
 htmlcov/
 .mypy_cache/
 .ruff_cache/
+coverage/
+*.lcov
 
 # =============================================================================
-# Agent Scratch & Temp Files
+# Misc Scratch & Temp Files
 # =============================================================================
 implementation_plan.md
+implementation_plan_1
 list_models.py
 test_gemini.py
 temp_error.txt
+analyze_chunks.py
+setup_db.py
+ingest.py
