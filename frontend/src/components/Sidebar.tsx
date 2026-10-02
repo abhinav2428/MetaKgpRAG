@@ -79,9 +79,8 @@ function ConvGroup({ label, items, activeId, onSelect, onDelete, collapsed }: {
   );
 }
 
-export default function Sidebar({ conversations, activeId, onSelect, onNew, onDelete, onSignIn }: Props) {
+export default function Sidebar({ conversations, activeId, onSelect, onNew, onDelete, onSignIn, collapsed, setCollapsed }: Props & { collapsed: boolean, setCollapsed: (c: boolean | ((prev: boolean) => boolean)) => void }) {
   const { user, signout } = useAuth();
-  const [collapsed, setCollapsed] = useState(false);
   const { today, week, older } = groupConversations(conversations);
 
   const initials = user?.name
@@ -89,17 +88,21 @@ export default function Sidebar({ conversations, activeId, onSelect, onNew, onDe
     : user?.email?.[0].toUpperCase() ?? 'G';
 
   return (
-    <nav className={`sidebar ${collapsed ? 'collapsed' : ''}`}>
-      {/* Header */}
-      <div className="sidebar-header">
-        <div className="sidebar-logo">
-          <div className="sidebar-logo-icon">G</div>
-          <span className="sidebar-logo-text">GraphMind</span>
+    <>
+      {/* Mobile overlay */}
+      <div className={`sidebar-overlay ${!collapsed ? 'visible' : ''}`} onClick={() => setCollapsed(true)} />
+      
+      <nav className={`sidebar ${collapsed ? 'collapsed' : ''}`}>
+        {/* Header */}
+        <div className="sidebar-header">
+          <div className="sidebar-logo">
+            <div className="sidebar-logo-icon">G</div>
+            <span className="sidebar-logo-text">GraphMind</span>
+          </div>
+          <button className="collapse-btn" onClick={() => setCollapsed(c => !c)}>
+            <IconMenu />
+          </button>
         </div>
-        <button className="collapse-btn" onClick={() => setCollapsed(c => !c)}>
-          <IconMenu />
-        </button>
-      </div>
 
       {/* New chat */}
       <button className="new-chat-btn" onClick={onNew}>
@@ -135,6 +138,7 @@ export default function Sidebar({ conversations, activeId, onSelect, onNew, onDe
           </div>
         )}
       </div>
-    </nav>
+      </nav>
+    </>
   );
 }

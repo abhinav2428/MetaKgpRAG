@@ -28,6 +28,14 @@ export default function App() {
   const [messages, setMessages] = useState<Message[]>([]);
   const [isThinking, setIsThinking] = useState(false);
   const [showAuth, setShowAuth] = useState(false);
+  const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
+
+  // Auto-collapse sidebar on mobile screens by default
+  useEffect(() => {
+    if (window.innerWidth <= 768) {
+      setSidebarCollapsed(true);
+    }
+  }, []);
 
   const bottomRef = useRef<HTMLDivElement>(null);
 
@@ -160,12 +168,19 @@ export default function App() {
         onNew={handleNew}
         onDelete={handleDelete}
         onSignIn={() => setShowAuth(true)}
+        collapsed={sidebarCollapsed}
+        setCollapsed={setSidebarCollapsed}
       />
 
       <div className="main-area">
         {/* Top bar */}
         <div className="topbar">
           <div className="topbar-left">
+            <button className="mobile-menu-btn icon-btn" onClick={() => setSidebarCollapsed(false)}>
+              <svg width="20" height="20" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                <path d="M3 12h18M3 6h18M3 18h18" strokeLinecap="round"/>
+              </svg>
+            </button>
           </div>
           <div className="topbar-right">
             <button className="icon-btn" title="Search"><IconSearch /></button>

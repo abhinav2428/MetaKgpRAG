@@ -859,3 +859,65 @@ a { text-decoration: none; color: inherit; }
   border-color: rgba(0,200,150,0.3);
 }
 .google-icon { width: 18px; height: 18px; }
+
+.mobile-menu-btn {
+  display: none;
+}
+
+/* ── Mobile Responsiveness ────────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .app-layout {
+    position: relative;
+  }
+  
+  .sidebar {
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100vh;
+    z-index: 1000;
+    transform: translateX(0);
+  }
+  
+  .sidebar.collapsed {
+    transform: translateX(-100%);
+    width: var(--sidebar-w);
+  }
+
+  .sidebar-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity var(--transition);
+  }
+
+  .sidebar-overlay.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .mobile-menu-btn {
+    display: flex;
+    margin-right: 12px;
+  }
+
+  .main-area {
+    width: 100%;
+  }
+
+  .suggestions-grid {
+    grid-template-columns: 1fr;
+    padding: 0 16px;
+  }
+
+  .welcome-sub {
+    font-size: 14px;
+    padding: 0 16px;
+  }
+}
