@@ -1,0 +1,21 @@
+{
+  "title": "EC60024: Advanced Optical Communication Systems",
+  "url": "https://wiki.metakgp.org/wiki/EC60024:_Advanced_Optical_Communication_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites:EC61103 Correlation properties and power density spectrum of\nshot noise process; Laser phase noise modeling and Lorentzian power spectrum of\nlasers; Coherent optical communication systems: Homodyne and heterodyne\ndetection schemes, BER analyses - super-quantum and shot noise limits for\nhomodyne PSK, Synchronous and asynchronous FSK, Impact of finite laser\nlinewidth on BER, Polarization control and diversity schemes, Frequency\nalignment schemes; Review of optical amplifiers - Semiconductor amplifiers,\nErbium-doped fibre amplifiers (EDFAs) and Raman amplifiers, Analytical modeling\nof gain saturation in EDFAs, Gain equalization in EDFAs, ASE noise in EDFAs,\nAmplifier cascades, Amplifier spacing penalty; BER analysis of lightpaths in\nWDM backbones in presence of ASE noise and switch crosstalks; Optical duobinary\nmodulation: Spectral efficiency, Basic scheme, BER analysis, Impact of fibre\nnonlinearities; Error detection and correction in optical links: Reed-Solomon\ncodes, Interleaving; Pulse propagation in optical fibres: Propagation of\nchirped Gaussian pulse, Concept of nonlinear polarization, Nonlinear effects on\npulse propagation, Soliton pulse propagation; Optical time division\nmultiplexing techniques; Optical phase-locked loops.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60024: Advanced Optical Communication Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites:EC61103 Correlation properties and power density spectrum of\nshot noise process; Laser phase noise modeling and Lorentzian power spectrum of\nlasers; Coherent optical communication systems: Homodyne and heterodyne\ndetection schemes, BER analyses - super-quantum and shot noise limits for\nhomodyne PSK, Synchronous and asynchronous FSK, Impact of finite laser\nlinewidth on BER, Polarization control and diversity schemes, Frequency\nalignment schemes; Review of optical amplifiers - Semiconductor amplifiers,\nErbium-doped fibre amplifiers (EDFAs) and Raman amplifiers, Analytical modeling\nof gain saturation in EDFAs, Gain equalization in EDFAs, ASE noise in EDFAs,\nAmplifier cascades, Amplifier spacing penalty; BER analysis of lightpaths in\nWDM backbones in presence of ASE noise and switch crosstalks; Optical duobinary\nmodulation: Spectral efficiency, Basic scheme, BER analysis, Impact of fibre\nnonlinearities; Error detection and correction in optical links: Reed-Solomon\ncodes, Interleaving; Pulse propagation in optical fibres: Propagation of\nchirped Gaussian pulse, Concept of nonlinear polarization, Nonlinear effects on\npulse propagation, Soliton pulse propagation; Optical time division\nmultiplexing techniques; Optical phase-locked loops.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

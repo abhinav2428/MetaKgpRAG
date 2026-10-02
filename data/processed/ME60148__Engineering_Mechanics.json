@@ -1,0 +1,24 @@
+{
+  "title": "ME60148: Engineering Mechanics",
+  "url": "https://wiki.metakgp.org/wiki/ME60148:_Engineering_Mechanics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nForce Systems: Moment of a force about a point and about an axis; couple\nmoment; reduction of a force system to a force and a couple. Equilibrium: Free\nbody diagram; equations of equilibrium; problems in two and three dimensions;\nplane frames and trusses.\nFriction: Laws of Coulomb friction; problems involving large and small contact\nsurfaces; square treaded screws; belt friction; rolling resistance. Kinematics\nand Kinetics of particles: Particle dynamics in rectangular coordinates\ncylindrical coordinates and in terms of path variables; central force motion.\nProperties of areas: Moments of inertia and product of inertia of areas, polar\nmoment of inertia, principal axes and principal moments of inertia.\nConcept of stress and strain: Normal stress, shear stress, state of stress at a\npoint, ultimate strength, allowable stress, factor of safety; normal strain,\nshear strain, Hookes law, Poissons ratio, generalized Hookes law; analysis of\naxially loaded members.\nTorsion: Torsion of cylindrical bars, torsional stress and modulus of rigidity\nand deformation.\nFlexural loading : Shear and moment in beams; load, shear and moment\nrelationships; shear and moment diagrams; flexure formula; shear stress in\nbeams; different equation of the elastic curve, deflection of beams.\nTransformation of stress and strain: Transformation of stress and strain,\nprincipal stresses, principal strains, Mohrs circle for stress and strain.\nCombined loading: Axial and torsional; axial and bending; axial, torsional and\nbending.\nColumn: Buckling of slender columns, Euler bucking load for different end\nconditions.\nFluid Mechanics: Pressure, manometers, forces on plane surface, control volume,\nmass conservation, momentum theorem. Bernoullis equation Hagen – Poiseuille\nFlow, Flow of Non-Newtonian fluids in pipes.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60148: Engineering Mechanics\n\nSyllabus\nSyllabus mentioned in ERP\n\nForce Systems: Moment of a force about a point and about an axis; couple\nmoment; reduction of a force system to a force and a couple.\n\nEquilibrium: Free\nbody diagram; equations of equilibrium; problems in two and three dimensions;\nplane frames and trusses.\n\nFriction: Laws of Coulomb friction; problems involving large and small contact\nsurfaces; square treaded screws; belt friction; rolling resistance.\n\nKinematics\nand Kinetics of particles: Particle dynamics in rectangular coordinates\ncylindrical coordinates and in terms of path variables; central force motion.\n\nProperties of areas: Moments of inertia and product of inertia of areas, polar\nmoment of inertia, principal axes and principal moments of inertia.\n\nConcept of stress and strain: Normal stress, shear stress, state of stress at a\npoint, ultimate strength, allowable stress, factor of safety; normal strain,\nshear strain, Hookes law, Poissons ratio, generalized Hookes law; analysis of\naxially loaded members.\n\nTorsion: Torsion of cylindrical bars, torsional stress and modulus of rigidity\nand deformation.\n\nFlexural loading : Shear and moment in beams; load, shear and moment\nrelationships; shear and moment diagrams; flexure formula; shear stress in\nbeams; different equation of the elastic curve, deflection of beams."
+    },
+    {
+      "index": 1,
+      "text": "ME60148: Engineering Mechanics\n\n: Shear and moment in beams; load, shear and moment\nrelationships; shear and moment diagrams; flexure formula; shear stress in\nbeams; different equation of the elastic curve, deflection of beams.\n\nTransformation of stress and strain: Transformation of stress and strain,\nprincipal stresses, principal strains, Mohrs circle for stress and strain.\n\nCombined loading: Axial and torsional; axial and bending; axial, torsional and\nbending.\n\nColumn: Buckling of slender columns, Euler bucking load for different end\nconditions.\n\nFluid Mechanics: Pressure, manometers, forces on plane surface, control volume,\nmass conservation, momentum theorem.\n\nBernoullis equation Hagen – Poiseuille\nFlow, Flow of Non-Newtonian fluids in pipes.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

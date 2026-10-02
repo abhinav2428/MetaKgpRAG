@@ -1,0 +1,25 @@
+{
+  "title": "IE40011: Intelligent Control",
+  "url": "https://wiki.metakgp.org/wiki/IE40011:_Intelligent_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction and motivation. Approaches to intelligent control. Architecture\nfor intelligent control. Symbolic reasoning system, rule-based systems, the AI\napproach. Knowledge representation. Expert systems. Concept of Artificial\nNeural Networks and its basic mathematical model, McCulloch-Pitts neuron model,\nsimple perceptron, Adaline and Madaline, Feed-forward Multilayer Perceptron.\nLearning and Training the neural network. Data Processing: Scaling, Fourier\ntransformation, principal-component analysis and wavelet transformations.\nNetworks: Hopfield network, Self-organizing network and Recurrent network.\nNeural Network based controller Case studies: Identification and control of\nlinear and nonlinear dynamic systems using Matlab-Neural Network toolbox.\nStability analysis of Neural-Network interconnection systems. Genetic\nAlgorithm: Basic concept of Genetic algorithm and detail algorithmic steps,\nadjustment of free parameters. Solution of typical control problems using\ngenetic algorithm. Concept on some other search techniques like tabu search and\nant-colony search techniques for solving optimization problems. Introduction to\ncrisp sets and fuzzy sets, basic fuzzy set operation and approximate reasoning.\nIntroduction to fuzzy logic modeling and control. Fuzzification, inferencing\nand defuzzification. Fuzzy knowledge and rule bases. Fuzzy modeling and control\nschemes for nonlinear systems. Self-organizing fuzzy logic control. Fuzzy logic\ncontrol for nonlinear time-delay system. Implementation of fuzzy logic\ncontroller using Matlab fuzzy-logic toolbox. Stability analysis of fuzzy\ncontrol systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Instrumentation_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Instrumentation_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IE40011: Intelligent Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction and motivation.\n\nApproaches to intelligent control.\n\nArchitecture\nfor intelligent control.\n\nSymbolic reasoning system, rule-based systems, the AI\napproach.\n\nKnowledge representation.\n\nExpert systems.\n\nConcept of Artificial\nNeural Networks and its basic mathematical model, McCulloch-Pitts neuron model,\nsimple perceptron, Adaline and Madaline, Feed-forward Multilayer Perceptron.\n\nLearning and Training the neural network.\n\nData Processing: Scaling, Fourier\ntransformation, principal-component analysis and wavelet transformations.\n\nNetworks: Hopfield network, Self-organizing network and Recurrent network.\n\nNeural Network based controller Case studies: Identification and control of\nlinear and nonlinear dynamic systems using Matlab-Neural Network toolbox.\n\nStability analysis of Neural-Network interconnection systems.\n\nGenetic\nAlgorithm: Basic concept of Genetic algorithm and detail algorithmic steps,\nadjustment of free parameters.\n\nSolution of typical control problems using\ngenetic algorithm.\n\nConcept on some other search techniques like tabu search and\nant-colony search techniques for solving optimization problems.\n\nIntroduction to\ncrisp sets and fuzzy sets, basic fuzzy set operation and approximate reasoning.\n\nIntroduction to fuzzy logic modeling and control.\n\nFuzzification, inferencing\nand defuzzification.\n\nFuzzy knowledge and rule bases.\n\nFuzzy modeling and control\nschemes for nonlinear systems."
+    },
+    {
+      "index": 1,
+      "text": "IE40011: Intelligent Control\n\nto fuzzy logic modeling and control.\n\nFuzzification, inferencing\nand defuzzification.\n\nFuzzy knowledge and rule bases.\n\nFuzzy modeling and control\nschemes for nonlinear systems.\n\nSelf-organizing fuzzy logic control.\n\nFuzzy logic\ncontrol for nonlinear time-delay system.\n\nImplementation of fuzzy logic\ncontroller using Matlab fuzzy-logic toolbox.\n\nStability analysis of fuzzy\ncontrol systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "title": "EC60052: Telecommunication Switching And Networks",
+  "url": "https://wiki.metakgp.org/wiki/EC60052:_Telecommunication_Switching_And_Networks",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC31001 and EC31002 Basic elements of telecommunication\nnetworks: Terminals, transmission and switching; Evolution of telecommunication\nnetworks: Telegraph and telephone, Telephone network hierarchies and\npostdivestitude scenarios, Arrival of digital telephony, Data networks, Arrival\nof Internet, Integration of voice and data-centric services â data as overlay\non voice, voice-over-IP etc.; Telecommunication standards organizations;\nDifferent switching techniques: circuit switching, message switching, packet\nswitching/broadcasting, virtual circuit-switching, traffic considerations;\nQueuing models for packet and circuit switching networks: Brief introduction to\nMarkov process, M/M/1 M/M/1/K, M/M/c/c and M/M/c, Evaluation of delay,\nthroughput and blocking probabilities, Erlang formulas; Evolution of circuit\nswitching: Electro-mechanical - Strowger (step-by-step) and crossbar,\nElectronic switching using stored-program control; Electronic switching\nsystems: space-division switching, multi-stage space switching and non-blocking\narchitectures, blocking probability modeling for multi-stage space switches,\ntime-division switching, two-dimensional switching â STS, TST, TSSST,\nEvaluation of switch complexities, No. 4 ESS; Basic telephone sets and local\nloops; Signaling in telephone networks: Local loop signaling, Inter-exchange\nsignaling, Intra-exchange signaling, Signaling techniques: In-channel\nsignaling, Common-channel signaling (channel associated and nonassociated),\nDTMF signaling, SS7 signaling; Virtual circuit switching: Basic concepts, X.25,\nFrame relay, ATM; Transmission of ATM over SONET/SDH-based fibre backbones;\nDigital subscriber access: ISDN, ADSL, HFC, Passive optical networks; An\noverview of data networks: 7(5)-layer architecture, LANs, WANs, Enterprise\nnetworks; Convergent switching: Evolving scenario.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60052: Telecommunication Switching And Networks\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC31001 and EC31002 Basic elements of telecommunication\nnetworks: Terminals, transmission and switching; Evolution of telecommunication\nnetworks: Telegraph and telephone, Telephone network hierarchies and\npostdivestitude scenarios, Arrival of digital telephony, Data networks, Arrival\nof Internet, Integration of voice and data-centric services â data as overlay\non voice, voice-over-IP etc.; Telecommunication standards organizations;\nDifferent switching techniques: circuit switching, message switching, packet\nswitching/broadcasting, virtual circuit-switching, traffic considerations;\nQueuing models for packet and circuit switching networks: Brief introduction to\nMarkov process, M/M/1 M/M/1/K, M/M/c/c and M/M/c, Evaluation of delay,\nthroughput and blocking probabilities, Erlang formulas; Evolution of circuit\nswitching: Electro-mechanical - Strowger (step-by-step) and crossbar,\nElectronic switching using stored-program control; Electronic switching\nsystems: space-division switching, multi-stage space switching and non-blocking\narchitectures, blocking probability modeling for multi-stage space switches,\ntime-division switching, two-dimensional switching â STS, TST, TSSST,\nEvaluation of switch complexities, No."
+    },
+    {
+      "index": 1,
+      "text": "EC60052: Telecommunication Switching And Networks\n\nnon-blocking\narchitectures, blocking probability modeling for multi-stage space switches,\ntime-division switching, two-dimensional switching â STS, TST, TSSST,\nEvaluation of switch complexities, No.\n\n4 ESS; Basic telephone sets and local\nloops; Signaling in telephone networks: Local loop signaling, Inter-exchange\nsignaling, Intra-exchange signaling, Signaling techniques: In-channel\nsignaling, Common-channel signaling (channel associated and nonassociated),\nDTMF signaling, SS7 signaling; Virtual circuit switching: Basic concepts, X.25,\nFrame relay, ATM; Transmission of ATM over SONET/SDH-based fibre backbones;\nDigital subscriber access: ISDN, ADSL, HFC, Passive optical networks; An\noverview of data networks: 7(5)-layer architecture, LANs, WANs, Enterprise\nnetworks; Convergent switching: Evolving scenario.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

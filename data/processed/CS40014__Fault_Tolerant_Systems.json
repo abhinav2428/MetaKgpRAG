@@ -1,0 +1,21 @@
+{
+  "title": "CS40014: Fault Tolerant Systems",
+  "url": "https://wiki.metakgp.org/wiki/CS40014:_Fault_Tolerant_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to redundancy theory; decision theory in redundant\nsystems.Hardware fault tolerance, redundancy techniques, detection of faults,\nreplication and compression techniques, self-repairing techniques, concentrated\nand distributed voters, models of fault tolerant computing systems, case study.\nFault diagnosis of digital circuits and systems: fault modeling, test\ngeneration, design for testability, signature analysis, built in self test.\nTesting of embedded systems. Software fault tolerance: fault tolerance versus\nfault intolerance, errors and their management strategies, software defense,\nprotective redundancy. Fault recovery techniques. Coding theory: application to\nfault tolerant system design.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40014: Fault Tolerant Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to redundancy theory; decision theory in redundant\nsystems.Hardware fault tolerance, redundancy techniques, detection of faults,\nreplication and compression techniques, self-repairing techniques, concentrated\nand distributed voters, models of fault tolerant computing systems, case study.\nFault diagnosis of digital circuits and systems: fault modeling, test\ngeneration, design for testability, signature analysis, built in self test.\nTesting of embedded systems. Software fault tolerance: fault tolerance versus\nfault intolerance, errors and their management strategies, software defense,\nprotective redundancy. Fault recovery techniques. Coding theory: application to\nfault tolerant system design.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

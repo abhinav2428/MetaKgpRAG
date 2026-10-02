@@ -1,0 +1,21 @@
+{
+  "title": "CH61013: Process Dynamics And Control",
+  "url": "https://wiki.metakgp.org/wiki/CH61013:_Process_Dynamics_And_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite â CH30011 or its equivalentReview of dynamic behavior of linear\nsystems and their control system design. Linear processes with difficult\ndynamics. Nonlinear process dynamics; phase-plane analysis; multiple steadystate and bifurcation behavior; Process Identification; Controller design via\nfrequency response analysis; Direct synthesis and Internal model control\ndesign; Cascade, feed forward and ratio control; Introduction to multivariable\nsystems. Interaction analysis and multiple single loop controller design.\nDesign of multivariable controllers; Controller design for nonlinear systems;\nIntroduction to sampled-data systems; Tools of discrete-time systems analysis;\nDynamic analysis of discrete-time systems; Design of digital controllers;\nIntroduction to model predictive control; Convolution models; Model predictive\ncontrol of MIMO systemsText/Reference Books:1.Process dynamics, modeling and\ncontrol by B. A. Ogunnaike and W. H. Ray.2.Process control: theory and\napplications by J.-P. Corriou.3.Process dynamics: modeling, analysis, and\nsimulation by B. W. Bequette.4.Process dynamics and control by D. E. Seborg, T.\nF. Edgar and D. A. Mellichamp.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH61013: Process Dynamics And Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite â CH30011 or its equivalentReview of dynamic behavior of linear\nsystems and their control system design. Linear processes with difficult\ndynamics. Nonlinear process dynamics; phase-plane analysis; multiple steadystate and bifurcation behavior; Process Identification; Controller design via\nfrequency response analysis; Direct synthesis and Internal model control\ndesign; Cascade, feed forward and ratio control; Introduction to multivariable\nsystems. Interaction analysis and multiple single loop controller design.\nDesign of multivariable controllers; Controller design for nonlinear systems;\nIntroduction to sampled-data systems; Tools of discrete-time systems analysis;\nDynamic analysis of discrete-time systems; Design of digital controllers;\nIntroduction to model predictive control; Convolution models; Model predictive\ncontrol of MIMO systemsText/Reference Books:1.Process dynamics, modeling and\ncontrol by B. A. Ogunnaike and W. H. Ray.2.Process control: theory and\napplications by J.-P. Corriou.3.Process dynamics: modeling, analysis, and\nsimulation by B. W. Bequette.4.Process dynamics and control by D. E. Seborg, T.\nF. Edgar and D. A. Mellichamp.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

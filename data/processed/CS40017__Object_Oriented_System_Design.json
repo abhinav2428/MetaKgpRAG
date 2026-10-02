@@ -1,0 +1,29 @@
+{
+  "title": "CS40017: Object Oriented System Design",
+  "url": "https://wiki.metakgp.org/wiki/CS40017:_Object_Oriented_System_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nThis course will cover object-oriented approach to modeling, problem solving,\nrequirement analysis, system design, system implementation, database design,\nsystem engineering and software engineering.Fundamental concepts of object\noriented programming: Introduction to the principles of object-oriented\nprogramming (classes, objects, messages, encapsulation, inheritance,\npolymorphism, exception handling, and object-oriented containers).Object design\nimplementation in a programming language, e.g., C\nor Java.Object oriented\nanalysis, modeling and design. UML may be introduced. Use cases, use case\ndriven analysis.Structural modeling: classes, relationships, interfaces, class\ndiagrams, and object diagrams, in UML.Behavioral/Functional modeling: use case\ndiagrams, sequence diagrams, in UML.Dynamic modeling: State chartsArchitectural\nmodelingAnalysis patterns, Design patterns.Distributed object model: CORBA and\nCOM / DCOMObject oriented database systems: Object oriented data model, query\nlanguages, storage organization and indexing techniques; object relational\ndatabases.References1.Bertrand Meyer, Object Oriented Software Construction,\nPrentice-Hall.2.Grady Booch, Object Oriented Analysis and Design, AddisonWesley.3.Grady Booch, James Rumbaugh and Ivar Jacobson, Unified Modeling\nLanguage Guide, Addison-Wesley.4.Erich Gamma et al., Design Patterns: Elements\nof Reusable OO Software, Addison-Wesley.5.Michael L. Scott, Programming\nLanguage Pragmatics, Morgan-Kaufmann.6.Kim Bruce, Foundations of Object\nOriented Languages, Prentice-Hall.7.Benjamin C. Pierce, Types and Programming\nLanguages, Prentice-Hall.8.Bjarne Stroustrup, The Design and Evolution of C ,\nAddison-Wesley.9.Bill Venners, Inside the JAVA 2 Virtual Machine, McGraw\nHill.10.James E. Smith and Ravi Nair, Virtual Machines, Elsevier/MorganKaufmann.11.Saba Zamir, Handbook of Object Technology, CRC Press.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40017: Object Oriented System Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nThis course will cover object-oriented approach to modeling, problem solving,\nrequirement analysis, system design, system implementation, database design,\nsystem engineering and software engineering.Fundamental concepts of object\noriented programming: Introduction to the principles of object-oriented\nprogramming (classes, objects, messages, encapsulation, inheritance,\npolymorphism, exception handling, and object-oriented containers).Object design\nimplementation in a programming language, e.g., C\nor Java.Object oriented\nanalysis, modeling and design.\n\nUML may be introduced."
+    },
+    {
+      "index": 1,
+      "text": "CS40017: Object Oriented System Design\n\nexception handling, and object-oriented containers).Object design\nimplementation in a programming language, e.g., C\nor Java.Object oriented\nanalysis, modeling and design.\n\nUML may be introduced.\n\nUse cases, use case\ndriven analysis.Structural modeling: classes, relationships, interfaces, class\ndiagrams, and object diagrams, in UML.Behavioral/Functional modeling: use case\ndiagrams, sequence diagrams, in UML.Dynamic modeling: State chartsArchitectural\nmodelingAnalysis patterns, Design patterns.Distributed object model: CORBA and\nCOM / DCOMObject oriented database systems: Object oriented data model, query\nlanguages, storage organization and indexing techniques; object relational\ndatabases.References1.Bertrand Meyer, Object Oriented Software Construction,\nPrentice-Hall.2.Grady Booch, Object Oriented Analysis and Design, AddisonWesley.3.Grady Booch, James Rumbaugh and Ivar Jacobson, Unified Modeling\nLanguage Guide, Addison-Wesley.4.Erich Gamma et al., Design Patterns: Elements\nof Reusable OO Software, Addison-Wesley.5.Michael L.\n\nScott, Programming\nLanguage Pragmatics, Morgan-Kaufmann.6.Kim Bruce, Foundations of Object\nOriented Languages, Prentice-Hall.7.Benjamin C.\n\nPierce, Types and Programming\nLanguages, Prentice-Hall.8.Bjarne Stroustrup, The Design and Evolution of C ,\nAddison-Wesley.9.Bill Venners, Inside the JAVA 2 Virtual Machine, McGraw\nHill.10.James E."
+    },
+    {
+      "index": 2,
+      "text": "CS40017: Object Oriented System Design\n\nTypes and Programming\nLanguages, Prentice-Hall.8.Bjarne Stroustrup, The Design and Evolution of C ,\nAddison-Wesley.9.Bill Venners, Inside the JAVA 2 Virtual Machine, McGraw\nHill.10.James E.\n\nSmith and Ravi Nair, Virtual Machines, Elsevier/MorganKaufmann.11.Saba Zamir, Handbook of Object Technology, CRC Press.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

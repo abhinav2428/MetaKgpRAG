@@ -1,0 +1,25 @@
+{
+  "title": "ME22004: Dynamics Of Machines",
+  "url": "https://wiki.metakgp.org/wiki/ME22004:_Dynamics_Of_Machines",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite Ã¢ÂÂKinematics of MachinesBasic concepts: Generalized coordinates,\nconstraints and their types, degrees-of-freedom, discrete and continuous\nsystems, conservative and non-conservative forces.\nDiscrete systems:\nEquations of motion: Hamiltons principle and Lagranges equation, considerations\nfor constraints and non-conservative forces. Theory of small oscillations:\nEquation of motion, free response using complex vector representation of\nsolution and transform methods, eigenvalue problem, characteristic equation,\nproperties of inertia and stiffness matrices, concept of normal modes, their\nproperties and expansion theorem, initial value problem, beat phenomenon,\nclassical and non-classical viscous damping, other types of damping, forced\nvibration (undamped and damped) under harmonic and general forcing, frequency\nresponse function, resonance and Q-factor, logarithmic decrement, base excited\nvibration, tuned mass absorber and damper, critical speeds and whirling of\nshafts, field balancing of rigid rotors, Single cylinder engine balancing,\nRaleighs method.\nContinuous systems: Equation of motion for transverse\nvibration of strings, axial vibration of bars, torsional vibration of shafts\nusing Newtonian approach, transverse vibration of beams. Free vibrations and\neigenvalue problem, normal modes, orthogonality and expansion theorem.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n14ME Batch Course Repository",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME22004: Dynamics Of Machines\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite Ã¢ÂÂKinematics of MachinesBasic concepts: Generalized coordinates,\nconstraints and their types, degrees-of-freedom, discrete and continuous\nsystems, conservative and non-conservative forces.\nDiscrete systems:\nEquations of motion: Hamiltons principle and Lagranges equation, considerations\nfor constraints and non-conservative forces. Theory of small oscillations:\nEquation of motion, free response using complex vector representation of\nsolution and transform methods, eigenvalue problem, characteristic equation,\nproperties of inertia and stiffness matrices, concept of normal modes, their\nproperties and expansion theorem, initial value problem, beat phenomenon,\nclassical and non-classical viscous damping, other types of damping, forced\nvibration (undamped and damped) under harmonic and general forcing, frequency\nresponse function, resonance and Q-factor, logarithmic decrement, base excited\nvibration, tuned mass absorber and damper, critical speeds and whirling of\nshafts, field balancing of rigid rotors, Single cylinder engine balancing,\nRaleighs method.\nContinuous systems: Equation of motion for transverse\nvibration of strings, axial vibration of bars, torsional vibration of shafts\nusing Newtonian approach, transverse vibration of beams. Free vibrations and\neigenvalue problem, normal modes, orthogonality and expansion theorem.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper"
+    },
+    {
+      "index": 1,
+      "text": "ME22004: Dynamics Of Machines\n\napproach, transverse vibration of beams. Free vibrations and\neigenvalue problem, normal modes, orthogonality and expansion theorem.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n14ME Batch Course Repository"
+    }
+  ],
+  "chunk_count": 2
+}

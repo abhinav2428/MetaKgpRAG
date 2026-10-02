@@ -1,0 +1,20 @@
+{
+  "title": "MA61016: Advanced Graph Theory And Combinatorics",
+  "url": "https://wiki.metakgp.org/wiki/MA61016:_Advanced_Graph_Theory_And_Combinatorics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Graph Theory and AlgorithmsDefinitions of : Intersection Graphs,\nCircular-arc Graphs, Interval Graphs, Line graphs of bipartite graphs.\nDefinition of perfect graph, Some Definitions and properties, Perfect Graph\nTheorem . Perfect and triangulated graphs. Recognizing Triangulated Graphs,\nGenerating a PEO, Testing an Elimination Scheme, Naive Algorithm, Efficient\nAlgorithm, Evolutionary Trees , Triangulated Graphs as Intersection Graphs,\nProof that Triangulated Graphs are Perfect, Computing the Minimum Fill In.\nChain Graphs, Optimal Linear Arrangement (OLA), Chain Graph Completion (CGC).\nAlgorithms for triangulated graphs and comparability, Characterizations and\nRecognition Algorithms, comparability graphs. Comparability invariants and\nInterval graphs. Temporal reasoning and interval algebras.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61016: Advanced Graph Theory And Combinatorics\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Graph Theory and AlgorithmsDefinitions of : Intersection Graphs,\nCircular-arc Graphs, Interval Graphs, Line graphs of bipartite graphs.\nDefinition of perfect graph, Some Definitions and properties, Perfect Graph\nTheorem . Perfect and triangulated graphs. Recognizing Triangulated Graphs,\nGenerating a PEO, Testing an Elimination Scheme, Naive Algorithm, Efficient\nAlgorithm, Evolutionary Trees , Triangulated Graphs as Intersection Graphs,\nProof that Triangulated Graphs are Perfect, Computing the Minimum Fill In.\nChain Graphs, Optimal Linear Arrangement (OLA), Chain Graph Completion (CGC).\nAlgorithms for triangulated graphs and comparability, Characterizations and\nRecognition Algorithms, comparability graphs. Comparability invariants and\nInterval graphs. Temporal reasoning and interval algebras.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,15 @@
+{
+  "title": "How to import Templates",
+  "url": "https://wiki.metakgp.org/wiki/How_to_import_Templates",
+  "text": "* Go to Wikipedia's Special:Export page and enter the full page names of the template you want to import to metakgp. This is download the template as a xml file.\n* Go to Special:Import and upload the xml downloaded in the previous step.",
+  "page_type": "general",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "How to import Templates\n\n* Go to Wikipedia's Special:Export page and enter the full page names of the template you want to import to metakgp. This is download the template as a xml file.\n* Go to Special:Import and upload the xml downloaded in the previous step."
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MA60002: Data Structure And Algorithm",
+  "url": "https://wiki.metakgp.org/wiki/MA60002:_Data_Structure_And_Algorithm",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming LanguagesStack and queues, Linked list, Direct\naddress tables, Indexing, hash tables, open addressing, trees, Binary search\ntree, height balanced tree, Red-black tree, B-tree. Basic concepts of\nalgorithms, Complexity, Asymptotic notations, Trees: Binary tree, Binary Search\nTree, Tree traversals. Heap as data structure. Basic sorting algorithms:\nselection sort, insertion sort. Greedy algorithms: Coin change problem,\nactivity selection, Minimum Spanning Tree, Single source shortest path,\nknapsack problem. Divide â and â Conquer technique: Merge sort, quick sort.\nSolving Recurrence relations. Dynamic programming: matrix chain multiplication,\nall pair shortest path algorithm. Graph algorithms: Warshall s algorithm, Depth\nFirst Search, Breadth First Search. Branch and Bound technique, Backtracking.\nNP completeness.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA60002: Data Structure And Algorithm\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Programming LanguagesStack and queues, Linked list, Direct\naddress tables, Indexing, hash tables, open addressing, trees, Binary search\ntree, height balanced tree, Red-black tree, B-tree. Basic concepts of\nalgorithms, Complexity, Asymptotic notations, Trees: Binary tree, Binary Search\nTree, Tree traversals. Heap as data structure. Basic sorting algorithms:\nselection sort, insertion sort. Greedy algorithms: Coin change problem,\nactivity selection, Minimum Spanning Tree, Single source shortest path,\nknapsack problem. Divide â and â Conquer technique: Merge sort, quick sort.\nSolving Recurrence relations. Dynamic programming: matrix chain multiplication,\nall pair shortest path algorithm. Graph algorithms: Warshall s algorithm, Depth\nFirst Search, Breadth First Search. Branch and Bound technique, Backtracking.\nNP completeness.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

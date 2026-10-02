@@ -1,0 +1,25 @@
+{
+  "title": "CY60101: Computational Chemistry",
+  "url": "https://wiki.metakgp.org/wiki/CY60101:_Computational_Chemistry",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite : CY41003, CY41002Geometry optimization, Basis set, Frequency\nanalysis, Population analysis, Global and local descriptors.Classical Molecular\nDynamics (MD): Lagrangian, Hamiltonian, and Newtonian equations of motions,\nVarious integration algorithms, Periodic boundary conditions and minimum image\nconvention, Potential truncation and shifted-force potentials, Neighbor list,\nForce calculations, Special methods to handle long range interactions.Classical\nMonte Carlo (MC): Random numbers, Evaluating integrals using random numbers,\nImportance sampling, Metropolis algorithm, Smart MC techniques.Analysis of\nsimulated trajectories: Estimation of various distribution functions and\ntransport properties of simulated model systems.Special techniques for\nsimulation of biomolecules and polymers. Ab-initio computing.Books: Computer\nSimulation of Liquids, by M. P. Allen and D. J. Tildesley; Clarendon Press\n(Oxford). Understanding Molecular Simulations: From Algorithms to Applications,\nby D. Frenkel and B. Smit (Academic Press). Quantum Chemistry: (Ref: Hehre,\nRadom, Schleyer, Pople)\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemistry"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Chemistry",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CY60101: Computational Chemistry\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite : CY41003, CY41002Geometry optimization, Basis set, Frequency\nanalysis, Population analysis, Global and local descriptors.Classical Molecular\nDynamics (MD): Lagrangian, Hamiltonian, and Newtonian equations of motions,\nVarious integration algorithms, Periodic boundary conditions and minimum image\nconvention, Potential truncation and shifted-force potentials, Neighbor list,\nForce calculations, Special methods to handle long range interactions.Classical\nMonte Carlo (MC): Random numbers, Evaluating integrals using random numbers,\nImportance sampling, Metropolis algorithm, Smart MC techniques.Analysis of\nsimulated trajectories: Estimation of various distribution functions and\ntransport properties of simulated model systems.Special techniques for\nsimulation of biomolecules and polymers. Ab-initio computing.Books: Computer\nSimulation of Liquids, by M. P. Allen and D. J. Tildesley; Clarendon Press\n(Oxford). Understanding Molecular Simulations: From Algorithms to Applications,\nby D. Frenkel and B. Smit (Academic Press). Quantum Chemistry: (Ref: Hehre,\nRadom, Schleyer, Pople)\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday"
+    },
+    {
+      "index": 1,
+      "text": "CY60101: Computational Chemistry\n\nDay !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

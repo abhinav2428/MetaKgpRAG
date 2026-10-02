@@ -1,0 +1,25 @@
+{
+  "title": "EE60100: Mixed Signal Circuits And Systems On Chip",
+  "url": "https://wiki.metakgp.org/wiki/EE60100:_Mixed_Signal_Circuits_And_Systems_On_Chip",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nEE60100 Mixed Signal Circuits and Systems on Chip\nL-T-P: 3-1-0 Credits: 4\nPrerequisite: EE60032 Analog Signal\nProcessingCOMPARATORSCharacterization of comparators: Analysis and design of a\ntwo-stage open-loop comparatorAdvanced comparators: hysteresis, auto-zeroing,\npush-pullDigital and high-speed comparator topologiesOPERATIONAL\nTRANSCONDUCTANCE AMPLIFIERSVarious performance characteristics: Differential\ngain, Common mode gain, CMRR, PSRR, offset voltage, ICMR, Output swing, Input\nnoise, UGF, Slew rate, Settling time, Quiescent power consumption etc.Single\nStage OTA Scheme:Telescopic Cascode, Mirrored OTA and Mirrored Cascode OTA,\nFolded Cascode, Single Stage with Enhanced DC gain. Applications of OTA. DATA\nCONVERTERSReview of data conversion techniques and terminologyHigh speed\ndigital to analog conversion: segmentation basedHigh resolution data\nconversion: algorithmic, self-calibrating, etc.Sample and hold amplifiersNoise\nshaping digital to analog conversionSigma delta analog to digital converters\nand their implementationTesting of data convertersSYSTEMS ON CHIP (SOC)\nIntroduction to SOC and IP based Design: Classification of IP Cores Digital\nSubsystem Integration: Buses and Clock distribution\nAnalog Subsystem\nIntegration: DAC, ADC, PLL and high speed I/O Memory Integration: Sense\namplifiers and Logic CircuitsOn Chip Bus: Processor local bus and on-chip\nperipheral bus SOC architectural design: Some case studies (Processor and\nBluetooth)PHYSICAL DESIGN AND FABRICATION ISSUESIntroduction of SOC Design and\nFabrication flowFloorplanning and Layout considerations Fabrication issues in\nSOC Design\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60100: Mixed Signal Circuits And Systems On Chip\n\nSyllabus\nSyllabus mentioned in ERP\n\nEE60100 Mixed Signal Circuits and Systems on Chip\nL-T-P: 3-1-0 Credits: 4\nPrerequisite: EE60032 Analog Signal\nProcessingCOMPARATORSCharacterization of comparators: Analysis and design of a\ntwo-stage open-loop comparatorAdvanced comparators: hysteresis, auto-zeroing,\npush-pullDigital and high-speed comparator topologiesOPERATIONAL\nTRANSCONDUCTANCE AMPLIFIERSVarious performance characteristics: Differential\ngain, Common mode gain, CMRR, PSRR, offset voltage, ICMR, Output swing, Input\nnoise, UGF, Slew rate, Settling time, Quiescent power consumption etc.Single\nStage OTA Scheme:Telescopic Cascode, Mirrored OTA and Mirrored Cascode OTA,\nFolded Cascode, Single Stage with Enhanced DC gain.\n\nApplications of OTA."
+    },
+    {
+      "index": 1,
+      "text": "EE60100: Mixed Signal Circuits And Systems On Chip\n\ntime, Quiescent power consumption etc.Single\nStage OTA Scheme:Telescopic Cascode, Mirrored OTA and Mirrored Cascode OTA,\nFolded Cascode, Single Stage with Enhanced DC gain.\n\nApplications of OTA.\n\nDATA\nCONVERTERSReview of data conversion techniques and terminologyHigh speed\ndigital to analog conversion: segmentation basedHigh resolution data\nconversion: algorithmic, self-calibrating, etc.Sample and hold amplifiersNoise\nshaping digital to analog conversionSigma delta analog to digital converters\nand their implementationTesting of data convertersSYSTEMS ON CHIP (SOC)\nIntroduction to SOC and IP based Design: Classification of IP Cores Digital\nSubsystem Integration: Buses and Clock distribution\nAnalog Subsystem\nIntegration: DAC, ADC, PLL and high speed I/O Memory Integration: Sense\namplifiers and Logic CircuitsOn Chip Bus: Processor local bus and on-chip\nperipheral bus SOC architectural design: Some case studies (Processor and\nBluetooth)PHYSICAL DESIGN AND FABRICATION ISSUESIntroduction of SOC Design and\nFabrication flowFloorplanning and Layout considerations Fabrication issues in\nSOC Design\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

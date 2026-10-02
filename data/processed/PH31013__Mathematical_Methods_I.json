@@ -1,0 +1,25 @@
+{
+  "title": "PH31013: Mathematical Methods I",
+  "url": "https://wiki.metakgp.org/wiki/PH31013:_Mathematical_Methods_I",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nLinear vector spaces: real and complex vector spaces; metric spaces; linear\nOperators; algebra of linear operators; eigenvalues and eigenvectors;\northogonalisation theorem; N-dimensional vector space; tensors and tensor\ncalculus; invariant subspaces, Function spaces, orthogonal polynomials ,\nFourier transform: space of continuous functions; metric properties of the\nspace of continuous functions; Lebesgue integral; the Riesz-Fischer theorem;\nexpansions in orthogonal functions; Hilbert space; Weierstrass theorem;\northogonal polynomials-Rodriguez formula; recurrence relations; differential\nequations satisfied by classical polynomials; Fourier series and Fourier\ntransform, delta function. Complex analysis: Cauchy-Riemann conditions; Cauchy\ns theorem; Taylor series and Laurent series; zeros and isolated singularities\nof analytic functions; Calculus of residues; Multivalued functions and Riemann\nsurfaces; analytic,continuation;meromorphicfunctions. Ordinary differential\nequations, Green s functions, special functions : second order differential\nequations; the Sturm-Liouville problem; Hypergeometric functions; functions\nrelated to them; confluent Hypergeometric functions; functions related to them;\nError and Bessel functions.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Physics"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Physics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "PH31013: Mathematical Methods I\n\nSyllabus\nSyllabus mentioned in ERP\n\nLinear vector spaces: real and complex vector spaces; metric spaces; linear\nOperators; algebra of linear operators; eigenvalues and eigenvectors;\northogonalisation theorem; N-dimensional vector space; tensors and tensor\ncalculus; invariant subspaces, Function spaces, orthogonal polynomials ,\nFourier transform: space of continuous functions; metric properties of the\nspace of continuous functions; Lebesgue integral; the Riesz-Fischer theorem;\nexpansions in orthogonal functions; Hilbert space; Weierstrass theorem;\northogonal polynomials-Rodriguez formula; recurrence relations; differential\nequations satisfied by classical polynomials; Fourier series and Fourier\ntransform, delta function. Complex analysis: Cauchy-Riemann conditions; Cauchy\ns theorem; Taylor series and Laurent series; zeros and isolated singularities\nof analytic functions; Calculus of residues; Multivalued functions and Riemann\nsurfaces; analytic,continuation;meromorphicfunctions. Ordinary differential\nequations, Green s functions, special functions : second order differential\nequations; the Sturm-Liouville problem; Hypergeometric functions; functions\nrelated to them; confluent Hypergeometric functions; functions related to them;\nError and Bessel functions.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "PH31013: Mathematical Methods I\n\nfunctions related to them;\nError and Bessel functions.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

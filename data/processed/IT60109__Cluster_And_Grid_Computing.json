@@ -1,0 +1,20 @@
+{
+  "title": "IT60109: Cluster And Grid Computing",
+  "url": "https://wiki.metakgp.org/wiki/IT60109:_Cluster_And_Grid_Computing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: NoneIntroduction to high performance computing, basic\ndefinitions: cluster, grid, meta-computing, middleware etc., examples of\nrepresentative applications. Programming models: shared memory, message\npassing, peer-to-peer, broker-based. Introduction to PVM and MPI. Architecture\nof cluster-based systems. Issues in cluster design: performance, single-systemimage, fault tolerance, manageability, programmability, load balancing,\nsecurity, storage. Architecture of Grid systems. Grid security infrastructure.\nExamples of Grids: Globus etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Information_Technology"
+  ],
+  "categories": [
+    "Information_Technology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IT60109: Cluster And Grid Computing\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: NoneIntroduction to high performance computing, basic\ndefinitions: cluster, grid, meta-computing, middleware etc., examples of\nrepresentative applications. Programming models: shared memory, message\npassing, peer-to-peer, broker-based. Introduction to PVM and MPI. Architecture\nof cluster-based systems. Issues in cluster design: performance, single-systemimage, fault tolerance, manageability, programmability, load balancing,\nsecurity, storage. Architecture of Grid systems. Grid security infrastructure.\nExamples of Grids: Globus etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

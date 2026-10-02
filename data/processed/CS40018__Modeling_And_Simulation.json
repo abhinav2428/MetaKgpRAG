@@ -1,0 +1,21 @@
+{
+  "title": "CS40018: Modeling And Simulation",
+  "url": "https://wiki.metakgp.org/wiki/CS40018:_Modeling_And_Simulation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nSystem models and role of simulation. Entities, Attributes, States and\nActivities. Types of systems: Deterministic, Stochastic, Continuous and\nDiscrete systems. Steps in simulation studies. Statistical tools and\ntechniques: generation of pseudorandom numbers, random variate generation for\nuniform, Poisson and normal distributions, sampling and estimation, maximum\nlikelihood estimation, confidence intervals and hypothesis testing, stochastic\nprocesses and Markov models. Discrete event simulation languages. Simulation of\ninventory and queuing systems: single and multiserver queues, network of\nqueues. Modeling and performance evaluation of computers and computer\ncommunication networks. Workload characterization. Continuous system simulation\nlanguages, growth and decay models, system dynamics diagrams. Biological and\nSociological system simulation. Verification and validation of simulation\nmodels: input/output validation, sensitivity analysis, performance measures and\ntheir estimation. Case studies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40018: Modeling And Simulation\n\nSyllabus\nSyllabus mentioned in ERP\n\nSystem models and role of simulation. Entities, Attributes, States and\nActivities. Types of systems: Deterministic, Stochastic, Continuous and\nDiscrete systems. Steps in simulation studies. Statistical tools and\ntechniques: generation of pseudorandom numbers, random variate generation for\nuniform, Poisson and normal distributions, sampling and estimation, maximum\nlikelihood estimation, confidence intervals and hypothesis testing, stochastic\nprocesses and Markov models. Discrete event simulation languages. Simulation of\ninventory and queuing systems: single and multiserver queues, network of\nqueues. Modeling and performance evaluation of computers and computer\ncommunication networks. Workload characterization. Continuous system simulation\nlanguages, growth and decay models, system dynamics diagrams. Biological and\nSociological system simulation. Verification and validation of simulation\nmodels: input/output validation, sensitivity analysis, performance measures and\ntheir estimation. Case studies.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "title": "IE30002: Instrumentation Devices-Ii",
+  "url": "https://wiki.metakgp.org/wiki/IE30002:_Instrumentation_Devices-Ii",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPiezoelectric transducers: construction, properties and equivalent circuit,\nCharge amplifier, Measurement of force and vibration. Seismic transducers:\nConstruction and frequency response. Accelerometers: Piezoelectric,\nElectrodynamic and Capacitive type, MEMS capacitive accelerometer. Ultrasonic\ntransducers: Electromechanical equivalent circuit and transfer function of a\npiezoelectric transmitter, natural frequencies, crystal oscillator; Theory of\npropagation of sound in a medium; Reflection, Refraction and Characteristics\nImpedance; Ultrasonic Nondestructive Testing and Imaging techniques. Optical\nsources and detection schemes, Fiber optic sensors. Digital transducers:\nposition and speed sensing.Use of feedback principle in Instrumentation and its\napplications; Elements of pneumatic control systems: Flapper-nozzle amplifier,\nAir relay, Valve positioner, Electropneumatic converter. Control Valves:\nconstruction and characteristics. Hydraulic servomotor. A.C servomotor. Stepper\nmotors: constructions, operations and driving schemes. Introduction to\nProgrammable Logic Controller.Sources of noise and interference and their\nreduction techniques, Grounding and Shielding. Signal transmission: 4-20 mA\ncurrent loops, Serial data communication, Optical fiber links, Wireless\nsensors.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Instrumentation_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Instrumentation_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IE30002: Instrumentation Devices-Ii\n\nSyllabus\nSyllabus mentioned in ERP\n\nPiezoelectric transducers: construction, properties and equivalent circuit,\nCharge amplifier, Measurement of force and vibration. Seismic transducers:\nConstruction and frequency response. Accelerometers: Piezoelectric,\nElectrodynamic and Capacitive type, MEMS capacitive accelerometer. Ultrasonic\ntransducers: Electromechanical equivalent circuit and transfer function of a\npiezoelectric transmitter, natural frequencies, crystal oscillator; Theory of\npropagation of sound in a medium; Reflection, Refraction and Characteristics\nImpedance; Ultrasonic Nondestructive Testing and Imaging techniques. Optical\nsources and detection schemes, Fiber optic sensors. Digital transducers:\nposition and speed sensing.Use of feedback principle in Instrumentation and its\napplications; Elements of pneumatic control systems: Flapper-nozzle amplifier,\nAir relay, Valve positioner, Electropneumatic converter. Control Valves:\nconstruction and characteristics. Hydraulic servomotor. A.C servomotor. Stepper\nmotors: constructions, operations and driving schemes. Introduction to\nProgrammable Logic Controller.Sources of noise and interference and their\nreduction techniques, Grounding and Shielding. Signal transmission: 4-20 mA\ncurrent loops, Serial data communication, Optical fiber links, Wireless\nsensors.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

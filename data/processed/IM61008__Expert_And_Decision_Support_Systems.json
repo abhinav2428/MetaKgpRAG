@@ -1,0 +1,21 @@
+{
+  "title": "IM61008: Expert And Decision Support Systems",
+  "url": "https://wiki.metakgp.org/wiki/IM61008:_Expert_And_Decision_Support_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Information Systems Laboratory Introduction to expert systems:\nHistory, Motivation, State of the art.Propositional Calculus, Predicate\nCalculus (first order), Horn clauses, Prolong, Forward chaining and backward\nchaining, Maintenance of knowledge base, Handling of negation, Closed world\nassumption.Probabilistic reasoning: Bayesian analysis, Certainty factor.\nDempster Schoffer Theory. Truth maintenance systems.Fuzzy expert systems: Fuzzy\nsets, Fuzzy logic.Expert system development tools (VP EXPERT)Decision theory,\nIndividual decision making, Organizational decision making, Concept of decision\nsupport systems (DSS), Group and organizational DSSs, Executive DSSs, Data\ncollection, Database management, Modelling support. BooksÃ¢ÂÂ¢Introduction to\nExpert Systems, Peter Jackson, Addison Wesley, Pearson Education\nAsia.Ã¢ÂÂ¢Decision Support Expert Systems-Management Support Systems, Efrain\nTurban, Macmillan publishing company.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM61008: Expert And Decision Support Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Information Systems Laboratory Introduction to expert systems:\nHistory, Motivation, State of the art.Propositional Calculus, Predicate\nCalculus (first order), Horn clauses, Prolong, Forward chaining and backward\nchaining, Maintenance of knowledge base, Handling of negation, Closed world\nassumption.Probabilistic reasoning: Bayesian analysis, Certainty factor.\nDempster Schoffer Theory. Truth maintenance systems.Fuzzy expert systems: Fuzzy\nsets, Fuzzy logic.Expert system development tools (VP EXPERT)Decision theory,\nIndividual decision making, Organizational decision making, Concept of decision\nsupport systems (DSS), Group and organizational DSSs, Executive DSSs, Data\ncollection, Database management, Modelling support. BooksÃ¢ÂÂ¢Introduction to\nExpert Systems, Peter Jackson, Addison Wesley, Pearson Education\nAsia.Ã¢ÂÂ¢Decision Support Expert Systems-Management Support Systems, Efrain\nTurban, Macmillan publishing company.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

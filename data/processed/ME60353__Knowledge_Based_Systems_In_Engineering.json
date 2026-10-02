@@ -1,0 +1,21 @@
+{
+  "title": "ME60353: Knowledge Based Systems In Engineering",
+  "url": "https://wiki.metakgp.org/wiki/ME60353:_Knowledge_Based_Systems_In_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to expert systems – Definition, Need for expert systems, Methods\nof developing expert system – offline training/learning & on-line\ntraining/learning\nTools for developing expert systems – Hard Computing vs. Soft Computing, Fuzzy\nSet Theory, Fuzzy Logic Controllers (FLC), Neural Network (NN) Controllers –\nback propagation network, SOM, radial basis function networks, recurrent neural\nnetworks etc., Learning/optimisation tools – traditional (direct search and\ngradient based) and non-traditional (genetic algorithms (GAs), simulated\nannealing etc.) techniques. Combined techniques of soft computing – GA-FLC, GANN, NN-FLC, GA-FLC-NN\nSome Applications\n\nConcepts taught in class\n\nStudent Opinion\nContents of these playlists - 1 and 2 is taught in the classes. Watching those videos at 2X will be enough preparation for exam. Just make sure not to make calculation mistakes in exam. This is a good course to take. Less Load. Easy grade scoring. Grading is absolute, just take care of that.\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60353: Knowledge Based Systems In Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to expert systems – Definition, Need for expert systems, Methods\nof developing expert system – offline training/learning & on-line\ntraining/learning\nTools for developing expert systems – Hard Computing vs. Soft Computing, Fuzzy\nSet Theory, Fuzzy Logic Controllers (FLC), Neural Network (NN) Controllers –\nback propagation network, SOM, radial basis function networks, recurrent neural\nnetworks etc., Learning/optimisation tools – traditional (direct search and\ngradient based) and non-traditional (genetic algorithms (GAs), simulated\nannealing etc.) techniques. Combined techniques of soft computing – GA-FLC, GANN, NN-FLC, GA-FLC-NN\nSome Applications\n\nConcepts taught in class\n\nStudent Opinion\nContents of these playlists - 1 and 2 is taught in the classes. Watching those videos at 2X will be enough preparation for exam. Just make sure not to make calculation mistakes in exam. This is a good course to take. Less Load. Easy grade scoring. Grading is absolute, just take care of that.\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,20 @@
+{
+  "title": "MA61041: Computational Algebra",
+  "url": "https://wiki.metakgp.org/wiki/MA61041:_Computational_Algebra",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre requisite: Modern AlgebraInvestigations of groups on computers, coset\nenumeration, some examples using coset enumeration, defining relations for\nsubgroups of finite index of groups with finite presentation, Nielsen\ntransformations, calculation with the elements of a finite group given by\ngenerators and defining relations. Algorithms and programs for the\ndetermination of the automorphism group of a finite group, a computational\nmethod for determining the automorphism group of a finite solvable group,\ncombinatorial construction by computer of the set of all subgroups of a finite\ngroup by composition of partial sets of its subgroups, construction of the\ncharacter table of a finite group from generators and relations, program for\ncalculation of characters and representations of finite groups, program for the\ndrawing of the lattices. Computer algebra programs, GAP. Calculations in rings\ngroup rings and Lie algebras.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61041: Computational Algebra\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre requisite: Modern AlgebraInvestigations of groups on computers, coset\nenumeration, some examples using coset enumeration, defining relations for\nsubgroups of finite index of groups with finite presentation, Nielsen\ntransformations, calculation with the elements of a finite group given by\ngenerators and defining relations. Algorithms and programs for the\ndetermination of the automorphism group of a finite group, a computational\nmethod for determining the automorphism group of a finite solvable group,\ncombinatorial construction by computer of the set of all subgroups of a finite\ngroup by composition of partial sets of its subgroups, construction of the\ncharacter table of a finite group from generators and relations, program for\ncalculation of characters and representations of finite groups, program for the\ndrawing of the lattices. Computer algebra programs, GAP. Calculations in rings\ngroup rings and Lie algebras.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

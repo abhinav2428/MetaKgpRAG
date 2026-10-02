@@ -1,0 +1,24 @@
+{
+  "title": "MA60031: Cryptography And Security Issues",
+  "url": "https://wiki.metakgp.org/wiki/MA60031:_Cryptography_And_Security_Issues",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: Linear algebra, Modern Algebra, Number Theory, Data Structures\nand Algorithms. Some Topics in Elementary Number Theory: divisibility,\nEuclidean and other algorithms relevant to cryptography, Algebraic aspects:\nFinite Fields, Quadratic Residues and reciprocity. Some simple Cryptosystems:\nConcepts and techniques of cryptography and its applications. Cryptographic\nprimitives, including one-way hash functions, Public Key Cryptography: RSA,\nattacks on RSA, ElGamal (signature, encryption), DES, SHA. Diffie-Hellman key\nexchange, Rabin's oblivious transfer, Shamir's 3-pass protocol, Feige-FiatShamir identification, Fiat-Shamir signature, Chaum digital signature, Yao's\nmillionaire problem, computing with encrypted data, secret sharing (Shamir,\nBlakley), Discrete log knapsack: zero-knowledge proof of discrete log, of\nprivate RSA key. Tamper proofing audits trails. Watermarking and digital\nrights. Primality and various methods of Factorization, Authentication, digital\nsignatures, key exchange. Attacks on protocols. Case studies of protocol\nfailures. Dictionary attack, salt, SKEY, SKID. Multiple-key cryptography,\nsecret splitting, time stamping, group signatures, bit commitment, fair coinflipping, mental poker, interactive zero-knowledge proofs and how to make them\nnoninteractive, blind signatures, oblivious transfer, simultaneous contract\nsigning, digital certified mail, simultaneous exchange of secrets, secure\nelectronic voting, secure multiparty computations, anonymous message\nbroadcasting, digital cash. Elliptic Curves and Elliptic Curve Cryptography,\nHyper-elliptic Curve Cryptography.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA60031: Cryptography And Security Issues\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: Linear algebra, Modern Algebra, Number Theory, Data Structures\nand Algorithms.\n\nSome Topics in Elementary Number Theory: divisibility,\nEuclidean and other algorithms relevant to cryptography, Algebraic aspects:\nFinite Fields, Quadratic Residues and reciprocity.\n\nSome simple Cryptosystems:\nConcepts and techniques of cryptography and its applications.\n\nCryptographic\nprimitives, including one-way hash functions, Public Key Cryptography: RSA,\nattacks on RSA, ElGamal (signature, encryption), DES, SHA.\n\nDiffie-Hellman key\nexchange, Rabin's oblivious transfer, Shamir's 3-pass protocol, Feige-FiatShamir identification, Fiat-Shamir signature, Chaum digital signature, Yao's\nmillionaire problem, computing with encrypted data, secret sharing (Shamir,\nBlakley), Discrete log knapsack: zero-knowledge proof of discrete log, of\nprivate RSA key.\n\nTamper proofing audits trails.\n\nWatermarking and digital\nrights.\n\nPrimality and various methods of Factorization, Authentication, digital\nsignatures, key exchange.\n\nAttacks on protocols.\n\nCase studies of protocol\nfailures.\n\nDictionary attack, salt, SKEY, SKID."
+    },
+    {
+      "index": 1,
+      "text": "MA60031: Cryptography And Security Issues\n\nand various methods of Factorization, Authentication, digital\nsignatures, key exchange.\n\nAttacks on protocols.\n\nCase studies of protocol\nfailures.\n\nDictionary attack, salt, SKEY, SKID.\n\nMultiple-key cryptography,\nsecret splitting, time stamping, group signatures, bit commitment, fair coinflipping, mental poker, interactive zero-knowledge proofs and how to make them\nnoninteractive, blind signatures, oblivious transfer, simultaneous contract\nsigning, digital certified mail, simultaneous exchange of secrets, secure\nelectronic voting, secure multiparty computations, anonymous message\nbroadcasting, digital cash.\n\nElliptic Curves and Elliptic Curve Cryptography,\nHyper-elliptic Curve Cryptography.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

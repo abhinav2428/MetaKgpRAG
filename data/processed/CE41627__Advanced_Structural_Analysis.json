@@ -1,0 +1,21 @@
+{
+  "title": "CE41627: Advanced Structural Analysis",
+  "url": "https://wiki.metakgp.org/wiki/CE41627:_Advanced_Structural_Analysis",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction â Background - Concepts of Finite Element â discretisation\ntechniques â Concepts on Weighted Residual and Direct continuum approach.\nDevelopment of Element Library for 1-D Analysis â Concept of Shape function Use of 1-D Elements for Analysis â Local co-ordinate system. Development of\nElement Library for 2-D Analysis â Quadrilateral, Triangular Elements â Local\nCo-ordinate, Jacobian, Isoparametric Elements - Numerical Integration\nTechnique; Application of 2-D Elements for Plane Stress and Plane Strain\nProblems â Stress evaluation â difficulties. Analysis of Axisymmetric Problems;\nPlate bending Problem â Application of different types of Problems; Shell\nElement â Application of Finite Element to Shell Problems, Application Problems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Civil_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Civil_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CE41627: Advanced Structural Analysis\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction â Background - Concepts of Finite Element â discretisation\ntechniques â Concepts on Weighted Residual and Direct continuum approach.\nDevelopment of Element Library for 1-D Analysis â Concept of Shape function Use of 1-D Elements for Analysis â Local co-ordinate system. Development of\nElement Library for 2-D Analysis â Quadrilateral, Triangular Elements â Local\nCo-ordinate, Jacobian, Isoparametric Elements - Numerical Integration\nTechnique; Application of 2-D Elements for Plane Stress and Plane Strain\nProblems â Stress evaluation â difficulties. Analysis of Axisymmetric Problems;\nPlate bending Problem â Application of different types of Problems; Shell\nElement â Application of Finite Element to Shell Problems, Application Problems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

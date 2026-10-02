@@ -1,0 +1,21 @@
+{
+  "title": "EE30016: Dynamics Of Physical Systems",
+  "url": "https://wiki.metakgp.org/wiki/EE30016:_Dynamics_Of_Physical_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nSystem elements: character of inertial, compliant and resistive elements,\nvoltage and current sources; Obtaining differential equations by the Newtonian\nmethod, constraints, the concept of configuration space; Obtaining differential\nequation for electrical circuits using Kirchoffs Laws: mesh current, node\nvoltage, and graph theoretic methods; The Lagrangian formalism, the principle\nof least action, generalized coordinates; Obtaining first order differential\nequations: from Lagrangian equations and by the Hamiltonian method; Obtaining\ndifferential equation through bond graphs; Numerical solution of differential\nequations; Understanding dynamics in the state space: vector fields, local\nlinearization around equilibrium points, analytical solution of linear\ndifferential equations, using eigenvalues and eigenvectors to solve linear\nequations; Dynamics of nonlinear systems: types of stable behaviour:\nequilibrium, limit cycle, quasi-periodic orbit, and chaos; Discrete-time\ndynamics: discretization of continuous-time systems, character of discrete-time\nstate space and possible types of stable behaviour. Mechanical, Thermal and\nother, like biological/economic systems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE30016: Dynamics Of Physical Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nSystem elements: character of inertial, compliant and resistive elements,\nvoltage and current sources; Obtaining differential equations by the Newtonian\nmethod, constraints, the concept of configuration space; Obtaining differential\nequation for electrical circuits using Kirchoffs Laws: mesh current, node\nvoltage, and graph theoretic methods; The Lagrangian formalism, the principle\nof least action, generalized coordinates; Obtaining first order differential\nequations: from Lagrangian equations and by the Hamiltonian method; Obtaining\ndifferential equation through bond graphs; Numerical solution of differential\nequations; Understanding dynamics in the state space: vector fields, local\nlinearization around equilibrium points, analytical solution of linear\ndifferential equations, using eigenvalues and eigenvectors to solve linear\nequations; Dynamics of nonlinear systems: types of stable behaviour:\nequilibrium, limit cycle, quasi-periodic orbit, and chaos; Discrete-time\ndynamics: discretization of continuous-time systems, character of discrete-time\nstate space and possible types of stable behaviour. Mechanical, Thermal and\nother, like biological/economic systems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

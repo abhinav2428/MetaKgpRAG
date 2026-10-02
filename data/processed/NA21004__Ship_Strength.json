@@ -1,0 +1,25 @@
+{
+  "title": "NA21004: Ship Strength",
+  "url": "https://wiki.metakgp.org/wiki/NA21004:_Ship_Strength",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: NoneForces acting on ship structure; Idealization of ship\nstructure as hull girder; Longitudinal bending of hull girder â weight and\nbuoyancy curves; deflection, shear force and bending moment diagrams; Section\nEffect of shear force in bending; Stresses in inclined conditions; modulusBending and shear stresses, Longitudinal strength standards; Analysis of\nbulkheads and decks; Structural discontinuities and stress concentration;\nAnalysis of beam and frame using stiffness method; Introduction to elasticity;\nPlane stress and plate bending problems.\n\n Syllabus(Spring Semester 2017-18) \nHull Girder approximation of a ship, Calculation of BM, SF of a ship hull, Various weight conditions, weight distribution – Biles method, Cole’s method, Huges method, Buoyancy distribution, Loading conditions, sinkage-trim calculation, effect due to waves, Area Moment theorem, method of superposition, example problems with beam, Force based method -Three Moment theorem, problems with multi-span beams, Stiffness based method - Slope deflection method, problems of frames, bulkhead analysis, Moment distribution method for beams and frame, Matrix method for structural analysis (beam and frame), Shear in ship – single cell, multi-cell, Torsion in ship, Introduction to Plate bending\n\nConcepts taught in class\n\nStudent Opinion\nAttend all the classes, syllabus taught in the class is completely different from the aforementioned syllabus.\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Ocean_Engineering_&_Naval_Architecture"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Ocean_Engineering_&_Naval_Architecture",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "NA21004: Ship Strength\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: NoneForces acting on ship structure; Idealization of ship\nstructure as hull girder; Longitudinal bending of hull girder â weight and\nbuoyancy curves; deflection, shear force and bending moment diagrams; Section\nEffect of shear force in bending; Stresses in inclined conditions; modulusBending and shear stresses, Longitudinal strength standards; Analysis of\nbulkheads and decks; Structural discontinuities and stress concentration;\nAnalysis of beam and frame using stiffness method; Introduction to elasticity;\nPlane stress and plate bending problems.\n\nSyllabus(Spring Semester 2017-18) \nHull Girder approximation of a ship, Calculation of BM, SF of a ship hull, Various weight conditions, weight distribution – Biles method, Cole’s method, Huges method, Buoyancy distribution, Loading conditions, sinkage-trim calculation, effect due to waves, Area Moment theorem, method of superposition, example problems with beam, Force based method -Three Moment theorem, problems with multi-span beams, Stiffness based method - Slope deflection method, problems of frames, bulkhead analysis, Moment distribution method for beams and frame, Matrix method for structural analysis (beam and frame), Shear in ship – single cell, multi-cell, Torsion in ship, Introduction to Plate bending\n\nConcepts taught in class"
+    },
+    {
+      "index": 1,
+      "text": "NA21004: Ship Strength\n\nmethod for beams and frame, Matrix method for structural analysis (beam and frame), Shear in ship – single cell, multi-cell, Torsion in ship, Introduction to Plate bending\n\nConcepts taught in class\n\nStudent Opinion\nAttend all the classes, syllabus taught in the class is completely different from the aforementioned syllabus.\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

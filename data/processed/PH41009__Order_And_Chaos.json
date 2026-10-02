@@ -1,0 +1,21 @@
+{
+  "title": "PH41009: Order And Chaos",
+  "url": "https://wiki.metakgp.org/wiki/PH41009:_Order_And_Chaos",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFlows on the line and circle: introduction; fixed points and stability; linear\nstability analysis; classification of linear systems; potentials; physical\nexamples including uniform and nonuniform oscillator; overdamped pendulum.\nFlows in two-dimension: phase plane; phase portraits; existence, uniqueness and\ntopological consequences; index theory; fixed points and linearization; limit\ncycles; Poincare-Benedixon theorem; weakly nonlinear oscillators. Bifurcations:\nsaddle-node bifurcation; transcritical bifurcation; pitchfork bifurcation;\nimperfect bifurcations; Hopf bifurcations; Poincare maps. Chaos and fractals:\nvarious routes; Lorenz equations: simple properties; strange attractor;\nLiapunov exponent; applications of chaos; Cantor set; dimension of self-similar\nfractals; box dimension; correlation dimensions. One-dimensional maps: fixed\npoints; logistic map; numerics and analysis; universality and experiments;\ncomputer based problems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Physics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Physics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "PH41009: Order And Chaos\n\nSyllabus\nSyllabus mentioned in ERP\n\nFlows on the line and circle: introduction; fixed points and stability; linear\nstability analysis; classification of linear systems; potentials; physical\nexamples including uniform and nonuniform oscillator; overdamped pendulum.\nFlows in two-dimension: phase plane; phase portraits; existence, uniqueness and\ntopological consequences; index theory; fixed points and linearization; limit\ncycles; Poincare-Benedixon theorem; weakly nonlinear oscillators. Bifurcations:\nsaddle-node bifurcation; transcritical bifurcation; pitchfork bifurcation;\nimperfect bifurcations; Hopf bifurcations; Poincare maps. Chaos and fractals:\nvarious routes; Lorenz equations: simple properties; strange attractor;\nLiapunov exponent; applications of chaos; Cantor set; dimension of self-similar\nfractals; box dimension; correlation dimensions. One-dimensional maps: fixed\npoints; logistic map; numerics and analysis; universality and experiments;\ncomputer based problems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

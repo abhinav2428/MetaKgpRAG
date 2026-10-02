@@ -1,0 +1,20 @@
+{
+  "title": "EE69014: Real Time Signal Processing Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/EE69014:_Real_Time_Signal_Processing_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n1.Adaptive filter implementation in an embedded platform Filter design,\nSimulation, Hardware implementation, Testing and Verification 2. Real time face\ntracking in an embedded platform Training phase, Implementation , Performance\nevaluation , Redesigning and Rectification 3. Active noise control using 8-bit\nmicrocontroller Design, Simulation , Implementation, Testing and Rectification\n4. Real time implementation of ICA in an embedded platform Design of ICA\nalgorithm, Simulation in PC platform , Hardware Implementation , Testing and\nRectification 5. Implementation of wireless sensor network for monitoring the\nenvironment Study of wireless sensor network(Crossbow), Data acquisition using\nwireless sensor network, Implementing wireless sensor network as a monitor for\nenvironment, Testing and Performance evaluation 6. FFT implementation in an\nembedded platform Design of a 16-point Radix 1.5 FFT, Simulation, Hardware\nImplementation,Testing and Parameter adjustment , Evaluation 7. Adaptive filter\nimplementation in an embedded platform Filter design, Simulation , Hardware\nimplementation , Testing and Verification\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE69014: Real Time Signal Processing Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\n1.Adaptive filter implementation in an embedded platform Filter design,\nSimulation, Hardware implementation, Testing and Verification 2. Real time face\ntracking in an embedded platform Training phase, Implementation , Performance\nevaluation , Redesigning and Rectification 3. Active noise control using 8-bit\nmicrocontroller Design, Simulation , Implementation, Testing and Rectification\n4. Real time implementation of ICA in an embedded platform Design of ICA\nalgorithm, Simulation in PC platform , Hardware Implementation , Testing and\nRectification 5. Implementation of wireless sensor network for monitoring the\nenvironment Study of wireless sensor network(Crossbow), Data acquisition using\nwireless sensor network, Implementing wireless sensor network as a monitor for\nenvironment, Testing and Performance evaluation 6. FFT implementation in an\nembedded platform Design of a 16-point Radix 1.5 FFT, Simulation, Hardware\nImplementation,Testing and Parameter adjustment , Evaluation 7. Adaptive filter\nimplementation in an embedded platform Filter design, Simulation , Hardware\nimplementation , Testing and Verification\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

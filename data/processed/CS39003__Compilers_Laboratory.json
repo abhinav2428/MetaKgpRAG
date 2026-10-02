@@ -1,0 +1,24 @@
+{
+  "title": "CS39003: Compilers Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/CS39003:_Compilers_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nThe aim is to write a compiler for a small language.Familiarity with compiled\ncodes (assembly language) of RISC and CISC machines, writing a scanner,\nwriting a predictive parser for a small language, a small experiment with\nscanner (lex/flex) and parser (yacc/byson) generator (such as translation of\nregular expressions to NFA or the construction of parse tree), writing scannerparse specification for a small language, translation of the language to an\nintermediate form (e.g. three-address code), generation of target code (in\nassembly language). Code improvement (optional).References1.Alfred V. Aho, Ravi\nSethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, AddisonWesley.2.Michael L. Scott, Programming Language Pragmatics, Elsevier.3.Andrew\nW. Appel, Modern Compiler Implementation in C/Java, Cambridge University\nPress.4.Keith D. Cooper and Linda Torczon, Engineering a Compiler,\nElsevier.5.Allen I. Holob, Compiler Design in C, Prentice-Hall.6.Steven S.\nMuchnik, Advanced Compiler Design and Implementation, Elsevier.7.Randy Allen\nand Ken Kennedy, Optimizing Compilers for Modern Architectures,\nElsevier.8.Santanu Chattopadhyay, Compiler Design, Prentice Hall of India Pvt.\nLtd.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nLab Test-1\n\nLab Test-2\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS39003: Compilers Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nThe aim is to write a compiler for a small language.Familiarity with compiled\ncodes (assembly language) of RISC and CISC machines, writing a scanner,\nwriting a predictive parser for a small language, a small experiment with\nscanner (lex/flex) and parser (yacc/byson) generator (such as translation of\nregular expressions to NFA or the construction of parse tree), writing scannerparse specification for a small language, translation of the language to an\nintermediate form (e.g. three-address code), generation of target code (in\nassembly language). Code improvement (optional).References1.Alfred V. Aho, Ravi\nSethi, Jeffrey D. Ullman, Compilers: Principles, Techniques and Tools, AddisonWesley.2.Michael L. Scott, Programming Language Pragmatics, Elsevier.3.Andrew\nW. Appel, Modern Compiler Implementation in C/Java, Cambridge University\nPress.4.Keith D. Cooper and Linda Torczon, Engineering a Compiler,\nElsevier.5.Allen I. Holob, Compiler Design in C, Prentice-Hall.6.Steven S.\nMuchnik, Advanced Compiler Design and Implementation, Elsevier.7.Randy Allen\nand Ken Kennedy, Optimizing Compilers for Modern Architectures,\nElsevier.8.Santanu Chattopadhyay, Compiler Design, Prentice Hall of India Pvt.\nLtd.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nLab Test-1\n\nLab Test-2\n\nTime Table\n\n{| class=\"wikitable \""
+    },
+    {
+      "index": 1,
+      "text": "CS39003: Compilers Laboratory\n\nHall of India Pvt.\nLtd.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nLab Test-1\n\nLab Test-2\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

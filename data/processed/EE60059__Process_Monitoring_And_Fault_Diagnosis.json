@@ -1,0 +1,21 @@
+{
+  "title": "EE60059: Process Monitoring And Fault Diagnosis",
+  "url": "https://wiki.metakgp.org/wiki/EE60059:_Process_Monitoring_And_Fault_Diagnosis",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Managements of sensors and signals - placement of sensors, Choice\nof Status Signals, Alarm\ngeneration\nand management, Direct monitoring of\nfault based on process signals.\nFeature extraction for fault detection -Techniques based on statistical\ntesting, Pattern recognition and neural networks.\nModel-based Fault Detection and Diagnosis Methodologies - Precess Modelling for\nmonitoring and diagnosis; Analytical redundancy technique, State estimation\nand Kalman filtering, Parameter estimation methods.\nKnowledge-Based Fault Detection: Fundamentals of knowledge-based systems, Graph\nbased approach, Fuzzy logic based reasoning, Expert systems for fault\ndetection.\nIllustrative application from areas such as analog and digital circuits,\nAnalytical\ninstruments, Electric\nmotors\nand transformers, Chemical\nplants, Heat exchangers, Power generation plants. Software and hardware tools\nfor monitoring and fault detection.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60059: Process Monitoring And Fault Diagnosis\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: Managements of sensors and signals - placement of sensors, Choice\nof Status Signals, Alarm\ngeneration\nand management, Direct monitoring of\nfault based on process signals.\nFeature extraction for fault detection -Techniques based on statistical\ntesting, Pattern recognition and neural networks.\nModel-based Fault Detection and Diagnosis Methodologies - Precess Modelling for\nmonitoring and diagnosis; Analytical redundancy technique, State estimation\nand Kalman filtering, Parameter estimation methods.\nKnowledge-Based Fault Detection: Fundamentals of knowledge-based systems, Graph\nbased approach, Fuzzy logic based reasoning, Expert systems for fault\ndetection.\nIllustrative application from areas such as analog and digital circuits,\nAnalytical\ninstruments, Electric\nmotors\nand transformers, Chemical\nplants, Heat exchangers, Power generation plants. Software and hardware tools\nfor monitoring and fault detection.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

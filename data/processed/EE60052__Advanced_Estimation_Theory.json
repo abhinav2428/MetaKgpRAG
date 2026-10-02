@@ -1,0 +1,21 @@
+{
+  "title": "EE60052: Advanced Estimation Theory",
+  "url": "https://wiki.metakgp.org/wiki/EE60052:_Advanced_Estimation_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nTime series analysis, auto-correlation function (ACF) and partial ACF; Nonstationary time series models, ARIMA and SARIMA.\nCorrelation and spectral analysis, Cepstrum; Higher order statistics, triple\ncorrelation and bi-spectrum, Non-Guassian signals; Small signal in noise, cross\ncorrelation.\nTransform Method of Signal Processing: Haar, Hadamard, Walsh; Wavelet\ntransformation, sub-band coding, Compression. System identification in the\ncontinuous time domain, product moment functionals (PMFs).\nAdaptive Signal Processing: Echo cancellers, Equalizers; Multi-rate filters,\nQMF.\nMultivariate statistics, Principal component analysis (PCA) and partial least\nsquares (PLS).\nLinear fractional transformation (LFT), non-linear system.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60052: Advanced Estimation Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nTime series analysis, auto-correlation function (ACF) and partial ACF; Nonstationary time series models, ARIMA and SARIMA.\nCorrelation and spectral analysis, Cepstrum; Higher order statistics, triple\ncorrelation and bi-spectrum, Non-Guassian signals; Small signal in noise, cross\ncorrelation.\nTransform Method of Signal Processing: Haar, Hadamard, Walsh; Wavelet\ntransformation, sub-band coding, Compression. System identification in the\ncontinuous time domain, product moment functionals (PMFs).\nAdaptive Signal Processing: Echo cancellers, Equalizers; Multi-rate filters,\nQMF.\nMultivariate statistics, Principal component analysis (PCA) and partial least\nsquares (PLS).\nLinear fractional transformation (LFT), non-linear system.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

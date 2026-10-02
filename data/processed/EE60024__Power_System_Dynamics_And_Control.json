@@ -1,0 +1,21 @@
+{
+  "title": "EE60024: Power System Dynamics And Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60024:_Power_System_Dynamics_And_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic Ideas Modeling of Synchronous machines, excitation systems and GovernorsSteady state, Dynamic and Transient stability. State space formulation of\nsingle and multi-machine models with control equipments. Damping effects of\nFACTS devices. SSR. Application of numerical techniques to multi-machine\ndynamic and transient stability studies. Generation/Frequency Characteristics\nand load frequency characteristics, tie-line bias control, Automatic Generation\nControl, Alert and emergency system operation control. Control of reactive\npower flow: AVR, OLTC Transformers, FACTS, Static var compensators, system loss\nminimization.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60024: Power System Dynamics And Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic Ideas Modeling of Synchronous machines, excitation systems and GovernorsSteady state, Dynamic and Transient stability. State space formulation of\nsingle and multi-machine models with control equipments. Damping effects of\nFACTS devices. SSR. Application of numerical techniques to multi-machine\ndynamic and transient stability studies. Generation/Frequency Characteristics\nand load frequency characteristics, tie-line bias control, Automatic Generation\nControl, Alert and emergency system operation control. Control of reactive\npower flow: AVR, OLTC Transformers, FACTS, Static var compensators, system loss\nminimization.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

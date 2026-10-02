@@ -1,0 +1,21 @@
+{
+  "title": "IE30004: Data Communication Networks",
+  "url": "https://wiki.metakgp.org/wiki/IE30004:_Data_Communication_Networks",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction. Data and signals. Transmission media and impairments. Data\nencoding techniques - Analog and digital encoding of digital data Ã¢ÂÂ ASK,\nPSK, FSK; NRZ, RZ, AMI, Manchester coding. Frequency and time-division\nMultiplexing techniques. Flow control. Error detection and error control\ntechniques. Standards for interfacing to media. Spread spectrum, CDMA. Network\narchitecture for data and computer communications. Circuit switching. Packet\nswitching. Frame relay and ATM. Routing in packet-switched networks -fixed,\nrandom and adaptive approaches. Congestion and its control. Cellular\nnetwork.Local area networks - Common topologies. Medium access control-roundrobin, reservation and contention-based strategies. ALOHA protocol and its\nvariants. CSMA and CSMA/CD protocols. Token-ring protocol. IEEE 802 standards\nfor local area networks. High speed LANs - Fast and Gigabit ethernet, FDDI.\nWireless LANs. Internetworking - Repeaters, bridges, routers and gateways.\nTCP/IP protocol suite. TCP/IP Sockets. Client-Server computing. Name Service.\nApplication protocols over TCP/IP. Network Security.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Instrumentation_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Instrumentation_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IE30004: Data Communication Networks\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction. Data and signals. Transmission media and impairments. Data\nencoding techniques - Analog and digital encoding of digital data Ã¢ÂÂ ASK,\nPSK, FSK; NRZ, RZ, AMI, Manchester coding. Frequency and time-division\nMultiplexing techniques. Flow control. Error detection and error control\ntechniques. Standards for interfacing to media. Spread spectrum, CDMA. Network\narchitecture for data and computer communications. Circuit switching. Packet\nswitching. Frame relay and ATM. Routing in packet-switched networks -fixed,\nrandom and adaptive approaches. Congestion and its control. Cellular\nnetwork.Local area networks - Common topologies. Medium access control-roundrobin, reservation and contention-based strategies. ALOHA protocol and its\nvariants. CSMA and CSMA/CD protocols. Token-ring protocol. IEEE 802 standards\nfor local area networks. High speed LANs - Fast and Gigabit ethernet, FDDI.\nWireless LANs. Internetworking - Repeaters, bridges, routers and gateways.\nTCP/IP protocol suite. TCP/IP Sockets. Client-Server computing. Name Service.\nApplication protocols over TCP/IP. Network Security.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

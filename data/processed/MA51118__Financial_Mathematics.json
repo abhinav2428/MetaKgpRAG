@@ -1,0 +1,25 @@
+{
+  "title": "MA51118: Financial Mathematics",
+  "url": "https://wiki.metakgp.org/wiki/MA51118:_Financial_Mathematics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidIntroduction to Mathematical Finance: Stocks, bonds and\nfinancial markets, Options and forward contracts, Pricing by no-arbitrage\nconsiderations, One-period binomial model, The Fundamental Theorems of Asset\nPricing. The Binomial Asset Pricing Model: Pricing by replication in a multiperiod model, Basic probability, Martingales and European derivative\nsecurities, The risk-neutral probability measure, Derivative securities with\nrandom payment times, Computational issues. The Black-Scholes Formula: Scaling\ntime and model parameters, Using the Central Limit Theorem to obtain a limit,\nThe role of volatility. Brownian motion: Limit of scaled random walks,\nDefinition of Brownian motion, Quadratic variation of Brownian motion, The\nproblem of integration with respect to Brownian motion. Stochastic calculus:\nIto s integral, Ito s formula, Geometric Brownian motion. he Black-Scholes\nFormula Revisited: Evolution of a call option price, Evolution of a replicating\nportfolio, Matching evolutions to price the call. Optimal Consumption and\nInvestment in the Binomial Model: Risk aversion, some decision theory and\nutility functions, Dynamic programming. Optimal Consumption and Investment in\nthe Brownian Motion Model: The Merton problem, The optimal-control formulation\nand the Hamilton-Jacobi-Bellman (HJB) equation, Constant relative risk aversion\n(CRRA) utilities and proportional investment strategies, Further Topics in\nOptimal Consumption and Investment. The martingale method, Complete and\nincomplete markets.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA51118: Financial Mathematics\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidIntroduction to Mathematical Finance: Stocks, bonds and\nfinancial markets, Options and forward contracts, Pricing by no-arbitrage\nconsiderations, One-period binomial model, The Fundamental Theorems of Asset\nPricing.\n\nThe Binomial Asset Pricing Model: Pricing by replication in a multiperiod model, Basic probability, Martingales and European derivative\nsecurities, The risk-neutral probability measure, Derivative securities with\nrandom payment times, Computational issues.\n\nThe Black-Scholes Formula: Scaling\ntime and model parameters, Using the Central Limit Theorem to obtain a limit,\nThe role of volatility.\n\nBrownian motion: Limit of scaled random walks,\nDefinition of Brownian motion, Quadratic variation of Brownian motion, The\nproblem of integration with respect to Brownian motion.\n\nStochastic calculus:\nIto s integral, Ito s formula, Geometric Brownian motion.\n\nhe Black-Scholes\nFormula Revisited: Evolution of a call option price, Evolution of a replicating\nportfolio, Matching evolutions to price the call.\n\nOptimal Consumption and\nInvestment in the Binomial Model: Risk aversion, some decision theory and\nutility functions, Dynamic programming."
+    },
+    {
+      "index": 1,
+      "text": "MA51118: Financial Mathematics\n\nMatching evolutions to price the call.\n\nOptimal Consumption and\nInvestment in the Binomial Model: Risk aversion, some decision theory and\nutility functions, Dynamic programming.\n\nOptimal Consumption and Investment in\nthe Brownian Motion Model: The Merton problem, The optimal-control formulation\nand the Hamilton-Jacobi-Bellman (HJB) equation, Constant relative risk aversion\n(CRRA) utilities and proportional investment strategies, Further Topics in\nOptimal Consumption and Investment.\n\nThe martingale method, Complete and\nincomplete markets.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

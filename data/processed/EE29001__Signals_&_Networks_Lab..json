@@ -1,0 +1,20 @@
+{
+  "title": "EE29001: Signals & Networks Lab.",
+  "url": "https://wiki.metakgp.org/wiki/EE29001:_Signals_&_Networks_Lab.",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nSYLLABUS :1. Experimental verification of Maximum Power Transfer Theorem and Reciprocity\nTheorem\n2. Transient response and frequency response of series R-L-C circuit.\n(i) Determination of âZâ,âYâ, and âABCDâ parameters of linear two port network\n(ii) Determination the driving point impedance of one port network by frequency\nresponse method\n3. Study of active low pass and high pass filters : measurement of frequency\nresponse â attenuation and phase characteristics of Butterworth and Sallen Key\nfilters\n4. Characteristics of a closed loop amplifier : closed loop gain of the\namplifier with feedback\n5. Study of non-linear circuit : rectifier diode and zener diode circuits in\nseries parallel combination\nDetermination of Fourier series coefficients of a periodic signal\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE29001: Signals & Networks Lab.\n\nSyllabus\nSyllabus mentioned in ERP\n\nSYLLABUS :1. Experimental verification of Maximum Power Transfer Theorem and Reciprocity\nTheorem\n2. Transient response and frequency response of series R-L-C circuit.\n(i) Determination of âZâ,âYâ, and âABCDâ parameters of linear two port network\n(ii) Determination the driving point impedance of one port network by frequency\nresponse method\n3. Study of active low pass and high pass filters : measurement of frequency\nresponse â attenuation and phase characteristics of Butterworth and Sallen Key\nfilters\n4. Characteristics of a closed loop amplifier : closed loop gain of the\namplifier with feedback\n5. Study of non-linear circuit : rectifier diode and zener diode circuits in\nseries parallel combination\nDetermination of Fourier series coefficients of a periodic signal\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

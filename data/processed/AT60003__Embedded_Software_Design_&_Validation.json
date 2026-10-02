@@ -1,0 +1,24 @@
+{
+  "title": "AT60003: Embedded Software Design & Validation",
+  "url": "https://wiki.metakgp.org/wiki/AT60003:_Embedded_Software_Design_&_Validation",
+  "text": "Syllabus\n1. Introductory Lecture.\n2. Specification Models for Embedded Systems: Finite State Machine, Concurrent State Machine, Hierarchical State\nMachine/State Charts, Message Sequence Chart, Timed Automata, Hybrid Automata.\n3. Model/Implementation Validation:Temporal Logic,Model Checking, Program verification (using CBMC)\n4. Communication Validation : Protocol Converter Synthesis\n5. HW basics: Basics of Computer Architecture (ISA, Pipeline, Cache), Bus protocols : CAN, Flexray, Sensors,\nADC/DAC\n6. Realtime Operating System Basics: Real time scheduling, Modern RTOS examples and case studies.\n7. Embedded Software Testing and Software Engineering Aspects.\n8. Hardware-software Codesign, Task Mapping, Task Scheduling.\n9. Performance Validation : Timing Analysis of Embedded Software:WCET Analysis of C Programs, Real Time.\nCalculus (RTC) — extra topic (if time permits).\nSyllabus mentioned in ERP\nThe same as above mentioned.\nConcepts taught in class\n\nStudent Opinion\nVery informative course. It starts by talking about Embedded systems and different State Machines with real-life examples. The professors are excellent in their teaching and they are always ready to clarify the doubts even by taking extra classes.\nt was taught by Ayantika Chatterjee and Arnab Sarkar. The course was very interesting and i was never bored to attend a class.\n\nHow to Crack the Paper\nJust following the slides and completing the assignments is more than enough. A text book will be suggested which we can find it easily on the internet and we can get much more information from that.\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Advanced_Technology_Development_Centre"
+  ],
+  "categories": [
+    "Courses",
+    "Advanced_Technology_Development_Centre"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AT60003: Embedded Software Design & Validation\n\nSyllabus\n1. Introductory Lecture.\n2. Specification Models for Embedded Systems: Finite State Machine, Concurrent State Machine, Hierarchical State\nMachine/State Charts, Message Sequence Chart, Timed Automata, Hybrid Automata.\n3. Model/Implementation Validation:Temporal Logic,Model Checking, Program verification (using CBMC)\n4. Communication Validation : Protocol Converter Synthesis\n5. HW basics: Basics of Computer Architecture (ISA, Pipeline, Cache), Bus protocols : CAN, Flexray, Sensors,\nADC/DAC\n6. Realtime Operating System Basics: Real time scheduling, Modern RTOS examples and case studies.\n7. Embedded Software Testing and Software Engineering Aspects.\n8. Hardware-software Codesign, Task Mapping, Task Scheduling.\n9. Performance Validation : Timing Analysis of Embedded Software:WCET Analysis of C Programs, Real Time.\nCalculus (RTC) — extra topic (if time permits).\nSyllabus mentioned in ERP\nThe same as above mentioned.\nConcepts taught in class\n\nStudent Opinion\nVery informative course. It starts by talking about Embedded systems and different State Machines with real-life examples. The professors are excellent in their teaching and they are always ready to clarify the doubts even by taking extra classes.\nt was taught by Ayantika Chatterjee and Arnab Sarkar. The course was very interesting and i was never bored to attend a class."
+    },
+    {
+      "index": 1,
+      "text": "AT60003: Embedded Software Design & Validation\n\nare always ready to clarify the doubts even by taking extra classes.\nt was taught by Ayantika Chatterjee and Arnab Sarkar. The course was very interesting and i was never bored to attend a class.\n\nHow to Crack the Paper\nJust following the slides and completing the assignments is more than enough. A text book will be suggested which we can find it easily on the internet and we can get much more information from that.\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

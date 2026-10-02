@@ -1,0 +1,21 @@
+{
+  "title": "AG60148: Instrumentation And Control In Food Industries",
+  "url": "https://wiki.metakgp.org/wiki/AG60148:_Instrumentation_And_Control_In_Food_Industries",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Review of Laplace Transforms; Zero, first and second order\nresponses of instruments. Motion and Displacement Measurement: Strain gages,\ndifferential transformers, piezolelectric transducers, nozzle flappers.\nPressure Measurement: Manometer dynamics, Bourdon tubes, pressure trtansducers,\nforce balance transducers. Vacuum Measurement: McLeod gage, Knudsen gage,\nthermal conductivity gage, Pirani gage, ionization gage. Force and Torque\nMeasurement: Drawbar dynamometers, octagonal ring transducers, torque\ntransducers. Flow Measurement: Pitot static tube, hot wire anemometer, orifice\nmeter, rotameter, turbine flowmeter. Temperature Measurement: Bimetallic\nthermometers, pressure thermometers, thermocouples, thermopiles, resistance\nthermometers, thermistors, radiation thermometers. Liquid Level Measurement:\nHumidity Measurement; Concept of Biosensors. Control Theories: Proportional,\nintegral and derivative controls, transfer functions, feedback control,\ntransient response, stability criterion, Routh test, root loci, frequency\nresponse, Bode plots, controller tuning; Application in Food Industry. Digital\nControl: Sampling and Z transforms, sampled data control based Systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Agricultural_&_Food_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Agricultural_&_Food_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AG60148: Instrumentation And Control In Food Industries\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: Review of Laplace Transforms; Zero, first and second order\nresponses of instruments. Motion and Displacement Measurement: Strain gages,\ndifferential transformers, piezolelectric transducers, nozzle flappers.\nPressure Measurement: Manometer dynamics, Bourdon tubes, pressure trtansducers,\nforce balance transducers. Vacuum Measurement: McLeod gage, Knudsen gage,\nthermal conductivity gage, Pirani gage, ionization gage. Force and Torque\nMeasurement: Drawbar dynamometers, octagonal ring transducers, torque\ntransducers. Flow Measurement: Pitot static tube, hot wire anemometer, orifice\nmeter, rotameter, turbine flowmeter. Temperature Measurement: Bimetallic\nthermometers, pressure thermometers, thermocouples, thermopiles, resistance\nthermometers, thermistors, radiation thermometers. Liquid Level Measurement:\nHumidity Measurement; Concept of Biosensors. Control Theories: Proportional,\nintegral and derivative controls, transfer functions, feedback control,\ntransient response, stability criterion, Routh test, root loci, frequency\nresponse, Bode plots, controller tuning; Application in Food Industry. Digital\nControl: Sampling and Z transforms, sampled data control based Systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

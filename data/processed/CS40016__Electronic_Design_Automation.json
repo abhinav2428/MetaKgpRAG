@@ -1,0 +1,25 @@
+{
+  "title": "CS40016: Electronic Design Automation",
+  "url": "https://wiki.metakgp.org/wiki/CS40016:_Electronic_Design_Automation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nTwo-level and multi-level logic optimization of combinational circuits, state\nassignment of finite state machines. Technology mapping for FPGAs. Techniques\nfor partitioning, floor planning, placement and routing. Architectural models,\nscheduling, allocation and binding for high-level synthesis.Hardware-software\ncodesign. Test generation, fault simulation, built-in self test, test\nstructures. Verilog and VHDL.References1.R. H. Katz, Contemporary Logic Design,\nAddison-Wesley.2.M. J. S. Smith, Application-Specific Integrated Circuits,\nAddison-Wesley.3.W. Wolf, Modern VLSI Design: Systems on Silicon, Pearson\nEducation.4.J. Bhasker, Verilog VHDL Synthesis: A Practical Primer, B S\nPublications.5.D. D. Gajski, N. D. Dutt, A. C. Wu and A. Y. Yin, High-level\nSynthesis: Introduction to Chip and System Design, Kluwer Academic\nPublishers.6.M. Abramovici, M. A. Breuer and A. D. Friedman, Digital Systems\nTesting and Testable Design, IEEE Press.7.P. Bardell, W. H. McAnney and J.\nSavir, Built-in Test for VLSI: Pseudo-random Techniques, John Wiley and\nSons.8.M. Sarrafzadeh and C. K. Wong, An Introduction to Physical Design,\nMcGraw Hill.9.N. A. Sherwani, Algorithms for VLSI Physical Design Automation,\nKluwer Academic Publishers.10.S. M. Sait and H. Youssef, VLSI Physical Design\nAutomation: Theory and Practice, World Scientific.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40016: Electronic Design Automation\n\nSyllabus\nSyllabus mentioned in ERP\n\nTwo-level and multi-level logic optimization of combinational circuits, state\nassignment of finite state machines. Technology mapping for FPGAs. Techniques\nfor partitioning, floor planning, placement and routing. Architectural models,\nscheduling, allocation and binding for high-level synthesis.Hardware-software\ncodesign. Test generation, fault simulation, built-in self test, test\nstructures. Verilog and VHDL.References1.R. H. Katz, Contemporary Logic Design,\nAddison-Wesley.2.M. J. S. Smith, Application-Specific Integrated Circuits,\nAddison-Wesley.3.W. Wolf, Modern VLSI Design: Systems on Silicon, Pearson\nEducation.4.J. Bhasker, Verilog VHDL Synthesis: A Practical Primer, B S\nPublications.5.D. D. Gajski, N. D. Dutt, A. C. Wu and A. Y. Yin, High-level\nSynthesis: Introduction to Chip and System Design, Kluwer Academic\nPublishers.6.M. Abramovici, M. A. Breuer and A. D. Friedman, Digital Systems\nTesting and Testable Design, IEEE Press.7.P. Bardell, W. H. McAnney and J.\nSavir, Built-in Test for VLSI: Pseudo-random Techniques, John Wiley and\nSons.8.M. Sarrafzadeh and C. K. Wong, An Introduction to Physical Design,\nMcGraw Hill.9.N. A. Sherwani, Algorithms for VLSI Physical Design Automation,\nKluwer Academic Publishers.10.S. M. Sait and H. Youssef, VLSI Physical Design\nAutomation: Theory and Practice, World Scientific.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources"
+    },
+    {
+      "index": 1,
+      "text": "CS40016: Electronic Design Automation\n\nM. Sait and H. Youssef, VLSI Physical Design\nAutomation: Theory and Practice, World Scientific.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

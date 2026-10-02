@@ -1,0 +1,20 @@
+{
+  "title": "EE60110: Advanced Digital Signal Processing",
+  "url": "https://wiki.metakgp.org/wiki/EE60110:_Advanced_Digital_Signal_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n(Digital Signal Processing (18615) is the prerequisite for the\nsubject)Statistical Signal Processing: Method of least squares (LS). Recursive\nLS. Consistency of estimates. Observer, full and reduced order. Kalman filter.\nParameter estimation. Nonparametric Estimation: Correlation and spectral\nanalysis. Cepstrum.Yule-Walker equation. Singular Value Decomposition (SVD).\nHigher order statistics, triple correlation and bi-spectrum.Transform Method of\nSignal Processing: Haar, Hadamard and Walsh transform. Wavelet transformation,\nsub-band coding. Image analysis, compression. Adaptive Signal Processing: Voice\nband signal, signature analysis, speech identification. Voice models. Lattice\nstructure. Echo cancellers. Equalizers. Multi-rate filters. QMF. Fuzzy Signals:\nSignal description. Network implementation. Neuro-fuzzy processing of signals.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60110: Advanced Digital Signal Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\n(Digital Signal Processing (18615) is the prerequisite for the\nsubject)Statistical Signal Processing: Method of least squares (LS). Recursive\nLS. Consistency of estimates. Observer, full and reduced order. Kalman filter.\nParameter estimation. Nonparametric Estimation: Correlation and spectral\nanalysis. Cepstrum.Yule-Walker equation. Singular Value Decomposition (SVD).\nHigher order statistics, triple correlation and bi-spectrum.Transform Method of\nSignal Processing: Haar, Hadamard and Walsh transform. Wavelet transformation,\nsub-band coding. Image analysis, compression. Adaptive Signal Processing: Voice\nband signal, signature analysis, speech identification. Voice models. Lattice\nstructure. Echo cancellers. Equalizers. Multi-rate filters. QMF. Fuzzy Signals:\nSignal description. Network implementation. Neuro-fuzzy processing of signals.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

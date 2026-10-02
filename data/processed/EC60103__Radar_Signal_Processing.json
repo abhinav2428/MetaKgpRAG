@@ -1,0 +1,21 @@
+{
+  "title": "EC60103: Radar Signal Processing",
+  "url": "https://wiki.metakgp.org/wiki/EC60103:_Radar_Signal_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21004Analysis of discrete time signal, sampling theorem,\nestimation of frequency content in a signal, discrete Fourier transforms,\nrandom discrete signal analysis. Review of probability, auto and cross\ncorrelation, power spectral density, cross spectra. Spectral analysis of random\nsignals, sampling autocorrelation function, window function, spectral\nestimates, parametric and non parametric estimates, detection of signals in\nnoise, optimum detection algorithms, minimum probability of error, NeymanPearson criteria for radar application to air traffic control, radar sub\noptimum processor, detection of variable amplitude signals, matched filters,\ndetection of random signal and estimation of signals in noise, Linear mean\nsquare estimation, Bayes estimator, maximum likelihood estimation of parameters\nof linear systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60103: Radar Signal Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21004Analysis of discrete time signal, sampling theorem,\nestimation of frequency content in a signal, discrete Fourier transforms,\nrandom discrete signal analysis. Review of probability, auto and cross\ncorrelation, power spectral density, cross spectra. Spectral analysis of random\nsignals, sampling autocorrelation function, window function, spectral\nestimates, parametric and non parametric estimates, detection of signals in\nnoise, optimum detection algorithms, minimum probability of error, NeymanPearson criteria for radar application to air traffic control, radar sub\noptimum processor, detection of variable amplitude signals, matched filters,\ndetection of random signal and estimation of signals in noise, Linear mean\nsquare estimation, Bayes estimator, maximum likelihood estimation of parameters\nof linear systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

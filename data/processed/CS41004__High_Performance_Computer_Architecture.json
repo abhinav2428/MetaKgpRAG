@@ -1,0 +1,25 @@
+{
+  "title": "CS41004: High Performance Computer Architecture",
+  "url": "https://wiki.metakgp.org/wiki/CS41004:_High_Performance_Computer_Architecture",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: review of basic computer architecture, quantitative techniques in\ncomputer design, measuring and reporting performance. CISC and RISC processors.\nPipelining: Basic concepts, instruction and arithmetic pipeline, data hazards,\ncontrol hazards, and structural hazards, techniques for handling hazards.\nException handling. Pipeline optimization techniques. Compiler techniques for\nimproving performance. Hierarchical memory technology: Inclusion, Coherence and\nlocality properties; Cache memory organizations, Techniques for reducing cache\nmisses; Virtual memory organization, mapping and management techniques, memory\nreplacement policies. Instruction-level parallelism: basic concepts, techniques\nfor increasing ILP, superscalar, super-pipelined and VLIW processor\narchitectures. Array and vector processors. Multiprocessor architecture:\ntaxonomy of parallel architectures. Centralized shared-memory architecture:\nsynchronization, memory consistency, interconnection networks. Distributed\nshared-memory architecture. Cluster computers. Non von Neumann architectures:\ndata flow computers, reduction computer architectures, systolic\narchitectures.References1.John L. Hennessy and David A. Patterson, Computer\nArchitecture: A Quantitative Approach, Morgan Kaufmann.2.John Paul Shen and\nMikko H. Lipasti, Modern Processor Design: Fundamentals of Superscalar\nProcessors, Tata McGraw-Hill.3.M. J. Flynn, Computer Architecture: Pipelined\nand Parallel Processor Design, Narosa Publishing House.4.Kai Hwang, Advanced\nComputer Architecture: Parallelism, Scalability, Programmability, McGraw-Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS41004: High Performance Computer Architecture\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: review of basic computer architecture, quantitative techniques in\ncomputer design, measuring and reporting performance.\n\nCISC and RISC processors.\n\nPipelining: Basic concepts, instruction and arithmetic pipeline, data hazards,\ncontrol hazards, and structural hazards, techniques for handling hazards.\n\nException handling.\n\nPipeline optimization techniques.\n\nCompiler techniques for\nimproving performance.\n\nHierarchical memory technology: Inclusion, Coherence and\nlocality properties; Cache memory organizations, Techniques for reducing cache\nmisses; Virtual memory organization, mapping and management techniques, memory\nreplacement policies.\n\nInstruction-level parallelism: basic concepts, techniques\nfor increasing ILP, superscalar, super-pipelined and VLIW processor\narchitectures.\n\nArray and vector processors.\n\nMultiprocessor architecture:\ntaxonomy of parallel architectures.\n\nCentralized shared-memory architecture:\nsynchronization, memory consistency, interconnection networks.\n\nDistributed\nshared-memory architecture.\n\nCluster computers.\n\nNon von Neumann architectures:\ndata flow computers, reduction computer architectures, systolic\narchitectures.References1.John L.\n\nHennessy and David A.\n\nPatterson, Computer\nArchitecture: A Quantitative Approach, Morgan Kaufmann.2.John Paul Shen and\nMikko H.\n\nLipasti, Modern Processor Design: Fundamentals of Superscalar\nProcessors, Tata McGraw-Hill.3.M."
+    },
+    {
+      "index": 1,
+      "text": "CS41004: High Performance Computer Architecture\n\nComputer\nArchitecture: A Quantitative Approach, Morgan Kaufmann.2.John Paul Shen and\nMikko H.\n\nLipasti, Modern Processor Design: Fundamentals of Superscalar\nProcessors, Tata McGraw-Hill.3.M.\n\nJ.\n\nFlynn, Computer Architecture: Pipelined\nand Parallel Processor Design, Narosa Publishing House.4.Kai Hwang, Advanced\nComputer Architecture: Parallelism, Scalability, Programmability, McGraw-Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

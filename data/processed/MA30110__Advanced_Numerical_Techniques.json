@@ -1,0 +1,21 @@
+{
+  "title": "MA30110: Advanced Numerical Techniques",
+  "url": "https://wiki.metakgp.org/wiki/MA30110:_Advanced_Numerical_Techniques",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nMA 41005 Advanced Numerical Techniques\n(3-1-0\n4)Prerequisite:\nvoidRevision of IVP, single-step and multi-step methods. System of first order\nODE, higher order IVPs. Numerical solutions of BVP - Linear BVP, finite\ndifference methods, shooting methods, stability, error and convergence\nanalysis, non linear BVP, higher order BVP.\nClassification of PDEs, Finite\ndifference approximations to partial derivatives, convergence and stability\nanalysis. Explicit and Implicit schemes - Crank-Nicolson scheme, tri-diagonal\nsystem, Laplace equation using standard five point formula and diagonal five\npoint formula. ADI scheme, hyperbolic equation, explicit scheme, method of\ncharacteristics. Solution of one dimensional heat conduction equation by\nSchmidt and Crank Nicolson methods. Solution of wave equation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA30110: Advanced Numerical Techniques\n\nSyllabus\nSyllabus mentioned in ERP\n\nMA 41005 Advanced Numerical Techniques\n(3-1-0\n4)Prerequisite:\nvoidRevision of IVP, single-step and multi-step methods. System of first order\nODE, higher order IVPs. Numerical solutions of BVP - Linear BVP, finite\ndifference methods, shooting methods, stability, error and convergence\nanalysis, non linear BVP, higher order BVP.\nClassification of PDEs, Finite\ndifference approximations to partial derivatives, convergence and stability\nanalysis. Explicit and Implicit schemes - Crank-Nicolson scheme, tri-diagonal\nsystem, Laplace equation using standard five point formula and diagonal five\npoint formula. ADI scheme, hyperbolic equation, explicit scheme, method of\ncharacteristics. Solution of one dimensional heat conduction equation by\nSchmidt and Crank Nicolson methods. Solution of wave equation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

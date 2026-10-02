@@ -1,0 +1,21 @@
+{
+  "title": "CS60086: Selected Topics In Algorithms",
+  "url": "https://wiki.metakgp.org/wiki/CS60086:_Selected_Topics_In_Algorithms",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nThe objective of this course is to familiarize students with some contemporary\nresearch in the area of algorithm design and analysis. The treatment will be\ntheoretical with emphasis on problem solving and will be primality assignments\nbased.\n•Models of computation and efficiency: Searching faster than O(log n), sorting\nfaster than O(n log n).\n•Randomized algorithms in graphs and geometry: The impact of using\nrandomization for designing algorithms that are simpler and often more\nefficient than the deterministic counterparts for several fundamental problems\nlike MST, mincuts, spanners, convex hulls, triangulations, etc. Typically\nanalysis is often harder than design.\n•Approximation algorithms: A set of rapidly evolving techniques that lead to\nprovable approximation guarantees for hard optimization problems within\npolynomial running times. Unlike other communities dealing with the same\nproblems the emphasis here is on provability of general instances and goes\nhand-in-hand with the \"hardness of approximation\" theory.\nEach of the topics on their own could be easily a full semester course, so\ndepending on the class response, we may pick and choose from the above list of\ntopics.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60086: Selected Topics In Algorithms\n\nSyllabus\nSyllabus mentioned in ERP\n\nThe objective of this course is to familiarize students with some contemporary\nresearch in the area of algorithm design and analysis. The treatment will be\ntheoretical with emphasis on problem solving and will be primality assignments\nbased.\n•Models of computation and efficiency: Searching faster than O(log n), sorting\nfaster than O(n log n).\n•Randomized algorithms in graphs and geometry: The impact of using\nrandomization for designing algorithms that are simpler and often more\nefficient than the deterministic counterparts for several fundamental problems\nlike MST, mincuts, spanners, convex hulls, triangulations, etc. Typically\nanalysis is often harder than design.\n•Approximation algorithms: A set of rapidly evolving techniques that lead to\nprovable approximation guarantees for hard optimization problems within\npolynomial running times. Unlike other communities dealing with the same\nproblems the emphasis here is on provability of general instances and goes\nhand-in-hand with the \"hardness of approximation\" theory.\nEach of the topics on their own could be easily a full semester course, so\ndepending on the class response, we may pick and choose from the above list of\ntopics.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

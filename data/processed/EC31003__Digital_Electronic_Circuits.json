@@ -1,0 +1,21 @@
+{
+  "title": "EC31003: Digital Electronic Circuits",
+  "url": "https://wiki.metakgp.org/wiki/EC31003:_Digital_Electronic_Circuits",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21002 Switching algebra. Minimizing functions using maps,\nMinimization using QM method, Different logic families: TTL, ECL, I2L. NMOS,\nCMOS. Pass transistor logic. Combinational logic circuits: adders/subtractors,\nfast adder, magnitude comparator, multiplexer demultiplexers, encoders,\ndecoders, ROMs, PLAs etc. Sequential logic circuits: flip flops and latches,\nshifters, counters. Finite state machine â state transition diagrams and state\ntransition tables. HDL implementation. Asynchronous sequential Logic. Memory\nelements: ROM, PROM, RAM-SRAM, DRAM. Case studies: a simple computer, RTL â\nmicro-instruction, instruction decoders timing and controller circuits, data\npath unit.H\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC31003: Digital Electronic Circuits\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21002 Switching algebra. Minimizing functions using maps,\nMinimization using QM method, Different logic families: TTL, ECL, I2L. NMOS,\nCMOS. Pass transistor logic. Combinational logic circuits: adders/subtractors,\nfast adder, magnitude comparator, multiplexer demultiplexers, encoders,\ndecoders, ROMs, PLAs etc. Sequential logic circuits: flip flops and latches,\nshifters, counters. Finite state machine â state transition diagrams and state\ntransition tables. HDL implementation. Asynchronous sequential Logic. Memory\nelements: ROM, PROM, RAM-SRAM, DRAM. Case studies: a simple computer, RTL â\nmicro-instruction, instruction decoders timing and controller circuits, data\npath unit.H\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

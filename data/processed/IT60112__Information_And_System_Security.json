@@ -1,0 +1,21 @@
+{
+  "title": "IT60112: Information And System Security",
+  "url": "https://wiki.metakgp.org/wiki/IT60112:_Information_And_System_Security",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisite: NoneTypes of Information and need for information security.\nAuthentication Applications â Kerberos, X.509 authentication service. E-mail\nSecurity â S/MIME, spam filtering. IP Security â overview, architecture;\nauthentication header and security payload encapsulation. Web Security.\nIntrusion detection systems â Expert systems, neural network, data mining and\ngame theoretic approaches. Misuse detection and anomaly detection. Denial of\nservice, User to root and remote to local attacks. Virus and other malicious\nsoftware. Firewalls. Secure multi-party computation applications. Security in\nwireless networks.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Information_Technology"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Information_Technology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IT60112: Information And System Security\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisite: NoneTypes of Information and need for information security.\nAuthentication Applications â Kerberos, X.509 authentication service. E-mail\nSecurity â S/MIME, spam filtering. IP Security â overview, architecture;\nauthentication header and security payload encapsulation. Web Security.\nIntrusion detection systems â Expert systems, neural network, data mining and\ngame theoretic approaches. Misuse detection and anomaly detection. Denial of\nservice, User to root and remote to local attacks. Virus and other malicious\nsoftware. Firewalls. Secure multi-party computation applications. Security in\nwireless networks.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

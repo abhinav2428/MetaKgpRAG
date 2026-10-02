@@ -1,0 +1,20 @@
+{
+  "title": "MA61012: Parallel Algorithms",
+  "url": "https://wiki.metakgp.org/wiki/MA61012:_Parallel_Algorithms",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Design and Analysis of Algorithms\nAddition of numbers, matrix multiplication, evaluation of arithmetic\nexpressions, sorting, 0-1 knapsack problem, minimum spanning tree, traversal of\ntrees, searching in a graph, analysis of time complexity and number of\nprocessors used, lower bound theory of parallel computation. Parallelism in\ncomputers - SIMD and MIMD models.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61012: Parallel Algorithms\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Design and Analysis of Algorithms\nAddition of numbers, matrix multiplication, evaluation of arithmetic\nexpressions, sorting, 0-1 knapsack problem, minimum spanning tree, traversal of\ntrees, searching in a graph, analysis of time complexity and number of\nprocessors used, lower bound theory of parallel computation. Parallelism in\ncomputers - SIMD and MIMD models.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

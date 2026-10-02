@@ -1,0 +1,21 @@
+{
+  "title": "ME41606: Finite Element Methods In Engineering",
+  "url": "https://wiki.metakgp.org/wiki/ME41606:_Finite_Element_Methods_In_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequsites: ME10602, 20604Introduction-Basic Concept of FEM, Methods of\nweighted residual techniques-Weak Formulation, Galerkin FE formulation,\nRayleigh and Ritz FEM,FEM analysis of One-dimensional problems:-Second order\nboundary value problem, Applications in Solid, Fluid and Heat Transfer, Bending\nof Beams, Euler-Bernoulli Beam, Truss/Frame analysis, Eigenvalue and Time\ndependent problems, MATLAB Application, Numerical Integration and Computer\nImplementation-Natural Co-ordinates, Interpolation Functions, Numerical\nIntegration, Isoparametric Formulation, Computer Implementation, Applications\nin two-dimensional problems-Plane Stress and plane Strain, Three Dimensional\nSolid, Axi-symmetric Solid, Plate and Shell structures, Flow of Viscous Fluid,\nMATLAB Application, Special Topics, Stationary Singular elements, Quarter-Point\nSingular Elements, Moving singular elements, Semi-infinite elements, Buckling\nanalysis, Non-linear analysis\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME41606: Finite Element Methods In Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequsites: ME10602, 20604Introduction-Basic Concept of FEM, Methods of\nweighted residual techniques-Weak Formulation, Galerkin FE formulation,\nRayleigh and Ritz FEM,FEM analysis of One-dimensional problems:-Second order\nboundary value problem, Applications in Solid, Fluid and Heat Transfer, Bending\nof Beams, Euler-Bernoulli Beam, Truss/Frame analysis, Eigenvalue and Time\ndependent problems, MATLAB Application, Numerical Integration and Computer\nImplementation-Natural Co-ordinates, Interpolation Functions, Numerical\nIntegration, Isoparametric Formulation, Computer Implementation, Applications\nin two-dimensional problems-Plane Stress and plane Strain, Three Dimensional\nSolid, Axi-symmetric Solid, Plate and Shell structures, Flow of Viscous Fluid,\nMATLAB Application, Special Topics, Stationary Singular elements, Quarter-Point\nSingular Elements, Moving singular elements, Semi-infinite elements, Buckling\nanalysis, Non-linear analysis\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

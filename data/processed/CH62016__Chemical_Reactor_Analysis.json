@@ -1,0 +1,25 @@
+{
+  "title": "CH62016: Chemical Reactor Analysis",
+  "url": "https://wiki.metakgp.org/wiki/CH62016:_Chemical_Reactor_Analysis",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite - CH30009 or equivalentHeterogeneous processes, global and\nintrinsic rates. Mechanism of catalytic reactions. Engineering properties of\ncatalysts - BET surface area, pore volume, pore size, pore size distribution.\nDevelopment of rate equations for solid catalyzed fluid phase reactions;\nEstimation of kinetic parameters.External mass and heat transfer in catalyst\nparticles. Stability and selectivity, Packed bed reactor, slurry reactor;\nTrickle bed reactor and fluidized bed reactor.Intra-particle heat and mass\ntransfer - Wheelers parallel pore model, random pore model of Wakao and Smith.\nEffective diffusivity isothermal and non-isothermal effectiveness factor,\ndeactivation of catalyst.Ideal and non-ideal flow in reactors; Design of fixed\nbed catalytic reactor - isothermal, adiabatic, non-isothermal programmed\nreactors: one dimensional, two dimensional approaches.Reactor stability,\ncontrol and optimization; Computer - aided reactor design. Transient CSTR\nanalysis, Hot spot equation; Optimization using Lagrange multiplier,\nPoyntrgins maximum principle.Text Book:1.Elements of Chemical Reaction\nEngineering by H. Scott Fogler2.Chemical Engineering Kinetics by J. M.\nSmith.3.Chemical Reactor Design and Operation by K. R. Westerterp, W. P. M. Van\nSwaaij and A. A. C. M. BeenackersReference Book:1.Chemical Reactor Analysis and\nDesign by G. F. Froment and K. B. Bischoff\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH62016: Chemical Reactor Analysis\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite - CH30009 or equivalentHeterogeneous processes, global and\nintrinsic rates. Mechanism of catalytic reactions. Engineering properties of\ncatalysts - BET surface area, pore volume, pore size, pore size distribution.\nDevelopment of rate equations for solid catalyzed fluid phase reactions;\nEstimation of kinetic parameters.External mass and heat transfer in catalyst\nparticles. Stability and selectivity, Packed bed reactor, slurry reactor;\nTrickle bed reactor and fluidized bed reactor.Intra-particle heat and mass\ntransfer - Wheelers parallel pore model, random pore model of Wakao and Smith.\nEffective diffusivity isothermal and non-isothermal effectiveness factor,\ndeactivation of catalyst.Ideal and non-ideal flow in reactors; Design of fixed\nbed catalytic reactor - isothermal, adiabatic, non-isothermal programmed\nreactors: one dimensional, two dimensional approaches.Reactor stability,\ncontrol and optimization; Computer - aided reactor design. Transient CSTR\nanalysis, Hot spot equation; Optimization using Lagrange multiplier,\nPoyntrgins maximum principle.Text Book:1.Elements of Chemical Reaction\nEngineering by H. Scott Fogler2.Chemical Engineering Kinetics by J. M.\nSmith.3.Chemical Reactor Design and Operation by K. R. Westerterp, W. P. M. Van\nSwaaij and A. A. C. M. BeenackersReference Book:1.Chemical Reactor Analysis and\nDesign by G. F. Froment and K. B. Bischoff\n\nConcepts taught in class"
+    },
+    {
+      "index": 1,
+      "text": "CH62016: Chemical Reactor Analysis\n\nand Operation by K. R. Westerterp, W. P. M. Van\nSwaaij and A. A. C. M. BeenackersReference Book:1.Chemical Reactor Analysis and\nDesign by G. F. Froment and K. B. Bischoff\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,21 @@
+{
+  "title": "EC21006: Electromagnetic Engineering",
+  "url": "https://wiki.metakgp.org/wiki/EC21006:_Electromagnetic_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nMaxwell s equations: displacement current, equation of continuity, boundary\nconditions; propagation of uniform plane waves in unbounded medium: reflection,\nrefraction, phase and group velocities; transmission lines and waveguides:\nmodes, design, travelling waves, standing waves, pulse propagation,\ncharacteristic impedance, cut-off frequency, attenuation, dispersion, powerhandling capability; Smith chart and impedance matching techniques; radiation\nconcept: elementary dipole, half-wave dipole, radiation patterns, gain, pattern\nmultiplication, other basic antennas.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\nAttend classes(it counts in your final grade).\n\nDo the MATLAB assignement nicely.\n\nProperly do the derivations done in class (a handful will come in exam and expect them to be very lengthy)\n\nClassroom resources\nVandit Sharma Notes (https://drive.google.com/drive/folders/13ZmFhMXwwLrNfW1Mu1PbphWxskugfQOp)\n\nhttps://easyengineering.net/elements-of-electromagnetics-by-sadiku/\n\nAdditional Resources\nhttps://drive.google.com/drive/folders/1Xu7o9nbkRE326OhlaEPELcaUv7Mcw3OF\n\nhttps://www.youtube.com/playlist?list=PLuv3GM6-gsE3-hVNaw-YEb7EeY5XVPZdz\n\nhttps://www.youtube.com/playlist?list=PL0925FD10648D664E\n\nhttps://www.youtube.com/playlist?list=PLl6m4jcR_DbOx6s2toprJQx1MORqPa9rG",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC21006: Electromagnetic Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nMaxwell s equations: displacement current, equation of continuity, boundary\nconditions; propagation of uniform plane waves in unbounded medium: reflection,\nrefraction, phase and group velocities; transmission lines and waveguides:\nmodes, design, travelling waves, standing waves, pulse propagation,\ncharacteristic impedance, cut-off frequency, attenuation, dispersion, powerhandling capability; Smith chart and impedance matching techniques; radiation\nconcept: elementary dipole, half-wave dipole, radiation patterns, gain, pattern\nmultiplication, other basic antennas.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\nAttend classes(it counts in your final grade).\n\nDo the MATLAB assignement nicely.\n\nProperly do the derivations done in class (a handful will come in exam and expect them to be very lengthy)\n\nClassroom resources\nVandit Sharma Notes (https://drive.google.com/drive/folders/13ZmFhMXwwLrNfW1Mu1PbphWxskugfQOp)\n\nhttps://easyengineering.net/elements-of-electromagnetics-by-sadiku/\n\nAdditional Resources\nhttps://drive.google.com/drive/folders/1Xu7o9nbkRE326OhlaEPELcaUv7Mcw3OF\n\nhttps://www.youtube.com/playlist?list=PLuv3GM6-gsE3-hVNaw-YEb7EeY5XVPZdz\n\nhttps://www.youtube.com/playlist?list=PL0925FD10648D664E\n\nhttps://www.youtube.com/playlist?list=PLl6m4jcR_DbOx6s2toprJQx1MORqPa9rG"
+    }
+  ],
+  "chunk_count": 1
+}

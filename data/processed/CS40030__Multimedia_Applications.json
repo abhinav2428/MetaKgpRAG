@@ -1,0 +1,33 @@
+{
+  "title": "CS40030: Multimedia Applications",
+  "url": "https://wiki.metakgp.org/wiki/CS40030:_Multimedia_Applications",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Multimedia System: Architecture and components, Multimedia\ndistributed processing model, Synchronization, Orchestration and Quality of\nService (QOS) architecture.Audio and Speech: Data acquisition, Sampling and\nQuantization, Human Speech production mechanism, Digital model of speech\nproduction, Analysis and synthesis, Psycho-acoustics, low bit rate speech\ncompression, MPEG audio compression.Images and Video: Image acquisition and\nrepresentation, Composite video signal NTSC, PAL and SECAM video standards,\nBilevel image compression standards: ITU (formerly CCITT) Group III and IV\nstandards, JPEG image compression standards, MPEG video compression\nstandards.Multimedia Communication: Fundamentals of data communication and\nnetworking, Bandwidth requirements of different media, Real time con-straints:\nAudio latency, Video data rate, multimedia over LAN and WAN, Multimedia\nconferencing.Hypermedia presentation: Authoring and Publishing, Linear and nonlinear presentation, Structuring Information, Different approaches of authoring\nhypermedia documents, Hyper-media data models and standards.Multimedia\nInformation Systems: Operating system support for continuous media\napplications: limitations is usual OS, New OS support, Media stream protocol,\nfile system support for continuous media, data models for multimedia and\nhypermedia information, content based retrieval of unstructured\ndata.References1.Ralf Steinmetz and Klara Nahrstedt, Multimedia Systems,\nSpringer.2.J. D. Gibson, Multimedia Communications: Directions and Innovations,\nSpringer.3.K. Sayood, Introduction to Data Compression, Morgan-Kaufmann.4.A.\nPuri and T. Chen, Multimedia Systems, Standards, and Networks, Marcel\nDekker.5.Iain E.G. Richardson, H.264 and MPEG-4 Video Compression, John\nWiley.6.Borivoje Furht, Handbook of Multimedia Computing, CRC Press.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40030: Multimedia Applications\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS40030: Multimedia Applications\n\nIntroduction to Multimedia System: Architecture and components, Multimedia\ndistributed processing model, Synchronization, Orchestration and Quality of\nService (QOS) architecture.Audio and Speech: Data acquisition, Sampling and\nQuantization, Human Speech production mechanism, Digital model of speech\nproduction, Analysis and synthesis, Psycho-acoustics, low bit rate speech\ncompression, MPEG audio compression.Images and Video: Image acquisition and\nrepresentation, Composite video signal NTSC, PAL and SECAM video standards,\nBilevel image compression standards: ITU (formerly CCITT) Group III and IV\nstandards, JPEG image compression standards, MPEG video compression\nstandards.Multimedia Communication: Fundamentals of data communication and\nnetworking, Bandwidth requirements of different media, Real time con-straints:\nAudio latency, Video data rate, multimedia over LAN and WAN, Multimedia\nconferencing.Hypermedia presentation: Authoring and Publishing, Linear and nonlinear presentation, Structuring Information, Different approaches of authoring\nhypermedia documents, Hyper-media data models and standards.Multimedia\nInformation Systems: Operating system support for continuous media\napplications: limitations is usual OS, New OS support, Media stream protocol,\nfile system support for continuous media, data models for multimedia and\nhypermedia information, content based retrieval of unstructured\ndata.References1.Ralf Steinmetz and Klara Nahrstedt, Multime"
+    },
+    {
+      "index": 2,
+      "text": "CS40030: Multimedia Applications\n\nl,\nfile system support for continuous media, data models for multimedia and\nhypermedia information, content based retrieval of unstructured\ndata.References1.Ralf Steinmetz and Klara Nahrstedt, Multimedia Systems,\nSpringer.2.J."
+    },
+    {
+      "index": 3,
+      "text": "CS40030: Multimedia Applications\n\nD.\n\nGibson, Multimedia Communications: Directions and Innovations,\nSpringer.3.K.\n\nSayood, Introduction to Data Compression, Morgan-Kaufmann.4.A.\n\nPuri and T.\n\nChen, Multimedia Systems, Standards, and Networks, Marcel\nDekker.5.Iain E.G.\n\nRichardson, H.264 and MPEG-4 Video Compression, John\nWiley.6.Borivoje Furht, Handbook of Multimedia Computing, CRC Press.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

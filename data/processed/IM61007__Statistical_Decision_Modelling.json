@@ -1,0 +1,25 @@
+{
+  "title": "IM61007: Statistical Decision Modelling",
+  "url": "https://wiki.metakgp.org/wiki/IM61007:_Statistical_Decision_Modelling",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: IM21003 Operations research-I Introduction to Quantitative\nDecision Modelling, Statistical Thinking for Decision Making Ã¢ÂÂ statistical\nmodelling for decision making under uncertainty, statistical decision making\nprocess, and common statistical terminology with applications.Necessary\nConditions for Statistical Decision Modelling Ã¢ÂÂ Introduction, measure of\nsurprise for outlier detection, homogeneous population, test for randomness,\nand test for normality.Discrete Probability and Decision Analysis, Decision\nMaking with Binomial and Normal Probabilities. Decisions Based on Sample\nStatistics Ã¢ÂÂ Estimators and their qualities, hypothesis testing for\nrejecting a claim, hypothesis testing for means and proportions, tests for\nstatistical equality for two or more populations.Decisions Based on Linear\nRelationships Ã¢ÂÂ Regression modelling and analysis, regression modelling\nselection process, covariance and correlation, comparisons of correlation\ncoefficients, and analysis of covariance. Bayesian statistical inference Ã¢ÂÂ\nan introduction.Textbooks and References Ã¢ÂÂ¢Donald L. Harnett, James F.\nHorrell, Data, Statistics, and Decision Models, Wiley 1998.Ã¢ÂÂ¢Corfield D.,\nand J. Williamson, Foundations of Bayesianism, Kluwer Academic Publishers,\n2001. Contains Logic, Mathematics, Decision Theory, and Criticisms of\nBayesianism.Ã¢ÂÂ¢Lapin L., Statistics for Modern Business Decisions, Harcourt\nBrace Jovanovich, 1987.Ã¢ÂÂ¢Pratt J., H. Raiffa, and R. Schlaifer, Introduction\nto Statistical Decision Theory, The MIT Press, 1994.Ã¢ÂÂ¢Gelman, A., Carlin,\nJ., Stern, H. and Rubin, D., Bayesian Data Analysis (2nd edition), Chapman\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM61007: Statistical Decision Modelling\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: IM21003 Operations research-I Introduction to Quantitative\nDecision Modelling, Statistical Thinking for Decision Making Ã¢ÂÂ statistical\nmodelling for decision making under uncertainty, statistical decision making\nprocess, and common statistical terminology with applications.Necessary\nConditions for Statistical Decision Modelling Ã¢ÂÂ Introduction, measure of\nsurprise for outlier detection, homogeneous population, test for randomness,\nand test for normality.Discrete Probability and Decision Analysis, Decision\nMaking with Binomial and Normal Probabilities.\n\nDecisions Based on Sample\nStatistics Ã¢ÂÂ Estimators and their qualities, hypothesis testing for\nrejecting a claim, hypothesis testing for means and proportions, tests for\nstatistical equality for two or more populations.Decisions Based on Linear\nRelationships Ã¢ÂÂ Regression modelling and analysis, regression modelling\nselection process, covariance and correlation, comparisons of correlation\ncoefficients, and analysis of covariance.\n\nBayesian statistical inference Ã¢ÂÂ\nan introduction.Textbooks and References Ã¢ÂÂ¢Donald L.\n\nHarnett, James F.\n\nHorrell, Data, Statistics, and Decision Models, Wiley 1998.Ã¢ÂÂ¢Corfield D.,\nand J.\n\nWilliamson, Foundations of Bayesianism, Kluwer Academic Publishers,\n2001."
+    },
+    {
+      "index": 1,
+      "text": "IM61007: Statistical Decision Modelling\n\nÃ¢ÂÂ¢Donald L.\n\nHarnett, James F.\n\nHorrell, Data, Statistics, and Decision Models, Wiley 1998.Ã¢ÂÂ¢Corfield D.,\nand J.\n\nWilliamson, Foundations of Bayesianism, Kluwer Academic Publishers,\n2001.\n\nContains Logic, Mathematics, Decision Theory, and Criticisms of\nBayesianism.Ã¢ÂÂ¢Lapin L., Statistics for Modern Business Decisions, Harcourt\nBrace Jovanovich, 1987.Ã¢ÂÂ¢Pratt J., H.\n\nRaiffa, and R.\n\nSchlaifer, Introduction\nto Statistical Decision Theory, The MIT Press, 1994.Ã¢ÂÂ¢Gelman, A., Carlin,\nJ., Stern, H.\n\nand Rubin, D., Bayesian Data Analysis (2nd edition), Chapman\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

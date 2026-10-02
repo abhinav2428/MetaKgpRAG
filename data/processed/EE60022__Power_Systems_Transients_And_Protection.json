@@ -1,0 +1,21 @@
+{
+  "title": "EE60022: Power Systems Transients And Protection",
+  "url": "https://wiki.metakgp.org/wiki/EE60022:_Power_Systems_Transients_And_Protection",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nTransients in lumped parameter and distributed parameter circuits-wave\nequations; Multi-conductor systems, switching surge studies -Dommels method,\nEMTP. Frequency domain approach. Surge response of transformers. Overvoltage\nmitigation. Surge Arresters. Insulation co-ordination.\nPhilosophy of power system protection, Relaying Instrumentation-characteristics\nof CT and PT. Overview of computer relaying, hardware organization, Algorithm\ndevelopment, Applications, Integration to substation function, Adaptive\nprotection philosophy.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60022: Power Systems Transients And Protection\n\nSyllabus\nSyllabus mentioned in ERP\n\nTransients in lumped parameter and distributed parameter circuits-wave\nequations; Multi-conductor systems, switching surge studies -Dommels method,\nEMTP. Frequency domain approach. Surge response of transformers. Overvoltage\nmitigation. Surge Arresters. Insulation co-ordination.\nPhilosophy of power system protection, Relaying Instrumentation-characteristics\nof CT and PT. Overview of computer relaying, hardware organization, Algorithm\ndevelopment, Applications, Integration to substation function, Adaptive\nprotection philosophy.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

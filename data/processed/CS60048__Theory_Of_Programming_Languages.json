@@ -1,0 +1,20 @@
+{
+  "title": "CS60048: Theory Of Programming Languages",
+  "url": "https://wiki.metakgp.org/wiki/CS60048:_Theory_Of_Programming_Languages",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nSyntax of Programming Languages, Formal languages and automata theory: Finite\nautomata, regular languages, pushdown automata, context free languages, linear\nbounded automata, context sensitive languages, Turing machines and recursively\nenumerable sets. Theory of LR(k) parsing, attribute grammars. Semantics of\nprogramming languages: Basic mathematical introduction: Propositional and\npredicate calculus, lambda calculus, algebraic structures. Sequential languages\n(imperative and applicative): operational semantics, Vienna definition methods.\nDenotational semantics: Scott-Strachy theory, axiomatic semantics: Floyd-Hoare\napproach, temporal logic, algebraic semantics and data types.References1.Glynn\nWinskel, A Formal Semantics of Programming Languages: An Introduction, MIT\nPress.2.John C. Mitchell, Foundations for Programming Languages, MIT\nPress.3.Benjamin C. Pierce, Types and Programming Languages, MIT Press.4.Daniel\nP. Friedman, Mitchell Wand and Christopher T. Haynes, Essentials of Programming\nLanguages, Prentice Hall of India.5.Ravi Sethi, Programming Languages: Concepts\nand Constructs, Addison-Wesley.6.H. P. Barendregt, The Lambda Calculus: Its\nSyntax and Semantics, North-Holland.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60048: Theory Of Programming Languages\n\nSyllabus\nSyllabus mentioned in ERP\n\nSyntax of Programming Languages, Formal languages and automata theory: Finite\nautomata, regular languages, pushdown automata, context free languages, linear\nbounded automata, context sensitive languages, Turing machines and recursively\nenumerable sets. Theory of LR(k) parsing, attribute grammars. Semantics of\nprogramming languages: Basic mathematical introduction: Propositional and\npredicate calculus, lambda calculus, algebraic structures. Sequential languages\n(imperative and applicative): operational semantics, Vienna definition methods.\nDenotational semantics: Scott-Strachy theory, axiomatic semantics: Floyd-Hoare\napproach, temporal logic, algebraic semantics and data types.References1.Glynn\nWinskel, A Formal Semantics of Programming Languages: An Introduction, MIT\nPress.2.John C. Mitchell, Foundations for Programming Languages, MIT\nPress.3.Benjamin C. Pierce, Types and Programming Languages, MIT Press.4.Daniel\nP. Friedman, Mitchell Wand and Christopher T. Haynes, Essentials of Programming\nLanguages, Prentice Hall of India.5.Ravi Sethi, Programming Languages: Concepts\nand Constructs, Addison-Wesley.6.H. P. Barendregt, The Lambda Calculus: Its\nSyntax and Semantics, North-Holland.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

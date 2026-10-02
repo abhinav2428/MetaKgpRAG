@@ -1,0 +1,20 @@
+{
+  "title": "MA51004: Integral Equations And Variational Methods",
+  "url": "https://wiki.metakgp.org/wiki/MA51004:_Integral_Equations_And_Variational_Methods",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\nIntegral\nEquations: Basic concepts, Volterra integral equations, relationship\nbetween linear differential equations and Volterra equations, resolvent kernel,\nmethod of successive approximations, convolution type equations, Volterra\nequation of the first kind. Abel s integral equation. Fredholm integral\nequations, Fredholm equations of the second kind, the method of Fredholm\ndeterminants, iterated kernels, integral equations with degenerate kernels,\neigen values and eigen functions of a Fredholm\nalternative, construction of Green s function for BVP, singular integral\nequations.\nCalculus of Variations: Euler – Lagrange equations, degenerate Euler equations,\nNatural boundary conditions, transversality conditions, simple applications of\nvariational principle, sufficient conditions for extremum. Variational\nformulation of BVP, minimum of quadratic functional. Approximate methods –\nGalerkin’s method, weighted-residual methods, Colloation methods. Variational\nmethods for time dependent problems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA51004: Integral Equations And Variational Methods\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: void\nIntegral\nEquations: Basic concepts, Volterra integral equations, relationship\nbetween linear differential equations and Volterra equations, resolvent kernel,\nmethod of successive approximations, convolution type equations, Volterra\nequation of the first kind. Abel s integral equation. Fredholm integral\nequations, Fredholm equations of the second kind, the method of Fredholm\ndeterminants, iterated kernels, integral equations with degenerate kernels,\neigen values and eigen functions of a Fredholm\nalternative, construction of Green s function for BVP, singular integral\nequations.\nCalculus of Variations: Euler – Lagrange equations, degenerate Euler equations,\nNatural boundary conditions, transversality conditions, simple applications of\nvariational principle, sufficient conditions for extremum. Variational\nformulation of BVP, minimum of quadratic functional. Approximate methods –\nGalerkin’s method, weighted-residual methods, Colloation methods. Variational\nmethods for time dependent problems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

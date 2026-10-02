@@ -1,0 +1,21 @@
+{
+  "title": "IE30006: Data Communication",
+  "url": "https://wiki.metakgp.org/wiki/IE30006:_Data_Communication",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction. Data and signals. Transmission media and impairments. Data\nencoding techniques - Analog and digital encoding of digital data â ASK, PSK,\nFSK; NRZ, RZ, AMI, Manchester coding. Frequency and time-division Multiplexing\ntechniques. Flow control. Error detection and error control techniques.\nStandards for interfacing to media. Spread spectrum, CDMA. Network architecture\nfor data and computer communications. Circuit switching. Packet switching.\nFrame relay and ATM. Routing in packet-switched networks -fixed, random and\nadaptive approaches. Congestion and its control. Cellular network.Local area\nnetworks - Common topologies. Medium access control-round-robin, reservation\nand contention-based strategies. ALOHA protocol and its variants. CSMA and\nCSMA/CD protocols. Token-ring protocol. IEEE 802 standards for local area\nnetworks. High speed LANs - Fast and Gigabit ethernet, FDDI. Wireless LANs.\nInternetworking - Repeaters, bridges, routers and gateways. TCP/IP protocol\nsuite. TCP/IP Sockets. Client-Server computing. Name Service. Application\nprotocols over TCP/IP. Network Security.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Instrumentation_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Instrumentation_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IE30006: Data Communication\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction. Data and signals. Transmission media and impairments. Data\nencoding techniques - Analog and digital encoding of digital data â ASK, PSK,\nFSK; NRZ, RZ, AMI, Manchester coding. Frequency and time-division Multiplexing\ntechniques. Flow control. Error detection and error control techniques.\nStandards for interfacing to media. Spread spectrum, CDMA. Network architecture\nfor data and computer communications. Circuit switching. Packet switching.\nFrame relay and ATM. Routing in packet-switched networks -fixed, random and\nadaptive approaches. Congestion and its control. Cellular network.Local area\nnetworks - Common topologies. Medium access control-round-robin, reservation\nand contention-based strategies. ALOHA protocol and its variants. CSMA and\nCSMA/CD protocols. Token-ring protocol. IEEE 802 standards for local area\nnetworks. High speed LANs - Fast and Gigabit ethernet, FDDI. Wireless LANs.\nInternetworking - Repeaters, bridges, routers and gateways. TCP/IP protocol\nsuite. TCP/IP Sockets. Client-Server computing. Name Service. Application\nprotocols over TCP/IP. Network Security.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

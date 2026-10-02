@@ -1,0 +1,20 @@
+{
+  "title": "MA69006: Operating Systems Design Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/MA69006:_Operating_Systems_Design_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Operating Systems Design Implementation of : resource scheduling\nproblems, exercises on storage management, secondary storage, virtual memory,\nsegmentation and paging. Concurrent processes, . Producer consumer problem,\nmutual exclusion and deadlock, critical section problem, semaphors, test and\nset, atomic operations, security and recovery.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA69006: Operating Systems Design Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Operating Systems Design Implementation of : resource scheduling\nproblems, exercises on storage management, secondary storage, virtual memory,\nsegmentation and paging. Concurrent processes, . Producer consumer problem,\nmutual exclusion and deadlock, critical section problem, semaphors, test and\nset, atomic operations, security and recovery.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,19 @@
+{
+  "title": "How to use IITKGP DC",
+  "url": "https://wiki.metakgp.org/wiki/How_to_use_IITKGP_DC",
+  "text": "The IITKGP DC Hub is a private hub and inaccessible from outside the IIT Kharagpur's network. To connect to the hub, one needs a DC software. Popular choices of such softwares on different platforms are:\n\n* Windows: DC++\n* Linux: Eiskalt DC++qt, Eiskalt DC++gtk3, LinuxDC++\n* macOS: EiskaltDC++, Shakespeer , Mac DC++\n\n Configuration \n\nOnce installed, type the hub IP address in quick connect box (IP can be obtained from the HHFH). If successfully connected, one should see a list of connected users along with a chat screen showing messages. However, to browse users and download anything from the server, one needs to meet the minimum share requirements (about 80-100 GB, varies). The share options are available in Preferences section.\n\n Practices \n* Always mirror the content you download\n* Sharing fake files is highly discouraged, it can get you (and your wing) banned \n* Mirror additional content that is not readily available (PM the user for a special download slot)\n* In case of Windows system, keep all firewalls off.",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/HHFH"
+  ],
+  "categories": [
+    "How_to"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "How to use IITKGP DC\n\nThe IITKGP DC Hub is a private hub and inaccessible from outside the IIT Kharagpur's network. To connect to the hub, one needs a DC software. Popular choices of such softwares on different platforms are:\n\n* Windows: DC++\n* Linux: Eiskalt DC++qt, Eiskalt DC++gtk3, LinuxDC++\n* macOS: EiskaltDC++, Shakespeer , Mac DC++\n\n Configuration \n\nOnce installed, type the hub IP address in quick connect box (IP can be obtained from the HHFH). If successfully connected, one should see a list of connected users along with a chat screen showing messages. However, to browse users and download anything from the server, one needs to meet the minimum share requirements (about 80-100 GB, varies). The share options are available in Preferences section.\n\n Practices \n* Always mirror the content you download\n* Sharing fake files is highly discouraged, it can get you (and your wing) banned \n* Mirror additional content that is not readily available (PM the user for a special download slot)\n* In case of Windows system, keep all firewalls off."
+    }
+  ],
+  "chunk_count": 1
+}

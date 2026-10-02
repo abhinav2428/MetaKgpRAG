@@ -1,0 +1,21 @@
+{
+  "title": "AE40038: Nonlinear Finite Element Method",
+  "url": "https://wiki.metakgp.org/wiki/AE40038:_Nonlinear_Finite_Element_Method",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: AE40003\n3\n- 0 - 0: 3 CreditsSources of nonlinearities in structural problems: material,\ngeometry, forces, boundary conditions; General features of nonlinear response:\nequilibrium trajectories, path dependencies, critical points, Geometrically\nnonlinear finite elements: residual and incremental forms. Finite element Total\nLagrangian and corotational formulations, FEM nonlinear equilibrium equations:\ninitial stress, tangent and secant stiffness, geometric stiffness; Solution of\nnonlinear equations: classification, incremental control techniques, augmented\nequation methods, incremental and pseudo-force methods, Newton Methods, Secant\n(quasi-Newton) methods, Acceleration and line search, dynamic relaxation,\ndetermination and transversal of critical points. Computer implementation:\nmodel definition, element level calculation, equation assembly, nonlinear\nequation solver, residual evaluation, post-processing, Nonlinear constitutive\nmodels, Applications to structural stability analysis and bifurcations,\nnonlinear static analysis and nonlinear transient problems (implicit vs.\nexplicit time integration techniques), Treatment of constraints\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Aerospace_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Aerospace_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AE40038: Nonlinear Finite Element Method\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: AE40003\n3\n- 0 - 0: 3 CreditsSources of nonlinearities in structural problems: material,\ngeometry, forces, boundary conditions; General features of nonlinear response:\nequilibrium trajectories, path dependencies, critical points, Geometrically\nnonlinear finite elements: residual and incremental forms. Finite element Total\nLagrangian and corotational formulations, FEM nonlinear equilibrium equations:\ninitial stress, tangent and secant stiffness, geometric stiffness; Solution of\nnonlinear equations: classification, incremental control techniques, augmented\nequation methods, incremental and pseudo-force methods, Newton Methods, Secant\n(quasi-Newton) methods, Acceleration and line search, dynamic relaxation,\ndetermination and transversal of critical points. Computer implementation:\nmodel definition, element level calculation, equation assembly, nonlinear\nequation solver, residual evaluation, post-processing, Nonlinear constitutive\nmodels, Applications to structural stability analysis and bifurcations,\nnonlinear static analysis and nonlinear transient problems (implicit vs.\nexplicit time integration techniques), Treatment of constraints\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

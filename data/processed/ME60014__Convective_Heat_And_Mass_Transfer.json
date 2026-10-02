@@ -1,0 +1,25 @@
+{
+  "title": "ME60014: Convective Heat And Mass Transfer",
+  "url": "https://wiki.metakgp.org/wiki/ME60014:_Convective_Heat_And_Mass_Transfer",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to convection. Derivation of governing equations of momentum,\nenergy and species transport, Order of magnitude analysis, Reynolds analogy.\nConvective heat transfer in external flows: Derivation of hydrodynamic and\nthermal boundary layer equations, Similarity solution techniques, Momentum and\nenergy integral methods and their applications in flow over flat plates with\nlow and high Prandtl number approximations.Introduction to turbulence, Reynolds\naveraging, Eddy viscosity and eddy thermal diffusivity, Laws of the\nwallConvection in internal flows: Concept of developing and fully developed\nflows. Thermally developing flows: Graetz problem. Concept of thermally fully\ndeveloped flow and its consequences under constant wall flux and constant wall\ntemperature conditions, Steady forced convection in Hagen Poiseuille flow,\nPlane Poiseuille flow, and Couette flow and analytical evaluation of Nusselt\nnumbers in limiting cases. Free convection: Free convection boundary layer\nequations: order of magnitude analysis, similarity and series solutions,\nConcept of thermal stability and Rayleigh Benard convection. Concept of boiling\nheat transfer and regimes in pool boilingCondensation: Nusselt film\ncondensation theory, dropwise condensation and condensation inside tubes,\neffects of non-condensablesDeviations from continuum: wall slip and thermal\ncreep, an introduction to convective transport in micro-scalesConjugate\nproblems and moving boundary freezing and melting problems.An introduction to\nconvective mass transfer in binary systems: analytical solutions to simple onedimensional problems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60014: Convective Heat And Mass Transfer\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to convection.\n\nDerivation of governing equations of momentum,\nenergy and species transport, Order of magnitude analysis, Reynolds analogy.\n\nConvective heat transfer in external flows: Derivation of hydrodynamic and\nthermal boundary layer equations, Similarity solution techniques, Momentum and\nenergy integral methods and their applications in flow over flat plates with\nlow and high Prandtl number approximations.Introduction to turbulence, Reynolds\naveraging, Eddy viscosity and eddy thermal diffusivity, Laws of the\nwallConvection in internal flows: Concept of developing and fully developed\nflows.\n\nThermally developing flows: Graetz problem.\n\nConcept of thermally fully\ndeveloped flow and its consequences under constant wall flux and constant wall\ntemperature conditions, Steady forced convection in Hagen Poiseuille flow,\nPlane Poiseuille flow, and Couette flow and analytical evaluation of Nusselt\nnumbers in limiting cases.\n\nFree convection: Free convection boundary layer\nequations: order of magnitude analysis, similarity and series solutions,\nConcept of thermal stability and Rayleigh Benard convection."
+    },
+    {
+      "index": 1,
+      "text": "ME60014: Convective Heat And Mass Transfer\n\nlimiting cases.\n\nFree convection: Free convection boundary layer\nequations: order of magnitude analysis, similarity and series solutions,\nConcept of thermal stability and Rayleigh Benard convection.\n\nConcept of boiling\nheat transfer and regimes in pool boilingCondensation: Nusselt film\ncondensation theory, dropwise condensation and condensation inside tubes,\neffects of non-condensablesDeviations from continuum: wall slip and thermal\ncreep, an introduction to convective transport in micro-scalesConjugate\nproblems and moving boundary freezing and melting problems.An introduction to\nconvective mass transfer in binary systems: analytical solutions to simple onedimensional problems\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

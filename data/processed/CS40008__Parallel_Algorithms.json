@@ -1,0 +1,21 @@
+{
+  "title": "CS40008: Parallel Algorithms",
+  "url": "https://wiki.metakgp.org/wiki/CS40008:_Parallel_Algorithms",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nParallel Models (SIMD, MIMD, PRAMs, Interconnection Networks); Performance\nMeasures (Time, Processors, Space, Work); Interconnection Architectures (Linear\nArray, Meshes, Trees, Mesh of Trees, Hypercubes, Butterfly Networks, Cube\nConnected Cycles, Benes Networks); Techniques (Balanced Trees, Pointer Jumping,\nDivide and Conquer, Partitioning, Pipelining, Systolic Computation, Accelerated\nCascading, Prefix Computation, List Ranking, Euler Tour, Tree Contraction);\nSorting, Searching, Merging; Matrix Operations; Graph Algorithms (Connected\nComponents, Spanning Trees, Shortest Paths); Complexity (Lower bounds, NC Class\nand P-Completeness).\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40008: Parallel Algorithms\n\nSyllabus\nSyllabus mentioned in ERP\n\nParallel Models (SIMD, MIMD, PRAMs, Interconnection Networks); Performance\nMeasures (Time, Processors, Space, Work); Interconnection Architectures (Linear\nArray, Meshes, Trees, Mesh of Trees, Hypercubes, Butterfly Networks, Cube\nConnected Cycles, Benes Networks); Techniques (Balanced Trees, Pointer Jumping,\nDivide and Conquer, Partitioning, Pipelining, Systolic Computation, Accelerated\nCascading, Prefix Computation, List Ranking, Euler Tour, Tree Contraction);\nSorting, Searching, Merging; Matrix Operations; Graph Algorithms (Connected\nComponents, Spanning Trees, Shortest Paths); Complexity (Lower bounds, NC Class\nand P-Completeness).\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

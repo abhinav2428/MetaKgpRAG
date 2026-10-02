@@ -19,9 +19,20 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const [token, setToken] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(true);
 
-  // On mount: restore token from localStorage
+  // On mount: restore token from localStorage (or handle OAuth callback)
   useEffect(() => {
-    const stored = localStorage.getItem('gm_token');
+    let stored = localStorage.getItem('gm_token');
+
+    // Handle Google OAuth callback redirect: /auth/callback#token=...
+    const hash = window.location.hash;
+    if (hash.startsWith('#token=')) {
+      const urlToken = hash.replace('#token=', '');
+      localStorage.setItem('gm_token', urlToken);
+      stored = urlToken;
+      // Clean up the URL
+      window.history.replaceState(null, '', window.location.pathname);
+    }
+
     if (stored) {
       setToken(stored);
       api.me()

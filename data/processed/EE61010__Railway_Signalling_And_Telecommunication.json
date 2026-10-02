@@ -1,0 +1,28 @@
+{
+  "title": "EE61010: Railway Signalling And Telecommunication",
+  "url": "https://wiki.metakgp.org/wiki/EE61010:_Railway_Signalling_And_Telecommunication",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nObjectives: The course offers a thorough understanding of theoretical knowledge\nand best practices in railway signaling and telecommunication including the\nconcepts of railway signaling principles, safety and risk management; automatic\ntrain protection systems; signaling and layout designs; telecommunication\nsystems and equipment including research.Credit: {(3-1-0) 4 credits}Syllabus:\nPart-1: Railway Signaling (16 Lecture Hours):•Stringline diagrams, train\nscheduling and train stopping distance calculations. •Concepts of temporal and\nspatial separation of trains to ensure safe and efficient use of equipment and\ninfrastructure. •Train movement authority, track circuits and other train\nposition monitoring systems•Train control systems include radio based, wayside\nsignals, cab signal, positive train control, interlocking design, operation and\ncontrol.Part-2: Telecommunications (30 Lecture Hours):•Overview of modern\nheterogeneous telecommunications infrastructure, layered architecture, LAN, MAN\nand WAN (03 Lecture Hours);•Telecommunications switching techniques (03 Lecture\nHours);•Switching systems: non-blocking architectures, blocking probability,\ntime-division switching, two-dimensional switching, Optical switching (03\nLecture Hours);•Signaling in telephone networks (03 Lecture Hours);•Switching\nin optical backbone networks (02 Lecture Hours);•Overview of land mobile\ncommunication systems (03 Lecture Hours); •Aspects of mobile propagation\nchannels (02 Lecture Hours);•Signaling and connection to infrastructure\nnetworks (02 Lecture Hours); •Mobile radio transmitters, receivers and link\ndesign (03 Lecture Hours); •IP-based services over land mobile communication\nsystems (03 Lecture Hours); •Examples of mobile communication systems and\ntechnology trends (03 Lecture Hours).Teachers: Indian Railway Adjunct Faculty ,\nProf. Saswat ChakrabortyReferences: 1. Telecommunication Switching Systems and\nNetworks (2nd Ed) by T. Vishwanathan\n2. Digital\nTelephony by John Bellamy\n3. Wireless Communications by\nT. S. Rappaport.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE61010: Railway Signalling And Telecommunication\n\nSyllabus\nSyllabus mentioned in ERP\n\nObjectives: The course offers a thorough understanding of theoretical knowledge\nand best practices in railway signaling and telecommunication including the\nconcepts of railway signaling principles, safety and risk management; automatic\ntrain protection systems; signaling and layout designs; telecommunication\nsystems and equipment including research.Credit: {(3-1-0) 4 credits}Syllabus:\nPart-1: Railway Signaling (16 Lecture Hours):•Stringline diagrams, train\nscheduling and train stopping distance calculations.\n\n•Concepts of temporal and\nspatial separation of trains to ensure safe and efficient use of equipment and\ninfrastructure."
+    },
+    {
+      "index": 1,
+      "text": "EE61010: Railway Signalling And Telecommunication\n\ndiagrams, train\nscheduling and train stopping distance calculations.\n\n•Concepts of temporal and\nspatial separation of trains to ensure safe and efficient use of equipment and\ninfrastructure.\n\n•Train movement authority, track circuits and other train\nposition monitoring systems•Train control systems include radio based, wayside\nsignals, cab signal, positive train control, interlocking design, operation and\ncontrol.Part-2: Telecommunications (30 Lecture Hours):•Overview of modern\nheterogeneous telecommunications infrastructure, layered architecture, LAN, MAN\nand WAN (03 Lecture Hours);•Telecommunications switching techniques (03 Lecture\nHours);•Switching systems: non-blocking architectures, blocking probability,\ntime-division switching, two-dimensional switching, Optical switching (03\nLecture Hours);•Signaling in telephone networks (03 Lecture Hours);•Switching\nin optical backbone networks (02 Lecture Hours);•Overview of land mobile\ncommunication systems (03 Lecture Hours); •Aspects of mobile propagation\nchannels (02 Lecture Hours);•Signaling and connection to infrastructure\nnetworks (02 Lecture Hours); •Mobile radio transmitters, receivers and link\ndesign (03 Lecture Hours); •IP-based services over land mobile communication\nsystems (03 Lecture Hours); •Examples of mobile communication systems and\ntechnology trends (03 Lecture Hours).Teachers: Indian Railway Adjunct Faculty ,\nProf.\n\nSaswat ChakrabortyReferences: 1."
+    },
+    {
+      "index": 2,
+      "text": "EE61010: Railway Signalling And Telecommunication\n\n(03 Lecture Hours); •Examples of mobile communication systems and\ntechnology trends (03 Lecture Hours).Teachers: Indian Railway Adjunct Faculty ,\nProf.\n\nSaswat ChakrabortyReferences: 1.\n\nTelecommunication Switching Systems and\nNetworks (2nd Ed) by T.\n\nVishwanathan\n2.\n\nDigital\nTelephony by John Bellamy\n3.\n\nWireless Communications by\nT.\n\nS.\n\nRappaport.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

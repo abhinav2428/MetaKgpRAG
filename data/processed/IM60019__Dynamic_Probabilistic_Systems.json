@@ -1,0 +1,21 @@
+{
+  "title": "IM60019: Dynamic Probabilistic Systems",
+  "url": "https://wiki.metakgp.org/wiki/IM60019:_Dynamic_Probabilistic_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nMarkov Models: The basic Markov process, Flow-graph analysis of Markov\nprocesses, Transient Markov processes, Markov process statistics, Recurrent\nevents and random walks, Time-varying Markov processes.\nSemi-Markov and Decision Models: Discrete-time and continuous semi-Markov\nprocesses, Reward structures, sequential decision processes and dynamic\nprogramming solutions, Value and Policy iteration in semi-Markov decision\nprocesses.\nRef.: Dynamic Probabilistic Systems, Vol. I and Vol. II, Ronald A. Howard, John\nWiley and Sons, Inc., 1971.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60019: Dynamic Probabilistic Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nMarkov Models: The basic Markov process, Flow-graph analysis of Markov\nprocesses, Transient Markov processes, Markov process statistics, Recurrent\nevents and random walks, Time-varying Markov processes.\nSemi-Markov and Decision Models: Discrete-time and continuous semi-Markov\nprocesses, Reward structures, sequential decision processes and dynamic\nprogramming solutions, Value and Policy iteration in semi-Markov decision\nprocesses.\nRef.: Dynamic Probabilistic Systems, Vol. I and Vol. II, Ronald A. Howard, John\nWiley and Sons, Inc., 1971.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

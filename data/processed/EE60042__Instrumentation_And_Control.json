@@ -1,0 +1,20 @@
+{
+  "title": "EE60042: Instrumentation And Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60042:_Instrumentation_And_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n(* Core subject for Medical Science and Technology Students)\nInstrumentation: Introduction to mechanical systems and their structure and\nfunction, Performance Characteristics – Static and Dynamic, Fundamentals of\nsignals acquisition, conditioning and processing, Measurement of temperature,\npressure, flow, position, velocity, acceleration, force, torque etc.\nControl: Introduction to control systems, mathematical model of physical\nsystems in transfer function and state space forms, response of dynamic\nsystems, concept of pole & zero of a system, realization of transfer functions,\nstability analysis. Introduction of discrete time system.\nControllers: P, PI, PD, PID, Feed forward etc., tuning of controller\nparameters, implementation of controller using digital computer.\nControl components: Actuator (ac & dc servomotors, valve), tacho-generator,\nservo amplifier.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60042: Instrumentation And Control\n\nSyllabus\nSyllabus mentioned in ERP\n\n(* Core subject for Medical Science and Technology Students)\nInstrumentation: Introduction to mechanical systems and their structure and\nfunction, Performance Characteristics – Static and Dynamic, Fundamentals of\nsignals acquisition, conditioning and processing, Measurement of temperature,\npressure, flow, position, velocity, acceleration, force, torque etc.\nControl: Introduction to control systems, mathematical model of physical\nsystems in transfer function and state space forms, response of dynamic\nsystems, concept of pole & zero of a system, realization of transfer functions,\nstability analysis. Introduction of discrete time system.\nControllers: P, PI, PD, PID, Feed forward etc., tuning of controller\nparameters, implementation of controller using digital computer.\nControl components: Actuator (ac & dc servomotors, valve), tacho-generator,\nservo amplifier.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

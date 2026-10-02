@@ -1,0 +1,20 @@
+{
+  "title": "MA61030: Computational Fluid Dynamics",
+  "url": "https://wiki.metakgp.org/wiki/MA61030:_Computational_Fluid_Dynamics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Fluid MechanicsGoverning equation of Fluid Dynamics, conservation\nform, simple CFD techniques, Lax-Wendroff technique, Mac Cormack s techniques,\nfinite volume method, application to Euler equations, upwind difference scheme,\nviscous flow solutions, staggered grid, SIMPLE Algorithm, SOLA Algorithm,\nboundary element method and application to potential flows.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61030: Computational Fluid Dynamics\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Fluid MechanicsGoverning equation of Fluid Dynamics, conservation\nform, simple CFD techniques, Lax-Wendroff technique, Mac Cormack s techniques,\nfinite volume method, application to Euler equations, upwind difference scheme,\nviscous flow solutions, staggered grid, SIMPLE Algorithm, SOLA Algorithm,\nboundary element method and application to potential flows.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

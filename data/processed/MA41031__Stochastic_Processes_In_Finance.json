@@ -1,0 +1,21 @@
+{
+  "title": "MA41031: Stochastic Processes In Finance",
+  "url": "https://wiki.metakgp.org/wiki/MA41031:_Stochastic_Processes_In_Finance",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDefinition and classification of stochastic processes, Poisson process, Birth\nand death process, Markov process in discrete time, random walks, gambler s\n(ruin), first return probabilities. Diffusion Processes - Brownian motion\n(introduction), Wiener process, Simulation of Brownian motion, Brownian Bridge,\nscaling symmetry, Brownian motion with drift, waiting times, geometric Brownian\nmotion, applications in financial modeling. Introduction to Martingales.\nStochastic Calculus - stochastic differential equations, stochastic integral\n(Ito s formula), applications in financial modeling.\n\nConcepts taught in class\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\n[http]\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA41031: Stochastic Processes In Finance\n\nSyllabus\nSyllabus mentioned in ERP\n\nDefinition and classification of stochastic processes, Poisson process, Birth\nand death process, Markov process in discrete time, random walks, gambler s\n(ruin), first return probabilities. Diffusion Processes - Brownian motion\n(introduction), Wiener process, Simulation of Brownian motion, Brownian Bridge,\nscaling symmetry, Brownian motion with drift, waiting times, geometric Brownian\nmotion, applications in financial modeling. Introduction to Martingales.\nStochastic Calculus - stochastic differential equations, stochastic integral\n(Ito s formula), applications in financial modeling.\n\nConcepts taught in class\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\n[http]\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

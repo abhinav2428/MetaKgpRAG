@@ -1,0 +1,29 @@
+{
+  "title": "EE60101: Advanced Sensing Techniques",
+  "url": "https://wiki.metakgp.org/wiki/EE60101:_Advanced_Sensing_Techniques",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroductionDifferent Phases of automation. Importance of sensor/smart sensor\ninautomation. Features of Advanced sensing techniques.Sensor classifications\naccording to the energy domains.Introduction of advanced sensing\nmaterials.Properties (physical, electrical, chemical, biological) of\nmaterialswhich makes it suitable for sensing in different domain.Design and\nmodelingDesign and modeling issue in advanced sensing techniqueIntroduction of\ndifferent mathematical tools used in sensor designStudy of analytical design\nfrom given specification, conformalmapping, Optimization techniques used in\nsensor design. Numericaldesign such as FEM, FDM, etc.Study of Tomography and\nConcept of Feed back in sensingFabrication and packagingIntroduction to MEMS\nsensor. Comparison between MEMS andMacro sensor.Fabrication and packaging issue\nin sensor designThick film and thin film techniquePhysical sensorsHall Effect\nsensors, Eddy current sensors, magneto resistive andmagneto strictive\ndetectors,Accelerometers: Capacitive, Piezoelectric, Piezoresistive,\nThermalHumidity and moisture sensorProximity detectors using polarized\nlight,Semiconductor gas sensorSemiconductor gas sensorFluidic and Micro-fluidic\nsensorsChemical sensorChemical sensor characteristics, specific difficulties\nrelated tochemical sensor, Classification of Chemical sensing mechanismStudy of\nchemical sensor based on the principle direct sensingtechniques such as Metal\noxide chemical sensor, electrochemicalsensors, potentiometric sensors,\nconductive sensors, amperometricsensors, enhanced catalytic gas sensors, engyme\nsensorsStudy of chemical sensors in indirect mode such as thermal\nsensor,optical chemical sensor, biochemical sensor, enzyme sensorSensor\narrayIntroduction to the concept of Lab on chip/senor platform technologyThe\nrole of PCA, LDA, Neural network in designing sensor arrayStudy of temperature\ncycle mode of sensing to obtain virtual sensorarrayCase study of a gas sensing\nplatform, liquid sensing\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60101: Advanced Sensing Techniques\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroductionDifferent Phases of automation.\n\nImportance of sensor/smart sensor\ninautomation.\n\nFeatures of Advanced sensing techniques.Sensor classifications\naccording to the energy domains.Introduction of advanced sensing\nmaterials.Properties (physical, electrical, chemical, biological) of\nmaterialswhich makes it suitable for sensing in different domain.Design and\nmodelingDesign and modeling issue in advanced sensing techniqueIntroduction of\ndifferent mathematical tools used in sensor designStudy of analytical design\nfrom given specification, conformalmapping, Optimization techniques used in\nsensor design.\n\nNumericaldesign such as FEM, FDM, etc.Study of Tomography and\nConcept of Feed back in sensingFabrication and packagingIntroduction to MEMS\nsensor."
+    },
+    {
+      "index": 1,
+      "text": "EE60101: Advanced Sensing Techniques\n\nOptimization techniques used in\nsensor design.\n\nNumericaldesign such as FEM, FDM, etc.Study of Tomography and\nConcept of Feed back in sensingFabrication and packagingIntroduction to MEMS\nsensor.\n\nComparison between MEMS andMacro sensor.Fabrication and packaging issue\nin sensor designThick film and thin film techniquePhysical sensorsHall Effect\nsensors, Eddy current sensors, magneto resistive andmagneto strictive\ndetectors,Accelerometers: Capacitive, Piezoelectric, Piezoresistive,\nThermalHumidity and moisture sensorProximity detectors using polarized\nlight,Semiconductor gas sensorSemiconductor gas sensorFluidic and Micro-fluidic\nsensorsChemical sensorChemical sensor characteristics, specific difficulties\nrelated tochemical sensor, Classification of Chemical sensing mechanismStudy of\nchemical sensor based on the principle direct sensingtechniques such as Metal\noxide chemical sensor, electrochemicalsensors, potentiometric sensors,\nconductive sensors, amperometricsensors, enhanced catalytic gas sensors, engyme\nsensorsStudy of chemical sensors in indirect mode such as thermal\nsensor,optical chemical sensor, biochemical sensor, enzyme sensorSensor\narrayIntroduction to the concept of Lab on chip/senor platform technologyThe\nrole of PCA, LDA, Neural network in designing sensor arrayStudy of temperature\ncycle mode of sensing to obtain virtual sensorarrayCase study of a gas sensing\nplatform, liquid sensing\n\nConcepts taught in class\n\nStudent Opinion"
+    },
+    {
+      "index": 2,
+      "text": "EE60101: Advanced Sensing Techniques\n\nin designing sensor arrayStudy of temperature\ncycle mode of sensing to obtain virtual sensorarrayCase study of a gas sensing\nplatform, liquid sensing\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

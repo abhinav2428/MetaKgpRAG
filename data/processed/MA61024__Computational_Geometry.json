@@ -1,0 +1,20 @@
+{
+  "title": "MA61024: Computational Geometry",
+  "url": "https://wiki.metakgp.org/wiki/MA61024:_Computational_Geometry",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidIntroduction, historical prospective, geometry preliminaries,\nconvex hull algorithm in two and three dimensions, lower bounds, triangulation,\nVoronoi diagram, closest pair problems, duality in Voronoi diagrams, geometric\nsearching, visibility, art gallery problem, arrangement of lines, sweep\ntechniques, fortune sweep for voronoi diagrams, topological sweep for line\narrangement, combinatorial geometry, intersection and union of rectangles,\nrobust geometric computing, applications of computational geometry.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61024: Computational Geometry\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: voidIntroduction, historical prospective, geometry preliminaries,\nconvex hull algorithm in two and three dimensions, lower bounds, triangulation,\nVoronoi diagram, closest pair problems, duality in Voronoi diagrams, geometric\nsearching, visibility, art gallery problem, arrangement of lines, sweep\ntechniques, fortune sweep for voronoi diagrams, topological sweep for line\narrangement, combinatorial geometry, intersection and union of rectangles,\nrobust geometric computing, applications of computational geometry.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

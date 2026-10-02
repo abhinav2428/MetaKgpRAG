@@ -1,0 +1,25 @@
+{
+  "title": "AG40003: Gis Principles And Applications",
+  "url": "https://wiki.metakgp.org/wiki/AG40003:_Gis_Principles_And_Applications",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nGIS: Definition, importance, contributing disciplines, major areas of practical\napplication. Map and Map Analysis: Types, characteristics and scale, use of\nmaps, automated and computer assisted cartography, comparison between maps and\nGIS. Raster GIS: Data model, creating raster, cell values, map layers, examples\nof raster GIS, local operations, operations on neighborhood, extended\nneighborhood, and zones. Vector GIS: Data model, database creation, adding\nattributes, example analysis using vector GIS, Query, reclassify, merge and\ndissolve operations, comparison between raster and vector GIS. General\nCoordinate System: Cartesian, polar and global coordinate systems. Map\nProjections and Transformation: Distortion properties, geometric analogy and\nUTM, scaling, rotation and complex transformations. Discrete Georeferencing:\nIntroduction and issues. Spatial Database Development: Fundamental database\nelements, database design, and procedure for vector database design. Spatial\nAnalysis in Vector GIS: Buffering, overlaying, merge, update, clipping.\nAccuracy and Errors: Sources and classification of errors, accuracy standards.\nGIS Software: Features of different available software (Arc/Info, ArcView,\nIDRISI, GRASS, etc) Application of GIS: irrigation planning, soil loss\nestimation, watershed mangement and hydrological modeling.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Agricultural_&_Food_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Agricultural_&_Food_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AG40003: Gis Principles And Applications\n\nSyllabus\nSyllabus mentioned in ERP\n\nGIS: Definition, importance, contributing disciplines, major areas of practical\napplication. Map and Map Analysis: Types, characteristics and scale, use of\nmaps, automated and computer assisted cartography, comparison between maps and\nGIS. Raster GIS: Data model, creating raster, cell values, map layers, examples\nof raster GIS, local operations, operations on neighborhood, extended\nneighborhood, and zones. Vector GIS: Data model, database creation, adding\nattributes, example analysis using vector GIS, Query, reclassify, merge and\ndissolve operations, comparison between raster and vector GIS. General\nCoordinate System: Cartesian, polar and global coordinate systems. Map\nProjections and Transformation: Distortion properties, geometric analogy and\nUTM, scaling, rotation and complex transformations. Discrete Georeferencing:\nIntroduction and issues. Spatial Database Development: Fundamental database\nelements, database design, and procedure for vector database design. Spatial\nAnalysis in Vector GIS: Buffering, overlaying, merge, update, clipping.\nAccuracy and Errors: Sources and classification of errors, accuracy standards.\nGIS Software: Features of different available software (Arc/Info, ArcView,\nIDRISI, GRASS, etc) Application of GIS: irrigation planning, soil loss\nestimation, watershed mangement and hydrological modeling.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper"
+    },
+    {
+      "index": 1,
+      "text": "AG40003: Gis Principles And Applications\n\nGRASS, etc) Application of GIS: irrigation planning, soil loss\nestimation, watershed mangement and hydrological modeling.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

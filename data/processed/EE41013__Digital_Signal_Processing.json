@@ -1,0 +1,21 @@
+{
+  "title": "EE41013: Digital Signal Processing",
+  "url": "https://wiki.metakgp.org/wiki/EE41013:_Digital_Signal_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nShort introduction -Discrete time systems and signals; Z-transform, Difference\nequation.Filter design by transformation - Impulse and step Invariant, Bilinear Z-transform, matched Z-transform.Signal Model-AR, MA, ARMA, State\nVariable model, Lattice structures.FIR filter design, Frequency windowing\ntechnique, Equi ripple Chebyshev and Butterworth criterion.Filter performance\nand design in presence of noise, FIR filters banks-subband\ndecomposition.Inverse filtering-Deconvolution and equalization techniquesWeiner, Linear prediction etc., Signal reconstruction.Time frequency Analysis STFT, WT, DSP hardware - Design methodologies,Popular architectures and\noverview of programming Application notes.Filter implementation: Topology,\nScaling, Coefficient quantization, Signal quantization, Sensitivity analysis.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nTreat oppenhiem as god book and you will be ok\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE41013: Digital Signal Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\nShort introduction -Discrete time systems and signals; Z-transform, Difference\nequation.Filter design by transformation - Impulse and step Invariant, Bilinear Z-transform, matched Z-transform.Signal Model-AR, MA, ARMA, State\nVariable model, Lattice structures.FIR filter design, Frequency windowing\ntechnique, Equi ripple Chebyshev and Butterworth criterion.Filter performance\nand design in presence of noise, FIR filters banks-subband\ndecomposition.Inverse filtering-Deconvolution and equalization techniquesWeiner, Linear prediction etc., Signal reconstruction.Time frequency Analysis STFT, WT, DSP hardware - Design methodologies,Popular architectures and\noverview of programming Application notes.Filter implementation: Topology,\nScaling, Coefficient quantization, Signal quantization, Sensitivity analysis.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nTreat oppenhiem as god book and you will be ok\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

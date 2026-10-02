@@ -1,0 +1,25 @@
+{
+  "title": "EC60292: Embedded Vlsi System",
+  "url": "https://wiki.metakgp.org/wiki/EC60292:_Embedded_Vlsi_System",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC30004Introduction: Introduction to embedded systems, Design\nstandards, Characteristics of embedded systems, Peripherals and interfacing,\nSystem-on-Chip paradigm; Modeling Techniques: Finite state machines models,\nPetri nets, Event nets, Data flow and Control flow models, Flow chart based\nmodels; Specification and representation of embedded systems: Behavioural and\nStructural hierarchy, Data driven and Control-driven concurrency, Communication\nand synchronization, Timing, Hardware design languages, VHDL, System C, State\nCharts; Hardware/Software Co-design: Hardware software partitioning and\nscheduling, Hardware and Software estimation models, Co-simulation, synthesis\nand verifications, Architecture mapping, HW-SW Interfaces and Reconfigurable\ncomputing, System-level power management, Trade-offs; System-on-Chip and IP\ncores: Core based designs, On-chip networking; Embedded processors: ARM, MIPS,\nPowerPC etc. along with their programming, FPGA, CPLD, DSP based controllers;\nSoftware for Embedded Systems: Time-critical IO handling, Embedded software\ndesign under size, performance, and reliability constraints, Software timing\nand functional validation, Programming methods and compilation for embeddable\nsoftware, Real time operating systems, Device drivers; System level testing and\nreliability issues: Case study of embedded system design tools and real-world\nembedded designs;\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60292: Embedded Vlsi System\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC30004Introduction: Introduction to embedded systems, Design\nstandards, Characteristics of embedded systems, Peripherals and interfacing,\nSystem-on-Chip paradigm; Modeling Techniques: Finite state machines models,\nPetri nets, Event nets, Data flow and Control flow models, Flow chart based\nmodels; Specification and representation of embedded systems: Behavioural and\nStructural hierarchy, Data driven and Control-driven concurrency, Communication\nand synchronization, Timing, Hardware design languages, VHDL, System C, State\nCharts; Hardware/Software Co-design: Hardware software partitioning and\nscheduling, Hardware and Software estimation models, Co-simulation, synthesis\nand verifications, Architecture mapping, HW-SW Interfaces and Reconfigurable\ncomputing, System-level power management, Trade-offs; System-on-Chip and IP\ncores: Core based designs, On-chip networking; Embedded processors: ARM, MIPS,\nPowerPC etc. along with their programming, FPGA, CPLD, DSP based controllers;\nSoftware for Embedded Systems: Time-critical IO handling, Embedded software\ndesign under size, performance, and reliability constraints, Software timing\nand functional validation, Programming methods and compilation for embeddable\nsoftware, Real time operating systems, Device drivers; System level testing and\nreliability issues: Case study of embedded system design tools and real-world\nembedded designs;"
+    },
+    {
+      "index": 1,
+      "text": "EC60292: Embedded Vlsi System\n\nfor embeddable\nsoftware, Real time operating systems, Device drivers; System level testing and\nreliability issues: Case study of embedded system design tools and real-world\nembedded designs;\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CS60065: Cryptography And Network Security",
+  "url": "https://wiki.metakgp.org/wiki/CS60065:_Cryptography_And_Network_Security",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Basic objectives of cryptography, secret-key and public-key\ncryptography, one-way and trapdoor one-way functions, cryptanalysis, attack\nmodels, classical cryptography. Block ciphers: Modes of operation, DES and its\nvariants, RCS, IDEA, SAFER, FEAL, BlowFish, AES, linear and differential\ncryptanalysis. Stream ciphers: Stream ciphers based on linear feedback shift\nregisters, SEAL, unconditional security. Message digest: Properties of hash\nfunctions, MD2, MD5 and SHA-1, keyed hash functions, attacks on hash functions.\nPublic-key parameters: Modular arithmetic, gcd, primality testing, Chinese\nremainder theorem, modular square roots, finite fields. Intractable problems:\nInteger factorization problem, RSA problem, modular square root problem,\ndiscrete logarithm problem, Diffie-Hellman problem, known algorithms for\nsolving the intractable problems. Public-key encryption: RSA, Rabin and EIGamal\nschemes, side channel attacks. Key exchange: Diffie-Hellman and MQV algorithms.\nDigital signatures: RSA, DAS and NR signature schemes, blind and undeniable\nsignatures. Entity authentication: Passwords, challenge-response algorithms,\nzero-knowledge protocols. Standards: IEEE, RSA and ISO standards. Network\nissues: Certification, public-key infrastructure (PKI), secured socket layer\n(SSL), Kerberos. Advanced topics: Elliptic and hyper-elliptic curve\ncryptography, number field sieve, lattices and their applications in\ncryptography, hidden monomial cryptosystems, cryptographically secure random\nnumber generators.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nClass Test-1\n\nMidsem\n\nClass Test-2\n\nEndsem\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60065: Cryptography And Network Security\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: Basic objectives of cryptography, secret-key and public-key\ncryptography, one-way and trapdoor one-way functions, cryptanalysis, attack\nmodels, classical cryptography.\n\nBlock ciphers: Modes of operation, DES and its\nvariants, RCS, IDEA, SAFER, FEAL, BlowFish, AES, linear and differential\ncryptanalysis.\n\nStream ciphers: Stream ciphers based on linear feedback shift\nregisters, SEAL, unconditional security.\n\nMessage digest: Properties of hash\nfunctions, MD2, MD5 and SHA-1, keyed hash functions, attacks on hash functions.\n\nPublic-key parameters: Modular arithmetic, gcd, primality testing, Chinese\nremainder theorem, modular square roots, finite fields.\n\nIntractable problems:\nInteger factorization problem, RSA problem, modular square root problem,\ndiscrete logarithm problem, Diffie-Hellman problem, known algorithms for\nsolving the intractable problems.\n\nPublic-key encryption: RSA, Rabin and EIGamal\nschemes, side channel attacks.\n\nKey exchange: Diffie-Hellman and MQV algorithms.\n\nDigital signatures: RSA, DAS and NR signature schemes, blind and undeniable\nsignatures.\n\nEntity authentication: Passwords, challenge-response algorithms,\nzero-knowledge protocols.\n\nStandards: IEEE, RSA and ISO standards.\n\nNetwork\nissues: Certification, public-key infrastructure (PKI), secured socket layer\n(SSL), Kerberos."
+    },
+    {
+      "index": 1,
+      "text": "CS60065: Cryptography And Network Security\n\nalgorithms,\nzero-knowledge protocols.\n\nStandards: IEEE, RSA and ISO standards.\n\nNetwork\nissues: Certification, public-key infrastructure (PKI), secured socket layer\n(SSL), Kerberos.\n\nAdvanced topics: Elliptic and hyper-elliptic curve\ncryptography, number field sieve, lattices and their applications in\ncryptography, hidden monomial cryptosystems, cryptographically secure random\nnumber generators.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\nClass Test-1\n\nMidsem\n\nClass Test-2\n\nEndsem\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

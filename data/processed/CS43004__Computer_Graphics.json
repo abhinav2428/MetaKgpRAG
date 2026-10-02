@@ -1,0 +1,29 @@
+{
+  "title": "CS43004: Computer Graphics",
+  "url": "https://wiki.metakgp.org/wiki/CS43004:_Computer_Graphics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Display of entities, Geometric computation and representation,\nGraphics Environments; Working Principles of display devices: refreshing raster\nscan devices, vector devices, Cathode Ray Tube Terminals, Plotters; Display of\ncolors: Look Up Tables, display of gray shades, Half toning; Display and\ndrawing of graphics primitives: point, line, polygon, circle, curves and text;\nCoordinate Conventions: world coordinates, device coordinates, normalized\ndevice coordinates, view-port and window, zooming and panning by changing\ncoordinate reference frames; Computations on polygons: point inclusion problem,\npolygon filling, polygon intersection, clipping, polygonization of a point set,\nconvex hull computation, triangulation of polygons; Transformations in 2D and\n3D: translation, rotation, scaling, reflection, Projection: perspective and\nparallel projections, isometric projection, Transformation matrices; Volume and\nSurface Representation: polygonal meshes, parametric curves and surfaces, Cubic\nand Bicubic Splines, Voxel, Octree and Medial Axis representation, Sweep\nRepresentation, Surfaces and Volumes by rotation of curves and surfaces,\nfractal modeling; Hidden surface and line elimination: Elimination of back\nsurfaces, painters algorithms, Binary Space Partitioning Tree; Rendering and\nVisualization: Shading model, Constant, Goraud and Phong Shading, Ray tracing\nalgorithm, Radiosity Computation; Computer Animation: fundamental concepts.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS43004: Computer Graphics\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS43004: Computer Graphics\n\nmentioned in ERP\n\nIntroduction: Display of entities, Geometric computation and representation,\nGraphics Environments; Working Principles of display devices: refreshing raster\nscan devices, vector devices, Cathode Ray Tube Terminals, Plotters; Display of\ncolors: Look Up Tables, display of gray shades, Half toning; Display and\ndrawing of graphics primitives: point, line, polygon, circle, curves and text;\nCoordinate Conventions: world coordinates, device coordinates, normalized\ndevice coordinates, view-port and window, zooming and panning by changing\ncoordinate reference frames; Computations on polygons: point inclusion problem,\npolygon filling, polygon intersection, clipping, polygonization of a point set,\nconvex hull computation, triangulation of polygons; Transformations in 2D and\n3D: translation, rotation, scaling, reflection, Projection: perspective and\nparallel projections, isometric projection, Transformation matrices; Volume and\nSurface Representation: polygonal meshes, parametric curves and surfaces, Cubic\nand Bicubic Splines, Voxel, Octree and Medial Axis representation, Sweep\nRepresentation, Surfaces and Volumes by rotation of curves and surfaces,\nfractal modeling; Hidden surface and line elimination: Elimination of back\nsurfaces, painters algorithms, Binary Space Partitioning Tree; Rendering and\nVisualization: Shading model, Constant, Goraud and Phong Shading, Ray tracing\nalgorithm, Radiosity Computation; Computer Animation: fundamental concepts."
+    },
+    {
+      "index": 2,
+      "text": "CS43004: Computer Graphics\n\nBinary Space Partitioning Tree; Rendering and\nVisualization: Shading model, Constant, Goraud and Phong Shading, Ray tracing\nalgorithm, Radiosity Computation; Computer Animation: fundamental concepts.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

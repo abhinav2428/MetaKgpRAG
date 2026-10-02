@@ -1,0 +1,20 @@
+{
+  "title": "EC39004: Vlsi Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/EC39004:_Vlsi_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nTransistor-level Circuit Design using Cadence Design Flow1. Circuit design\n(paper-pencil design w/o cadence)2. Schematic capture and simulation3. Circuit\nlayout and layout vs. schematic check4. Parameter extraction from layout and\npost-layout simulationÃ´ÂÂÂ Design experiments:o Familiarization with Cadence\nschematic-to-layout flow using inverter designo A cascode amplifier designo A\ndifferential amplifier designo A current source designo An operational\ntransconductance amplifier designÃ¢ÂÂ¢ Logic-level Circuit Design using Xilinx\nFPGA Design Flow1. Architectural level design (paper-pencil design w/o\nXilinx)2. HDL coding of the design and logic simulation3. Synthesis and postsynthesis logic simulation4. Implementation (placement and routing)5.\nDownloading to FPGA and verification of designÃ´ÂÂÂ Design experiments:o\nFamiliarization with Xilinx HDL-to-implementation flow using ripple-carry adder\ndesigno Carry Look Ahead addero Arithmetic Multipliero Carry Bypass addero\nBarrel shiftero Logarithmic shiftero Sequence detectoro Left/right shiftero\nSynchronous up/down countero Linear feedback shift register\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC39004: Vlsi Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nTransistor-level Circuit Design using Cadence Design Flow1. Circuit design\n(paper-pencil design w/o cadence)2. Schematic capture and simulation3. Circuit\nlayout and layout vs. schematic check4. Parameter extraction from layout and\npost-layout simulationÃ´ÂÂÂ Design experiments:o Familiarization with Cadence\nschematic-to-layout flow using inverter designo A cascode amplifier designo A\ndifferential amplifier designo A current source designo An operational\ntransconductance amplifier designÃ¢ÂÂ¢ Logic-level Circuit Design using Xilinx\nFPGA Design Flow1. Architectural level design (paper-pencil design w/o\nXilinx)2. HDL coding of the design and logic simulation3. Synthesis and postsynthesis logic simulation4. Implementation (placement and routing)5.\nDownloading to FPGA and verification of designÃ´ÂÂÂ Design experiments:o\nFamiliarization with Xilinx HDL-to-implementation flow using ripple-carry adder\ndesigno Carry Look Ahead addero Arithmetic Multipliero Carry Bypass addero\nBarrel shiftero Logarithmic shiftero Sequence detectoro Left/right shiftero\nSynchronous up/down countero Linear feedback shift register\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

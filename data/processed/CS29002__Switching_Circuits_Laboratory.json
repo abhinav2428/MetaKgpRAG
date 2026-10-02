@@ -1,0 +1,20 @@
+{
+  "title": "CS29002: Switching Circuits Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/CS29002:_Switching_Circuits_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPulse Circuits: Bistable, Astable and monostable MVs and Schmitt Triggers using\ntransistors, OP Amps and 555 timers.\nTTL and CMOS Gates: Study the characteristics of\n\nTTL and CMOS gates.\n\nCombinational logic circuits: Design and implementation of combinational\ncircuits such as, ALU, 7-segment LED display driver, etc.\nSequential Circuits: Design of sequence genera-tors and detectors, counters,\nDesign of ASMs such as, traffic light controllers, lift controllers, etc.\nReferences\n1.H. Taub and D. Schilling, Digital Integrated Electronics, McGraw-Hill .\n2.Z. Kohavi, Switching and Finite Automata Theory, Tata McGraw-Hill.\n3.Randy H. Katz and Gaetano Borriello,\nHall of India.\n\nContemporary Logic Design, Prentice\n\n4.Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata\nMcGraw-Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS29002: Switching Circuits Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nPulse Circuits: Bistable, Astable and monostable MVs and Schmitt Triggers using\ntransistors, OP Amps and 555 timers.\nTTL and CMOS Gates: Study the characteristics of\n\nTTL and CMOS gates.\n\nCombinational logic circuits: Design and implementation of combinational\ncircuits such as, ALU, 7-segment LED display driver, etc.\nSequential Circuits: Design of sequence genera-tors and detectors, counters,\nDesign of ASMs such as, traffic light controllers, lift controllers, etc.\nReferences\n1.H. Taub and D. Schilling, Digital Integrated Electronics, McGraw-Hill .\n2.Z. Kohavi, Switching and Finite Automata Theory, Tata McGraw-Hill.\n3.Randy H. Katz and Gaetano Borriello,\nHall of India.\n\nContemporary Logic Design, Prentice\n\n4.Giovanni De Micheli, Synthesis and Optimization of Digital Circuits, Tata\nMcGraw-Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

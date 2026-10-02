@@ -1,0 +1,15 @@
+{
+  "title": "Portfolio Defender",
+  "url": "https://wiki.metakgp.org/wiki/Portfolio_Defender",
+  "text": "Portfolio Defender is a competition in Inter IIT Tech Meet 2016.\n\n Problem Statement \n\nThe problem statement consists of data from stock market, where we are given the return and the standard deviation of each stock. We find the optimal solution the aim is to minimize the risk and maximize the return.\n\n Team \n\n* Raja Ambrish (C) (HS '17)\n* Ayush Pandey (MA '17)\n* Harshav Raj (GG '17)\n* Anuj Gopal (PH '17)\n\n See Also \n* Problem Statement for Portfolio Defender\n\n== References ==",
+  "page_type": "general",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Portfolio Defender\n\nPortfolio Defender is a competition in Inter IIT Tech Meet 2016.\n\n Problem Statement \n\nThe problem statement consists of data from stock market, where we are given the return and the standard deviation of each stock. We find the optimal solution the aim is to minimize the risk and maximize the return.\n\n Team \n\n* Raja Ambrish (C) (HS '17)\n* Ayush Pandey (MA '17)\n* Harshav Raj (GG '17)\n* Anuj Gopal (PH '17)\n\n See Also \n* Problem Statement for Portfolio Defender\n\n== References =="
+    }
+  ],
+  "chunk_count": 1
+}

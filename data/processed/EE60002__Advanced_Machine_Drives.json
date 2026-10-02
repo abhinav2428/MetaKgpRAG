@@ -1,0 +1,29 @@
+{
+  "title": "EE60002: Advanced Machine Drives",
+  "url": "https://wiki.metakgp.org/wiki/EE60002:_Advanced_Machine_Drives",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nCourse Name: Advanced Machine Drives\nCourse No.: EE60002\nL-T-P\n: 3-1-0\nPrerequisite: EE60003, EE60035Module-1 (8 lectures): Induction\nMotor Drives: Field oriented control- Direct and indirect field orientation,\nstator-flux, rotor-flux and airgap-flux orientation. Flux-torque decoupling,\nExtended speed operation and Field weakening.Module-2 (8 lectures): Direct\ntorque control of Induction Motor, Flux and speed observers, Induction\ngenerators, Doubly Fed Induction Machines (DFIM): Different modes of operation,\nEquivalent circuit, Active and reactive power control, Vector control of\nDFIM.Module-3 (6 lectures): Identification of Induction Motor Parameters:\nLinear Model, Nonlinear least square identification, Parameter error indices.\nSpeed sensorless control: Signal injection and model based techniques, zero/low\nspeed operation. Module-4 (6 lectures): Synchronous Motor Drives, Vector\ncontroled Cycloconverter fed Drive, Parameter estimation and sensorless\ncontrol. Module-5 (6 lectures): Introduction to PM Synchronous Motor, Various\nrotor configurations of PMSM, Sinusoidal Back-Emf PMSM: Field oriented control,\nDirect torque control. Interior PM Machine: Maximum torque per ampere control,\nField weakeningModule-6 (6 lectures): Introduction to Brushless DC Motor: EMF\nand Torque of BLDC machine, Voltage Source Inverter fed BLDC: Half-wave and\nFull-wave operation, Speed control, Torque ripple minimization, Sensorless\noperation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60002: Advanced Machine Drives\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "EE60002: Advanced Machine Drives\n\nmentioned in ERP\n\nCourse Name: Advanced Machine Drives\nCourse No.: EE60002\nL-T-P\n: 3-1-0\nPrerequisite: EE60003, EE60035Module-1 (8 lectures): Induction\nMotor Drives: Field oriented control- Direct and indirect field orientation,\nstator-flux, rotor-flux and airgap-flux orientation. Flux-torque decoupling,\nExtended speed operation and Field weakening.Module-2 (8 lectures): Direct\ntorque control of Induction Motor, Flux and speed observers, Induction\ngenerators, Doubly Fed Induction Machines (DFIM): Different modes of operation,\nEquivalent circuit, Active and reactive power control, Vector control of\nDFIM.Module-3 (6 lectures): Identification of Induction Motor Parameters:\nLinear Model, Nonlinear least square identification, Parameter error indices.\nSpeed sensorless control: Signal injection and model based techniques, zero/low\nspeed operation. Module-4 (6 lectures): Synchronous Motor Drives, Vector\ncontroled Cycloconverter fed Drive, Parameter estimation and sensorless\ncontrol. Module-5 (6 lectures): Introduction to PM Synchronous Motor, Various\nrotor configurations of PMSM, Sinusoidal Back-Emf PMSM: Field oriented control,\nDirect torque control. Interior PM Machine: Maximum torque per ampere control,\nField weakeningModule-6 (6 lectures): Introduction to Brushless DC Motor: EMF\nand Torque of BLDC machine, Voltage Source Inverter fed BLDC: Half-wave and\nFull-wave operation, Speed control, Torque ripple minimization, Sensorless\noperation."
+    },
+    {
+      "index": 2,
+      "text": "EE60002: Advanced Machine Drives\n\nto Brushless DC Motor: EMF\nand Torque of BLDC machine, Voltage Source Inverter fed BLDC: Half-wave and\nFull-wave operation, Speed control, Torque ripple minimization, Sensorless\noperation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

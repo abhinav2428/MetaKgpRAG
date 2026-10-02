@@ -37,15 +37,19 @@ pip-wheel-metadata/
 # =============================================================================
 data/raw/
 data/clean/
-data/chroma_db/
-*.pkl
+# Allow the built vector index and graph to be committed for deployment
+# data/chroma_db/  <-- intentionally NOT ignored so Render can use it
 *.parquet
 *.csv
-*.json
+# Allow JSON files in data/processed for deployment
+!data/processed/*.json
 !config/*.json
 !**/package.json
 !**/tsconfig*.json
 !**/.oxlintrc.json
+# Allow the knowledge graph pickle
+!data/*.gpickle
+!data/*.pkl
 
 # =============================================================================
 # Jupyter Notebooks

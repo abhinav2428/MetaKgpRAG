@@ -1,0 +1,17 @@
+{
+  "title": "AE21008: Introduction To Flight Vehicle Controls",
+  "url": "https://wiki.metakgp.org/wiki/AE21008:_Introduction_To_Flight_Vehicle_Controls",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: Transform Calculus\n3 - 0 - 0: 3 Credits Mathematical\nmodeling of dynamic system, Transient response analysis, Basic Control actions\nand response of control systems, analysis of control systems in state space,\ndesign of control systems in state space, root locus analysis and design of\nsystem by root locus method, frequency response analysis, PID controls.\n\nConcepts taught in class\n\nClassical Control theory basics, Time domain and Frequency domain, introduction to PID and State space control\n\nStudent Opinion\n\n{|class=\"wikitable\"\n\nHow to Crack the Paper\n\n{|class=\"wikitable\"\n\n||Follow the lecture slides and practice questions from the prescribed textbooks. MATLAB examples are good to visulize\n\nClassroom resources\n\n=Additional Resources=",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Aerospace_Engineering"
+  ],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AE21008: Introduction To Flight Vehicle Controls\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: Transform Calculus\n3 - 0 - 0: 3 Credits Mathematical\nmodeling of dynamic system, Transient response analysis, Basic Control actions\nand response of control systems, analysis of control systems in state space,\ndesign of control systems in state space, root locus analysis and design of\nsystem by root locus method, frequency response analysis, PID controls.\n\nConcepts taught in class\n\nClassical Control theory basics, Time domain and Frequency domain, introduction to PID and State space control\n\nStudent Opinion\n\n{|class=\"wikitable\"\n\nHow to Crack the Paper\n\n{|class=\"wikitable\"\n\n||Follow the lecture slides and practice questions from the prescribed textbooks. MATLAB examples are good to visulize\n\nClassroom resources\n\n=Additional Resources="
+    }
+  ],
+  "chunk_count": 1
+}

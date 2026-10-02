@@ -1,0 +1,33 @@
+{
+  "title": "EC60296: Mixed Signal And Rf Design",
+  "url": "https://wiki.metakgp.org/wiki/EC60296:_Mixed_Signal_And_Rf_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21002 and EC31003Introduction to Mixed-signal design;\nAdvanced data converters: Working principle and architecture of a folding-andinterpolation ADC, Design of sample and hold amplifier, Design of folding\namplifier and interpolation network, Design of decimation filter, Working\nprinciple and architecture of a Sigma-delta ADC, Design of basic and multistage\nsigma-delta converters, Working principle and architecture of a pipeline ADC,\nDesign of one-and-half-bit converter, Working principle and various\narchitectures of high speed DAC, Working principle and architecture of a high\nresolution DAC; Clock and timing: Block diagram of a PLL, PLL based frequency\nsynthesizer, Application and block diagram of a DLL, Design of a multiphase\ngenerator; Implementation of system on a chip and the associated issue:\nPrecautionary measure for integrating analog and digital modules within an IC,\nSignal integrity, floor planning and physical design of mixed signal IC design;\nOverview of RF system: Introduction to RF Transceiver architectures, Multiple\naccess techniques, Different wireless standards, Various modulation techniques\nused in RF system; Aspects and considerations of RF design: Low voltage and low\npower design, RF-models of devices; Building blocks of RF: Design of oscillator\nand mixer, Frequency synthesizer, Design of low noise amplifiers, Design of\nnarrowband and wideband amplifiers, Design of high efficiency power amplifier,\nMatching network design; RF system design and testing: Design of RF system,\nNoise and distortion measures and mitigation methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60296: Mixed Signal And Rf Design\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "EC60296: Mixed Signal And Rf Design\n\nPre-requisites: EC21002 and EC31003Introduction to Mixed-signal design;\nAdvanced data converters: Working principle and architecture of a folding-andinterpolation ADC, Design of sample and hold amplifier, Design of folding\namplifier and interpolation network, Design of decimation filter, Working\nprinciple and architecture of a Sigma-delta ADC, Design of basic and multistage\nsigma-delta converters, Working principle and architecture of a pipeline ADC,\nDesign of one-and-half-bit converter, Working principle and various\narchitectures of high speed DAC, Working principle and architecture of a high\nresolution DAC; Clock and timing: Block diagram of a PLL, PLL based frequency\nsynthesizer, Application and block diagram of a DLL, Design of a multiphase\ngenerator; Implementation of system on a chip and the associated issue:\nPrecautionary measure for integrating analog and digital modules within an IC,\nSignal integrity, floor planning and physical design of mixed signal IC design;\nOverview of RF system: Introduction to RF Transceiver architectures, Multiple\naccess techniques, Different wireless standards, Various modulation techniques\nused in RF system; Aspects and considerations of RF design: Low voltage and low\npower design, RF-models of devices; Building blocks of RF: Design of oscillator\nand mixer, Frequency synthesizer, Design of low noise amplifiers, Design of\nnarrowband and wideband amplifiers, Design of high efficiency power amplifier,\nMatch"
+    },
+    {
+      "index": 2,
+      "text": "EC60296: Mixed Signal And Rf Design\n\nding blocks of RF: Design of oscillator\nand mixer, Frequency synthesizer, Design of low noise amplifiers, Design of\nnarrowband and wideband amplifiers, Design of high efficiency power amplifier,\nMatching network design; RF system design and testing: Design of RF system,\nNoise and distortion measures and mitigation methods."
+    },
+    {
+      "index": 3,
+      "text": "EC60296: Mixed Signal And Rf Design\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

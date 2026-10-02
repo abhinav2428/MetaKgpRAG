@@ -1,0 +1,21 @@
+{
+  "title": "RE60001: Reliability Analysis And Prediction",
+  "url": "https://wiki.metakgp.org/wiki/RE60001:_Reliability_Analysis_And_Prediction",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDefinition. Causes and types of failures. Reliability expressions for constant,\nincreasing and decreasing hazard rates. Data Analysis, Probability plots for\nvarious distributions (exponential, Weibull, Normal and Gamma). Series,\nparallel, series-parallel, standby and k-out-of-m modeling. System reliability\nevaluation techniques, including methods of bounds, decomposition and\ntransformation techniques. Single and Multiple variable inversion techniques\nfor minimizing system reliability expression. Analysis of dependent failures.\nReliability computations using similar and dissimilar stress-strength\ndistributions (exponential, Weibull, normal and Gamma). Time dependent stressstrength distributions, fatigue failures, Recent trends in reliability\nevaluation techniques.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Reliability_Engineering_Centre"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Reliability_Engineering_Centre",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "RE60001: Reliability Analysis And Prediction\n\nSyllabus\nSyllabus mentioned in ERP\n\nDefinition. Causes and types of failures. Reliability expressions for constant,\nincreasing and decreasing hazard rates. Data Analysis, Probability plots for\nvarious distributions (exponential, Weibull, Normal and Gamma). Series,\nparallel, series-parallel, standby and k-out-of-m modeling. System reliability\nevaluation techniques, including methods of bounds, decomposition and\ntransformation techniques. Single and Multiple variable inversion techniques\nfor minimizing system reliability expression. Analysis of dependent failures.\nReliability computations using similar and dissimilar stress-strength\ndistributions (exponential, Weibull, normal and Gamma). Time dependent stressstrength distributions, fatigue failures, Recent trends in reliability\nevaluation techniques.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

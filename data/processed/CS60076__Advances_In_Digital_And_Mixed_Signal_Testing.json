@@ -1,0 +1,25 @@
+{
+  "title": "CS60076: Advances In Digital And Mixed Signal Testing",
+  "url": "https://wiki.metakgp.org/wiki/CS60076:_Advances_In_Digital_And_Mixed_Signal_Testing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDelay fault testing: path delay test, transition faults, delay test\nmethodologies. IDDQ testing: basic concept, faults detected, test generation,\nlimitations, IDDQ design for testability. Functional testing of arithmetic and\nregular arrays. Functional testing of microprocessors and microcontrollers.\nSequential circuit testing: time frame expansion and simulation-based\napproaches to ATPG, design of testable FSMs, use of coding theory. Advanced\nBIST techniques: theory of linear machines, practical BIST architectures.\nSystem-on-chip design and test: SOC testing problem, core-based design and\nsystem wrapper, proposed test architectures for SOC, platform-based design and\ntestability issues.DSP-based analog and mixed-signal test: functional DSP-based\ntesting, static ADC and DAC testing methods, realizing emulated instruments,\nCODEC testing, future challenges. Model-based analog and mixed-signal test:\nanalog fault models, levels of abstraction, analog fault simulation, analog\nATPG. Analog test bus standard: analog circuit DFT, analog test bus, IEEE\n1149.4 standard.References1.M. L. Bushnell and V. D. Agrawal, Essentials of\nElectronic Testing, Kluwer Academic Publishers.2.A. Osseiran, Analog and mixedsignal boundary scan: a guide to the IEEE 1149.4 test standard, Kluwer Academic\nPublishers.3.A. Krstic and K-T. Cheng, Delay fault testing for VLSI circuits,\nKluwer Academic Publishers.4.S. Chakravarty and P. J. Thadikaran, Introduction\nto IDDQ testing, Kluwer Academic Publishers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60076: Advances In Digital And Mixed Signal Testing\n\nSyllabus\nSyllabus mentioned in ERP\n\nDelay fault testing: path delay test, transition faults, delay test\nmethodologies.\n\nIDDQ testing: basic concept, faults detected, test generation,\nlimitations, IDDQ design for testability.\n\nFunctional testing of arithmetic and\nregular arrays.\n\nFunctional testing of microprocessors and microcontrollers.\n\nSequential circuit testing: time frame expansion and simulation-based\napproaches to ATPG, design of testable FSMs, use of coding theory.\n\nAdvanced\nBIST techniques: theory of linear machines, practical BIST architectures.\n\nSystem-on-chip design and test: SOC testing problem, core-based design and\nsystem wrapper, proposed test architectures for SOC, platform-based design and\ntestability issues.DSP-based analog and mixed-signal test: functional DSP-based\ntesting, static ADC and DAC testing methods, realizing emulated instruments,\nCODEC testing, future challenges.\n\nModel-based analog and mixed-signal test:\nanalog fault models, levels of abstraction, analog fault simulation, analog\nATPG.\n\nAnalog test bus standard: analog circuit DFT, analog test bus, IEEE\n1149.4 standard.References1.M.\n\nL.\n\nBushnell and V.\n\nD.\n\nAgrawal, Essentials of\nElectronic Testing, Kluwer Academic Publishers.2.A.\n\nOsseiran, Analog and mixedsignal boundary scan: a guide to the IEEE 1149.4 test standard, Kluwer Academic\nPublishers.3.A.\n\nKrstic and K-T."
+    },
+    {
+      "index": 1,
+      "text": "CS60076: Advances In Digital And Mixed Signal Testing\n\nof\nElectronic Testing, Kluwer Academic Publishers.2.A.\n\nOsseiran, Analog and mixedsignal boundary scan: a guide to the IEEE 1149.4 test standard, Kluwer Academic\nPublishers.3.A.\n\nKrstic and K-T.\n\nCheng, Delay fault testing for VLSI circuits,\nKluwer Academic Publishers.4.S.\n\nChakravarty and P.\n\nJ.\n\nThadikaran, Introduction\nto IDDQ testing, Kluwer Academic Publishers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

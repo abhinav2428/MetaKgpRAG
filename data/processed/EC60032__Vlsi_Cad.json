@@ -1,0 +1,20 @@
+{
+  "title": "EC60032: Vlsi Cad",
+  "url": "https://wiki.metakgp.org/wiki/EC60032:_Vlsi_Cad",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC30004 Introduction: Basic design flow, concept of design\nautomation; High level Synthesis: Role of hardware description language,\nbehavioral and structural models, synthesis flow. Functional simulation at\narchitectural level; Logic Design: Logic optimization techniques, logic hazards\nand their remedies. Power and delay minimization at logic level. Logic\nsimulation at structural level; Circuit Design: Mapping of logic designs into\ntransistor level circuits, optimized ordering of the input signals. Power and\ndelay considerations. Fan-in and fanout issues. Circuit simulation; Physical\ndesign automation: Partitioning, floorplanning, placement, routing. Layout and\ndesign rules, DRC etc. Parasitic extraction, delay and power estimation through\npost layout simulation; CAD for analog and mixed signal designs. Memory\nsynthesis. Clock and power routing. Testability, insertion of scan chain.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60032: Vlsi Cad\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC30004 Introduction: Basic design flow, concept of design\nautomation; High level Synthesis: Role of hardware description language,\nbehavioral and structural models, synthesis flow. Functional simulation at\narchitectural level; Logic Design: Logic optimization techniques, logic hazards\nand their remedies. Power and delay minimization at logic level. Logic\nsimulation at structural level; Circuit Design: Mapping of logic designs into\ntransistor level circuits, optimized ordering of the input signals. Power and\ndelay considerations. Fan-in and fanout issues. Circuit simulation; Physical\ndesign automation: Partitioning, floorplanning, placement, routing. Layout and\ndesign rules, DRC etc. Parasitic extraction, delay and power estimation through\npost layout simulation; CAD for analog and mixed signal designs. Memory\nsynthesis. Clock and power routing. Testability, insertion of scan chain.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

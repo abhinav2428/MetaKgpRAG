@@ -1,0 +1,25 @@
+{
+  "title": "ME60118: Computer Graphics And Visualization",
+  "url": "https://wiki.metakgp.org/wiki/ME60118:_Computer_Graphics_And_Visualization",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nComputer Graphics and VisualisationRaster graphics and volume graphics. Video\nbasics. Display devices and interactive devices; 2-D and 3-D graphics\nprimitives. Clipping in 2-D and 3-D; Generation and projection of 3-D wire\nframe solid models, polygonal models. Space curves and surface models.\nIntersection of surfaces and blending; hidden line and hidden surface\nelimination algorithms; Ray-surface intersection and inverse mapping\nalgorithms. Ray tracing for photo realistic rendering. Illumination models.\nShading, Transparency, Shadowing and Texture mapping; Representation of\ncolours. Visualization of experimental and simulated data. Surface\nconstruction from scattered data, 3-D data arrays and 2-D cross sections.\nElevation maps, topological maps, contour maps and intensity maps; fractals for\nvisualization of complex and large data sets. Algebraic stochastic and\nGeometric fractals. Modeling of natural forms and textures using fractals;\nVisualization of multi variate relations. Flow visualization and hyper\nstreamlines; Visualization of Meteorological, cosmological, seismic, biological\ndata for scientific decision making. Animation. Modelling issues in dynamic\nvisualization. Behavioural animation; walk through Ã¢ÂÂ coordinate\ntransformation and view transformation; virtual reality interfaces. Interactive\nand immersive systems for Prototyping and visualization; Visualization in\nconcurrent engineering. Interactive multimedia technology and standards for\nVideo-Graphics-Audio integration and tele-video conferencing.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60118: Computer Graphics And Visualization\n\nSyllabus\nSyllabus mentioned in ERP\n\nComputer Graphics and VisualisationRaster graphics and volume graphics.\n\nVideo\nbasics.\n\nDisplay devices and interactive devices; 2-D and 3-D graphics\nprimitives.\n\nClipping in 2-D and 3-D; Generation and projection of 3-D wire\nframe solid models, polygonal models.\n\nSpace curves and surface models.\n\nIntersection of surfaces and blending; hidden line and hidden surface\nelimination algorithms; Ray-surface intersection and inverse mapping\nalgorithms.\n\nRay tracing for photo realistic rendering.\n\nIllumination models.\n\nShading, Transparency, Shadowing and Texture mapping; Representation of\ncolours.\n\nVisualization of experimental and simulated data.\n\nSurface\nconstruction from scattered data, 3-D data arrays and 2-D cross sections.\n\nElevation maps, topological maps, contour maps and intensity maps; fractals for\nvisualization of complex and large data sets.\n\nAlgebraic stochastic and\nGeometric fractals.\n\nModeling of natural forms and textures using fractals;\nVisualization of multi variate relations.\n\nFlow visualization and hyper\nstreamlines; Visualization of Meteorological, cosmological, seismic, biological\ndata for scientific decision making.\n\nAnimation.\n\nModelling issues in dynamic\nvisualization.\n\nBehavioural animation; walk through Ã¢ÂÂ coordinate\ntransformation and view transformation; virtual reality interfaces."
+    },
+    {
+      "index": 1,
+      "text": "ME60118: Computer Graphics And Visualization\n\ndecision making.\n\nAnimation.\n\nModelling issues in dynamic\nvisualization.\n\nBehavioural animation; walk through Ã¢ÂÂ coordinate\ntransformation and view transformation; virtual reality interfaces.\n\nInteractive\nand immersive systems for Prototyping and visualization; Visualization in\nconcurrent engineering.\n\nInteractive multimedia technology and standards for\nVideo-Graphics-Audio integration and tele-video conferencing.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

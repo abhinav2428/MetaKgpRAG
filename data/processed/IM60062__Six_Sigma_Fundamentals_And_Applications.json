@@ -1,0 +1,25 @@
+{
+  "title": "IM60062: Six Sigma Fundamentals And Applications",
+  "url": "https://wiki.metakgp.org/wiki/IM60062:_Six_Sigma_Fundamentals_And_Applications",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Six Sigma: Definitions and success stories, six sigma\nframework, DMAIC – the six sigma improvement process, statistics and six sigma,\ndifference between six sigma and TQM.\nPreparing for Deployment: Elements of successful deployment, personal\nrequirements – champions, black belts, and green belts, and focusing on\ndeployment – customer focus, project selection, and QFD.\nSix Sigma Tools: Exploratory tools – Charts, diagrams, and metrics, Data\ncollection and monitoring tools – primary and secondary data, instrument design\nand sample survey, gage R&R, and attribute measurement systems, and SPC,\nAnalysis tools – Diagrams, Hypothesis testing, ANOVA, correlation and\nregression (linear and logistic), and FMECA.\nSix Sigma Methodology (DMAIC): Define – objectives, process thinking, process\nmapping, balanced scorecard, project selection and tracking, Measure –\nobjectives, measurements (discrete vs continuous), measurement as a process,\nbaseline estimation, performance metrics, and measurement system analysis,\nAnalysis – objectives, value stream analysis, analyzing sources of variations,\nand determining process drivers, Improve – objectives, defining new process,\nbenchmarking, prioritizing and selecting a solution, and corrective action\nmatrix, Control – objectives, more on SPC, visual control, best practices and\nlessons learned, and documenting process changes.\nCase studies: Selective cases with hands on exercises.\nTextbooks and References\n•Keller, P. (2005). “Six Sigma Demystified”. Tata McGraw-Hill, New Delhi.\n•Breyfogle, F. W. III, Cupello, J. M. and Meadows, B. (2001). “Managing Six\nSigma”. John Wiley and Sons, New York.\n•Pyzdek, T. (2003). “Six Sigma Handbook”. McGraw-Hill, New York.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60062: Six Sigma Fundamentals And Applications\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Six Sigma: Definitions and success stories, six sigma\nframework, DMAIC – the six sigma improvement process, statistics and six sigma,\ndifference between six sigma and TQM.\n\nPreparing for Deployment: Elements of successful deployment, personal\nrequirements – champions, black belts, and green belts, and focusing on\ndeployment – customer focus, project selection, and QFD.\n\nSix Sigma Tools: Exploratory tools – Charts, diagrams, and metrics, Data\ncollection and monitoring tools – primary and secondary data, instrument design\nand sample survey, gage R&R, and attribute measurement systems, and SPC,\nAnalysis tools – Diagrams, Hypothesis testing, ANOVA, correlation and\nregression (linear and logistic), and FMECA.\n\nSix Sigma Methodology (DMAIC): Define – objectives, process thinking, process\nmapping, balanced scorecard, project selection and tracking, Measure –\nobjectives, measurements (discrete vs continuous), measurement as a process,\nbaseline estimation, performance metrics, and measurement system analysis,\nAnalysis – objectives, value stream analysis, analyzing sources of variations,\nand determining process drivers, Improve – objectives, defining new process,\nbenchmarking, prioritizing and selecting a solution, and corrective action\nmatrix, Control – objectives, more on SPC, visual control, best practices and\nlessons learned, and documenting process changes."
+    },
+    {
+      "index": 1,
+      "text": "IM60062: Six Sigma Fundamentals And Applications\n\nprioritizing and selecting a solution, and corrective action\nmatrix, Control – objectives, more on SPC, visual control, best practices and\nlessons learned, and documenting process changes.\n\nCase studies: Selective cases with hands on exercises.\n\nTextbooks and References\n•Keller, P.\n\n(2005).\n\n“Six Sigma Demystified”.\n\nTata McGraw-Hill, New Delhi.\n\n•Breyfogle, F.\n\nW.\n\nIII, Cupello, J.\n\nM.\n\nand Meadows, B.\n\n(2001).\n\n“Managing Six\nSigma”.\n\nJohn Wiley and Sons, New York.\n\n•Pyzdek, T.\n\n(2003).\n\n“Six Sigma Handbook”.\n\nMcGraw-Hill, New York.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

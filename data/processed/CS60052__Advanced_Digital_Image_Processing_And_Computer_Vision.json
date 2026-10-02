@@ -1,0 +1,25 @@
+{
+  "title": "CS60052: Advanced Digital Image Processing And Computer Vision",
+  "url": "https://wiki.metakgp.org/wiki/CS60052:_Advanced_Digital_Image_Processing_And_Computer_Vision",
+  "text": "Syllabus\nPrerequisites - CS21001: Discrete Structures\n\nSyllabus mentioned in ERP\n\nSensor and Imaging: Imaging Optics, Radiometry of Imaging, Illumination sources\nand techniques, Camera Principles, Color Imaging, Single Sensor Color Imaging\nand Color Demosaicing, Range Images, 3D Imaging. Signal Representation: Vector\nSpace and Unitary Transforms, Multi-Resolutional Signal Representation, Wavelet\nDecomposition, Scale space and diffusion, Representation of color, Retinex\nProcessing, Markov Random Field Modeling of Images. Non-linear Image\nProcessing: Median and Order Statistics Filters, Rank-Ordered-Mean Filters and\nSignal Dependent Rank-Ordered-Mean Filters, Two Dimensional Teager Filters,\nApplications of nonlinear filters in image enhancement, edge detections, noise\nremoval etc. Feature Estimation: Morphological Operations, Edge Detection,\nEdges in multichannel images, Texture Analysis, Optical flow based motion\nestimation, Reflectance based shape recovery, Depth from focus, Stereo matching\nand depth estimation. Image and Video Compression Standards: Lossy and lossless\ncompression schemes: Transform Based, Sub-band Decomposition, Entropy Encoding,\nJPEG, JPEG2000, MPEG-1, MPEG-4, and MPEG-7. Object Analysis, Classification:\nBayesian Classi-fication, Fuzzy Classification, Neural Network Classifiers,\nShape Reconstruction from volumetric data, knowledge-based interpretation of\nimages.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60052: Advanced Digital Image Processing And Computer Vision\n\nSyllabus\nPrerequisites - CS21001: Discrete Structures\n\nSyllabus mentioned in ERP\n\nSensor and Imaging: Imaging Optics, Radiometry of Imaging, Illumination sources\nand techniques, Camera Principles, Color Imaging, Single Sensor Color Imaging\nand Color Demosaicing, Range Images, 3D Imaging. Signal Representation: Vector\nSpace and Unitary Transforms, Multi-Resolutional Signal Representation, Wavelet\nDecomposition, Scale space and diffusion, Representation of color, Retinex\nProcessing, Markov Random Field Modeling of Images. Non-linear Image\nProcessing: Median and Order Statistics Filters, Rank-Ordered-Mean Filters and\nSignal Dependent Rank-Ordered-Mean Filters, Two Dimensional Teager Filters,\nApplications of nonlinear filters in image enhancement, edge detections, noise\nremoval etc. Feature Estimation: Morphological Operations, Edge Detection,\nEdges in multichannel images, Texture Analysis, Optical flow based motion\nestimation, Reflectance based shape recovery, Depth from focus, Stereo matching\nand depth estimation. Image and Video Compression Standards: Lossy and lossless\ncompression schemes: Transform Based, Sub-band Decomposition, Entropy Encoding,\nJPEG, JPEG2000, MPEG-1, MPEG-4, and MPEG-7. Object Analysis, Classification:\nBayesian Classi-fication, Fuzzy Classification, Neural Network Classifiers,\nShape Reconstruction from volumetric data, knowledge-based interpretation of\nimages.\n\nConcepts taught in class"
+    },
+    {
+      "index": 1,
+      "text": "CS60052: Advanced Digital Image Processing And Computer Vision\n\nClassi-fication, Fuzzy Classification, Neural Network Classifiers,\nShape Reconstruction from volumetric data, knowledge-based interpretation of\nimages.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

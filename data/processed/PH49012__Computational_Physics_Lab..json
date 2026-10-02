@@ -1,0 +1,20 @@
+{
+  "title": "PH49012: Computational Physics Lab.",
+  "url": "https://wiki.metakgp.org/wiki/PH49012:_Computational_Physics_Lab.",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n1. Numerical Stability- Examples of numerical instability in recurrence\nrelations.\n2. Effect of round off errors.\n3. Projectile problem in the absence of air resistance - numerical solution\nusing\nEuler method, determination of range and time of transit for different firing\nangles.\n4. Projectile problem-incorporation of effects of air drag and variation of air\ndensity in the vertical and their effects on the maximum range of the\nprojectile.\n5. Random walk - drunkard performing a one dimensional random walk.\n6. Numerical solution of planetary motion using Euler Cromer method.\n7. Numerical integration -trapezoidal and Simpsons rule\n8. Bounded particle in a one dimensional time-independent potentialdetermination\nof the time period of oscillation of the particle using numerical integration\nmethods.\n9. Phase space trajectory of a particle in a one dimensional potential using\nEuler and Runge Kutta methods.\n10. Motion of an electron in an electric and magnetic fields.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Physics"
+  ],
+  "categories": [
+    "Physics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "PH49012: Computational Physics Lab.\n\nSyllabus\nSyllabus mentioned in ERP\n\n1. Numerical Stability- Examples of numerical instability in recurrence\nrelations.\n2. Effect of round off errors.\n3. Projectile problem in the absence of air resistance - numerical solution\nusing\nEuler method, determination of range and time of transit for different firing\nangles.\n4. Projectile problem-incorporation of effects of air drag and variation of air\ndensity in the vertical and their effects on the maximum range of the\nprojectile.\n5. Random walk - drunkard performing a one dimensional random walk.\n6. Numerical solution of planetary motion using Euler Cromer method.\n7. Numerical integration -trapezoidal and Simpsons rule\n8. Bounded particle in a one dimensional time-independent potentialdetermination\nof the time period of oscillation of the particle using numerical integration\nmethods.\n9. Phase space trajectory of a particle in a one dimensional potential using\nEuler and Runge Kutta methods.\n10. Motion of an electron in an electric and magnetic fields.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

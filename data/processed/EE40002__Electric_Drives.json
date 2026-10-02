@@ -1,0 +1,25 @@
+{
+  "title": "EE40002: Electric Drives",
+  "url": "https://wiki.metakgp.org/wiki/EE40002:_Electric_Drives",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDrive concept, four quadrant drive and load characteristics, selection of\nmotor, control and stability of electric drives, feed back control of drives,\nthermal effects in electrical machines; DC motor drive Ã¢ÂÂ Dynamical model of\nseparately excited dc motor, control of a separately excited dc motor, current,\nflux and speed controller design; control loop containing an electronic power\nconverter: dc drive with line-commutated converter, dc drive with high\nfrequency PWM converter. 3-phase induction motor drive Ã¢ÂÂ Scalar control:\nStator voltage control, V/f control, VSI and its PWM strategy for motor\ncontrol: sine triangle, space-vector; Limitation of scalar control. Basic\noperation of vector Control: Dynamical control of motor torque and motor flux\nusing ideal CSI.Doubly fed induction motor drives: Basic philosophy of\noperation of this drive, different quadrant of operations,\napplications.Permanent magnet motor drive: Basic brushless dc motor drive with\nposition encoder. Basic principle of 3-phase PMSM drive with rotor position\nencoder.Switched Reluctance motor drive: Principle of torque production, low\nspeed and high speed controller with rotor position sensor.Industrial drives:\nDifferent components of standard industrial drives, design of each component;\npractical issues of interconnections between motors and inverters.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE40002: Electric Drives\n\nSyllabus\nSyllabus mentioned in ERP\n\nDrive concept, four quadrant drive and load characteristics, selection of\nmotor, control and stability of electric drives, feed back control of drives,\nthermal effects in electrical machines; DC motor drive Ã¢ÂÂ Dynamical model of\nseparately excited dc motor, control of a separately excited dc motor, current,\nflux and speed controller design; control loop containing an electronic power\nconverter: dc drive with line-commutated converter, dc drive with high\nfrequency PWM converter. 3-phase induction motor drive Ã¢ÂÂ Scalar control:\nStator voltage control, V/f control, VSI and its PWM strategy for motor\ncontrol: sine triangle, space-vector; Limitation of scalar control. Basic\noperation of vector Control: Dynamical control of motor torque and motor flux\nusing ideal CSI.Doubly fed induction motor drives: Basic philosophy of\noperation of this drive, different quadrant of operations,\napplications.Permanent magnet motor drive: Basic brushless dc motor drive with\nposition encoder. Basic principle of 3-phase PMSM drive with rotor position\nencoder.Switched Reluctance motor drive: Principle of torque production, low\nspeed and high speed controller with rotor position sensor.Industrial drives:\nDifferent components of standard industrial drives, design of each component;\npractical issues of interconnections between motors and inverters.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources"
+    },
+    {
+      "index": 1,
+      "text": "EE40002: Electric Drives\n\nindustrial drives, design of each component;\npractical issues of interconnections between motors and inverters.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

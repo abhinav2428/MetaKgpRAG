@@ -1,0 +1,25 @@
+{
+  "title": "ME60306: Precision And Micro Manufacturing",
+  "url": "https://wiki.metakgp.org/wiki/ME60306:_Precision_And_Micro_Manufacturing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nINTRODUCTION: basic definition, size scales, scaling analysis, technology\nchange, Lithographic Processes- Optical and X-ray.\nPRECISION ENGINEERING AND PRACTICES: Definitions, Sources Of Error, Basic\nConcepts Of Machining, Machine Tool Variables- accuracy, stiffness, spindle\nvibration, flatness, straightness, and smoothness of motion, 1-2 DOF systems,\nFeedback Variables, Cutting Tool Variables, Workpiece Variables, Environment\nEffects and Thermal Errors.\nINTRODUCTION TO MACHINING ANALYSIS: geometry of Cutting Edge, Energy Models,\nComparison with Micro-scale Machining.\nDIAMOND MICROMACHINING: Introduction, Diamond as a Tool Material, Compatible\nMaterials, Diamond Performance, Diamond Machining, Micro-mechanical\nApplications,\nDiamond Machining as a Micro-mechanical Process Research Method, Ductile Regime\nGrinding\nMICRO-ECM, MICRO-EDM etc.\nMICROMILLING: Micro-milling Tools, Process Results and Micro-milling\nApplications- micro-mechanically milled X-ray masks, micro-milled mask\nmaterials, Mask Absorption Quantification, Exposure Quantification.\nMICRODRILLING: Micro-drilling and Macro-drilling Techniques.\nLASER MICROMACHINING: laser Optics, Laser Ablation, Heat Affected Zone and\nLaser Polymerisation.\nLIGA, S-LIGA\nMicro welding: Micro welding in similar and dissimilar materials; welding\nprocesses like ultrasonic, EB, LB; applications.\nMicro casting: Casting processes like vacuum, semi-solid state; applications\nProcessing of Integrated Circuits, Clean rooms, crystal growing and shaping of\nwafers, Etching, Photo and other lithography techniques, Impurity introduction,\nThermal oxidation, CVD, Metallisation etc. IC packaging\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60306: Precision And Micro Manufacturing\n\nSyllabus\nSyllabus mentioned in ERP\n\nINTRODUCTION: basic definition, size scales, scaling analysis, technology\nchange, Lithographic Processes- Optical and X-ray.\n\nPRECISION ENGINEERING AND PRACTICES: Definitions, Sources Of Error, Basic\nConcepts Of Machining, Machine Tool Variables- accuracy, stiffness, spindle\nvibration, flatness, straightness, and smoothness of motion, 1-2 DOF systems,\nFeedback Variables, Cutting Tool Variables, Workpiece Variables, Environment\nEffects and Thermal Errors.\n\nINTRODUCTION TO MACHINING ANALYSIS: geometry of Cutting Edge, Energy Models,\nComparison with Micro-scale Machining.\n\nDIAMOND MICROMACHINING: Introduction, Diamond as a Tool Material, Compatible\nMaterials, Diamond Performance, Diamond Machining, Micro-mechanical\nApplications,\nDiamond Machining as a Micro-mechanical Process Research Method, Ductile Regime\nGrinding\nMICRO-ECM, MICRO-EDM etc.\n\nMICROMILLING: Micro-milling Tools, Process Results and Micro-milling\nApplications- micro-mechanically milled X-ray masks, micro-milled mask\nmaterials, Mask Absorption Quantification, Exposure Quantification.\n\nMICRODRILLING: Micro-drilling and Macro-drilling Techniques.\n\nLASER MICROMACHINING: laser Optics, Laser Ablation, Heat Affected Zone and\nLaser Polymerisation.\n\nLIGA, S-LIGA\nMicro welding: Micro welding in similar and dissimilar materials; welding\nprocesses like ultrasonic, EB, LB; applications."
+    },
+    {
+      "index": 1,
+      "text": "ME60306: Precision And Micro Manufacturing\n\nLaser Ablation, Heat Affected Zone and\nLaser Polymerisation.\n\nLIGA, S-LIGA\nMicro welding: Micro welding in similar and dissimilar materials; welding\nprocesses like ultrasonic, EB, LB; applications.\n\nMicro casting: Casting processes like vacuum, semi-solid state; applications\nProcessing of Integrated Circuits, Clean rooms, crystal growing and shaping of\nwafers, Etching, Photo and other lithography techniques, Impurity introduction,\nThermal oxidation, CVD, Metallisation etc.\n\nIC packaging\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

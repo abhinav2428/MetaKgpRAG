@@ -1,0 +1,21 @@
+{
+  "title": "ME60077: Finite Element Methods In Engineering",
+  "url": "https://wiki.metakgp.org/wiki/ME60077:_Finite_Element_Methods_In_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic concepts : The standard discrete system, Finite elements of an elastic\ncontinuum-displacement approach, Generalization of the finite element conceptsweighted residual and variational approaches. Element types : triangular,\nrectangular, quadrilateral, sector, curved, isoparametric elements and\nnumerical integration. Automatic mesh generation schemes. Application to\nstructural mechanics problems : plane stress and plane strains, Axisymmetric\nstress analysis, three dimensional stress analysis, bending of plates.\nIntroduction to the use of FEM in steady state field problems-heat conduction,\nfluid flow and non-linear material problems, plasticity, creep etc. Computer\nprocedures for Finite element analysis.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60077: Finite Element Methods In Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic concepts : The standard discrete system, Finite elements of an elastic\ncontinuum-displacement approach, Generalization of the finite element conceptsweighted residual and variational approaches. Element types : triangular,\nrectangular, quadrilateral, sector, curved, isoparametric elements and\nnumerical integration. Automatic mesh generation schemes. Application to\nstructural mechanics problems : plane stress and plane strains, Axisymmetric\nstress analysis, three dimensional stress analysis, bending of plates.\nIntroduction to the use of FEM in steady state field problems-heat conduction,\nfluid flow and non-linear material problems, plasticity, creep etc. Computer\nprocedures for Finite element analysis.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

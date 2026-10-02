@@ -1,0 +1,25 @@
+{
+  "title": "IM60025: Software Engineering",
+  "url": "https://wiki.metakgp.org/wiki/IM60025:_Software_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nHistory and evolution of software engineering: software engineering as a\ndiscipline, Information systems and their ramifications.\nSoftware development life cycles: waterfall, prototyping, incremental, spiral,\nconcurrent, reuse, and formal models.\nRequirement analysis: problems in information elicitation, methods of eliciting\nuser requirements, functional and non-functional requirements, tools for\nrequirement analysis, document flow charts, decision tables, data flow\ndiagrams, data dictionaries, tools for analysing real time systems, Use case\ndiagrams, system sequence diagrams, CRC card, software requirement\nspecification.\nSoftware design: the design process, function-oriented design, data base\noriented design, object oriented design, data base design, user interface\ndesign, output design.\nCoding: Code documentation, data declaration, statement construction,\nguidelines for input/output, efficiency with regard to code, memory and\ninput/output.\nTesting: Unit testing, black box and white box testing, program flow graphs,\ntest cases, integration testing, top-down and bottom-up testing, validation\ntesting, alpha and beta testing, system testing, security testing, performance\ntesting.\nMaintenance: software reliability, availability, and maintainability,\nReliability models.\nBooks:\n•Software Engineering: A Practitioners Approach by Roger Pressman, 6th Edition,\nMcGraw-Hill\n•Software Engineering by Ian Sommerville, Addison-Wesley\n•Fundamentals of Software Engineering by Rajiv Mall, PHI\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60025: Software Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nHistory and evolution of software engineering: software engineering as a\ndiscipline, Information systems and their ramifications.\n\nSoftware development life cycles: waterfall, prototyping, incremental, spiral,\nconcurrent, reuse, and formal models.\n\nRequirement analysis: problems in information elicitation, methods of eliciting\nuser requirements, functional and non-functional requirements, tools for\nrequirement analysis, document flow charts, decision tables, data flow\ndiagrams, data dictionaries, tools for analysing real time systems, Use case\ndiagrams, system sequence diagrams, CRC card, software requirement\nspecification.\n\nSoftware design: the design process, function-oriented design, data base\noriented design, object oriented design, data base design, user interface\ndesign, output design.\n\nCoding: Code documentation, data declaration, statement construction,\nguidelines for input/output, efficiency with regard to code, memory and\ninput/output.\n\nTesting: Unit testing, black box and white box testing, program flow graphs,\ntest cases, integration testing, top-down and bottom-up testing, validation\ntesting, alpha and beta testing, system testing, security testing, performance\ntesting.\n\nMaintenance: software reliability, availability, and maintainability,\nReliability models."
+    },
+    {
+      "index": 1,
+      "text": "IM60025: Software Engineering\n\ntesting, validation\ntesting, alpha and beta testing, system testing, security testing, performance\ntesting.\n\nMaintenance: software reliability, availability, and maintainability,\nReliability models.\n\nBooks:\n•Software Engineering: A Practitioners Approach by Roger Pressman, 6th Edition,\nMcGraw-Hill\n•Software Engineering by Ian Sommerville, Addison-Wesley\n•Fundamentals of Software Engineering by Rajiv Mall, PHI\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

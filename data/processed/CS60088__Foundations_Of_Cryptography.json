@@ -1,0 +1,33 @@
+{
+  "title": "CS60088: Foundations Of Cryptography",
+  "url": "https://wiki.metakgp.org/wiki/CS60088:_Foundations_Of_Cryptography",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Cryptography: Basics of Symmetric Key Cryptography, Basics of\nAssymetric Key Cryptography, Hardness of Functions\nNotions of Semantic Security (SS) and Message Indistinguishability (MI): Proof\nof Equivalence of SS and MI, Hard Core Predicate, Trap-door permutation,\nGoldwasser-Micali Encryption\nGoldreich-Levin Theorem: Relation between Hardcore Predicates and Trap-door\npermutations\nFormal Notions of Attacks: Attacks under Message Indistinguishability: Chosen\nPlaintext Attack(IND-CPA), Chosen Ciphertext Attacks (IND-CCA1 and IND-CCA2),\nAttacks under Message Non-malleability: NM-CPA and NM-CCA2, Inter-relations\namong the attack model\nRandom Oracles: Provable Security and asymmetric cryptography, hash functions\nOne-way functions: Weak and Strong one way functions\nPseudo-random Generators (PRG): Blum-Micali-Yao Construction, Construction of\nmore powerful PRG, Relation between One-way functions and PRG, Pseudo-random\nFunctions (PRF)\nBuilding a Pseudorandom Permutation: The Luby Rackoff Construction: Formal\nDefinition, Application of the Luby Rackoff Construction to the construction of\nBlock Ciphers, The DES in the light of Luby Rackoff Construction\nLeft or Right Security (LOR)\nMessage Authentication Codes (MACs): Formal Definition of Weak and Strong MACs,\nUsing a PRF as a MAC, Variable length MAC\nPublic Key Signature Schemes: Formal Definitions, Signing and Verification,\nFormal Proofs of Security of Full Domain Hashing\nAssumptions for Public Key Signature Schemes: One way functions Imply Secure\nOne-time Signatures\nShamirs Secret Sharing Scheme\nFormally Analyzing Cryptographic Protocols\nZero Knowledge Proofs and Protocols\nReferences\n1.Hans Delfs and Helmut Knebl, Introduction to Cryptography: Principles and\nApplications, Springer Verlag.\n2.Wenbo Mao, Modern Cryptography, Theory and Practice, Pearson Education (Low\nPriced Edition)\n3.Shaffi Goldwasser and Mihir Bellare, Lecture Notes on Cryptography, Available\nat http://citeseerx.ist.psu.edu/.\n4.Oded Goldreich, Foundations of Cryptography, CRC Press (Low Priced Edition\nAvailable), Part 1 and Part 2\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60088: Foundations Of Cryptography\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS60088: Foundations Of Cryptography\n\nIntroduction to Cryptography: Basics of Symmetric Key Cryptography, Basics of\nAssymetric Key Cryptography, Hardness of Functions\nNotions of Semantic Security (SS) and Message Indistinguishability (MI): Proof\nof Equivalence of SS and MI, Hard Core Predicate, Trap-door permutation,\nGoldwasser-Micali Encryption\nGoldreich-Levin Theorem: Relation between Hardcore Predicates and Trap-door\npermutations\nFormal Notions of Attacks: Attacks under Message Indistinguishability: Chosen\nPlaintext Attack(IND-CPA), Chosen Ciphertext Attacks (IND-CCA1 and IND-CCA2),\nAttacks under Message Non-malleability: NM-CPA and NM-CCA2, Inter-relations\namong the attack model\nRandom Oracles: Provable Security and asymmetric cryptography, hash functions\nOne-way functions: Weak and Strong one way functions\nPseudo-random Generators (PRG): Blum-Micali-Yao Construction, Construction of\nmore powerful PRG, Relation between One-way functions and PRG, Pseudo-random\nFunctions (PRF)\nBuilding a Pseudorandom Permutation: The Luby Rackoff Construction: Formal\nDefinition, Application of the Luby Rackoff Construction to the construction of\nBlock Ciphers, The DES in the light of Luby Rackoff Construction\nLeft or Right Security (LOR)\nMessage Authentication Codes (MACs): Formal Definition of Weak and Strong MACs,\nUsing a PRF as a MAC, Variable length MAC\nPublic Key Signature Schemes: Formal Definitions, Signing and Verification,\nFormal Proofs of Security of Full Domain Hashing\nAssumption"
+    },
+    {
+      "index": 2,
+      "text": "CS60088: Foundations Of Cryptography\n\n Weak and Strong MACs,\nUsing a PRF as a MAC, Variable length MAC\nPublic Key Signature Schemes: Formal Definitions, Signing and Verification,\nFormal Proofs of Security of Full Domain Hashing\nAssumptions for Public Key Signature Schemes: One way functions Imply Secure\nOne-time Signatures\nShamirs Secret Sharing Scheme\nFormally Analyzing Cryptographic Protocols\nZero Knowledge Proofs and Protocols\nReferences\n1.Hans Delfs and Helmut Knebl, Introduction to Cryptography: Principles and\nApplications, Springer Verlag."
+    },
+    {
+      "index": 3,
+      "text": "CS60088: Foundations Of Cryptography\n\n2.Wenbo Mao, Modern Cryptography, Theory and Practice, Pearson Education (Low\nPriced Edition)\n3.Shaffi Goldwasser and Mihir Bellare, Lecture Notes on Cryptography, Available\nat http://citeseerx.ist.psu.edu/.\n\n4.Oded Goldreich, Foundations of Cryptography, CRC Press (Low Priced Edition\nAvailable), Part 1 and Part 2\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

@@ -1,0 +1,21 @@
+{
+  "title": "AE40019: Automatic Control Of Aircraft",
+  "url": "https://wiki.metakgp.org/wiki/AE40019:_Automatic_Control_Of_Aircraft",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: AE21006, AE31007\n3 - 0 - 0: 3 CreditsSystem, open loop and closed loop\ncontrol, typical objectives of control analysis of linear invariant systems:\ngoverning equations, input-output approach, free and forced-responses, impulse\nresponse, frequency response, transfer function and its graphical\nrepresentation, Role of transfer function in stability, transient and forced\nresponses, block diagram algebra and signal flow graph; Analysis of feedback\ncontrol system; common control objectives, typical system layout, classical\nstability and error analysis; Modern approach using state variables; design of\ncontrol systems: classical approach root locus and bode plot, modern approach\nregulator problem. Introduction to sampled data and digital systems analysis:\ngeneral configuration and models, free and forced responses; dynamics of\nsensors and actuators used in aerospace systems, Longitudinal and lateral\nstability augmentation and autopilot systems, Automatic landing system.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Aerospace_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Aerospace_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AE40019: Automatic Control Of Aircraft\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: AE21006, AE31007\n3 - 0 - 0: 3 CreditsSystem, open loop and closed loop\ncontrol, typical objectives of control analysis of linear invariant systems:\ngoverning equations, input-output approach, free and forced-responses, impulse\nresponse, frequency response, transfer function and its graphical\nrepresentation, Role of transfer function in stability, transient and forced\nresponses, block diagram algebra and signal flow graph; Analysis of feedback\ncontrol system; common control objectives, typical system layout, classical\nstability and error analysis; Modern approach using state variables; design of\ncontrol systems: classical approach root locus and bode plot, modern approach\nregulator problem. Introduction to sampled data and digital systems analysis:\ngeneral configuration and models, free and forced responses; dynamics of\nsensors and actuators used in aerospace systems, Longitudinal and lateral\nstability augmentation and autopilot systems, Automatic landing system.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \"\n\n!Day!!8:00-8:55 am!!9:00-9:55 am!!10:00-10:55 am!!11:00-11:55 am!!12:00-12:55 pm!! !!2:00-2:55 pm!!3:00-3:55 pm!!4:00-4:55 pm!!5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

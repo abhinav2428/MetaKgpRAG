@@ -1,0 +1,20 @@
+{
+  "title": "EE60072: Real Time Systems",
+  "url": "https://wiki.metakgp.org/wiki/EE60072:_Real_Time_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Real-time systems: Typical examples of RTS. Characteristic\nfeatures\nof\nRT\napplications.\nStructural, Functional\nand\nPerformance\nrequirement of\nReactive\nRTS. Distinctive features from Non-RT and Off-line\nsystem. Modelling RTS: Representation of time,\nConcurrency\nand\nDistributedness\nin\ndiscrete\nevent\nsystems,\nHierarchical\nrepresentation of complex DES. Input, Output and Communication. Examples of\nmodelling practical systems as RT DES. Modelling programs as RTS.\nAnalysing RTS: Analysing logical properties of DES such as Reachability,\nDeadlock etc. Analysing timing related properties. Specification and\nVerification of RT DES properties. Temporal logic, Model checking. Example of\nchecking safety and timing properties of industrial systems.\nRequirements and features of real-time Computing Environments: Real-time\nOperating Systems, Interupts, clock, Device support, Multi\ntasking, Static\nand Dynamic\nScheduling,\nResource Allocation, Real-time Programming\nlanguage with examples drawn from existing languages. Real-time communication\nsystems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60072: Real Time Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Real-time systems: Typical examples of RTS. Characteristic\nfeatures\nof\nRT\napplications.\nStructural, Functional\nand\nPerformance\nrequirement of\nReactive\nRTS. Distinctive features from Non-RT and Off-line\nsystem. Modelling RTS: Representation of time,\nConcurrency\nand\nDistributedness\nin\ndiscrete\nevent\nsystems,\nHierarchical\nrepresentation of complex DES. Input, Output and Communication. Examples of\nmodelling practical systems as RT DES. Modelling programs as RTS.\nAnalysing RTS: Analysing logical properties of DES such as Reachability,\nDeadlock etc. Analysing timing related properties. Specification and\nVerification of RT DES properties. Temporal logic, Model checking. Example of\nchecking safety and timing properties of industrial systems.\nRequirements and features of real-time Computing Environments: Real-time\nOperating Systems, Interupts, clock, Device support, Multi\ntasking, Static\nand Dynamic\nScheduling,\nResource Allocation, Real-time Programming\nlanguage with examples drawn from existing languages. Real-time communication\nsystems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

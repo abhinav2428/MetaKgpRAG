@@ -1,0 +1,21 @@
+{
+  "title": "EE31002: Power Systems",
+  "url": "https://wiki.metakgp.org/wiki/EE31002:_Power_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Power systems Ã¢ÂÂ Generation, Transmission and distribution\nsystem. Single line diagram and per unit system. Restructuring of power utility\nand its implications.Power system components: Circuit model of synchronous\ngenerators and Transformers. Transmission lines Ã¢ÂÂ lumped and distributed\nparameter models.Steady state operation Ã¢ÂÂ Short, medium and long line models\nof transmission lines. ABCD parameters. Real and reactive power flow on a\ntransmission line and line loadability.Power Flow Analysis Ã¢ÂÂ Power flow\nequations, and solution methods Ã¢ÂÂ Gauss-Seidel, Newton-Raphson and Fast\ndecoupled load flow algorithms.Faults in Power System Ã¢ÂÂ Short circuits and\nopen circuits. Symmetrical and Unsymmetrical faults. Symmetrical components and\nsequence networks. Analysis of symmetrical and unsymmetrical faults.Power\nSystem Protection Ã¢ÂÂ Protective relays and their characteristics. Overcurrent, distance and differential protection schemes. Circuit breakers.Power\nSystem Controls Ã¢ÂÂ Generator voltage control. Turbine-governor control. Load\nFrequency control. Economic dispatch and optimal power flow.Power System\nStability Ã¢ÂÂ Swing equation. Equal area criterion and numerical integration\nof swing equation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE31002: Power Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Power systems Ã¢ÂÂ Generation, Transmission and distribution\nsystem. Single line diagram and per unit system. Restructuring of power utility\nand its implications.Power system components: Circuit model of synchronous\ngenerators and Transformers. Transmission lines Ã¢ÂÂ lumped and distributed\nparameter models.Steady state operation Ã¢ÂÂ Short, medium and long line models\nof transmission lines. ABCD parameters. Real and reactive power flow on a\ntransmission line and line loadability.Power Flow Analysis Ã¢ÂÂ Power flow\nequations, and solution methods Ã¢ÂÂ Gauss-Seidel, Newton-Raphson and Fast\ndecoupled load flow algorithms.Faults in Power System Ã¢ÂÂ Short circuits and\nopen circuits. Symmetrical and Unsymmetrical faults. Symmetrical components and\nsequence networks. Analysis of symmetrical and unsymmetrical faults.Power\nSystem Protection Ã¢ÂÂ Protective relays and their characteristics. Overcurrent, distance and differential protection schemes. Circuit breakers.Power\nSystem Controls Ã¢ÂÂ Generator voltage control. Turbine-governor control. Load\nFrequency control. Economic dispatch and optimal power flow.Power System\nStability Ã¢ÂÂ Swing equation. Equal area criterion and numerical integration\nof swing equation.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

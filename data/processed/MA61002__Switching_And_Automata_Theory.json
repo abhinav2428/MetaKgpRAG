@@ -1,0 +1,20 @@
+{
+  "title": "MA61002: Switching And Automata Theory",
+  "url": "https://wiki.metakgp.org/wiki/MA61002:_Switching_And_Automata_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite : Discrete MathematicsCodes, switching algebra, minimization and\ndecomposition of switching functions, Karnaugh map, digital circuits, logical\ngates - AND, OR, NAND, NOR etc., combinatorial logic, threshold logic, fault\ndiagnosis, sequential machines : synchronous and asynchronous circuits, basic\nflip-flops : SR flip-flop, T flip-flop, JK flip-flop,\nflip-flop, clocked\nand master-slave flip-flop, decoder, multiplexer circuits, counters:\nsynchronous and asynchronous, sequence detector, parity-bit generator,\nregisters, shift registers, minimization and transformation of sequential\nmachines, Deterministic and Non-deterministic finite state automata , pushdown\nautomata, turing machines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA61002: Switching And Automata Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite : Discrete MathematicsCodes, switching algebra, minimization and\ndecomposition of switching functions, Karnaugh map, digital circuits, logical\ngates - AND, OR, NAND, NOR etc., combinatorial logic, threshold logic, fault\ndiagnosis, sequential machines : synchronous and asynchronous circuits, basic\nflip-flops : SR flip-flop, T flip-flop, JK flip-flop,\nflip-flop, clocked\nand master-slave flip-flop, decoder, multiplexer circuits, counters:\nsynchronous and asynchronous, sequence detector, parity-bit generator,\nregisters, shift registers, minimization and transformation of sequential\nmachines, Deterministic and Non-deterministic finite state automata , pushdown\nautomata, turing machines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

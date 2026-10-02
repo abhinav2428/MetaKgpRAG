@@ -1,0 +1,24 @@
+{
+  "title": "AT60001: Embedded Control Systems",
+  "url": "https://wiki.metakgp.org/wiki/AT60001:_Embedded_Control_Systems",
+  "text": "Syllabus\n1: Introduction: Mathematical modeling of physical systems: Review of differential equation, transfer function and\nstate variable representations; Examples of modeling different types of systems.\n2: Control System Design: Closed-loop control: Analysis of simple control loops; Stability; Time and Frequency\ndomain specifications of control system performance. Simple approaches for controller design; Discretization. Practical realization of a control loop\n3: Controller Implementation: Architecture of embedded controllers and description of various components; Design\nand implementation of control loops : Choice of embedded computing platforms, i/o and communication\n4: Real-time Issues: Real-time issues in controller implementation: Scheduling algorithms and their performance\nanalysis; Constraints of the operating systems; Real-time operating systems; Validation techniques for control\nsystems. Performance assessment of control algorithms on the target implementation architecture for the given\napplication.\n5: Applications: Case studies from automotive, aerospace, process control and other application domains.\nSyllabus mentioned in ERP\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Advanced_Technology_Development_Centre"
+  ],
+  "categories": [
+    "Courses",
+    "Advanced_Technology_Development_Centre"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "AT60001: Embedded Control Systems\n\nSyllabus\n1: Introduction: Mathematical modeling of physical systems: Review of differential equation, transfer function and\nstate variable representations; Examples of modeling different types of systems.\n2: Control System Design: Closed-loop control: Analysis of simple control loops; Stability; Time and Frequency\ndomain specifications of control system performance. Simple approaches for controller design; Discretization. Practical realization of a control loop\n3: Controller Implementation: Architecture of embedded controllers and description of various components; Design\nand implementation of control loops : Choice of embedded computing platforms, i/o and communication\n4: Real-time Issues: Real-time issues in controller implementation: Scheduling algorithms and their performance\nanalysis; Constraints of the operating systems; Real-time operating systems; Validation techniques for control\nsystems. Performance assessment of control algorithms on the target implementation architecture for the given\napplication.\n5: Applications: Case studies from automotive, aerospace, process control and other application domains.\nSyllabus mentioned in ERP\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday"
+    },
+    {
+      "index": 1,
+      "text": "AT60001: Embedded Control Systems\n\nTable\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

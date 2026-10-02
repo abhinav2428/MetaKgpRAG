@@ -1,0 +1,25 @@
+{
+  "title": "CS43008: Microprocessors And Microcontrollers",
+  "url": "https://wiki.metakgp.org/wiki/CS43008:_Microprocessors_And_Microcontrollers",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nHistorical background; organization and architectural features of\nmicroprocessor and microcontrollers; the instruction set: instruction format,\naddressing modes; assembly language programming of 8085 and 8051; interfacing\nof memory devices; data transfer techniques and I/O ports; interfacing of\nkeyboard and display devices; programmable interrupt and DMA controllers;\ninterfacing of sensors, transducers, actuators, A/D and D/A Converters, analog\nsignal conditioning circuits, data acquisition systems; standard interfaces\nÃ¢ÂÂ RS232, USB; development aids and troubleshooting techniques; application\nexamples; advanced microprocessors and microcontrollers.Laboratory: Assembly\nand machine language programming, signal generators, interfacing basic I/O\ndevices like keypad, LED display, usage of timers and USART peripherals, multiport device access, stepper motor movement control, DC motor speed control,\nbootstrap programming and interfacing various peripherals for embedded\napplications; building a complete microcontroller-based system.References1.R.\nGaonkar, Microprocessor Architecture, Programming, and Applications with the\n8085, Penram.2.A. Pal, Microprocessors: Principles and Applications, Tata\nMcGraw-Hill.3.K. J. Ayala, The 8051 Microcontroller Architecture, Programming\nand Applications, Penram.4.Mazidi and Mazidi, Microcontroller and Embedded\nSystems, Pearson Education.5.R. Kapadia, 8051 Microcontroller and Embedded\nSystems, Jaico.6.A.K.Ray and K.M.Bhurchandi, Advanced Microprocessors and\nPeripherals, Tata McGraw Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS43008: Microprocessors And Microcontrollers\n\nSyllabus\nSyllabus mentioned in ERP\n\nHistorical background; organization and architectural features of\nmicroprocessor and microcontrollers; the instruction set: instruction format,\naddressing modes; assembly language programming of 8085 and 8051; interfacing\nof memory devices; data transfer techniques and I/O ports; interfacing of\nkeyboard and display devices; programmable interrupt and DMA controllers;\ninterfacing of sensors, transducers, actuators, A/D and D/A Converters, analog\nsignal conditioning circuits, data acquisition systems; standard interfaces\nÃ¢ÂÂ RS232, USB; development aids and troubleshooting techniques; application\nexamples; advanced microprocessors and microcontrollers.Laboratory: Assembly\nand machine language programming, signal generators, interfacing basic I/O\ndevices like keypad, LED display, usage of timers and USART peripherals, multiport device access, stepper motor movement control, DC motor speed control,\nbootstrap programming and interfacing various peripherals for embedded\napplications; building a complete microcontroller-based system.References1.R.\n\nGaonkar, Microprocessor Architecture, Programming, and Applications with the\n8085, Penram.2.A.\n\nPal, Microprocessors: Principles and Applications, Tata\nMcGraw-Hill.3.K.\n\nJ.\n\nAyala, The 8051 Microcontroller Architecture, Programming\nand Applications, Penram.4.Mazidi and Mazidi, Microcontroller and Embedded\nSystems, Pearson Education.5.R."
+    },
+    {
+      "index": 1,
+      "text": "CS43008: Microprocessors And Microcontrollers\n\nTata\nMcGraw-Hill.3.K.\n\nJ.\n\nAyala, The 8051 Microcontroller Architecture, Programming\nand Applications, Penram.4.Mazidi and Mazidi, Microcontroller and Embedded\nSystems, Pearson Education.5.R.\n\nKapadia, 8051 Microcontroller and Embedded\nSystems, Jaico.6.A.K.Ray and K.M.Bhurchandi, Advanced Microprocessors and\nPeripherals, Tata McGraw Hill.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

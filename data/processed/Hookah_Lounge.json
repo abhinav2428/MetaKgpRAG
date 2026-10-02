@@ -1,0 +1,19 @@
+{
+  "title": "Hookah Lounge",
+  "url": "https://wiki.metakgp.org/wiki/Hookah_Lounge",
+  "text": "Hookah Lounge is a hookah parlor and restaurant located next to Park hotel. It closes at 10.30 PM in the evening.",
+  "page_type": "general",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Park_hotel"
+  ],
+  "categories": [
+    "Food_and_Beverages"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Hookah Lounge\n\nHookah Lounge is a hookah parlor and restaurant located next to Park hotel. It closes at 10.30 PM in the evening."
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,20 @@
+{
+  "title": "EC29008: Analog",
+  "url": "https://wiki.metakgp.org/wiki/EC29008:_Analog",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n1. D.C. characterization and finding parameters of transistors (BJT and MOST)2.\nDesign of simple amplifiers (common emitter and common source)3.\nCharacterization of Simple and Cascode Current Mirror circuits (BJT and MOST)4.\nDesign of Common collector amplifier5. Design of differential amplifier with\nresistive load (BJT) and active load (MOST)6. Design of R-C and L-C oscillators\n(phase shift/Colpitt/Hartley)7. Design of a second order active filter (low\npass/high pass)8. Design of tuned amplifier\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC29008: Analog\n\nSyllabus\nSyllabus mentioned in ERP\n\n1. D.C. characterization and finding parameters of transistors (BJT and MOST)2.\nDesign of simple amplifiers (common emitter and common source)3.\nCharacterization of Simple and Cascode Current Mirror circuits (BJT and MOST)4.\nDesign of Common collector amplifier5. Design of differential amplifier with\nresistive load (BJT) and active load (MOST)6. Design of R-C and L-C oscillators\n(phase shift/Colpitt/Hartley)7. Design of a second order active filter (low\npass/high pass)8. Design of tuned amplifier\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

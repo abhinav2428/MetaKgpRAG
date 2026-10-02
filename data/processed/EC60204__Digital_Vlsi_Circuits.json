@@ -1,0 +1,33 @@
+{
+  "title": "EC60204: Digital Vlsi Circuits",
+  "url": "https://wiki.metakgp.org/wiki/EC60204:_Digital_Vlsi_Circuits",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC31003 and EC30004Issues of Digital IC Design : General\noverview of design hierarchy, layers of abstraction, integration density and\nMooreÃÂ¢ÃÂÃÂs law, VLSI design styles, packaging styles, design automation\nprinciples; Logic Design : switch logic, gate restoring logic, Programmable\nLogic Array (PLAs), Finite State Machine (FSM) as a PLA, personality matrix of\na PLA, PLA folding, pseudo-nmos logic, BiCMOS logic gates; Basic Circuit\nConcepts : sheet resistance and area capacitances of layers, driving large\ncapacitive loads, super-buffers, propagation delay models of cascaded pass\ntransistors, wiring capacitances, switching delay in BiCMOS logic circuits;\nBipolar ECL Inverter : features of ECL gate, robustness and noise immunity,\nlogic design in ECL, single-ended and differential ECL gates; Dynamic CMOS\ndesign : steady-state behavior of dynamic gate circuits, noise considerations\nin dynamic design, charge sharing, cascading dynamic gates, domino logic, npCMOS logic, problems in single-phase clocking, two-phase non-overlapping\nclocking scheme, different logic families like CPL, DCVSL etc.; Sequential CMOS\nLogic Circuits : basic regenerative circuits, digital phase-locked loop (DPLL);\nLow-power CMOS Logic Circuits : low-power design through voltage scaling,\nestimation and optimization of switching activity, reduction of switched\ncapacitance, adiabatic logic circuits; Subsystem Design : design of arithmetic\nbuilding blocks like adders and multipliers, barrel and logarithmic shifters,\narea-time tradeoff, power consumption issues; Semiconductor Memories : Dynamic\nRandom Access Memories (DRAM), Static RAM, non-volatile memories, flash\nmemories, low-power memory; Case Study (instructor may choose any suitable\ndigital system; in the following, an example is suggested) : A RISC Processor Instruction Set, Pipeline Architecture, Major Logic Blocks, Layout, Functional\nVerification.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60204: Digital Vlsi Circuits\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "EC60204: Digital Vlsi Circuits\n\nPre-requisites: EC31003 and EC30004Issues of Digital IC Design : General\noverview of design hierarchy, layers of abstraction, integration density and\nMooreÃÂ¢ÃÂÃÂs law, VLSI design styles, packaging styles, design automation\nprinciples; Logic Design : switch logic, gate restoring logic, Programmable\nLogic Array (PLAs), Finite State Machine (FSM) as a PLA, personality matrix of\na PLA, PLA folding, pseudo-nmos logic, BiCMOS logic gates; Basic Circuit\nConcepts : sheet resistance and area capacitances of layers, driving large\ncapacitive loads, super-buffers, propagation delay models of cascaded pass\ntransistors, wiring capacitances, switching delay in BiCMOS logic circuits;\nBipolar ECL Inverter : features of ECL gate, robustness and noise immunity,\nlogic design in ECL, single-ended and differential ECL gates; Dynamic CMOS\ndesign : steady-state behavior of dynamic gate circuits, noise considerations\nin dynamic design, charge sharing, cascading dynamic gates, domino logic, npCMOS logic, problems in single-phase clocking, two-phase non-overlapping\nclocking scheme, different logic families like CPL, DCVSL etc.; Sequential CMOS\nLogic Circuits : basic regenerative circuits, digital phase-locked loop (DPLL);\nLow-power CMOS Logic Circuits : low-power design through voltage scaling,\nestimation and optimization of switching activity, reduction of switched\ncapacitance, adiabatic logic circuits; Subsystem Design : design of arithmetic\nbuilding blocks like adde"
+    },
+    {
+      "index": 2,
+      "text": "EC60204: Digital Vlsi Circuits\n\nrough voltage scaling,\nestimation and optimization of switching activity, reduction of switched\ncapacitance, adiabatic logic circuits; Subsystem Design : design of arithmetic\nbuilding blocks like adders and multipliers, barrel and logarithmic shifters,\narea-time tradeoff, power consumption issues; Semiconductor Memories : Dynamic\nRandom Access Memories (DRAM), Static RAM, non-volatile memories, flash\nmemories, low-power memory; Case Study (instructor may choose any suitable\ndigital system; in the following, an example is suggested) : A RISC Processor Instruction Set, Pipeline Architecture, Major Logic Blocks, Layout, Functional\nVerification."
+    },
+    {
+      "index": 3,
+      "text": "EC60204: Digital Vlsi Circuits\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 4
+}

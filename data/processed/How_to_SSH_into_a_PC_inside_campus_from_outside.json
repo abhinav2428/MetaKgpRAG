@@ -1,0 +1,15 @@
+{
+  "title": "How to SSH into a PC inside campus from outside",
+  "url": "https://wiki.metakgp.org/wiki/How_to_SSH_into_a_PC_inside_campus_from_outside",
+  "text": "The default port for SSH is blocked in the campus and it forces one to use a lot of workarounds to do simple SSH tasks; one such task is exposing a PC inside campus network for SSH by a PC outside the campus network.\n\nI recently had to do the hardwork and the attached article shows the steps I used for the same. This will be based on Debian (and Ubuntu) but the steps, more or less remain the same throughout.\n\nRead more on the same here: https://thealphadollar.github.io/tech/2019/07/17/ssh_from_outside.html",
+  "page_type": "general",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "How to SSH into a PC inside campus from outside\n\nThe default port for SSH is blocked in the campus and it forces one to use a lot of workarounds to do simple SSH tasks; one such task is exposing a PC inside campus network for SSH by a PC outside the campus network.\n\nI recently had to do the hardwork and the attached article shows the steps I used for the same. This will be based on Debian (and Ubuntu) but the steps, more or less remain the same throughout.\n\nRead more on the same here: https://thealphadollar.github.io/tech/2019/07/17/ssh_from_outside.html"
+    }
+  ],
+  "chunk_count": 1
+}

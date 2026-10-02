@@ -1,0 +1,21 @@
+{
+  "title": "IT60121: Mathematical Foundations For Signal And Image Processing",
+  "url": "https://wiki.metakgp.org/wiki/IT60121:_Mathematical_Foundations_For_Signal_And_Image_Processing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nVector spaces and linear algebra: Linear independence, basis, norms, inner\nproduct spaces, Cauchy-Schwarz inequality, orthogonality, projections, Leastsquare filtering, MMSE estimation, Wiener filtering, Linear operators and\nmatrix inverses, Matrix factorizations- LU, QR, Eigenvalues and eigenvectors,\ndiagonalization of matrices, KL Transform, PCA, SVD, Toeplitz, Circulant\nmatrices and their properties Case study: Face recognition by eigenfaces\nEstimation theory: Maximum-likelihood principle, Cramer-Rao bound, Maximum aposteriori (MAP) estimation, Kalman filter, extensions such as EKF, UKF,\nParticle filter Case study: Tracking objects/people in videos.Optimization\ntheory: Gradient-descent, conjugate-gradient, Simulated annealing, graph cuts,\nloopy belief propagation, EM algorithm, Theory of constrained optimization,\nLagrange multipliers, Dynamic programming, Viterbi algorithm, Hidden Markov\nmodels, Gaussian mixture modelsCase study: Image de-noising, inpainting, stereo\ndisparity computation, speech/speaker recognition\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Information_Technology"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Information_Technology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IT60121: Mathematical Foundations For Signal And Image Processing\n\nSyllabus\nSyllabus mentioned in ERP\n\nVector spaces and linear algebra: Linear independence, basis, norms, inner\nproduct spaces, Cauchy-Schwarz inequality, orthogonality, projections, Leastsquare filtering, MMSE estimation, Wiener filtering, Linear operators and\nmatrix inverses, Matrix factorizations- LU, QR, Eigenvalues and eigenvectors,\ndiagonalization of matrices, KL Transform, PCA, SVD, Toeplitz, Circulant\nmatrices and their properties Case study: Face recognition by eigenfaces\nEstimation theory: Maximum-likelihood principle, Cramer-Rao bound, Maximum aposteriori (MAP) estimation, Kalman filter, extensions such as EKF, UKF,\nParticle filter Case study: Tracking objects/people in videos.Optimization\ntheory: Gradient-descent, conjugate-gradient, Simulated annealing, graph cuts,\nloopy belief propagation, EM algorithm, Theory of constrained optimization,\nLagrange multipliers, Dynamic programming, Viterbi algorithm, Hidden Markov\nmodels, Gaussian mixture modelsCase study: Image de-noising, inpainting, stereo\ndisparity computation, speech/speaker recognition\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "title": "EC60201: Semiconductor Device Modeling",
+  "url": "https://wiki.metakgp.org/wiki/EC60201:_Semiconductor_Device_Modeling",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21007Review of semiconductor physics: Quantum foundation,\nCarrier scattering, high field effects; P- N junction diode modeling: Static\nmodel, Large signal model and SPICE models; BJT modeling: Ebers â Moll, Static,\nlarge-signal, small- signal models. Gummel - Poon model. Temperature and area\neffects. Power BJT model, SPICE models, Limitations of GP model; Advanced\nBipolar models: VBIC, HICUM and MEXTARM;MOS Transistors: LEVEL 1, LEVEL 2\n,LEVEL 3, BSIM, HISIMVEKV Models, Threshold voltage modeling. Punch through.\nCarrier velocity modeling. Short channel effects. Channel length modulation.\nBarrier lowering, Hot carrier effects. Mobility modeling, Model parameters;\nAnalytical and Numerical modeling of BJT and MOS transistors: Introduction to\nvariou\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60201: Semiconductor Device Modeling\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21007Review of semiconductor physics: Quantum foundation,\nCarrier scattering, high field effects; P- N junction diode modeling: Static\nmodel, Large signal model and SPICE models; BJT modeling: Ebers â Moll, Static,\nlarge-signal, small- signal models. Gummel - Poon model. Temperature and area\neffects. Power BJT model, SPICE models, Limitations of GP model; Advanced\nBipolar models: VBIC, HICUM and MEXTARM;MOS Transistors: LEVEL 1, LEVEL 2\n,LEVEL 3, BSIM, HISIMVEKV Models, Threshold voltage modeling. Punch through.\nCarrier velocity modeling. Short channel effects. Channel length modulation.\nBarrier lowering, Hot carrier effects. Mobility modeling, Model parameters;\nAnalytical and Numerical modeling of BJT and MOS transistors: Introduction to\nvariou\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

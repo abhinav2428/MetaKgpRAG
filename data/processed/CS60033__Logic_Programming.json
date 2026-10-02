@@ -1,0 +1,20 @@
+{
+  "title": "CS60033: Logic Programming",
+  "url": "https://wiki.metakgp.org/wiki/CS60033:_Logic_Programming",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPropositional logic, First Order Logic: syntax and semantics, deduction,\nHerbrand interpretation and resolution methods, Syntax and Semantics of Logic\nPrograms, Inference Rules, Unification and SLD-Resolution, Negation as Failure,\nLogic programming language PROLOG - a case study. Basic concepts, Recursive\nprogramming, Cuts and negation, Non-deterministic programming, Abstract\ncomputational model - Warren s Abstract Machine (WAM), Implementation of Prolog\non WAM. Introduction to Constraint Logic Programming: Constraint logic\nprogramming scheme, Constraint satisfaction, constraint propagation, Constraint\nLogic Programming over the reals, Constraint Logic Programming over finite\ndomains. Introduction to nonclassical logics. Modal logic. Accessibilty.\nRelation and Kripke possible world semantics. The logic of knowledge and\nbelief, Autoepistemic knowledge, Temporal logic.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60033: Logic Programming\n\nSyllabus\nSyllabus mentioned in ERP\n\nPropositional logic, First Order Logic: syntax and semantics, deduction,\nHerbrand interpretation and resolution methods, Syntax and Semantics of Logic\nPrograms, Inference Rules, Unification and SLD-Resolution, Negation as Failure,\nLogic programming language PROLOG - a case study. Basic concepts, Recursive\nprogramming, Cuts and negation, Non-deterministic programming, Abstract\ncomputational model - Warren s Abstract Machine (WAM), Implementation of Prolog\non WAM. Introduction to Constraint Logic Programming: Constraint logic\nprogramming scheme, Constraint satisfaction, constraint propagation, Constraint\nLogic Programming over the reals, Constraint Logic Programming over finite\ndomains. Introduction to nonclassical logics. Modal logic. Accessibilty.\nRelation and Kripke possible world semantics. The logic of knowledge and\nbelief, Autoepistemic knowledge, Temporal logic.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

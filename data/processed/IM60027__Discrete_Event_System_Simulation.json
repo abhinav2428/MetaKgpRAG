@@ -1,0 +1,21 @@
+{
+  "title": "IM60027: Discrete Event System Simulation",
+  "url": "https://wiki.metakgp.org/wiki/IM60027:_Discrete_Event_System_Simulation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nModelling: Discrete-event and process representations, High-level and low-level\nlanguages.\nInput Modeling: fitting distributions to data, selecting distributions without\ndata, nonstationary arrival processes, multivariate input models.\nOutput Analysis: point and interval estimation for means, probabilities and\nquantiles.\nExperiment Design: terminating vs. steady-state simulation, determining number\nof reps/batches for fixed precision, initial bias mitigation, use of common\nrandom numbers and antithetic variates.\nVariate Generation: pseudorandom number generators, inverse cdf transformation,\nnonstationary arrival processes, multivariate input models\nUsing Simulation in Research: experiment within an experiment approach\n\nBooks\n•J. Banks, J. S. Carson, B.\nSystem Simulation, 3rd Ed.,\n•A. M. Law and W. D. Kelton\nMcGraw Hill International -\n\nL. Nelson and D. M. Nicol (2001), Discrete Event\nPearson Education International Series.\n(2000), Simulation Modeling and Analysis, 3rd Ed.,\nIndustrial Engg. Series.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM60027: Discrete Event System Simulation\n\nSyllabus\nSyllabus mentioned in ERP\n\nModelling: Discrete-event and process representations, High-level and low-level\nlanguages.\nInput Modeling: fitting distributions to data, selecting distributions without\ndata, nonstationary arrival processes, multivariate input models.\nOutput Analysis: point and interval estimation for means, probabilities and\nquantiles.\nExperiment Design: terminating vs. steady-state simulation, determining number\nof reps/batches for fixed precision, initial bias mitigation, use of common\nrandom numbers and antithetic variates.\nVariate Generation: pseudorandom number generators, inverse cdf transformation,\nnonstationary arrival processes, multivariate input models\nUsing Simulation in Research: experiment within an experiment approach\n\nBooks\n•J. Banks, J. S. Carson, B.\nSystem Simulation, 3rd Ed.,\n•A. M. Law and W. D. Kelton\nMcGraw Hill International -\n\nL. Nelson and D. M. Nicol (2001), Discrete Event\nPearson Education International Series.\n(2000), Simulation Modeling and Analysis, 3rd Ed.,\nIndustrial Engg. Series.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

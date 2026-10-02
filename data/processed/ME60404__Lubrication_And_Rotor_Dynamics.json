@@ -1,0 +1,24 @@
+{
+  "title": "ME60404: Lubrication And Rotor Dynamics",
+  "url": "https://wiki.metakgp.org/wiki/ME60404:_Lubrication_And_Rotor_Dynamics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Rotating machinery, Technology of friction control and wear prevention in rotating machinery, Properties and testing of lubricants. Bearing Systems: Rolling element bearings, Hydrodynamic oil-journal bearings, Gas lubricated bearings, Hydrostatic bearings and Squeeze film bearings Rotor Dynamics: Single degree of freedom system, Multi degree of freedom system, Shaft with central disc, Shaft with non central disc Rotor-bearing systems: Rotor supported on rolling element bearings, rotor supported on oil journal bearings, stability analysis (rigid rotor, flexible rotor), Rotor with several bearings and discs (FEM): Equation of motion with Rigid masses, Beam elements and Bearing supports, Modelling of Internal damping, Drive-Rotor interactions, Natural vibration and forced vibration studies. Measurement and diagnostics in\nrotating machinery: Signal measurement and processing, fault prediction such as unbalance, misalignment, rubbing, bending, loose components, rotor crack and bearing faults.\n\nConcepts taught in class\nLubrication and rotor dynamics is a more applied subject which sees a great deal of both machine dynamics and fluid mechanics.\n\nImportant topics include(until mid-semester): \n# Derivation of 2D Reynold's equation from Navier Stokes and Momentum Conservation\n# Mechanism of pressure development in lubrication\n# Different lubrication regimes and Stribeck curve\n# Hydrodynamic bearings\n## Plane Slider bearings\n## Roller element bearing\n## Journal Bearing\n## Thrust bearing\n\nStudent Opinion\nIt is important to attend classes, and the lectures are very interactive. The simulation assignments give one a firm grasp of the concept.\n\nHow to Crack the Paper\n# Practice previous years' questions papers, over 90% is repeated verbatim.\n#Practice derivations \n\nClassroom resources\nNotes are more than sufficient. \n\nSuggested reference books\n\"Theory of LUbrication\" by M K Ghosh, B C Majumder, Mihir Sarangi\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Department_of_Mechanical_Engineering",
+    "https://wiki.metakgp.org/wiki/Mihir_Sarangi"
+  ],
+  "categories": [
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60404: Lubrication And Rotor Dynamics\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: Rotating machinery, Technology of friction control and wear prevention in rotating machinery, Properties and testing of lubricants. Bearing Systems: Rolling element bearings, Hydrodynamic oil-journal bearings, Gas lubricated bearings, Hydrostatic bearings and Squeeze film bearings Rotor Dynamics: Single degree of freedom system, Multi degree of freedom system, Shaft with central disc, Shaft with non central disc Rotor-bearing systems: Rotor supported on rolling element bearings, rotor supported on oil journal bearings, stability analysis (rigid rotor, flexible rotor), Rotor with several bearings and discs (FEM): Equation of motion with Rigid masses, Beam elements and Bearing supports, Modelling of Internal damping, Drive-Rotor interactions, Natural vibration and forced vibration studies. Measurement and diagnostics in\nrotating machinery: Signal measurement and processing, fault prediction such as unbalance, misalignment, rubbing, bending, loose components, rotor crack and bearing faults.\n\nConcepts taught in class\nLubrication and rotor dynamics is a more applied subject which sees a great deal of both machine dynamics and fluid mechanics."
+    },
+    {
+      "index": 1,
+      "text": "ME60404: Lubrication And Rotor Dynamics\n\ncomponents, rotor crack and bearing faults.\n\nConcepts taught in class\nLubrication and rotor dynamics is a more applied subject which sees a great deal of both machine dynamics and fluid mechanics.\n\nImportant topics include(until mid-semester): \n# Derivation of 2D Reynold's equation from Navier Stokes and Momentum Conservation\n# Mechanism of pressure development in lubrication\n# Different lubrication regimes and Stribeck curve\n# Hydrodynamic bearings\n## Plane Slider bearings\n## Roller element bearing\n## Journal Bearing\n## Thrust bearing\n\nStudent Opinion\nIt is important to attend classes, and the lectures are very interactive. The simulation assignments give one a firm grasp of the concept.\n\nHow to Crack the Paper\n# Practice previous years' questions papers, over 90% is repeated verbatim.\n#Practice derivations\n\nClassroom resources\nNotes are more than sufficient.\n\nSuggested reference books\n\"Theory of LUbrication\" by M K Ghosh, B C Majumder, Mihir Sarangi\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,24 @@
+{
+  "title": "ME60011: Fluid Mechanics",
+  "url": "https://wiki.metakgp.org/wiki/ME60011:_Fluid_Mechanics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nConcept of continuum and definition of a fluid. Body and surface forces, stress\ntensor, principle of local stress equilibrium. Scalar and vector fields,\nEulerian and Lagrangian description of flow. Motion of fluid elementtranslation, rotation and deformation; vorticity and strain-rate tensors.\nContinuity equation, Cauchys equations of motion, Transport theorems.\nConstitutive equations-Stokes law of viscosity. Derivation of Navier-Stokes\nequations for compressible flow. Exact solutions of Navier-Stokes equations:\nplane Poiseuille flow and Couette flow, Hagen-Poiseuille flow, flow between two\nconcentric rotating cylinders, Stokes first and second problems, Hiemenz\nstagnation-point flow, flow near a rotating disk, flow in convergent-divergent\nchannels. Slow viscous flow: Stokes and Oseens approximation, theory of\nhydrodynamic lubrication. Boundary layer: derivation, exact solutions, Blasius,\nFalkner Skan, series solution and numerical solutions. Approximate methods.\nMomentum integral method. Two dimensional and axisymmetric jets. Introduction\nto hydrodynamic stability, Orr-Sommerfeld equation, neutral curve of linear\nstability for plane Poiseuille flow. Description of turbulent flow, velocity\ncorrelations, Reynolds stresses. Equations for turbulence kinetic energy and\nkinetic energy of mean flow. Eddy viscosity models of turbulence: zeroequation, one-equation and two-equation models. Prandtls Mixing Length Theory.\nEmpirical laws: law of the wall, velocity defect law, universal velocity\ndistribution.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60011: Fluid Mechanics\n\nSyllabus\nSyllabus mentioned in ERP\n\nConcept of continuum and definition of a fluid.\n\nBody and surface forces, stress\ntensor, principle of local stress equilibrium.\n\nScalar and vector fields,\nEulerian and Lagrangian description of flow.\n\nMotion of fluid elementtranslation, rotation and deformation; vorticity and strain-rate tensors.\n\nContinuity equation, Cauchys equations of motion, Transport theorems.\n\nConstitutive equations-Stokes law of viscosity.\n\nDerivation of Navier-Stokes\nequations for compressible flow.\n\nExact solutions of Navier-Stokes equations:\nplane Poiseuille flow and Couette flow, Hagen-Poiseuille flow, flow between two\nconcentric rotating cylinders, Stokes first and second problems, Hiemenz\nstagnation-point flow, flow near a rotating disk, flow in convergent-divergent\nchannels.\n\nSlow viscous flow: Stokes and Oseens approximation, theory of\nhydrodynamic lubrication.\n\nBoundary layer: derivation, exact solutions, Blasius,\nFalkner Skan, series solution and numerical solutions.\n\nApproximate methods.\n\nMomentum integral method.\n\nTwo dimensional and axisymmetric jets.\n\nIntroduction\nto hydrodynamic stability, Orr-Sommerfeld equation, neutral curve of linear\nstability for plane Poiseuille flow.\n\nDescription of turbulent flow, velocity\ncorrelations, Reynolds stresses.\n\nEquations for turbulence kinetic energy and\nkinetic energy of mean flow.\n\nEddy viscosity models of turbulence: zeroequation, one-equation and two-equation models."
+    },
+    {
+      "index": 1,
+      "text": "ME60011: Fluid Mechanics\n\nReynolds stresses.\n\nEquations for turbulence kinetic energy and\nkinetic energy of mean flow.\n\nEddy viscosity models of turbulence: zeroequation, one-equation and two-equation models.\n\nPrandtls Mixing Length Theory.\n\nEmpirical laws: law of the wall, velocity defect law, universal velocity\ndistribution.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

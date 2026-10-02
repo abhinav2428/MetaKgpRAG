@@ -1,0 +1,24 @@
+{
+  "title": "ID60014: Power System Planning & Reliability",
+  "url": "https://wiki.metakgp.org/wiki/ID60014:_Power_System_Planning_&_Reliability",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Power System Planning\nForecasting techniques for power system planning. planning methodology\n(generation, transmission & distribution systems). risk management, decision\nmaking and engineering economics for planning.\nDistribution System Planning and Automation:\nFactors affecting distribution system planning: load characteristics,\nsubstation site selection, substation expansion, other factors (primary voltage\nselection, feeder route selection, number of feeders, conductor size selection,\ntotal cost etc); planning techniques and models, role of computer in system\nplanning; system automation.\nDesign of Sub-transmission Lines and Distribution Substations:\nSub-transmission; distribution substations, substation bus schemes, substation\nlocation and size; substation application curves.\nSystem Reliability: Basic definitions: outage, interruption, system\ninterruption frequency index, customer interruption frequency index, load\ninterruption index, customer interruption duration index; cost vs. system\nreliability; reliability planning procedure;\nGeneration System reliability evaluation, transmission system reliability.\nimpact of interconnected systems on reliability. distribution system\nreliability calculations.\nMarkov processes and state transition model; application example to\ndistribution system planning.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Ranbir_and_Chitra_Gupta_School_of_Infrastructure_Design_and_Management"
+  ],
+  "categories": [
+    "Ranbir_and_Chitra_Gupta_School_of_Infrastructure_Design_and_Management",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ID60014: Power System Planning & Reliability\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Power System Planning\nForecasting techniques for power system planning. planning methodology\n(generation, transmission & distribution systems). risk management, decision\nmaking and engineering economics for planning.\nDistribution System Planning and Automation:\nFactors affecting distribution system planning: load characteristics,\nsubstation site selection, substation expansion, other factors (primary voltage\nselection, feeder route selection, number of feeders, conductor size selection,\ntotal cost etc); planning techniques and models, role of computer in system\nplanning; system automation.\nDesign of Sub-transmission Lines and Distribution Substations:\nSub-transmission; distribution substations, substation bus schemes, substation\nlocation and size; substation application curves.\nSystem Reliability: Basic definitions: outage, interruption, system\ninterruption frequency index, customer interruption frequency index, load\ninterruption index, customer interruption duration index; cost vs. system\nreliability; reliability planning procedure;\nGeneration System reliability evaluation, transmission system reliability.\nimpact of interconnected systems on reliability. distribution system\nreliability calculations.\nMarkov processes and state transition model; application example to\ndistribution system planning.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper"
+    },
+    {
+      "index": 1,
+      "text": "ID60014: Power System Planning & Reliability\n\nsystem\nreliability calculations.\nMarkov processes and state transition model; application example to\ndistribution system planning.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

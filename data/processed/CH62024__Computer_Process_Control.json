@@ -1,0 +1,21 @@
+{
+  "title": "CH62024: Computer Process Control",
+  "url": "https://wiki.metakgp.org/wiki/CH62024:_Computer_Process_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite CH30011 or equivalentEvaluation of computer control; data\nlogging, supervisory control and digital control. Types of computer control :\nprogram control, optimizing and adaptive control, steady stage and dynamic\noptimum control. Process identification, controllability and observability.\nState-space representation of processes, canonical forms, Time optimal control,\nPontyagrins maximum principle. Multivariable control systems. Process control\ncomputers. Main frame and microprocessor systems. Dedicated vs,. time sharing\napplications. Computer hardware. Analog subsystems, buffers, A//D, D/A, E/P,\nI/P, P/E, and P/I interfaces. Main-machine interfaces. Case studies of computer\nprocess control. Text Book:1.Elements of Computer Process Control : With\nAdvanced Control Applications by Ash P. B. Deshpande2.Feedback control of\ndynamic systems G. F. Franklin3.Digital control of dynamic systems G. F.\nFranklin\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Chemical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Chemical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CH62024: Computer Process Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite CH30011 or equivalentEvaluation of computer control; data\nlogging, supervisory control and digital control. Types of computer control :\nprogram control, optimizing and adaptive control, steady stage and dynamic\noptimum control. Process identification, controllability and observability.\nState-space representation of processes, canonical forms, Time optimal control,\nPontyagrins maximum principle. Multivariable control systems. Process control\ncomputers. Main frame and microprocessor systems. Dedicated vs,. time sharing\napplications. Computer hardware. Analog subsystems, buffers, A//D, D/A, E/P,\nI/P, P/E, and P/I interfaces. Main-machine interfaces. Case studies of computer\nprocess control. Text Book:1.Elements of Computer Process Control : With\nAdvanced Control Applications by Ash P. B. Deshpande2.Feedback control of\ndynamic systems G. F. Franklin3.Digital control of dynamic systems G. F.\nFranklin\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

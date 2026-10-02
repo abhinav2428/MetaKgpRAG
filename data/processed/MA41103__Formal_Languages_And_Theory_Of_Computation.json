@@ -1,0 +1,21 @@
+{
+  "title": "MA41103: Formal Languages And Theory Of Computation",
+  "url": "https://wiki.metakgp.org/wiki/MA41103:_Formal_Languages_And_Theory_Of_Computation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic ideas of automata, transition systems, equivalence of NFA and DFA.\nClassification of languages, operations on languages, languages and automata.\nRegular expressions, pumping lemma for regular sets, application of pumping\nlemma, closure properties of regular sets, regular sets and regular grammars.\n\nContext free languages context free Grammars, LR(k) Grammars, closure\nproperties of languages, Turing machines, linear bounded automata, recursive\nfunctions, partial recursive functions and Turing machines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA41103: Formal Languages And Theory Of Computation\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic ideas of automata, transition systems, equivalence of NFA and DFA.\nClassification of languages, operations on languages, languages and automata.\nRegular expressions, pumping lemma for regular sets, application of pumping\nlemma, closure properties of regular sets, regular sets and regular grammars.\n\nContext free languages context free Grammars, LR(k) Grammars, closure\nproperties of languages, Turing machines, linear bounded automata, recursive\nfunctions, partial recursive functions and Turing machines.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

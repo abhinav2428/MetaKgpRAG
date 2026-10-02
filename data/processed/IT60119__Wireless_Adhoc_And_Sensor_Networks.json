@@ -1,0 +1,21 @@
+{
+  "title": "IT60119: Wireless Adhoc And Sensor Networks",
+  "url": "https://wiki.metakgp.org/wiki/IT60119:_Wireless_Adhoc_And_Sensor_Networks",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction: Basics of wireless networks, Properties of wireless ad hoc\nnetworks, types of ad hoc networks, applications.Mobile Ad Hoc Networks:\nHistory, properties, medium access control, routing including multicating and\nbroadcasting, mobility models, transport layer issues, congestion and flow\ncontrol, quality of service, security issues.Wireless Sensor Networks: History,\nproperties, medium access control, routing, energy efficiency, topology\nmanagement, coverage, congestion and flow control, quality of service, resource\nallocation, scheduling, security, multimedia transmission, mobile sensor\nnetworks, applications.Wireless Mesh Networks: Evolution, medium access\ncontrol, channel assignment, routing, transport protocols, congestion control,\nscalability, mobility management, applications.Vehicular Ad Hoc Networks:\nIntroduction, applications and their classification, VANET communication stack,\nmedium access control, routing, security, mobility models, vehicular sensor\nnetworks.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Information_Technology"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Information_Technology",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IT60119: Wireless Adhoc And Sensor Networks\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction: Basics of wireless networks, Properties of wireless ad hoc\nnetworks, types of ad hoc networks, applications.Mobile Ad Hoc Networks:\nHistory, properties, medium access control, routing including multicating and\nbroadcasting, mobility models, transport layer issues, congestion and flow\ncontrol, quality of service, security issues.Wireless Sensor Networks: History,\nproperties, medium access control, routing, energy efficiency, topology\nmanagement, coverage, congestion and flow control, quality of service, resource\nallocation, scheduling, security, multimedia transmission, mobile sensor\nnetworks, applications.Wireless Mesh Networks: Evolution, medium access\ncontrol, channel assignment, routing, transport protocols, congestion control,\nscalability, mobility management, applications.Vehicular Ad Hoc Networks:\nIntroduction, applications and their classification, VANET communication stack,\nmedium access control, routing, security, mobility models, vehicular sensor\nnetworks.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

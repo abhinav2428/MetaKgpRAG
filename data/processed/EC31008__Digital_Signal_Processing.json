@@ -1,0 +1,21 @@
+{
+  "title": "EC31008: Digital Signal Processing",
+  "url": "https://wiki.metakgp.org/wiki/EC31008:_Digital_Signal_Processing",
+  "text": "EC31201 : Digital Signal Processing - 1 \n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21004Review of discrete time signals and systems - causality,\nstability, discrete time Fourier transform, sampling and z-transform.\nIntroduction to signal space, orthogonal basis and signal representation using\nunitary transforms like DFT,DCT, Haar and Walsh Hadmard transform, Properties\nof DFT, circular convolution, linear convolution using DFT, overlap add and\nsave methods, FFT. Filter structures for IIR and FIR filters, linear phase FIR\nfilters. Digital filter design techniques, IIR filter design by impulse\ninvariance and bilinear transformation, transformation of digital filters, FIR\nfilter design using windows, MATLAB based examples. Introduction to multirate\nDSP, decimation and interpolation, polyphase decomposition, uniform DFT filter\nbanks, quadrature mirror filters and perfectreconstruction, introduction to\ndiscrete wavelet transform. Discrete random signals, power spectral density and\nproperties, spectral estimation methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC31008: Digital Signal Processing\n\nEC31201 : Digital Signal Processing - 1 \n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21004Review of discrete time signals and systems - causality,\nstability, discrete time Fourier transform, sampling and z-transform.\nIntroduction to signal space, orthogonal basis and signal representation using\nunitary transforms like DFT,DCT, Haar and Walsh Hadmard transform, Properties\nof DFT, circular convolution, linear convolution using DFT, overlap add and\nsave methods, FFT. Filter structures for IIR and FIR filters, linear phase FIR\nfilters. Digital filter design techniques, IIR filter design by impulse\ninvariance and bilinear transformation, transformation of digital filters, FIR\nfilter design using windows, MATLAB based examples. Introduction to multirate\nDSP, decimation and interpolation, polyphase decomposition, uniform DFT filter\nbanks, quadrature mirror filters and perfectreconstruction, introduction to\ndiscrete wavelet transform. Discrete random signals, power spectral density and\nproperties, spectral estimation methods.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

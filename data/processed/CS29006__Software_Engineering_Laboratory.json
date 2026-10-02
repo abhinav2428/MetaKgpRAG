@@ -1,0 +1,24 @@
+{
+  "title": "CS29006: Software Engineering Laboratory",
+  "url": "https://wiki.metakgp.org/wiki/CS29006:_Software_Engineering_Laboratory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDevelopment of requirements specification, function oriented design using\nSA/SD, Object-oriented design using UML, test case design, implementation using\nJava and testing. Use of appropriate CASE tools and other tools such as\nconfiguration management tools, program analysis tools in the software life\ncycle.\nReferences\n1.Rajib Mall, Fundamentals of Software Engineering, Prentice Hall India.\n2.Pankaj Jalote, An integrated approach to Software Engineering,\nSpringer/Narosa.\n3.Roger S. Pressman, Software Engineering: A practitioner's approach, McGraw\nHill.\n4.Ian Sommerville, Software Engineering, Addison-Wesley.\n\nConcepts taught in class\n\nThe first half of the course, Java and OOP are taught, the second half requires students in pairs to work on a project made using software engineering concepts. The project carries at least 1/3rd weightage and usually, there is a lab test on Java Programming based on the Java concepts taught (simple but lengthy lab test). Attendance carries marks.\n\nStudent Opinion\n\nHow to Crack the Paper\nIn the Java programming test, make sure to write comments in your code. You may go for an editor like VSCode which does the basic getter and setter commenting by itself. These comments carry 10-20% weightage of the class test. Make sure you are able to code basic java programming with speed, without referring to internet. Students are genrraly allwoed to access internet during the test. Make sure the UI is neatly designed, it carries a lot of weightage. Having more features, though simple is a big plus. Attend all the labs. Attendance carries marks about 20 percent.\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS29006: Software Engineering Laboratory\n\nSyllabus\nSyllabus mentioned in ERP\n\nDevelopment of requirements specification, function oriented design using\nSA/SD, Object-oriented design using UML, test case design, implementation using\nJava and testing. Use of appropriate CASE tools and other tools such as\nconfiguration management tools, program analysis tools in the software life\ncycle.\nReferences\n1.Rajib Mall, Fundamentals of Software Engineering, Prentice Hall India.\n2.Pankaj Jalote, An integrated approach to Software Engineering,\nSpringer/Narosa.\n3.Roger S. Pressman, Software Engineering: A practitioner's approach, McGraw\nHill.\n4.Ian Sommerville, Software Engineering, Addison-Wesley.\n\nConcepts taught in class\n\nThe first half of the course, Java and OOP are taught, the second half requires students in pairs to work on a project made using software engineering concepts. The project carries at least 1/3rd weightage and usually, there is a lab test on Java Programming based on the Java concepts taught (simple but lengthy lab test). Attendance carries marks.\n\nStudent Opinion"
+    },
+    {
+      "index": 1,
+      "text": "CS29006: Software Engineering Laboratory\n\ncarries at least 1/3rd weightage and usually, there is a lab test on Java Programming based on the Java concepts taught (simple but lengthy lab test). Attendance carries marks.\n\nStudent Opinion\n\nHow to Crack the Paper\nIn the Java programming test, make sure to write comments in your code. You may go for an editor like VSCode which does the basic getter and setter commenting by itself. These comments carry 10-20% weightage of the class test. Make sure you are able to code basic java programming with speed, without referring to internet. Students are genrraly allwoed to access internet during the test. Make sure the UI is neatly designed, it carries a lot of weightage. Having more features, though simple is a big plus. Attend all the labs. Attendance carries marks about 20 percent.\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

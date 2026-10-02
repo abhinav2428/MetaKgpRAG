@@ -1,0 +1,25 @@
+{
+  "title": "EE60014: Non-Linear Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60014:_Non-Linear_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nLinear versus nonlinear systems. Describing function analysis: Fundamentals,\ncommon nonlinearities (saturation, dead-zone, on-off non-linearity, backlash,\nhysteresis) and their describing functions. Describing function analysis of\nnonlinear systems. Reliability of describing method analysis. Compensation and\ndesign of nonlinear system using describing function method.Phase plane\nanalysis: Phase portraits, Singular points characterization. Analysis of nonlinear systems using phase plane technique, Existence of limit cycles.\nLinearization: Exact linearization, input-state linearization, input-output\nlinearization.Concept of stability, Stability in the sense of Lyapunov and\nabsolute stability. Zero-input and BIBO stability. Second (or direct) method of\nLyapunov stability theory for continuous and discrete time systems. Aizermans\nand Kalmans conjecture. Construction of Lyapunov function-Methods of Aizerman,\nZubov; variable gradient method. Lure problem. Popovs stability criterion,\ngeneralized circle criterion, Kalman-Yakubovich-Popov Lemma. Popovs\nhyperstability theorem. Disturbance issues in nonlinear control, non-linear\ncontrol system design problem. Concept of variable-structure controller and\nsliding control, reaching condition and reaching mode, implementation of\nswitching control laws. Reduction of chattering in sliding and steady state\nmode. Some design examples of nonlinear systems such as the ball and beam,\nflight control, magnetic levitation and robotic manipulator etc.Approximate\nsolution of nonlinear system using the perturbation method and averaging\nmethod.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60014: Non-Linear Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nLinear versus nonlinear systems.\n\nDescribing function analysis: Fundamentals,\ncommon nonlinearities (saturation, dead-zone, on-off non-linearity, backlash,\nhysteresis) and their describing functions.\n\nDescribing function analysis of\nnonlinear systems.\n\nReliability of describing method analysis.\n\nCompensation and\ndesign of nonlinear system using describing function method.Phase plane\nanalysis: Phase portraits, Singular points characterization.\n\nAnalysis of nonlinear systems using phase plane technique, Existence of limit cycles.\n\nLinearization: Exact linearization, input-state linearization, input-output\nlinearization.Concept of stability, Stability in the sense of Lyapunov and\nabsolute stability.\n\nZero-input and BIBO stability.\n\nSecond (or direct) method of\nLyapunov stability theory for continuous and discrete time systems.\n\nAizermans\nand Kalmans conjecture.\n\nConstruction of Lyapunov function-Methods of Aizerman,\nZubov; variable gradient method.\n\nLure problem.\n\nPopovs stability criterion,\ngeneralized circle criterion, Kalman-Yakubovich-Popov Lemma.\n\nPopovs\nhyperstability theorem.\n\nDisturbance issues in nonlinear control, non-linear\ncontrol system design problem.\n\nConcept of variable-structure controller and\nsliding control, reaching condition and reaching mode, implementation of\nswitching control laws.\n\nReduction of chattering in sliding and steady state\nmode."
+    },
+    {
+      "index": 1,
+      "text": "EE60014: Non-Linear Control\n\nof variable-structure controller and\nsliding control, reaching condition and reaching mode, implementation of\nswitching control laws.\n\nReduction of chattering in sliding and steady state\nmode.\n\nSome design examples of nonlinear systems such as the ball and beam,\nflight control, magnetic levitation and robotic manipulator etc.Approximate\nsolution of nonlinear system using the perturbation method and averaging\nmethod.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

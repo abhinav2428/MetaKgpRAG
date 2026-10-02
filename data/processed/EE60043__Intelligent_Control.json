@@ -1,0 +1,25 @@
+{
+  "title": "EE60043: Intelligent Control",
+  "url": "https://wiki.metakgp.org/wiki/EE60043:_Intelligent_Control",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction and motivation. Approaches to intelligent control. Architecture\nfor intelligent control. Symbolic reasoning system, rule-based systems, the\nAI approach.\nKnowledge representation. Expert systems.\nConcept of Artificial Neural Networks and its basic mathematical model,\nMcCulloch-Pitts neuron model, simple perceptron, Adaline and Madaline, Feedforward Multilayer Perceptron. Learning and Training the neural network. Data\nProcessing: Scaling, Fourier transformation, principal-component analysis and\nwavelet transformations.\nNetworks: Hopfield network, Self-organizing network and Recurrent network.\nNeural Network based controller\nCase studies: Identification and control of linear and nonlinear dynamic\nsystems using Matlab-Neural Network toolbox.\nStability analysis of Neural-Network interconnection systems.\nGenetic Algorithm: Basic concept of Genetic algorithm and detail algorithmic\nsteps, adjustment of free parameters. Solution of typical control problems\nusing genetic algorithm. Concept on some other search techniques like tabu\nsearch and ant-colony search techniques for solving optimization problems.\nIntroduction to crisp sets and fuzzy sets, basic fuzzy set operation and\napproximate reasoning. Introduction to fuzzy logic modeling and control.\nFuzzification, inferencing and defuzzification. Fuzzy knowledge and rule\nbases. Fuzzy modeling and control schemes for nonlinear systems. Selforganizing fuzzy logic control. Fuzzy logic control for nonlinear time-delay\nsystem. Implementation of fuzzy logic controller using Matlab fuzzy-logic\ntoolbox. Stability analysis of fuzzy control systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60043: Intelligent Control\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction and motivation.\n\nApproaches to intelligent control.\n\nArchitecture\nfor intelligent control.\n\nSymbolic reasoning system, rule-based systems, the\nAI approach.\n\nKnowledge representation.\n\nExpert systems.\n\nConcept of Artificial Neural Networks and its basic mathematical model,\nMcCulloch-Pitts neuron model, simple perceptron, Adaline and Madaline, Feedforward Multilayer Perceptron.\n\nLearning and Training the neural network.\n\nData\nProcessing: Scaling, Fourier transformation, principal-component analysis and\nwavelet transformations.\n\nNetworks: Hopfield network, Self-organizing network and Recurrent network.\n\nNeural Network based controller\nCase studies: Identification and control of linear and nonlinear dynamic\nsystems using Matlab-Neural Network toolbox.\n\nStability analysis of Neural-Network interconnection systems.\n\nGenetic Algorithm: Basic concept of Genetic algorithm and detail algorithmic\nsteps, adjustment of free parameters.\n\nSolution of typical control problems\nusing genetic algorithm.\n\nConcept on some other search techniques like tabu\nsearch and ant-colony search techniques for solving optimization problems.\n\nIntroduction to crisp sets and fuzzy sets, basic fuzzy set operation and\napproximate reasoning.\n\nIntroduction to fuzzy logic modeling and control.\n\nFuzzification, inferencing and defuzzification.\n\nFuzzy knowledge and rule\nbases.\n\nFuzzy modeling and control schemes for nonlinear systems."
+    },
+    {
+      "index": 1,
+      "text": "EE60043: Intelligent Control\n\nto fuzzy logic modeling and control.\n\nFuzzification, inferencing and defuzzification.\n\nFuzzy knowledge and rule\nbases.\n\nFuzzy modeling and control schemes for nonlinear systems.\n\nSelforganizing fuzzy logic control.\n\nFuzzy logic control for nonlinear time-delay\nsystem.\n\nImplementation of fuzzy logic controller using Matlab fuzzy-logic\ntoolbox.\n\nStability analysis of fuzzy control systems.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

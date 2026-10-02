@@ -1,0 +1,21 @@
+{
+  "title": "EE30004: Embedded Systems",
+  "url": "https://wiki.metakgp.org/wiki/EE30004:_Embedded_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nEmbedded Processing Systems Ã¢ÂÂ Introduction, Components of Embedded Systems Embedded Processor, Microprocessors, Microcontrollers, DSP and ASICs,\nComparative Assessment of Embedded processors. Memory Devices Ã¢ÂÂ ROM and RAM\nFamily, Interfacing Memory, Input-Output Ports and Interfacing, Simple I/O\nProgramming, Interrupts and their Servicing, Timing Devices and Interfacing,\nAnalog I/O Techniques, Field Programmable Devices and Applications,\nIntroduction to Hardware Description Languages, Design of Embedded Processor\nand Components, Design Case Studies. Embedded Communication Ã¢ÂÂ Parallel Bus\nStandards, Serial Bus Standards, Networking Standards, Wireless Standards.Realtime Operating Systems (RTOS): Introduction, Memory Management , I/O Management\nand Device Drivers, Scheduling.Introduction to software design Ã¢ÂÂ Software\nDevelopment life-cycle, Software modeling. Tools for design, development and\ntesting of embedded software.\n\nConcepts taught in class\n\nStudent Opinion\nHard. \n\nHow to Crack the Paper\n\nClassroom resources\nBlackboard, Chalk and duster.\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE30004: Embedded Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nEmbedded Processing Systems Ã¢ÂÂ Introduction, Components of Embedded Systems Embedded Processor, Microprocessors, Microcontrollers, DSP and ASICs,\nComparative Assessment of Embedded processors. Memory Devices Ã¢ÂÂ ROM and RAM\nFamily, Interfacing Memory, Input-Output Ports and Interfacing, Simple I/O\nProgramming, Interrupts and their Servicing, Timing Devices and Interfacing,\nAnalog I/O Techniques, Field Programmable Devices and Applications,\nIntroduction to Hardware Description Languages, Design of Embedded Processor\nand Components, Design Case Studies. Embedded Communication Ã¢ÂÂ Parallel Bus\nStandards, Serial Bus Standards, Networking Standards, Wireless Standards.Realtime Operating Systems (RTOS): Introduction, Memory Management , I/O Management\nand Device Drivers, Scheduling.Introduction to software design Ã¢ÂÂ Software\nDevelopment life-cycle, Software modeling. Tools for design, development and\ntesting of embedded software.\n\nConcepts taught in class\n\nStudent Opinion\nHard. \n\nHow to Crack the Paper\n\nClassroom resources\nBlackboard, Chalk and duster.\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,21 @@
+{
+  "title": "ME41601: Computer Graphics And Solids Modelling",
+  "url": "https://wiki.metakgp.org/wiki/ME41601:_Computer_Graphics_And_Solids_Modelling",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nGraphics output devices, Rasterization, scan conversion. Raster scan Graphics:\nAlgorithms for rasterization of straight lines and circles. Display Generation\nTechniques: Real time scan conversion, Run-length encoding, Cell organization,\nFrame buffer memory. Curves and Surfaces: Splines, parametric curves, Bezier\nand B-spline curves and surfaces, ruled surfaces and surfaces of revolution.\nSolids and their properties: Surfaces and curves in solids, Intrinsic and\nglobal properties, Characteristic tests and Intersections. Solid Modelling:\nData structures and Boolean operations. Computer Graphics Display Interface:\nModelling transformations, Viewing transformations, Projections, Clipping,\nHidden line/surface elimination, shading and light sources, Double buffering,\nHardware graphics engines. Computer-aided drafting, Parametric drafting, Design\nvisualization, Integration with NC machines and manufacturing. Scientific\nVisualization: Animation, physical principles. Graphics Standards: 2D and 3D\nstandards and graphics portability\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME41601: Computer Graphics And Solids Modelling\n\nSyllabus\nSyllabus mentioned in ERP\n\nGraphics output devices, Rasterization, scan conversion. Raster scan Graphics:\nAlgorithms for rasterization of straight lines and circles. Display Generation\nTechniques: Real time scan conversion, Run-length encoding, Cell organization,\nFrame buffer memory. Curves and Surfaces: Splines, parametric curves, Bezier\nand B-spline curves and surfaces, ruled surfaces and surfaces of revolution.\nSolids and their properties: Surfaces and curves in solids, Intrinsic and\nglobal properties, Characteristic tests and Intersections. Solid Modelling:\nData structures and Boolean operations. Computer Graphics Display Interface:\nModelling transformations, Viewing transformations, Projections, Clipping,\nHidden line/surface elimination, shading and light sources, Double buffering,\nHardware graphics engines. Computer-aided drafting, Parametric drafting, Design\nvisualization, Integration with NC machines and manufacturing. Scientific\nVisualization: Animation, physical principles. Graphics Standards: 2D and 3D\nstandards and graphics portability\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

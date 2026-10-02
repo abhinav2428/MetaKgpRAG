@@ -1,0 +1,21 @@
+{
+  "title": "EE60019: Switched Mode Power Conversion",
+  "url": "https://wiki.metakgp.org/wiki/EE60019:_Switched_Mode_Power_Conversion",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nCourse Name: Switched Mode Power ConversionCourse No.:EE60019L-T-P : 3-10Prerequisite: NoneIntroduction to power converters; Construction and\nCharacteristics of Power Diodes; Uncontrolled single phase diode bridge\nrectifier with C and LC filter.Switch realization, construction and\ncharacteristics of BJT and MOSFETs, Gate Drive; Recent developments in MOSFET\ntechnology.Linear voltage regulators, basic structures, advantages and\ndisadvantages; Steady state analysis of basic DC-DC converters (Buck, boost,\nbuck-boost )Steady state analysis of derived DC-DC (Cuk, SEPIC, Quadratic)\nconvertersSteady state analysis of Txf isolated DC-DC converters (Forward,\nFlyback, push-pull, bridge)Switched mode voltage regulator specifications,\nblock diagram, Modeling approach, assumptions and approximations.Dynamic models\nand transfer functions of hard switched converters in CCM and DCM modes.\nRegulator design exampleCurrent Programmed converters, Block diagram,\nstabilization, modeling and transfer functions.Single phase PFC circuits\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60019: Switched Mode Power Conversion\n\nSyllabus\nSyllabus mentioned in ERP\n\nCourse Name: Switched Mode Power ConversionCourse No.:EE60019L-T-P : 3-10Prerequisite: NoneIntroduction to power converters; Construction and\nCharacteristics of Power Diodes; Uncontrolled single phase diode bridge\nrectifier with C and LC filter.Switch realization, construction and\ncharacteristics of BJT and MOSFETs, Gate Drive; Recent developments in MOSFET\ntechnology.Linear voltage regulators, basic structures, advantages and\ndisadvantages; Steady state analysis of basic DC-DC converters (Buck, boost,\nbuck-boost )Steady state analysis of derived DC-DC (Cuk, SEPIC, Quadratic)\nconvertersSteady state analysis of Txf isolated DC-DC converters (Forward,\nFlyback, push-pull, bridge)Switched mode voltage regulator specifications,\nblock diagram, Modeling approach, assumptions and approximations.Dynamic models\nand transfer functions of hard switched converters in CCM and DCM modes.\nRegulator design exampleCurrent Programmed converters, Block diagram,\nstabilization, modeling and transfer functions.Single phase PFC circuits\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

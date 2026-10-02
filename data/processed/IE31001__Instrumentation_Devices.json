@@ -1,0 +1,25 @@
+{
+  "title": "IE31001: Instrumentation Devices",
+  "url": "https://wiki.metakgp.org/wiki/IE31001:_Instrumentation_Devices",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Instrumentation systems, Static and Dynamic characteristics of\nInstruments. Displacement and proximity measurement: Inductive and Capacitive\nPick-ups, Linear Variable Differential Transformer (LVDT), Synchro, Phase\nSensitive Detection. Measurement of Temperature: Thermocouple and its cold\njunction compensation, Resistance Temperature Detector (RTD)- three and four\nwire methods, Thermistor, Radiation Pyrometer. Measurement of strain: Stain\nGauge, unbalanced Wheatstone bridge, Load Cell (both column and beam type),\nTorque transducer. Measurement of Pressure: Elastic transducers (Bourdon Gauge,\nBellow and Diaphragm gauge), MEMS pressure sensor, Low pressure measurement.\nFlow: Differential Pressure flowmeter, Variable area flowmeter, Turbine flow\nmeter, Ultrasonic flowmeter (Both transit time and Doppler shift),\nElectromagnetic flowmeter, Positive displacement flowmeter and Mass flowmeter.\nMeasurement of level: Capacitance based and Float based methods. Measurement of\npH, Conductivity and Humidity.Instrumentation Amplifier, Methods for\nimprovement of linearity, sensitivity and speed of response.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Instrumentation_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Instrumentation_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IE31001: Instrumentation Devices\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Instrumentation systems, Static and Dynamic characteristics of\nInstruments. Displacement and proximity measurement: Inductive and Capacitive\nPick-ups, Linear Variable Differential Transformer (LVDT), Synchro, Phase\nSensitive Detection. Measurement of Temperature: Thermocouple and its cold\njunction compensation, Resistance Temperature Detector (RTD)- three and four\nwire methods, Thermistor, Radiation Pyrometer. Measurement of strain: Stain\nGauge, unbalanced Wheatstone bridge, Load Cell (both column and beam type),\nTorque transducer. Measurement of Pressure: Elastic transducers (Bourdon Gauge,\nBellow and Diaphragm gauge), MEMS pressure sensor, Low pressure measurement.\nFlow: Differential Pressure flowmeter, Variable area flowmeter, Turbine flow\nmeter, Ultrasonic flowmeter (Both transit time and Doppler shift),\nElectromagnetic flowmeter, Positive displacement flowmeter and Mass flowmeter.\nMeasurement of level: Capacitance based and Float based methods. Measurement of\npH, Conductivity and Humidity.Instrumentation Amplifier, Methods for\nimprovement of linearity, sensitivity and speed of response.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm"
+    },
+    {
+      "index": 1,
+      "text": "IE31001: Instrumentation Devices\n\nTable\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

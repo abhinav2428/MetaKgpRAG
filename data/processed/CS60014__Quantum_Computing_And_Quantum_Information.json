@@ -1,0 +1,20 @@
+{
+  "title": "CS60014: Quantum Computing And Quantum Information",
+  "url": "https://wiki.metakgp.org/wiki/CS60014:_Quantum_Computing_And_Quantum_Information",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nMathematical foundations; quantum mechanical principles; quantum entanglement;\nreversible computation, qubits, quantum gates and registers; universal gates\nfor quantum computing; quantum parallelism and simple quantum algorithms;\nquantum Fourier transforms and its applications, quantum search algorithms;\nelements of quantum automata and quantum complexity theory; introduction to\nquantum error correcting codes; entanglement assisted communication; elements\nof quantum information theory and quantum cryptography.References1.M. A.\nNielsen and I. L. Chuang, Quantum Computation and Quantum Information,\nCambridge University Press.2.Jozef Gruska, Quantum Computing, McGrawHill.3.Lecture notes by John Preskill and N. D. Mermin available in the\nInternet.4.Los Alamos Quant_ph archive.5.Current Literature.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60014: Quantum Computing And Quantum Information\n\nSyllabus\nSyllabus mentioned in ERP\n\nMathematical foundations; quantum mechanical principles; quantum entanglement;\nreversible computation, qubits, quantum gates and registers; universal gates\nfor quantum computing; quantum parallelism and simple quantum algorithms;\nquantum Fourier transforms and its applications, quantum search algorithms;\nelements of quantum automata and quantum complexity theory; introduction to\nquantum error correcting codes; entanglement assisted communication; elements\nof quantum information theory and quantum cryptography.References1.M. A.\nNielsen and I. L. Chuang, Quantum Computation and Quantum Information,\nCambridge University Press.2.Jozef Gruska, Quantum Computing, McGrawHill.3.Lecture notes by John Preskill and N. D. Mermin available in the\nInternet.4.Los Alamos Quant_ph archive.5.Current Literature.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

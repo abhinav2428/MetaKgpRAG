@@ -1,0 +1,15 @@
+{
+  "title": "CS10003: Programming and Data Structures",
+  "url": "https://wiki.metakgp.org/wiki/CS10003:_Programming_and_Data_Structures",
+  "text": "Syllabus \n\n* Introduction: Basic operation of digital computers, basic concepts of integer and floating point number representations.\n* Elements of C programming language: Data types, constants, and variables, expressions and assignment statements, input and output statements, conditional and branch statements, iteration statements, 1-d and 2-d arrays, functions and parameter passing, recursion, strings, structures, introduction to pointers and dynamic allocation, file read and write.\n* Searching and sorting: Linear and binary search, selection sort, bubble sort, insertion sort, merge sort, quick sort.\n* Data structures: Linked lists, stacks, queues.",
+  "page_type": "course",
+  "links": [],
+  "categories": [],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS10003: Programming and Data Structures\n\nSyllabus \n\n* Introduction: Basic operation of digital computers, basic concepts of integer and floating point number representations.\n* Elements of C programming language: Data types, constants, and variables, expressions and assignment statements, input and output statements, conditional and branch statements, iteration statements, 1-d and 2-d arrays, functions and parameter passing, recursion, strings, structures, introduction to pointers and dynamic allocation, file read and write.\n* Searching and sorting: Linear and binary search, selection sort, bubble sort, insertion sort, merge sort, quick sort.\n* Data structures: Linked lists, stacks, queues."
+    }
+  ],
+  "chunk_count": 1
+}

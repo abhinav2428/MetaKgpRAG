@@ -1,0 +1,20 @@
+{
+  "title": "EE60080: Microprocessor Based System",
+  "url": "https://wiki.metakgp.org/wiki/EE60080:_Microprocessor_Based_System",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\n16 bit microprocessor-8086 processor, architecture, Bus Interface unit and\nexecution unit, segmentation of memory, instruction set, assembly language\nprogramming, Interrupt-software and hardware, priority of the interrupts.\nStandard peripherals and its interfacing. Coprocessor, its internal\narchitecture, its handshaking signals for main processor, Data formats, stack\nregisters, coprocessor instruction set. Bus Interface: ISA bus, the extended\nISA and VESA local bus, PCI bus, Parallel Printer Interface (LPT), Universal\nSerial Bus (USB), Accelerated Graphics Port (AGP). Microprocessor based\ncontrol: temperature/pressure/flow/speed control-- a case study. 32-bit\nprocessor (80386 and higher processor), architecture, memory management unit,\nreal address mode and virtual address mode, proteteced mode of operation, 32\nbit processor flags, privilege levels, paging mode of operation. Pentium\nprocessor, its architecture, memory bank, data bus and its interfacing with 32\nbit memory, new instructions, System timing, burst cycle method of memory read,\nIntel chipset for Pentium processors. Asynchronous and synchronous data format\nand data transfer, modems and its interfacing.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electrical_Engineering"
+  ],
+  "categories": [
+    "Electrical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EE60080: Microprocessor Based System\n\nSyllabus\nSyllabus mentioned in ERP\n\n16 bit microprocessor-8086 processor, architecture, Bus Interface unit and\nexecution unit, segmentation of memory, instruction set, assembly language\nprogramming, Interrupt-software and hardware, priority of the interrupts.\nStandard peripherals and its interfacing. Coprocessor, its internal\narchitecture, its handshaking signals for main processor, Data formats, stack\nregisters, coprocessor instruction set. Bus Interface: ISA bus, the extended\nISA and VESA local bus, PCI bus, Parallel Printer Interface (LPT), Universal\nSerial Bus (USB), Accelerated Graphics Port (AGP). Microprocessor based\ncontrol: temperature/pressure/flow/speed control-- a case study. 32-bit\nprocessor (80386 and higher processor), architecture, memory management unit,\nreal address mode and virtual address mode, proteteced mode of operation, 32\nbit processor flags, privilege levels, paging mode of operation. Pentium\nprocessor, its architecture, memory bank, data bus and its interfacing with 32\nbit memory, new instructions, System timing, burst cycle method of memory read,\nIntel chipset for Pentium processors. Asynchronous and synchronous data format\nand data transfer, modems and its interfacing.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

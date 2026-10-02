@@ -1,0 +1,25 @@
+{
+  "title": "CS60078: Complex Network Theory",
+  "url": "https://wiki.metakgp.org/wiki/CS60078:_Complex_Network_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nObjectivesÃ¢ÂÂ¢Study of the models and behaviors of networked\nsystems.Ã¢ÂÂ¢Empirical studies of social, biological, technological and\ninformation networks.Ã¢ÂÂ¢Exploring the concepts of small world effect, degree\ndistribution, clustering, network correlations, random graphs, models of\nnetwork growth, and preferential attachment and dynamical processes taking\nplace on networks.ContentTypes of network: Social networks, Information\nnetworks, Technological networks, Biological networks.Properties of network:\nSmall world effect, transitivity and clustering, degree distribution, scale\nfree networks, maximum degree; network resilience; mixing patterns; degree\ncorrelations; community structures; network navigation.Random Graphs: Poisson\nrandom graphs, generalized random graphs, the configuration model, power-law\ndegree distribution, directed graph, bipartite graph, degree\ncorrelations.Models of network growth: Prices model, Barabasi and Alberts\nmodel, other growth models, vertex copying models.Processes taking place on\nnetworks: Percolation theory and network resilience, Epidemiological\nprocesses.Applications: Search on networks, exhaustive network search, guided\nnetwork search, network navigation; network visualization.References1.S. N.\nDorogovtsev and J. F. F. Mendes, Evolution of Networks, Oxford University\nPress.2.Narsingh Deo, Graph Theory, Prentice Hall of India.3.Current\nLiterature.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60078: Complex Network Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nObjectivesÃ¢ÂÂ¢Study of the models and behaviors of networked\nsystems.Ã¢ÂÂ¢Empirical studies of social, biological, technological and\ninformation networks.Ã¢ÂÂ¢Exploring the concepts of small world effect, degree\ndistribution, clustering, network correlations, random graphs, models of\nnetwork growth, and preferential attachment and dynamical processes taking\nplace on networks.ContentTypes of network: Social networks, Information\nnetworks, Technological networks, Biological networks.Properties of network:\nSmall world effect, transitivity and clustering, degree distribution, scale\nfree networks, maximum degree; network resilience; mixing patterns; degree\ncorrelations; community structures; network navigation.Random Graphs: Poisson\nrandom graphs, generalized random graphs, the configuration model, power-law\ndegree distribution, directed graph, bipartite graph, degree\ncorrelations.Models of network growth: Prices model, Barabasi and Alberts\nmodel, other growth models, vertex copying models.Processes taking place on\nnetworks: Percolation theory and network resilience, Epidemiological\nprocesses.Applications: Search on networks, exhaustive network search, guided\nnetwork search, network navigation; network visualization.References1.S. N.\nDorogovtsev and J. F. F. Mendes, Evolution of Networks, Oxford University\nPress.2.Narsingh Deo, Graph Theory, Prentice Hall of India.3.Current\nLiterature.\n\nConcepts taught in class"
+    },
+    {
+      "index": 1,
+      "text": "CS60078: Complex Network Theory\n\nN.\nDorogovtsev and J. F. F. Mendes, Evolution of Networks, Oxford University\nPress.2.Narsingh Deo, Graph Theory, Prentice Hall of India.3.Current\nLiterature.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

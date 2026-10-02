@@ -1,0 +1,21 @@
+{
+  "title": "CS40021: Applied Graph Theory",
+  "url": "https://wiki.metakgp.org/wiki/CS40021:_Applied_Graph_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFundamental concepts (basic definitions, operations, properties, proof styles);\nTrees (properties, distances and centroids, spanning trees, enumeration);\nMatchings (bipartite graphs, general graphs, weighted matching); Connectivity\n(vertex and edge connectivity, cuts, blocks, k-connected graphs, network\nflows); Traversibility (Eulerian tours, Hamiltonian cycles); Coloring (vertex\nand edge coloring, chromatic number, chordal graphs); Planarity (duality, Euler\ns formula, characterization, 4-color theorem); Advanced topics (perfect graphs,\nmatroids, Ramsay theory, extremal graphs, random graphs);\nApplications.References1.Douglas B. West, Introduction to Graph Theory,\nPrentice Hall of India.2.Narsingh Deo, Graph Theory with Applications to\nEngineering and Computer Science. Prentice-Hall.3.Frank Harary, Graph Theory,\nNarosa.4.R. Ahuja, T. Magnanti, and J. Orlin, Network Flows: Theory,\nAlgorithms, and Applications, Prentice-Hall.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40021: Applied Graph Theory\n\nSyllabus\nSyllabus mentioned in ERP\n\nFundamental concepts (basic definitions, operations, properties, proof styles);\nTrees (properties, distances and centroids, spanning trees, enumeration);\nMatchings (bipartite graphs, general graphs, weighted matching); Connectivity\n(vertex and edge connectivity, cuts, blocks, k-connected graphs, network\nflows); Traversibility (Eulerian tours, Hamiltonian cycles); Coloring (vertex\nand edge coloring, chromatic number, chordal graphs); Planarity (duality, Euler\ns formula, characterization, 4-color theorem); Advanced topics (perfect graphs,\nmatroids, Ramsay theory, extremal graphs, random graphs);\nApplications.References1.Douglas B. West, Introduction to Graph Theory,\nPrentice Hall of India.2.Narsingh Deo, Graph Theory with Applications to\nEngineering and Computer Science. Prentice-Hall.3.Frank Harary, Graph Theory,\nNarosa.4.R. Ahuja, T. Magnanti, and J. Orlin, Network Flows: Theory,\nAlgorithms, and Applications, Prentice-Hall.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,29 @@
+{
+  "title": "CS41001: Theory Of Computation",
+  "url": "https://wiki.metakgp.org/wiki/CS41001:_Theory_Of_Computation",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nComputability theory: Review of Turing machines, some other computing models\nand formalisms, their equivalence with Turing machines, undecidability, Post\ncorrespondence problem, Turing computability, primitive recursive functions,\nCantor and Goedel numbering, Ackermann function, mu-recursive functions,\nrecursiveness of Ackermann and Turing computable functions, lambda calculus,\nterm rewriting, oracle machines and the arithmetic hierarchy.Complexity theory:\nTime- and space-bounded Turing machines, reduction and complete problems,\noracle machines and the polynomial hierarchy, randomized computation, parallel\ncomputation.Logic: First-order predicate calculus- syntax, semantics, validity\nand satisfiability, decision problems in logic, quantified Boolean formulas and\ntheir relation with the polynomial hierarchy.References1.Michael Sipser,\nIntroduction to the Theory of Computation, PWS Publishing.2.Fred C. Hennie.\nIntroduction to Computability. Addison-Wesley.3.Bernard M. Moret, The Theory of\nComputation, Pearson Education Asia.4.Christos H. Papadimitriou, Computational\nComplexity, Addison-Wesley Longman.5.Dexter C. Kozen, Automata and\nComputability, Undergraduate Texts in Computer Science, Springer.6.John Martin,\nIntroduction to Languages and The Theory of Computation, Tata McGraw\nHill.7.John E. Hopcroft, Rajeev Motwani and Jeffrey D. Ullman, Introduction to\nAutomata Theory, Languages, and Computation, Pearson Education Asia.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS41001: Theory Of Computation\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS41001: Theory Of Computation\n\nmentioned in ERP\n\nComputability theory: Review of Turing machines, some other computing models\nand formalisms, their equivalence with Turing machines, undecidability, Post\ncorrespondence problem, Turing computability, primitive recursive functions,\nCantor and Goedel numbering, Ackermann function, mu-recursive functions,\nrecursiveness of Ackermann and Turing computable functions, lambda calculus,\nterm rewriting, oracle machines and the arithmetic hierarchy.Complexity theory:\nTime- and space-bounded Turing machines, reduction and complete problems,\noracle machines and the polynomial hierarchy, randomized computation, parallel\ncomputation.Logic: First-order predicate calculus- syntax, semantics, validity\nand satisfiability, decision problems in logic, quantified Boolean formulas and\ntheir relation with the polynomial hierarchy.References1.Michael Sipser,\nIntroduction to the Theory of Computation, PWS Publishing.2.Fred C. Hennie.\nIntroduction to Computability. Addison-Wesley.3.Bernard M. Moret, The Theory of\nComputation, Pearson Education Asia.4.Christos H. Papadimitriou, Computational\nComplexity, Addison-Wesley Longman.5.Dexter C. Kozen, Automata and\nComputability, Undergraduate Texts in Computer Science, Springer.6.John Martin,\nIntroduction to Languages and The Theory of Computation, Tata McGraw\nHill.7.John E. Hopcroft, Rajeev Motwani and Jeffrey D. Ullman, Introduction to\nAutomata Theory, Languages, and Computation, Pearson Education Asia."
+    },
+    {
+      "index": 2,
+      "text": "CS41001: Theory Of Computation\n\nand The Theory of Computation, Tata McGraw\nHill.7.John E. Hopcroft, Rajeev Motwani and Jeffrey D. Ullman, Introduction to\nAutomata Theory, Languages, and Computation, Pearson Education Asia.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 3
+}

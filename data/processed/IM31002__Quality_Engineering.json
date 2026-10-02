@@ -1,0 +1,21 @@
+{
+  "title": "IM31002: Quality Engineering",
+  "url": "https://wiki.metakgp.org/wiki/IM31002:_Quality_Engineering",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisites: IM31005 Quality Design and Control Experimental design\nfundamentals; Statistical concepts; Features of experimentation; Analysis of\nvariance (ANOVA): no-way, one-way, two-way, and three-way ANOVA, Critique of Ftest; Some experimental designs: Factorial experiments (2k), role of contrasts,\nconfounding, fractional replication, and other aspects; 2k-p fractional\nfactorial experiments; Response Surface Methodology (RSM).Taguchi philosophy;\nLoss function; Orthogonal arrays: Steps in designing, conducting, and analysing\nan experiment; Parameter and tolerance design concepts: control and noise\nfactors; Analysis of inner/outer array experiments: signal-to-noise ratio and\nperformance measures; Applications to attribute data.Booksâ¢Montgomery, D.C.\n(2004), Design and Analysis of Experiments, John Wiley\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Industrial_&_Systems_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Industrial_&_Systems_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "IM31002: Quality Engineering\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisites: IM31005 Quality Design and Control Experimental design\nfundamentals; Statistical concepts; Features of experimentation; Analysis of\nvariance (ANOVA): no-way, one-way, two-way, and three-way ANOVA, Critique of Ftest; Some experimental designs: Factorial experiments (2k), role of contrasts,\nconfounding, fractional replication, and other aspects; 2k-p fractional\nfactorial experiments; Response Surface Methodology (RSM).Taguchi philosophy;\nLoss function; Orthogonal arrays: Steps in designing, conducting, and analysing\nan experiment; Parameter and tolerance design concepts: control and noise\nfactors; Analysis of inner/outer array experiments: signal-to-noise ratio and\nperformance measures; Applications to attribute data.Booksâ¢Montgomery, D.C.\n(2004), Design and Analysis of Experiments, John Wiley\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

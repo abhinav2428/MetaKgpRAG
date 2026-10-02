@@ -1,0 +1,25 @@
+{
+  "title": "ME60305: Cad For Manufacturing",
+  "url": "https://wiki.metakgp.org/wiki/ME60305:_Cad_For_Manufacturing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to CAD/CAM/CAE for manufacturing. Prototyping cycle for product\ndesign, manufacture and life management. Competitive design and manufacturing\ncycles for rapid product realization. CAD tools and industry adoption of\nstandards.\nIntroduction to geometric modelling. Basic modelling and representation of\nlines, curves, surfaces and solids. Constructive Solids Geometry. Surface\nmodelling techniques. Solids Modelling. Boundary Representation. Spatial\nenumerative techniques. Object representation. Object validation. Constraints\nand feature modelling. Feature based data representation. Object visualization.\nTexturing. Ray tracing and related algorithms.\nAssembly modelling. Feature based analysis. Disassembly analysis. Manufacturing\nanalysis. Dimensioning, Tolerance and fits representation and analysis. Product\nmanufacturing planning. Design Structure matrix. Data extraction for product\ndesign analysis.\nElements of primary processes CAD modelling – Casting, Rapid prototyping etc.\nTools for automated generation of cutter path from CAD representation in\nsecondary processes. Rapid Prototyping and machine data generation from CAD\nmodels. Elements and data structures for standards based data exchanges – IGES,\nSTEP, STP etc. Web-based product visualization and collaboration. Web based\nmanufacturing planning.\nAdvanced topics:\n•Surface generation methods – algorithm examples.\n•Cutter path generation software development.\n•Development of interaction methods to exchange CAD-CAM data in networked\nenvironment.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60305: Cad For Manufacturing\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to CAD/CAM/CAE for manufacturing.\n\nPrototyping cycle for product\ndesign, manufacture and life management.\n\nCompetitive design and manufacturing\ncycles for rapid product realization.\n\nCAD tools and industry adoption of\nstandards.\n\nIntroduction to geometric modelling.\n\nBasic modelling and representation of\nlines, curves, surfaces and solids.\n\nConstructive Solids Geometry.\n\nSurface\nmodelling techniques.\n\nSolids Modelling.\n\nBoundary Representation.\n\nSpatial\nenumerative techniques.\n\nObject representation.\n\nObject validation.\n\nConstraints\nand feature modelling.\n\nFeature based data representation.\n\nObject visualization.\n\nTexturing.\n\nRay tracing and related algorithms.\n\nAssembly modelling.\n\nFeature based analysis.\n\nDisassembly analysis.\n\nManufacturing\nanalysis.\n\nDimensioning, Tolerance and fits representation and analysis.\n\nProduct\nmanufacturing planning.\n\nDesign Structure matrix.\n\nData extraction for product\ndesign analysis.\n\nElements of primary processes CAD modelling – Casting, Rapid prototyping etc.\n\nTools for automated generation of cutter path from CAD representation in\nsecondary processes.\n\nRapid Prototyping and machine data generation from CAD\nmodels.\n\nElements and data structures for standards based data exchanges – IGES,\nSTEP, STP etc.\n\nWeb-based product visualization and collaboration.\n\nWeb based\nmanufacturing planning.\n\nAdvanced topics:\n•Surface generation methods – algorithm examples."
+    },
+    {
+      "index": 1,
+      "text": "ME60305: Cad For Manufacturing\n\nbased data exchanges – IGES,\nSTEP, STP etc.\n\nWeb-based product visualization and collaboration.\n\nWeb based\nmanufacturing planning.\n\nAdvanced topics:\n•Surface generation methods – algorithm examples.\n\n•Cutter path generation software development.\n\n•Development of interaction methods to exchange CAD-CAM data in networked\nenvironment.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

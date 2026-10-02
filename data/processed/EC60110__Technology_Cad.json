@@ -1,0 +1,21 @@
+{
+  "title": "EC60110: Technology Cad",
+  "url": "https://wiki.metakgp.org/wiki/EC60110:_Technology_Cad",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21007Introduction and overview; History and structures; The\nrole of TCAD for Semiconductor technology development ; TCAD principles; Tool\nintegration; Structure editing and mesh generation; Process technology Si,\nSiGe, III-V semiconductors; Process simulation ÃÂ¢ÃÂÃÂ general; Simulation of\ndevice characteristics; Device level simulation challenges; Introducing new\ndevice models; Heterojunction device modeling; Simulation of silicon germanium\nHBTs; Simulation of heterostructure FETs; Simulation of AlGaAs/ GaAs devices;\nVWF automation tools; Example of VWF methodology; Extraction of DC and AC SPICE\nmodel parameters; Small signal AC analysis for CMOS and bipolar transistors;\nApplication of mixed-mode simulation; TCAD calibration procedure; Integration\ninto the CADENCE design framework.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC60110: Technology Cad\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisites: EC21007Introduction and overview; History and structures; The\nrole of TCAD for Semiconductor technology development ; TCAD principles; Tool\nintegration; Structure editing and mesh generation; Process technology Si,\nSiGe, III-V semiconductors; Process simulation ÃÂ¢ÃÂÃÂ general; Simulation of\ndevice characteristics; Device level simulation challenges; Introducing new\ndevice models; Heterojunction device modeling; Simulation of silicon germanium\nHBTs; Simulation of heterostructure FETs; Simulation of AlGaAs/ GaAs devices;\nVWF automation tools; Example of VWF methodology; Extraction of DC and AC SPICE\nmodel parameters; Small signal AC analysis for CMOS and bipolar transistors;\nApplication of mixed-mode simulation; TCAD calibration procedure; Integration\ninto the CADENCE design framework.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

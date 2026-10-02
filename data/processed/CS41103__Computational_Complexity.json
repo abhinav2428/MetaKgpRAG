@@ -1,0 +1,21 @@
+{
+  "title": "CS41103: Computational Complexity",
+  "url": "https://wiki.metakgp.org/wiki/CS41103:_Computational_Complexity",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nComputational Models (machine models, logic); Problems, computability,\nAlgorithms, Resources, and Complexity; Turing machines (time and space bounds,\nnondeterminism); Logic (Boolean logic, circuits, first and second order logic);\nComplexity classes (hierarchy theorem, reachability, P, NP, Co-NP); Reduction\nand completeness; Randomized computation; Approximability; Cryptography and\nprotocols; Parallel Computation; Polynomial Hierarchy; Logarithmic space;\nPolynomial space; Exponential time and space.References1.Christos H.\nPapadimitriou, Computational Complexity, Addison-Wesley Longman.2.Michael\nSipser, Introduction to the Theory of Computation, PWS Publishing.3.John E.\nHopcroft and Jeffrey D. Ullman, Introduction to Automata, Languages and\nComputation, Addison-Wesley, 1979.4.J. Balcazar, J. Diaz, and J. Gabarro,\nStructural Complexity, Volumes I and II, Springer.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS41103: Computational Complexity\n\nSyllabus\nSyllabus mentioned in ERP\n\nComputational Models (machine models, logic); Problems, computability,\nAlgorithms, Resources, and Complexity; Turing machines (time and space bounds,\nnondeterminism); Logic (Boolean logic, circuits, first and second order logic);\nComplexity classes (hierarchy theorem, reachability, P, NP, Co-NP); Reduction\nand completeness; Randomized computation; Approximability; Cryptography and\nprotocols; Parallel Computation; Polynomial Hierarchy; Logarithmic space;\nPolynomial space; Exponential time and space.References1.Christos H.\nPapadimitriou, Computational Complexity, Addison-Wesley Longman.2.Michael\nSipser, Introduction to the Theory of Computation, PWS Publishing.3.John E.\nHopcroft and Jeffrey D. Ullman, Introduction to Automata, Languages and\nComputation, Addison-Wesley, 1979.4.J. Balcazar, J. Diaz, and J. Gabarro,\nStructural Complexity, Volumes I and II, Springer.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

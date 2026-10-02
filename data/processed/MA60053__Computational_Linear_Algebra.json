@@ -1,0 +1,25 @@
+{
+  "title": "MA60053: Computational Linear Algebra",
+  "url": "https://wiki.metakgp.org/wiki/MA60053:_Computational_Linear_Algebra",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Linear AlgebraBasic concepts, floating point numbers and errors\nin computation, stability of algorithms and conditioning of problems. Numerical\nsolutions of linear systems, direct methods - Gaussian elimination with pivotal\ncondensation, operational count and error bound. LU factorization, QR\nfactorization, condition number and ill conditioned systems, matrix and vector\nnorms, error bounds, Wilkinsons algorithm for ill-conditioned systems,\niterative methods - Jacobi, Gauss-Seidel, SOR. Convergence and rate of\nconvergence, conjugate gradient method, Arnoldi process and GMRES, large sparse\nsystems, matrix inverse, generalized inverse. Least squares solution of linear\nsystems, numerical eigenvalue problems, computation of eigenvalues and\neigenvectors, singular value decomposition and least squares problem, SVD and\nthe pseudo inverse, Jacobi, Givens and Householders methods for symmetric\nmatrices, Hessenberg QR iteration.\n\nThe syllabus and resources for the course offered in Spring Semester 2019 can be well cited through the link:\nhttp://www.facweb.iitkgp.ac.in/~rkannan/cla2019/cla2019.html\n\nConcepts taught in class\n\nStudent Opinion\nA very wonderful course from the point of learning, and recommended for those having a nice hold on in Mathematics, mainly in subjects like Linear Algebra, Real Analysis, and Functional Analysis.\n\nHow to Crack the Paper\n\n*Attend as many number of classes as possible.\n*Try solving as much of assignment questions without any fear. Some questions are made challenging (even in paper) but with practice and concentration they could become easier to solve. Its okay, even if you solve half the assignment.\n*Consider a brief revision of basic Linear Algebra concepts mainly proofs, results, and applications.\n*Aim more on learning than on getting grades.\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA60053: Computational Linear Algebra\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Linear AlgebraBasic concepts, floating point numbers and errors\nin computation, stability of algorithms and conditioning of problems. Numerical\nsolutions of linear systems, direct methods - Gaussian elimination with pivotal\ncondensation, operational count and error bound. LU factorization, QR\nfactorization, condition number and ill conditioned systems, matrix and vector\nnorms, error bounds, Wilkinsons algorithm for ill-conditioned systems,\niterative methods - Jacobi, Gauss-Seidel, SOR. Convergence and rate of\nconvergence, conjugate gradient method, Arnoldi process and GMRES, large sparse\nsystems, matrix inverse, generalized inverse. Least squares solution of linear\nsystems, numerical eigenvalue problems, computation of eigenvalues and\neigenvectors, singular value decomposition and least squares problem, SVD and\nthe pseudo inverse, Jacobi, Givens and Householders methods for symmetric\nmatrices, Hessenberg QR iteration.\n\nThe syllabus and resources for the course offered in Spring Semester 2019 can be well cited through the link:\nhttp://www.facweb.iitkgp.ac.in/~rkannan/cla2019/cla2019.html\n\nConcepts taught in class\n\nStudent Opinion\nA very wonderful course from the point of learning, and recommended for those having a nice hold on in Mathematics, mainly in subjects like Linear Algebra, Real Analysis, and Functional Analysis.\n\nHow to Crack the Paper"
+    },
+    {
+      "index": 1,
+      "text": "MA60053: Computational Linear Algebra\n\nfrom the point of learning, and recommended for those having a nice hold on in Mathematics, mainly in subjects like Linear Algebra, Real Analysis, and Functional Analysis.\n\nHow to Crack the Paper\n\n*Attend as many number of classes as possible.\n*Try solving as much of assignment questions without any fear. Some questions are made challenging (even in paper) but with practice and concentration they could become easier to solve. Its okay, even if you solve half the assignment.\n*Consider a brief revision of basic Linear Algebra concepts mainly proofs, results, and applications.\n*Aim more on learning than on getting grades.\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

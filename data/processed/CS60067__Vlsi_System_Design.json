@@ -1,0 +1,21 @@
+{
+  "title": "CS60067: Vlsi System Design",
+  "url": "https://wiki.metakgp.org/wiki/CS60067:_Vlsi_System_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to VLSI Design, Different types of VLSI design styles: Full\ncustom, standard cell based, gate array based, programmable logic, field\nprogrammable gate arrays etc. VLSI Design flow. CMOS logic: PMOS, NMOS and\nCMOS, Electrical characteristics, operation of MOS transistors as a switch and\nan amplifier, MOS inverter, stick diagram, design rules and layout, delay\nanalysis, different type of MOS circuits: Dynamic logic, BiCMOS, pass\ntransistors etc. CMOS process, Combinational logic cells, Sequential logic\ncells, Datapath logic cells, I/O cells. ASIC Library Design: Transistors as\nResistors and parasitic Capacitance, Logical effort, gate array, standard cell\nand datapath cell design. Introduction to hardware description language (HDL)\nVerilog/VHDL. A logic synthesis example. Floor-planning and Placement: I/O and\npower planning, clock planning. Routing global and detailed. Example design\ntechnique: mapping of architecture to silicon.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60067: Vlsi System Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to VLSI Design, Different types of VLSI design styles: Full\ncustom, standard cell based, gate array based, programmable logic, field\nprogrammable gate arrays etc. VLSI Design flow. CMOS logic: PMOS, NMOS and\nCMOS, Electrical characteristics, operation of MOS transistors as a switch and\nan amplifier, MOS inverter, stick diagram, design rules and layout, delay\nanalysis, different type of MOS circuits: Dynamic logic, BiCMOS, pass\ntransistors etc. CMOS process, Combinational logic cells, Sequential logic\ncells, Datapath logic cells, I/O cells. ASIC Library Design: Transistors as\nResistors and parasitic Capacitance, Logical effort, gate array, standard cell\nand datapath cell design. Introduction to hardware description language (HDL)\nVerilog/VHDL. A logic synthesis example. Floor-planning and Placement: I/O and\npower planning, clock planning. Routing global and detailed. Example design\ntechnique: mapping of architecture to silicon.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

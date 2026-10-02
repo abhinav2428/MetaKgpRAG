@@ -1,0 +1,21 @@
+{
+  "title": "ME60131: Finite And Boundary Element Methods In Manufacturing",
+  "url": "https://wiki.metakgp.org/wiki/ME60131:_Finite_And_Boundary_Element_Methods_In_Manufacturing",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFinite and Boundary Element Methods in ManufacturingIntroduction to finite\nelement method; discrimination of domain, elastic analysis of 2D bodies using\nand rod elements and linear triangular elements; 3D tetrahedron element\nmethodology of mesh generation, assembly an solution, formulation using\nvariational analysis and method residue; heat conduction analysis for steady\nand unsteady case and extension of the method to the analysis of general\npotential problems; bending of beams and plates; non-linear, curves and\nisoparametric elements, area coordinates; numerical integration. Principle of\nboundary element method; conversion of basic weighted residue statement into\nboundary integral equation inverse statement, concept of fundamental solution;\napplication to potential problem in two and three dimensions; type of boundary\nelements; brief introduction to formulation of problems in elastostatics.\nPractice on development of programs and use of software.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60131: Finite And Boundary Element Methods In Manufacturing\n\nSyllabus\nSyllabus mentioned in ERP\n\nFinite and Boundary Element Methods in ManufacturingIntroduction to finite\nelement method; discrimination of domain, elastic analysis of 2D bodies using\nand rod elements and linear triangular elements; 3D tetrahedron element\nmethodology of mesh generation, assembly an solution, formulation using\nvariational analysis and method residue; heat conduction analysis for steady\nand unsteady case and extension of the method to the analysis of general\npotential problems; bending of beams and plates; non-linear, curves and\nisoparametric elements, area coordinates; numerical integration. Principle of\nboundary element method; conversion of basic weighted residue statement into\nboundary integral equation inverse statement, concept of fundamental solution;\napplication to potential problem in two and three dimensions; type of boundary\nelements; brief introduction to formulation of problems in elastostatics.\nPractice on development of programs and use of software.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 1
+}

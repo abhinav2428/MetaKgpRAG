@@ -1,0 +1,24 @@
+{
+  "title": "MT61334: Rate Phenomena In Steel Technology",
+  "url": "https://wiki.metakgp.org/wiki/MT61334:_Rate_Phenomena_In_Steel_Technology",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nFluid Flow : Newton s Law of Viscosity, Differential Analysis of flow â\ncontinuity equation and Navier-Stokes Equation, Concept of boundary layer,\nSolved examples of incompressible steady state flow, Non-dimensionalization and\ndimensionless numbers, Turbulent flow, Friction factor and drag, coefficient,\nPacked bed and fluidized bed system. Heat Transfer: Introduction to three types\nof heat transfer, Conductive Heat Transfer-Fourier s Law of Heat Conduction,\nThermal Conductivity of Materials, Differential Equation for Heat Conduction in\nRectangular, Cylindrical and spherical coordinate systems, Nondimensionalization and dimensionless numbers, solved examples of heat\nconduction. Convective Heat Transfer : Differential heat transfer/fluid flow\nanalysis for forced and natural convection, non-dimensionalization and\ndimensionless numbers, concept of heat transfer coefficient and correlations,\nsolved examples. Radiative Heat Transfer : Black body radiation, Plank s\nequation, radiative heat exchange between two black bodies, heat transfer\nbetween two black walls in an enclosure, Grey Body, Effective view factor,\nRadiation through absorbing media, Solved Examples. Mass Transfer : Diffusive\nmass transfer in solids, differential analysis of convective mass-transfer,\nnon-dimensionalization and dimensionless numbers, concept of mass transfer\ncoefficient and correlations, solved examples. Use of and a CFD package and\nits application to steel industry : Processes for primary steel making, The\noxygen steel making and its variations, Slag formation and refining reactions\nin steelmaking, Secondary steelmaking, Injection\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Metallurgical_&_Materials_Engineering"
+  ],
+  "categories": [
+    "Metallurgical_&_Materials_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MT61334: Rate Phenomena In Steel Technology\n\nSyllabus\nSyllabus mentioned in ERP\n\nFluid Flow : Newton s Law of Viscosity, Differential Analysis of flow â\ncontinuity equation and Navier-Stokes Equation, Concept of boundary layer,\nSolved examples of incompressible steady state flow, Non-dimensionalization and\ndimensionless numbers, Turbulent flow, Friction factor and drag, coefficient,\nPacked bed and fluidized bed system.\n\nHeat Transfer: Introduction to three types\nof heat transfer, Conductive Heat Transfer-Fourier s Law of Heat Conduction,\nThermal Conductivity of Materials, Differential Equation for Heat Conduction in\nRectangular, Cylindrical and spherical coordinate systems, Nondimensionalization and dimensionless numbers, solved examples of heat\nconduction.\n\nConvective Heat Transfer : Differential heat transfer/fluid flow\nanalysis for forced and natural convection, non-dimensionalization and\ndimensionless numbers, concept of heat transfer coefficient and correlations,\nsolved examples.\n\nRadiative Heat Transfer : Black body radiation, Plank s\nequation, radiative heat exchange between two black bodies, heat transfer\nbetween two black walls in an enclosure, Grey Body, Effective view factor,\nRadiation through absorbing media, Solved Examples.\n\nMass Transfer : Diffusive\nmass transfer in solids, differential analysis of convective mass-transfer,\nnon-dimensionalization and dimensionless numbers, concept of mass transfer\ncoefficient and correlations, solved examples."
+    },
+    {
+      "index": 1,
+      "text": "MT61334: Rate Phenomena In Steel Technology\n\ntransfer in solids, differential analysis of convective mass-transfer,\nnon-dimensionalization and dimensionless numbers, concept of mass transfer\ncoefficient and correlations, solved examples.\n\nUse of and a CFD package and\nits application to steel industry : Processes for primary steel making, The\noxygen steel making and its variations, Slag formation and refining reactions\nin steelmaking, Secondary steelmaking, Injection\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

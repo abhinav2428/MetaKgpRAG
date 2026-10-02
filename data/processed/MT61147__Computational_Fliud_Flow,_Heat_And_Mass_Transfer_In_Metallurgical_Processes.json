@@ -1,0 +1,21 @@
+{
+  "title": "MT61147: Computational Fliud Flow, Heat And Mass Transfer In Metallurgical Processes",
+  "url": "https://wiki.metakgp.org/wiki/MT61147:_Computational_Fliud_Flow,_Heat_And_Mass_Transfer_In_Metallurgical_Processes",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nGeneral equations of heat, mass and momentum balance, laminar, turbulent flow,\nconcept of boundary layer, friction factor, heat and mass transfer coefficients\nand dimensionless correlations. Mathematical model: model formulation with\ngoverning equations, boundary conditions, some case studies of some important\nmetallurgical system: packed and fluidized bed, moving boundary problems with\nmelting, solidifications and reactions, interaction of gas bubbles and jets\nwith liquid. Numerical methods: control volume method for solving partial\ndifferential equations. Numerical solutions of some metallurgical processes:\ngas stirred ladle, filling ladle, fusion welding, cored wire injection, soaking\npits, continuous casting etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Metallurgical_&_Materials_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Metallurgical_&_Materials_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MT61147: Computational Fliud Flow, Heat And Mass Transfer In Metallurgical Processes\n\nSyllabus\nSyllabus mentioned in ERP\n\nGeneral equations of heat, mass and momentum balance, laminar, turbulent flow,\nconcept of boundary layer, friction factor, heat and mass transfer coefficients\nand dimensionless correlations. Mathematical model: model formulation with\ngoverning equations, boundary conditions, some case studies of some important\nmetallurgical system: packed and fluidized bed, moving boundary problems with\nmelting, solidifications and reactions, interaction of gas bubbles and jets\nwith liquid. Numerical methods: control volume method for solving partial\ndifferential equations. Numerical solutions of some metallurgical processes:\ngas stirred ladle, filling ladle, fusion welding, cored wire injection, soaking\npits, continuous casting etc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CS40025: Vlsi System Design",
+  "url": "https://wiki.metakgp.org/wiki/CS40025:_Vlsi_System_Design",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to VLSI Design, Different types of VLSI design styles: Full\ncustom, standard cell based, gate array based, programmable logic, field\nprogrammable gate arrays etc. VLSI Design flow. CMOS logic: PMOS, NMOS and\nCMOS, Electrical characteristics, operation of MOS transistors as a switch and\nan amplifier, MOS inverter, stick diagram, design rules and layout, delay\nanalysis, different type of MOS circuits: Dynamic logic, BiCMOS, pass\ntransistors etc. CMOS process, Combinational logic cells, Sequential logic\ncells, Datapath logic cells, I/O cells. ASIC Library Design: Transistors as\nResistors and parasitic Capacitance, Logical effort, gate array, standard cell\nand datapath cell design. Introduction to hardware description language (HDL)\nVerilog/VHDL. A logic synthesis example. Floor-planning and Placement: I/O and\npower planning, clock planning. Routing global and detailed. Example design\ntechnique: mapping of architecture to silicon.References1.N. H. E. Weste and K.\nEshraghian, Principles of CMOS VLSI Design : A Systems Perspective, Pearson\nEducation.2.W. Wolf, Modern VLSI Design: Systems on Silicon, Pearson\nEducation.3.J. Rabaey, A. Chandrakasan and B. Nikolic, Digital Integrated\nCircuits: A Design Perspective, Prentice Hall of India.4.M. Sarafzadeh and C.\nK. Wong, An Introduction to VLSI Physical Design, MCGraw-Hill.5.D. D. Gajaski,\nN. D. Dutt, A. C.-H. Wu and S. Y.-L. Lin, High-Level Synthesis: Introduction to\nChip and System Design, Kluwer Academic Publishers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS40025: Vlsi System Design\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to VLSI Design, Different types of VLSI design styles: Full\ncustom, standard cell based, gate array based, programmable logic, field\nprogrammable gate arrays etc.\n\nVLSI Design flow.\n\nCMOS logic: PMOS, NMOS and\nCMOS, Electrical characteristics, operation of MOS transistors as a switch and\nan amplifier, MOS inverter, stick diagram, design rules and layout, delay\nanalysis, different type of MOS circuits: Dynamic logic, BiCMOS, pass\ntransistors etc.\n\nCMOS process, Combinational logic cells, Sequential logic\ncells, Datapath logic cells, I/O cells.\n\nASIC Library Design: Transistors as\nResistors and parasitic Capacitance, Logical effort, gate array, standard cell\nand datapath cell design.\n\nIntroduction to hardware description language (HDL)\nVerilog/VHDL.\n\nA logic synthesis example.\n\nFloor-planning and Placement: I/O and\npower planning, clock planning.\n\nRouting global and detailed.\n\nExample design\ntechnique: mapping of architecture to silicon.References1.N.\n\nH.\n\nE.\n\nWeste and K.\n\nEshraghian, Principles of CMOS VLSI Design : A Systems Perspective, Pearson\nEducation.2.W.\n\nWolf, Modern VLSI Design: Systems on Silicon, Pearson\nEducation.3.J.\n\nRabaey, A.\n\nChandrakasan and B.\n\nNikolic, Digital Integrated\nCircuits: A Design Perspective, Prentice Hall of India.4.M.\n\nSarafzadeh and C.\n\nK.\n\nWong, An Introduction to VLSI Physical Design, MCGraw-Hill.5.D.\n\nD.\n\nGajaski,\nN.\n\nD.\n\nDutt, A.\n\nC.-H.\n\nWu and S.\n\nY.-L."
+    },
+    {
+      "index": 1,
+      "text": "CS40025: Vlsi System Design\n\nA Design Perspective, Prentice Hall of India.4.M.\n\nSarafzadeh and C.\n\nK.\n\nWong, An Introduction to VLSI Physical Design, MCGraw-Hill.5.D.\n\nD.\n\nGajaski,\nN.\n\nD.\n\nDutt, A.\n\nC.-H.\n\nWu and S.\n\nY.-L.\n\nLin, High-Level Synthesis: Introduction to\nChip and System Design, Kluwer Academic Publishers.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

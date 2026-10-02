@@ -1,0 +1,24 @@
+{
+  "title": "MA29005: Design & Analysis Of Algorithms Lab.",
+  "url": "https://wiki.metakgp.org/wiki/MA29005:_Design_&_Analysis_Of_Algorithms_Lab.",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Design & Analysis of Algorithms\nBinary Search Tree, Tree traversals. Sorting Algorithms : Selection sort,\nInsertion sort, Heap sort, Merge sort, Quick sort; Shortest path algorithms :\nKruskal, Prim’s, Dijkstra, Floyd –Warshall, Bellman-Ford; Graph Traversal: DFS,\nBFS; Back Tracking, Dynamic Programming. Height Balanced Tree.\n\nConcepts taught in class\n\nData Structures - Trees, Graphs, Heaps, Hash Tables; Sorting Algorithms; Graph Algorithms - Minimum Spanning Tree, Dijkstra, Depth-First Search, Breadth-First Search.; Greedy Algorithms; Dynamic programming;\n\nStudent Opinion\n\n{|class=\"wikitable\"\n\n||Very basic course on Algorithms, with no real challenges. Excellent as a kick-start to DSA, but very mundane and basic for someone wanting to get well acquainted to the same. TAs are a little less proficient though when it comes to C programming, but are helpful in clearing your fundamentals about a particular problem, as is Prof. Sourav Mukhopadhyay. \n\nHow to Crack the Paper\n\n{|class=\"wikitable\"\n\n||Submit the lab assignments on time and you'll be fine. The lab exams are pretty basic, however one needs to be wary of cases where there is a good chance of the program faltering.\n\nClassroom resources\n\nHave a look at the basic questions on every data structure and algorithm on Geeks for Geeks, and practice it before hand. \n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mathematics"
+  ],
+  "categories": [
+    "Mathematics",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "MA29005: Design & Analysis Of Algorithms Lab.\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite: Design & Analysis of Algorithms\nBinary Search Tree, Tree traversals. Sorting Algorithms : Selection sort,\nInsertion sort, Heap sort, Merge sort, Quick sort; Shortest path algorithms :\nKruskal, Prim’s, Dijkstra, Floyd –Warshall, Bellman-Ford; Graph Traversal: DFS,\nBFS; Back Tracking, Dynamic Programming. Height Balanced Tree.\n\nConcepts taught in class\n\nData Structures - Trees, Graphs, Heaps, Hash Tables; Sorting Algorithms; Graph Algorithms - Minimum Spanning Tree, Dijkstra, Depth-First Search, Breadth-First Search.; Greedy Algorithms; Dynamic programming;\n\nStudent Opinion\n\n{|class=\"wikitable\"\n\n||Very basic course on Algorithms, with no real challenges. Excellent as a kick-start to DSA, but very mundane and basic for someone wanting to get well acquainted to the same. TAs are a little less proficient though when it comes to C programming, but are helpful in clearing your fundamentals about a particular problem, as is Prof. Sourav Mukhopadhyay.\n\nHow to Crack the Paper\n\n{|class=\"wikitable\"\n\n||Submit the lab assignments on time and you'll be fine. The lab exams are pretty basic, however one needs to be wary of cases where there is a good chance of the program faltering.\n\nClassroom resources\n\nHave a look at the basic questions on every data structure and algorithm on Geeks for Geeks, and practice it before hand.\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable"
+    },
+    {
+      "index": 1,
+      "text": "MA29005: Design & Analysis Of Algorithms Lab.\n\nresources\n\nHave a look at the basic questions on every data structure and algorithm on Geeks for Geeks, and practice it before hand.\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

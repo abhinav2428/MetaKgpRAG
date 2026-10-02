@@ -1,0 +1,21 @@
+{
+  "title": "ME21008: Kinematics Of Machines",
+  "url": "https://wiki.metakgp.org/wiki/ME21008:_Kinematics_Of_Machines",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPrerequisite - Dynamics\nIntroduction to mechanisms: kinematic pairs, kinematic diagrams, classification\nof kinematic chains, kinematic inversions, and equivalent linkages. Kinematic\nanalysis of planar mechanisms: mobility analysis and range of movement, Grashof\ncriterion and inversions, displacement analysis, relative instantaneous\ncenters, Aronhold-Kennedy theorem, velocity and acceleration analysis.\nDimensional synthesis of planar mechanisms: three position synthesis for\nfunction generation, path generation and rigid body guidance, dead center\nproblems, branch and order defects. Cams: synthesis of translating flat-face,\ntranslating roller and oscillating roller follower cams. Gears: fundamental law\nof gearing, characteristics of involutive action, analysis of gear trains.\nSpatial kinematic chains and robot kinematics: kinematic analysis of spatial\nchains, Denavit-Hartenberg parameters, robot kinematics.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n14ME Batch Course Repository",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME21008: Kinematics Of Machines\n\nSyllabus\nSyllabus mentioned in ERP\n\nPrerequisite - Dynamics\nIntroduction to mechanisms: kinematic pairs, kinematic diagrams, classification\nof kinematic chains, kinematic inversions, and equivalent linkages. Kinematic\nanalysis of planar mechanisms: mobility analysis and range of movement, Grashof\ncriterion and inversions, displacement analysis, relative instantaneous\ncenters, Aronhold-Kennedy theorem, velocity and acceleration analysis.\nDimensional synthesis of planar mechanisms: three position synthesis for\nfunction generation, path generation and rigid body guidance, dead center\nproblems, branch and order defects. Cams: synthesis of translating flat-face,\ntranslating roller and oscillating roller follower cams. Gears: fundamental law\nof gearing, characteristics of involutive action, analysis of gear trains.\nSpatial kinematic chains and robot kinematics: kinematic analysis of spatial\nchains, Denavit-Hartenberg parameters, robot kinematics.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n14ME Batch Course Repository"
+    }
+  ],
+  "chunk_count": 1
+}

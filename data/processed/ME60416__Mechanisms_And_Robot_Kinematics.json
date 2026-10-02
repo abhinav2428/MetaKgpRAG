@@ -1,0 +1,21 @@
+{
+  "title": "ME60416: Mechanisms And Robot Kinematics",
+  "url": "https://wiki.metakgp.org/wiki/ME60416:_Mechanisms_And_Robot_Kinematics",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nIntroduction to Mechanisms, Vector methods in plane kinematics, Matrix Methods\nin Kinematics, analysis of space mechanisms, Mobility analysis of Mechanisms,\nRigid body guidance, unction Generation, Path generation, Dynamics of\nMechanisms, Optimal Synthesis. Introduction to Robot, Manipulator Dynamics and\nControls, Computer-Aided Methods for setting and solving Mathematical models of\nactive mechanisms. Methods based on Newton-Euler formulations, Lagrange-Euler\nformulations, Apple’s equations, Kane dynamics and Bond Graphs, Drives and\ncontrol devices for manipulators, various considerations in control system\ndesign for manipulation, current amplification and voltage amplification and\ncompensation techniques. Adaptive controls and model based controls, controls\nby impedance adjustments, Dynamical methods for the evaluation and choice of\nindustrial manipulator.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME60416: Mechanisms And Robot Kinematics\n\nSyllabus\nSyllabus mentioned in ERP\n\nIntroduction to Mechanisms, Vector methods in plane kinematics, Matrix Methods\nin Kinematics, analysis of space mechanisms, Mobility analysis of Mechanisms,\nRigid body guidance, unction Generation, Path generation, Dynamics of\nMechanisms, Optimal Synthesis. Introduction to Robot, Manipulator Dynamics and\nControls, Computer-Aided Methods for setting and solving Mathematical models of\nactive mechanisms. Methods based on Newton-Euler formulations, Lagrange-Euler\nformulations, Apple’s equations, Kane dynamics and Bond Graphs, Drives and\ncontrol devices for manipulators, various considerations in control system\ndesign for manipulation, current amplification and voltage amplification and\ncompensation techniques. Adaptive controls and model based controls, controls\nby impedance adjustments, Dynamical methods for the evaluation and choice of\nindustrial manipulator.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}

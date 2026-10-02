@@ -1,0 +1,33 @@
+{
+  "title": "CS60047: Advanced Graph Theory",
+  "url": "https://wiki.metakgp.org/wiki/CS60047:_Advanced_Graph_Theory",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic Concepts: Graphs and digraphs, incidence and adjacency matrices,\nisomorphism, the automorphism group; Trees: Equivalent definitions of trees and\nforests, Cayleys formula, the Matrix-Tree theorem, minimum spanning trees;\nConnectivity: Cut vertices, cut edges, bonds, the cycle space and the bond\nspace, blocks, Menger s theorem; Paths and Cycles: Euler tours, Hamilton paths\nand cycles, theorems of Dirac, Ore, Bondy and Chvatal, girth, circumference,\nthe Chinese Postman Problem, the Travelling Salesman problem, diameter and\nmaximum degree, shortest paths; Matchings: Berges Theorem, perfect matchings,\nHalls theorem, Tuttes theorem, Konigs theorem, Petersens theorem, algorithms\nfor matching and weighted matching (in both bipartitie and general graphs),\nfactors of graphs (decompositions of the complete graph), Tuttes f-factor\ntheorem; Extremal problems: Independent sets and covering numbers, Turans\ntheorem, Ramsey theorems; Colorings: Brooks theorem, the greedy algorithm, the\nWelsh-Powell bound, critical graphs, chromatic polynomials, girth and chromatic\nnumber, Vizings theorem; Graphs on surfaces: Planar graphs, duality, Eulers\nformula, Kuratowskis theorem, toroidal graphs, 2-cell embeddings, graphs on\nother surfaces; Directed graphs: Tournaments, directed paths and cycles,\nconnectivity and strongly connected digraphs, branchings; Networks and flows:\nFlow cuts, Max flow min cut theorems, perfect square; Selected topics:\nDominating sets, the reconstruction problem, intersection graphs, perfect\ngraphs, random graphs.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60047: Advanced Graph Theory\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS60047: Advanced Graph Theory\n\nBasic Concepts: Graphs and digraphs, incidence and adjacency matrices,\nisomorphism, the automorphism group; Trees: Equivalent definitions of trees and\nforests, Cayleys formula, the Matrix-Tree theorem, minimum spanning trees;\nConnectivity: Cut vertices, cut edges, bonds, the cycle space and the bond\nspace, blocks, Menger s theorem; Paths and Cycles: Euler tours, Hamilton paths\nand cycles, theorems of Dirac, Ore, Bondy and Chvatal, girth, circumference,\nthe Chinese Postman Problem, the Travelling Salesman problem, diameter and\nmaximum degree, shortest paths; Matchings: Berges Theorem, perfect matchings,\nHalls theorem, Tuttes theorem, Konigs theorem, Petersens theorem, algorithms\nfor matching and weighted matching (in both bipartitie and general graphs),\nfactors of graphs (decompositions of the complete graph), Tuttes f-factor\ntheorem; Extremal problems: Independent sets and covering numbers, Turans\ntheorem, Ramsey theorems; Colorings: Brooks theorem, the greedy algorithm, the\nWelsh-Powell bound, critical graphs, chromatic polynomials, girth and chromatic\nnumber, Vizings theorem; Graphs on surfaces: Planar graphs, duality, Eulers\nformula, Kuratowskis theorem, toroidal graphs, 2-cell embeddings, graphs on\nother surfaces; Directed graphs: Tournaments, directed paths and cycles,\nconnectivity and strongly connected digraphs, branchings; Networks and flows:\nFlow cuts, Max flow min cut theorems, perfect square; Selected topics:\nDominating sets, the rec"
+    },
+    {
+      "index": 2,
+      "text": "CS60047: Advanced Graph Theory\n\ndirected paths and cycles,\nconnectivity and strongly connected digraphs, branchings; Networks and flows:\nFlow cuts, Max flow min cut theorems, perfect square; Selected topics:\nDominating sets, the reconstruction problem, intersection graphs, perfect\ngraphs, random graphs."
+    },
+    {
+      "index": 3,
+      "text": "CS60047: Advanced Graph Theory\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 4
+}

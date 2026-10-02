@@ -1,0 +1,28 @@
+{
+  "title": "CS19001: Programming And Data Structure Lab.",
+  "url": "https://wiki.metakgp.org/wiki/CS19001:_Programming_And_Data_Structure_Lab.",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nSuggested assignments to be conducted on a 3-hour slot. It will be conducted in\ntandem with the theory course so that the topics for problems given in the lab\nare already initiated in the theory class. The topics taught in the theory\ncourse should be appropriately sequenced for synchronization with the\nlaboratory. A sample sequence of topics and lab classes for the topic are given\nbelow:\n1.Familiarization of a computer and the environment and execution of sample\nprograms\n2.Expression evaluation\n3.Conditionals and branching\n4.Iteration\n5.Functions\n6.Recursion\n7.Arrays\n8.Structures\n9.Linked lists\n10.Data structures\nIt is suggested that some problems related to continuous domain problems in\nengineering and their numerical solutions are given as laboratory assignments.\nIt may be noted that some of basic numerical methods are taught in the\nMathematics course.\nReferences\n1.Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language,\nPrentice Hall of India.\n2.E. Balaguruswamy, Programming in ANSI C, Tata McGraw-Hill.\n3.Byron Gottfried, Schaum s Outline of Programming with C, McGraw-Hill.\n4.Seymour Lipschutz, Data Structures, Schaum s Outlines Series, Tata McGrawHill.\n5.Ellis Horowitz, Satraj Sahni and Susan Anderson-Freed, Fundamentals of Data\nStructures in C, W. H. Freeman and Company.\n6.R. G. Dromey, How to Solve it by Computer, Prentice-Hall of India.\n7.http://www.facweb.iitkgp.ernet.in/~pds/notes/\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\nInstiinfo Repository\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS19001: Programming And Data Structure Lab.\n\nSyllabus\nSyllabus mentioned in ERP"
+    },
+    {
+      "index": 1,
+      "text": "CS19001: Programming And Data Structure Lab.\n\nmentioned in ERP\n\nSuggested assignments to be conducted on a 3-hour slot. It will be conducted in\ntandem with the theory course so that the topics for problems given in the lab\nare already initiated in the theory class. The topics taught in the theory\ncourse should be appropriately sequenced for synchronization with the\nlaboratory. A sample sequence of topics and lab classes for the topic are given\nbelow:\n1.Familiarization of a computer and the environment and execution of sample\nprograms\n2.Expression evaluation\n3.Conditionals and branching\n4.Iteration\n5.Functions\n6.Recursion\n7.Arrays\n8.Structures\n9.Linked lists\n10.Data structures\nIt is suggested that some problems related to continuous domain problems in\nengineering and their numerical solutions are given as laboratory assignments.\nIt may be noted that some of basic numerical methods are taught in the\nMathematics course.\nReferences\n1.Brian W. Kernighan and Dennis M. Ritchie, The C Programming Language,\nPrentice Hall of India.\n2.E. Balaguruswamy, Programming in ANSI C, Tata McGraw-Hill.\n3.Byron Gottfried, Schaum s Outline of Programming with C, McGraw-Hill.\n4.Seymour Lipschutz, Data Structures, Schaum s Outlines Series, Tata McGrawHill.\n5.Ellis Horowitz, Satraj Sahni and Susan Anderson-Freed, Fundamentals of Data\nStructures in C, W. H. Freeman and Company.\n6.R. G. Dromey, How to Solve it by Computer, Prentice-Hall of India.\n7.http://www.facweb.iitkgp.ernet.in/~pds/notes/"
+    },
+    {
+      "index": 2,
+      "text": "CS19001: Programming And Data Structure Lab.\n\nAnderson-Freed, Fundamentals of Data\nStructures in C, W. H. Freeman and Company.\n6.R. G. Dromey, How to Solve it by Computer, Prentice-Hall of India.\n7.http://www.facweb.iitkgp.ernet.in/~pds/notes/\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\nInstiinfo Repository\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 3
+}

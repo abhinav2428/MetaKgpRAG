@@ -1,0 +1,25 @@
+{
+  "title": "EC21004: Signals And Systems",
+  "url": "https://wiki.metakgp.org/wiki/EC21004:_Signals_And_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nPre-requisite: EC21005\nIntroduction to signals and systems; Review of Fourier and Laplace Transforms;\nLTI system: Causality, stability, region of convergence; Classification and\nrepresentation of signals, Concepts of linear vector space and orthogonal\nsignal representation; Discrete signals: Sampling, digitization and\nreconstruction of analog signals; Fourier transform of discrete signals: \nz-transforms; Discrete systems, transfer functions and convolution; Laplace transform, first \n\norder and second order systems\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\nStudy and solve problems and tutorials. Rest depends on how professor is doing course. Make strategy accordingly.\n\nStudy it properly as it forms basis for Analog and Digital Communication and DSP in 3rd year.\n\nClassroom resources\nVandit Sharma Notes (https://drive.google.com/drive/folders/1vGq_Gm0F9MvO0PIaKrNQlVCVFY3p1yMZ)\n\nAdditional Resources\nhttps://drive.google.com/file/d/1u4HYoQzXdt1aevNAYpwpR2Pi4v79v6Zm/view?usp=sharing\n\nhttps://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO\n\nhttps://www.youtube.com/playlist?list=PLWPirh4EWFpHr_1ZCkuF9ToYUrmujv9Aa\n\nhttps://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs\n\nhttps://www.youtube.com/playlist?list=PLC6210462711083C4\n\nhttps://www.youtube.com/playlist?list=PLbMVogVj5nJQQZbah2uRZIRZ_9kfoqZyx\n\nhttps://www.youtube.com/playlist?list=PLq-Gm0yRYwTjwxaqapPsSAHzs4_nkQLVr\n\nhttps://www.youtube.com/playlist?list=PL41692B571DD0AF9B",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Electronics_&_Electrical_Communication_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Electronics_&_Electrical_Communication_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "EC21004: Signals And Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nPre-requisite: EC21005\nIntroduction to signals and systems; Review of Fourier and Laplace Transforms;\nLTI system: Causality, stability, region of convergence; Classification and\nrepresentation of signals, Concepts of linear vector space and orthogonal\nsignal representation; Discrete signals: Sampling, digitization and\nreconstruction of analog signals; Fourier transform of discrete signals: \nz-transforms; Discrete systems, transfer functions and convolution; Laplace transform, first\n\norder and second order systems\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\nStudy and solve problems and tutorials. Rest depends on how professor is doing course. Make strategy accordingly.\n\nStudy it properly as it forms basis for Analog and Digital Communication and DSP in 3rd year.\n\nClassroom resources\nVandit Sharma Notes (https://drive.google.com/drive/folders/1vGq_Gm0F9MvO0PIaKrNQlVCVFY3p1yMZ)\n\nAdditional Resources\nhttps://drive.google.com/file/d/1u4HYoQzXdt1aevNAYpwpR2Pi4v79v6Zm/view?usp=sharing\n\nhttps://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO\n\nhttps://www.youtube.com/playlist?list=PLWPirh4EWFpHr_1ZCkuF9ToYUrmujv9Aa\n\nhttps://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs\n\nhttps://www.youtube.com/playlist?list=PLC6210462711083C4\n\nhttps://www.youtube.com/playlist?list=PLbMVogVj5nJQQZbah2uRZIRZ_9kfoqZyx"
+    },
+    {
+      "index": 1,
+      "text": "EC21004: Signals And Systems\n\ns://www.youtube.com/playlist?list=PLUl4u3cNGP61kdPAOC7CzFjJZ8f1eMUxs\n\nhttps://www.youtube.com/playlist?list=PLC6210462711083C4\n\nhttps://www.youtube.com/playlist?list=PLbMVogVj5nJQQZbah2uRZIRZ_9kfoqZyx\n\nhttps://www.youtube.com/playlist?list=PLq-Gm0yRYwTjwxaqapPsSAHzs4_nkQLVr\n\nhttps://www.youtube.com/playlist?list=PL41692B571DD0AF9B"
+    }
+  ],
+  "chunk_count": 2
+}

@@ -1,0 +1,25 @@
+{
+  "title": "CS60005: Foundations Of Computing Science",
+  "url": "https://wiki.metakgp.org/wiki/CS60005:_Foundations_Of_Computing_Science",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nDiscrete Structures -- Sets, Relations and Functions; Proof Techniques,\nAlgebraic Structures, Morphisms, Posets, Lattices and Boolean Algebras.\nLogic -- Propositional calculus and Predicate Calculus, Satisfiabiliy and\nvalidity, Notions of soundness and completeness\nLanguages & Automata Theory -- Chomsky Hierarchy of Grammars and the\ncorresponding acceptors, Turing Machines, Recursive and Recursively Enumerable\nLanguages; Operations on Languages, closures with respect to the operations.\nComputability -- Church-Turing Thesis, Decision Problems, Decidability and\nUndecidability, Halting Problem of Turing Machines; Problem reduction (Turing\nand mapping reduction).\nComputational Complexity -- Time Complexity -- Measuring Complexity, The class\nP, The class NP, NP-Completeness, Reduction, co-NP, Polynomial Hierarchy. Space\nComplexity -- Savichs Theorem, The class PSPACE.\n\nText Books and References:\n1. J.P. Trembley and R. Manohar -- Discrete Mathematical Structures with\nApplications to Computer Science, McGraw Hill Book Co.,\n2. Michael Sipser -- Introduction to The Theory of Computation, Thomson Course\nTechnology.\n3. John E. Hopcroft and J.D.Ullman -- Inrtroduction to Automata\nTheory, Languages and Computation, Narosa Pub.\nHouse, N. Delhi.\n4. H.R. Lewis and C.H.Papadimitrou -- Elements of the Theory of\nComputation, Prentice Hall, International, Inc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable \n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Autumn_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60005: Foundations Of Computing Science\n\nSyllabus\nSyllabus mentioned in ERP\n\nDiscrete Structures -- Sets, Relations and Functions; Proof Techniques,\nAlgebraic Structures, Morphisms, Posets, Lattices and Boolean Algebras.\nLogic -- Propositional calculus and Predicate Calculus, Satisfiabiliy and\nvalidity, Notions of soundness and completeness\nLanguages & Automata Theory -- Chomsky Hierarchy of Grammars and the\ncorresponding acceptors, Turing Machines, Recursive and Recursively Enumerable\nLanguages; Operations on Languages, closures with respect to the operations.\nComputability -- Church-Turing Thesis, Decision Problems, Decidability and\nUndecidability, Halting Problem of Turing Machines; Problem reduction (Turing\nand mapping reduction).\nComputational Complexity -- Time Complexity -- Measuring Complexity, The class\nP, The class NP, NP-Completeness, Reduction, co-NP, Polynomial Hierarchy. Space\nComplexity -- Savichs Theorem, The class PSPACE.\n\nText Books and References:\n1. J.P. Trembley and R. Manohar -- Discrete Mathematical Structures with\nApplications to Computer Science, McGraw Hill Book Co.,\n2. Michael Sipser -- Introduction to The Theory of Computation, Thomson Course\nTechnology.\n3. John E. Hopcroft and J.D.Ullman -- Inrtroduction to Automata\nTheory, Languages and Computation, Narosa Pub.\nHouse, N. Delhi.\n4. H.R. Lewis and C.H.Papadimitrou -- Elements of the Theory of\nComputation, Prentice Hall, International, Inc.\n\nConcepts taught in class\n\nStudent Opinion"
+    },
+    {
+      "index": 1,
+      "text": "CS60005: Foundations Of Computing Science\n\nComputation, Narosa Pub.\nHouse, N. Delhi.\n4. H.R. Lewis and C.H.Papadimitrou -- Elements of the Theory of\nComputation, Prentice Hall, International, Inc.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources\n\nTime Table\n\n{| class=\"wikitable\n\n! Day !! 8:00-8:55 am !! 9:00-9:55 am !! 10:00-10:55 am !! 11:00-11:55 am !! 12:00-12:55 pm !! !! 2:00-2:55 pm !! 3:00-3:55 pm!! 4:00-4:55 pm!! 5:00-5:55 pm\n\n!Monday\n\n!Tuesday\n\n!Wednesday\n\n!Thursday\n\n!Friday"
+    }
+  ],
+  "chunk_count": 2
+}

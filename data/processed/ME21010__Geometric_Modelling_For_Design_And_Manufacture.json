@@ -1,0 +1,25 @@
+{
+  "title": "ME21010: Geometric Modelling For Design And Manufacture",
+  "url": "https://wiki.metakgp.org/wiki/ME21010:_Geometric_Modelling_For_Design_And_Manufacture",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nCAD and Geometric Modelling for integrated, manufacturing and quality\nengineering. Unified modelling approach to geometric approach design and\nconceptual design. Properties of geometric models and representation schemes;\nFundamentals of surface modelling and volumetric modelling; tools and\ntechniques. Set-theory. Constructive Solid Geometry (CSG), Boundary\nRepresentation (B-rep), Feature based modelling, Integrated Polytrees. Freeform\nsurface modelling. Explicit v/s parametric surfaces. Continuity\nconsiderations.Model validation using Eulers, Euler-Poincare laws, completeness\nand unambiguity.Feature based Modelling; Graph theoretic models and\nrepresentation of design.Solid Model kernels used in CAD. CAD data\nrepresentation. Data formats for Analysis. Data exchange formats for geometric\nmodels. Information structures and Standards.Applications of the CAD towards\ndownstream product design and manufacture stages: Prototyping and\nmanufacturing Ã¢ÂÂ description and conversion to FEM/BEM Mesh; faceted and\ntessellated surfaces Ã¢ÂÂ STL etc. Geometric Modelling for mass-property\nrepresentation.Advanced topics may be briefly referencedTolerance modeling:\nVariational Solid Modelling for Geometric Tolerance and Dimensioning.\nInterference analysis and Automated tolerancing.Modelling for Assembly: Spatial\nreasoning and constraint analysis. Automated assembly planning.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Mechanical_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Mechanical_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "ME21010: Geometric Modelling For Design And Manufacture\n\nSyllabus\nSyllabus mentioned in ERP\n\nCAD and Geometric Modelling for integrated, manufacturing and quality\nengineering. Unified modelling approach to geometric approach design and\nconceptual design. Properties of geometric models and representation schemes;\nFundamentals of surface modelling and volumetric modelling; tools and\ntechniques. Set-theory. Constructive Solid Geometry (CSG), Boundary\nRepresentation (B-rep), Feature based modelling, Integrated Polytrees. Freeform\nsurface modelling. Explicit v/s parametric surfaces. Continuity\nconsiderations.Model validation using Eulers, Euler-Poincare laws, completeness\nand unambiguity.Feature based Modelling; Graph theoretic models and\nrepresentation of design.Solid Model kernels used in CAD. CAD data\nrepresentation. Data formats for Analysis. Data exchange formats for geometric\nmodels. Information structures and Standards.Applications of the CAD towards\ndownstream product design and manufacture stages: Prototyping and\nmanufacturing Ã¢ÂÂ description and conversion to FEM/BEM Mesh; faceted and\ntessellated surfaces Ã¢ÂÂ STL etc. Geometric Modelling for mass-property\nrepresentation.Advanced topics may be briefly referencedTolerance modeling:\nVariational Solid Modelling for Geometric Tolerance and Dimensioning.\nInterference analysis and Automated tolerancing.Modelling for Assembly: Spatial\nreasoning and constraint analysis. Automated assembly planning.\n\nConcepts taught in class"
+    },
+    {
+      "index": 1,
+      "text": "ME21010: Geometric Modelling For Design And Manufacture\n\nTolerance and Dimensioning.\nInterference analysis and Automated tolerancing.Modelling for Assembly: Spatial\nreasoning and constraint analysis. Automated assembly planning.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 2
+}

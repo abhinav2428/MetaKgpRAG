@@ -1,0 +1,21 @@
+{
+  "title": "CS60002: Distributed Systems",
+  "url": "https://wiki.metakgp.org/wiki/CS60002:_Distributed_Systems",
+  "text": "Syllabus\nSyllabus mentioned in ERP\n\nBasic concepts. Models of computation: shared memory and message passing\nsystems, synchronous and asynchronous systems. Logical time and event ordering.\nGlobal state and snapshot algorithms, mutual exclusion, clock synchronization,\nleader election, deadlock detection, termination detection, spanning tree\nconstruction. Programming models: remote procedure calls, distributed shared\nmemory. Fault tolerance and recovery: basic concepts, fault models, agreement\nproblems and its applications, commit protocols, voting protocols,\ncheckpointing and recovery, reliable communication. Security and\nAuthentication: basic concepts, Kerberos. Resource sharing and load balancing.\nSpecial topics: distributed objects, distributed databases, directory services,\nweb services.References1.Mukesh Singhal and Niranjan Shivaratri, Advanced\nConcepts in Operating Systems, McGraw-Hill.2.Nancy Lynch, Distributed\nAlgorithms, Morgan Kaufmann.3.Andrew S. Tanenbaum, Distributed Operating\nSystems, ACM Press.4.Jie Wu, Distributed Systems, CRC Press.5.Hagit Attiya,\nJennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced\nTopics, McGraw-Hill.6.Sape Mullender (ed.), Distributed Systems, AddisonWesley.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources",
+  "page_type": "course",
+  "links": [
+    "https://wiki.metakgp.org/wiki/Computer_Science_&_Engineering"
+  ],
+  "categories": [
+    "Spring_Semester",
+    "Computer_Science_&_Engineering",
+    "Courses"
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "text": "CS60002: Distributed Systems\n\nSyllabus\nSyllabus mentioned in ERP\n\nBasic concepts. Models of computation: shared memory and message passing\nsystems, synchronous and asynchronous systems. Logical time and event ordering.\nGlobal state and snapshot algorithms, mutual exclusion, clock synchronization,\nleader election, deadlock detection, termination detection, spanning tree\nconstruction. Programming models: remote procedure calls, distributed shared\nmemory. Fault tolerance and recovery: basic concepts, fault models, agreement\nproblems and its applications, commit protocols, voting protocols,\ncheckpointing and recovery, reliable communication. Security and\nAuthentication: basic concepts, Kerberos. Resource sharing and load balancing.\nSpecial topics: distributed objects, distributed databases, directory services,\nweb services.References1.Mukesh Singhal and Niranjan Shivaratri, Advanced\nConcepts in Operating Systems, McGraw-Hill.2.Nancy Lynch, Distributed\nAlgorithms, Morgan Kaufmann.3.Andrew S. Tanenbaum, Distributed Operating\nSystems, ACM Press.4.Jie Wu, Distributed Systems, CRC Press.5.Hagit Attiya,\nJennifer Welch, Distributed Computing: Fundamentals, Simulations and Advanced\nTopics, McGraw-Hill.6.Sape Mullender (ed.), Distributed Systems, AddisonWesley.\n\nConcepts taught in class\n\nStudent Opinion\n\nHow to Crack the Paper\n\nClassroom resources\n\nAdditional Resources"
+    }
+  ],
+  "chunk_count": 1
+}
