@@ -69,7 +69,7 @@ class RAGService:
             prompt=(
                 "You are GraphMind, an AI assistant specialising in MetaKGP and "
                 "IIT Kharagpur. Answer questions using the search_knowledge_base tool. "
-                "Be concise and accurate."
+                "Provide detailed, comprehensive, and well-explained answers."
             ),
         )
         self._MoEVerification = MoEVerification
@@ -104,14 +104,23 @@ class RAGService:
         last_answer = ""
         for attempt in range(max_retries):
             final_state = self._agent.invoke({"messages": current_messages})
-            last_answer = final_state["messages"][-1].content
+            raw_content = final_state["messages"][-1].content
+            if isinstance(raw_content, list):
+                last_answer = "\n".join(
+                    block.get("text", "") for block in raw_content if isinstance(block, dict) and block.get("type") == "text"
+                )
+            else:
+                last_answer = str(raw_content)
 
             # Extract tool context for MoE verification
-            contexts = [
-                str(m.content)
-                for m in final_state["messages"]
-                if getattr(m, "name", "") == "search_knowledge_base"
-            ]
+            contexts = []
+            for m in final_state["messages"]:
+                if getattr(m, "name", "") == "search_knowledge_base":
+                    c = m.content
+                    if isinstance(c, list):
+                        c = "\n".join(b.get("text", "") for b in c if isinstance(b, dict) and b.get("type") == "text")
+                    contexts.append(str(c))
+            
             combined_context = "\n\n".join(contexts) or "No context retrieved."
 
             verification = self._run_moe(

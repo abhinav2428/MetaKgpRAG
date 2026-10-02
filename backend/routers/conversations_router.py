@@ -26,7 +26,7 @@ def _get_conversation_or_404(
         db.query(models.Conversation)
         .filter(
             models.Conversation.id == conv_id,
-            models.Conversation.user_id == user_id,
+            # models.Conversation.user_id == user_id, # Removed for global access
         )
         .first()
     )
@@ -43,7 +43,7 @@ def list_conversations(
     user_id = payload["sub"]
     return (
         db.query(models.Conversation)
-        .filter(models.Conversation.user_id == user_id)
+        # .filter(models.Conversation.user_id == user_id) # Removed for global access
         .order_by(models.Conversation.updated_at.desc())
         .all()
     )

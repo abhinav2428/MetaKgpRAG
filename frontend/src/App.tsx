@@ -166,11 +166,6 @@ export default function App() {
         {/* Top bar */}
         <div className="topbar">
           <div className="topbar-left">
-            <div className="model-badge">
-              <div className="model-dot" />
-              GraphMind AI
-              <span className="version-tag">v1.0</span>
-            </div>
           </div>
           <div className="topbar-right">
             <button className="icon-btn" title="Search"><IconSearch /></button>
@@ -188,26 +183,7 @@ export default function App() {
           </div>
         </div>
 
-        {/* Status strip */}
-        <div className="status-strip">
-          <div className="status-left">
-            <div className="status-item">
-              <div className="status-dot" />
-              RAG INDEX: SYNCHRONIZED
-            </div>
-            <span className="status-sep">•</span>
-            <div className="status-item">4,420 WIKI CHUNKS</div>
-          </div>
-          <div className="status-right">
-            <div className="status-item">
-              <a href="https://wiki.metakgp.org" target="_blank" rel="noreferrer" style={{ color: 'var(--accent)' }}>
-                wiki.metakgp.org
-              </a>
-            </div>
-            <span className="status-sep">•</span>
-            <div className="status-item">MODEL: gemini-2.5-flash ● ACTIVE</div>
-          </div>
-        </div>
+
 
         {/* Chat viewport */}
         <div className="chat-viewport">

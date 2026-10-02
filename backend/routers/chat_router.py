@@ -53,7 +53,7 @@ def chat(
             db.query(models.Conversation)
             .filter(
                 models.Conversation.id == body.conversation_id,
-                models.Conversation.user_id == user_id,
+                # models.Conversation.user_id == user_id, # Removed for global access
             )
             .first()
         )

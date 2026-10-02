@@ -25,13 +25,16 @@ from rag.retriever import GraphRAGRetriever
 # Load environment variables (e.g., GOOGLE_API_KEY)
 load_dotenv()
 
-print("Initializing GraphRAG Retriever...")
-retriever = GraphRAGRetriever()
+retriever = None
 
 @tool
 def search_knowledge_base(query: str) -> str:
     """Useful for when you need to answer questions about MetaKGP, IIT Kharagpur, halls, courses, and related entities. 
     Input should be a specific search query. You can call this tool multiple times to gather all necessary information."""
+    global retriever
+    if retriever is None:
+        print("Initializing GraphRAG Retriever...")
+        retriever = GraphRAGRetriever()
     return retriever.search_for_agent(query, top_k=10)
 
 class MoEVerification(BaseModel):
