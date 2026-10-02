@@ -1,27 +1,27 @@
 const SUGGESTIONS = [
   {
-    icon: '🍽️',
-    title: 'Mess Rebate Rules',
-    tag: 'HMC',
-    body: 'What is the deadline and minimum leave required to claim HMC mess rebate?',
+    icon: '🏢',
+    title: 'Halls of Residence',
+    tag: 'CAMPUS',
+    body: 'How many halls of residence are there in IIT KGP?',
   },
   {
-    icon: '📋',
-    title: 'DepC & Branch Change',
+    icon: '💡',
+    title: '180DC Advisors',
+    tag: 'SOCIETIES',
+    body: 'Who are the current faculty advisors of 180 Degrees Consulting (180DC)?',
+  },
+  {
+    icon: '📚',
+    title: 'Branch Change',
     tag: 'ACADEMIC',
-    body: 'What were last year\'s CGPA cutoffs and senate rules for branch change to CSE?',
+    body: 'What is the exact procedure and CGPA requirement for a branch change after the first year?',
   },
   {
-    icon: '💼',
-    title: 'CDC Internship Prep',
-    tag: 'CAREER',
-    body: 'Summarise key deadlines and resume verification rules for Autumn CDC.',
-  },
-  {
-    icon: '🏥',
-    title: 'Campus Essentials',
-    tag: 'UTILITY',
-    body: 'Find Central Library night timings and BC Roy hospital emergency contact info.',
+    icon: '🎉',
+    title: 'Campus Fests',
+    tag: 'CULTURE',
+    body: 'When are Spring Fest and Kshitij usually held during the academic calendar?',
   },
 ];
 

@@ -41,7 +41,7 @@ class RAGService:
         if self._initialized:
             return
         print("[RAGService] Loading GraphRAG components…")
-        from langchain_google_genai import ChatGoogleGenerativeAI
+        from langchain_groq import ChatGroq
         from langgraph.prebuilt import create_react_agent
         from langchain_core.tools import tool
         from rag.retriever import GraphRAGRetriever
@@ -56,11 +56,11 @@ class RAGService:
             halls, courses, and related entities. Input should be a specific search query."""
             return self._retriever.search_for_agent(query, top_k=10)
 
-        api_key = os.getenv("GOOGLE_API_KEY")
-        llm = ChatGoogleGenerativeAI(
-            model="gemini-2.5-flash",
+        api_key = os.getenv("GROQ_API_KEY")
+        llm = ChatGroq(
+            model="openai/gpt-oss-20b",
             temperature=0.0,
-            google_api_key=api_key,
+            api_key=api_key,
         )
         self._llm = llm
         self._agent = create_react_agent(
@@ -82,7 +82,7 @@ class RAGService:
         self,
         user_message: str,
         history: list[tuple[str, str]],
-        max_retries: int = 3,
+        max_retries: int = 2,
     ) -> str:
         """
         Run one turn of the conversation.
@@ -102,41 +102,49 @@ class RAGService:
         current_messages = list(history) + [("user", user_message)]
 
         last_answer = ""
-        for attempt in range(max_retries):
-            final_state = self._agent.invoke({"messages": current_messages})
-            raw_content = final_state["messages"][-1].content
-            if isinstance(raw_content, list):
-                last_answer = "\n".join(
-                    block.get("text", "") for block in raw_content if isinstance(block, dict) and block.get("type") == "text"
+        try:
+            for attempt in range(max_retries):
+                final_state = self._agent.invoke({"messages": current_messages})
+                raw_content = final_state["messages"][-1].content
+                if isinstance(raw_content, list):
+                    last_answer = "\n".join(
+                        block.get("text", "") for block in raw_content if isinstance(block, dict) and block.get("type") == "text"
+                    )
+                else:
+                    last_answer = str(raw_content)
+
+                # Extract tool context for MoE verification
+                contexts = []
+                for m in final_state["messages"]:
+                    if getattr(m, "name", "") == "search_knowledge_base":
+                        c = m.content
+                        if isinstance(c, list):
+                            c = "\n".join(b.get("text", "") for b in c if isinstance(b, dict) and b.get("type") == "text")
+                        contexts.append(str(c))
+                
+                combined_context = "\n\n".join(contexts) or "No context retrieved."
+
+                verification = self._run_moe(
+                    self._llm, user_message, combined_context, last_answer
                 )
-            else:
-                last_answer = str(raw_content)
 
-            # Extract tool context for MoE verification
-            contexts = []
-            for m in final_state["messages"]:
-                if getattr(m, "name", "") == "search_knowledge_base":
-                    c = m.content
-                    if isinstance(c, list):
-                        c = "\n".join(b.get("text", "") for b in c if isinstance(b, dict) and b.get("type") == "text")
-                    contexts.append(str(c))
-            
-            combined_context = "\n\n".join(contexts) or "No context retrieved."
-
-            verification = self._run_moe(
-                self._llm, user_message, combined_context, last_answer
-            )
-
-            if verification.is_valid:
-                break
-            elif attempt < max_retries - 1:
-                current_messages = final_state["messages"]
-                current_messages.append((
-                    "user",
-                    f"Your previous answer failed verification.\n"
-                    f"Feedback: {verification.feedback}\n"
-                    "Please revise your answer. Do NOT hallucinate.",
-                ))
+                if verification.is_valid:
+                    break
+                elif attempt < max_retries - 1:
+                    current_messages = final_state["messages"]
+                    current_messages.append((
+                        "user",
+                        f"Your previous answer failed verification.\n"
+                        f"Feedback: {verification.feedback}\n"
+                        "Please revise your answer. Do NOT hallucinate.",
+                    ))
+        except Exception as e:
+            print(f"[RAGService] Error during chat: {e}")
+            if not last_answer:
+                last_answer = (
+                    "I'm sorry, I encountered an error while processing your question. "
+                    "Please try again in a moment."
+                )
 
         return last_answer
 

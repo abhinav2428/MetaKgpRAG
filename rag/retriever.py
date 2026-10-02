@@ -12,8 +12,10 @@ import chromadb
 from sentence_transformers import SentenceTransformer
 import networkx as nx
 
-CHROMA_DB_DIR = Path('data/chroma_db')
-GRAPH_PATH = Path('data/metakgp_graph.gpickle')
+# Resolve paths relative to the REPO ROOT (two levels up from this file)
+_REPO_ROOT = Path(__file__).resolve().parent.parent
+CHROMA_DB_DIR = _REPO_ROOT / 'data' / 'chroma_db'
+GRAPH_PATH = _REPO_ROOT / 'data' / 'metakgp_graph.gpickle'
 COLLECTION_NAME = 'metakgp_wiki'
 EMBEDDING_MODEL = 'all-MiniLM-L6-v2'
 

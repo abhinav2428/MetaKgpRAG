@@ -123,3 +123,6 @@ temp_error.txt
 analyze_chunks.py
 setup_db.py
 ingest.py
+temp_query.py
+test_error.py
+test_groq.py
