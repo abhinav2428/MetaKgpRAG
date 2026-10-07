@@ -91,27 +91,75 @@ class GraphRAGRetriever:
         print(f"\n[Summary] Retrieved {len(primary_urls)} primary chunks and {len(expanded_urls)} related pages via Graph.")
 
     def search_for_agent(self, query: str, top_k: int = 3) -> str:
-        """Helper function for the LangChain agent. Returns formatted context."""
+        """
+        Production search used by the LangChain agent.
+        Phase 1: Vector search — finds the top_k most semantically similar chunks.
+        Phase 2: Graph expansion — finds neighbors of those results in the Knowledge Graph
+                 and fetches their text from ChromaDB too, giving the LLM richer context.
+        """
+        # ── Phase 1: Vector Search ─────────────────────────────────────────────
         query_embedding = self.model.encode(query).tolist()
         results = self.collection.query(
             query_embeddings=[query_embedding],
             n_results=top_k,
             include=['metadatas', 'documents', 'distances']
         )
-        
+
         if not results['ids'][0]:
             return "No results found."
 
         context = []
+        primary_urls = set()
+
         for i in range(len(results['ids'][0])):
             metadata = results['metadatas'][0][i]
             document = results['documents'][0][i]
             title = metadata.get('title', 'Unknown')
-            url = metadata.get('url', 'Unknown')
-            
-            chunk_text = f"Source: {title} ({url})\nContent: {document}\n"
-            context.append(chunk_text)
-            
+            url = metadata.get('url', '')
+
+            context.append(f"Source: {title} ({url})\nContent: {document}\n")
+            if url:
+                primary_urls.add(url)
+
+        # ── Phase 2: Graph Expansion ───────────────────────────────────────────
+        # For each URL found in Phase 1, find its neighbours in the Knowledge Graph.
+        # Then fetch those neighbour pages from ChromaDB (if indexed) and append them.
+        expanded_urls = set()
+        for url in primary_urls:
+            if not self.graph.has_node(url):
+                continue
+
+            # Walk both outgoing (successors) and incoming (predecessors) edges
+            neighbors = list(self.graph.successors(url)) + list(self.graph.predecessors(url))
+            for neighbor in neighbors:
+                # Skip already-seen URLs and pure category nodes
+                if neighbor in primary_urls or neighbor in expanded_urls:
+                    continue
+                if self.graph.nodes[neighbor].get('type') == 'category':
+                    continue
+                expanded_urls.add(neighbor)
+
+        # Fetch text for expanded neighbour nodes from ChromaDB (up to 5 neighbours)
+        if expanded_urls:
+            try:
+                neighbor_results = self.collection.query(
+                    query_embeddings=[query_embedding],
+                    n_results=min(5, len(expanded_urls)),
+                    where={"url": {"$in": list(expanded_urls)}},
+                    include=['metadatas', 'documents']
+                )
+                for i in range(len(neighbor_results['ids'][0])):
+                    metadata = neighbor_results['metadatas'][0][i]
+                    document = neighbor_results['documents'][0][i]
+                    title = metadata.get('title', 'Unknown')
+                    url = metadata.get('url', '')
+                    context.append(
+                        f"[Graph-Expanded] Source: {title} ({url})\nContent: {document}\n"
+                    )
+            except Exception as e:
+                # Graph expansion is best-effort; don't crash the whole query
+                print(f"[Retriever] Graph expansion fetch skipped: {e}")
+
         return "\n---\n".join(context)
 
 
