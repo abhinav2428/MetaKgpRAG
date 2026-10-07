@@ -27,6 +27,23 @@ load_dotenv()
 
 retriever = None
 
+import re
+
+# Inspired by bot.py's planner agent: Expand acronyms for better Vector Search!
+ACRONYMS = {
+    "TFPS": "Technology Film and Photography Society",
+    "TLS": "Technology Literary Society",
+    "TSG": "Technology Students' Gymkhana",
+    "Gymkhana": "Technology Students' Gymkhana",
+    "RP Hall": "Rajendra Prasad Hall of Residence",
+    "RP": "Rajendra Prasad Hall",
+    "RK Hall": "Radhakrishnan Hall of Residence",
+    "RK": "Radhakrishnan Hall",
+    "HMC": "Hall Management Centre",
+    "VP": "Vice President",
+    "GSec": "General Secretary"
+}
+
 @tool
 def search_knowledge_base(query: str) -> str:
     """Useful for when you need to answer questions about MetaKGP, IIT Kharagpur, halls, courses, and related entities. 
@@ -35,7 +52,17 @@ def search_knowledge_base(query: str) -> str:
     if retriever is None:
         print("Initializing GraphRAG Retriever...")
         retriever = GraphRAGRetriever()
-    return retriever.search_for_agent(query, top_k=10)
+        
+    # AUTOMATIC PLANNER: Expand acronyms before hitting the Vector DB
+    expanded_query = query
+    for acronym, full_name in ACRONYMS.items():
+        # Use regex word boundaries so we don't accidentally replace parts of words
+        expanded_query = re.sub(rf'\b{re.escape(acronym)}\b', full_name, expanded_query, flags=re.IGNORECASE)
+        
+    if expanded_query != query:
+        print(f"[Planner] Expanded Query: '{query}' -> '{expanded_query}'")
+        
+    return retriever.search_for_agent(expanded_query, top_k=10)
 
 class MoEVerification(BaseModel):
     source_matcher_passed: bool = Field(description="Does the text in the retrieved chunk actually support this claim? True if yes.")
